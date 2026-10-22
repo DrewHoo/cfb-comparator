@@ -4,6 +4,18 @@
 import { PLAYERS_FIRST_SEASON } from './window.mjs'
 
 const REPO = 'https://github.com/DrewHoo/cfb-comparator'
+// the other sports sites, in the order every one of them lists them (Notes.jsx says the same)
+const SIBLINGS = [
+  ['NFL Comparator', 'https://drewhoover.com/nfl-comparator/', 'the same comparator over every NFL career since 1999, with a page for every player and what he leads.'],
+  ['NBA Comparator', 'https://drewhoover.com/nba-comparator/', 'the same comparator over every NBA career since 1946-47, Wilt and Jordan included, with a page for every player and what he leads.'],
+  ['WNBA Comparator', 'https://drewhoover.com/wnba-comparator/', 'the same comparator over every WNBA career since 1997.'],
+  ['NHL Comparator', 'https://drewhoover.com/nhl-comparator/', 'the same comparator over every NHL career since 1917-18, Gretzky and Howe included.'],
+  ['College Football Streak King', 'https://drewhoover.com/cfb-streak-king/', 'the longest active and all-time winning and losing streaks in college football, under any definition, every FBS game since 1936.'],
+  ['Hostile Territory', 'https://drewhoover.com/hostile-territory/', "every head coach's true road record against AP top-10 teams since 1936."],
+  ['How Many Rings?', 'https://drewhoover.com/how-many-rings/', 'every person on a national-championship staff since 1990, ranked by the number of rings they can claim.'],
+  ['Collegiate Championships', 'https://drewhoover.com/collegiate-championships/', 'which schools have won the most NCAA championships, across 33 sports.'],
+  ['CFB All-Time Records', 'https://drewhoover.com/cfb-all-time-records/', 'all-time win-loss, bowl and national-title records for every FBS program.'],
+]
 const line = ({ text, url, lead }) => `- [${text}](${url})${lead ? ` — ${lead}` : ''}`
 
 export function llmsText({ site, title, description, firstSeason, currentSeason, landings = [], entities = {}, counts = {}, groups = [] }) {
@@ -36,5 +48,13 @@ ${groups.map((g) => line({ text: g.h1, url: g.url, lead: g.lead })).join('\n')}
 
 - [Method](${site}#method): the sources, the rulings (what counts as a game, a win, a tenure, a ranked opponent) and the era each stat is recorded from.
 - [The repository](${REPO}): the ledgers, the engine, the known-answer gate and the researched receipts.
+
+## What to read next
+
+${SIBLINGS.map(([name, url, words]) => `- [${name}](${url}) — ${words}`).join('\n')}
+
+## Citing
+
+If a comparison from here ends up in your article, broadcast, podcast or thread, please cite it: name the site and link to the board; the url encodes the comparison.
 `
 }

@@ -12,8 +12,24 @@ export function Notes({ ledgers = {} }) {
       <h2 className="notes-h">What to read next</h2>
       <div className="notes">
         <p>
+          <a href="https://drewhoover.com/nfl-comparator/">NFL Comparator</a> — the same comparator over every NFL
+          career since 1999, with a page for every player and what he leads.
+        </p>
+        <p>
+          <a href="https://drewhoover.com/nba-comparator/">NBA Comparator</a> — the same comparator over every NBA
+          career since 1946-47, Wilt and Jordan included, with a page for every player and what he leads.
+        </p>
+        <p>
+          <a href="https://drewhoover.com/wnba-comparator/">WNBA Comparator</a> — the same comparator over every WNBA
+          career since 1997.
+        </p>
+        <p>
+          <a href="https://drewhoover.com/nhl-comparator/">NHL Comparator</a> — the same comparator over every NHL
+          career since 1917-18, Gretzky and Howe included.
+        </p>
+        <p>
           <a href="https://drewhoover.com/cfb-streak-king/">College Football Streak King</a> — the longest active and
-          all-time win streaks and losing streaks in college football, under any definition, every FBS team since 1936.
+          all-time winning and losing streaks in college football, under any definition, every FBS game since 1936.
         </p>
         <p>
           <a href="https://drewhoover.com/hostile-territory/">Hostile Territory</a> — every head coach's true road
@@ -21,19 +37,15 @@ export function Notes({ ledgers = {} }) {
         </p>
         <p>
           <a href="https://drewhoover.com/how-many-rings/">How Many Rings?</a> — every person on a
-          national-championship staff since 1990, ranked by the rings they can claim.
+          national-championship staff since 1990, ranked by the number of rings they can claim.
         </p>
         <p>
-          <a href="https://drewhoover.com/nfl-comparator/">NFL Comparator</a> — the same comparator over every NFL
-          career since 1999, with a page for every player and what he leads.
+          <a href="https://drewhoover.com/collegiate-championships/">Collegiate Championships</a> — which schools have
+          won the most NCAA championships, across 33 sports.
         </p>
         <p>
-          <a href="https://drewhoover.com/nba-comparator/">NBA Comparator</a> — the same comparator over every NBA
-          career since 1946-47.
-        </p>
-        <p>
-          <a href="https://drewhoover.com/wnba-comparator/">WNBA Comparator</a> — the same comparator over every WNBA
-          career since 1997, the league's first season.
+          <a href="https://drewhoover.com/cfb-all-time-records/">CFB All-Time Records</a> — all-time win-loss, bowl and
+          national-title records for every FBS program.
         </p>
       </div>
 
