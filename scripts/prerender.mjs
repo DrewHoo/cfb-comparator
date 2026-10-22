@@ -30,6 +30,9 @@ import { itemListOf, boardItems, entityItems, subjectOf } from './lib/jsonld.mjs
 import { llmsText } from './lib/llms.mjs'
 import { toPng } from './lib/og.mjs'
 import { entityCard } from './lib/og-entity.mjs'
+import { groupCard } from './lib/og-group.mjs'
+import { groupData, groupDescription, groupH1, groupLead, groupTitle, groupPath, schoolsOf, confSlug, FBS_CONFS, GROUP_POS, POS_SLUG, MIN_GAMES } from '../src/lib/groups.ts'
+import { POS_WORDS } from '../src/lib/words.ts'
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const SLUG = pkg.name
@@ -178,10 +181,55 @@ for (const kind of KINDS) {
   counts[kind] = n
 }
 await Promise.all(pending)
-await vite.close()
 console.log(`prerendered ${JSON.stringify(counts)} entity pages, each with its card, in ${((Date.now() - t0) / 1000).toFixed(1)}s`)
 
-fs.writeFileSync(path.join(ROOT, 'dist/llms.txt'), llmsText({ site: SITE, title: config.title, description: config.description, firstSeason: C.firstSeason, currentSeason: C.currentSeason, landings: llmsBoards, entities: llmsEntities, counts }))
+// the group pages: the best players of each position at each school and in each conference, with a card each,
+// and the two index pages that reach them all
+const llmsGroups = []
+if (ledgers.player) {
+  const P = ledgers.player
+  const t1 = Date.now()
+  const index = { school: [], conference: [] }
+  const groups = [
+    ...schoolsOf(P).flatMap((sc) => GROUP_POS.map((pos) => ({ kind: 'school', id: sc.id, name: sc.name, pos }))),
+    ...FBS_CONFS.filter((c) => P.confs.includes(c)).flatMap((c) => GROUP_POS.map((pos) => ({ kind: 'conference', id: confSlug(c), name: c, pos }))),
+  ]
+  let n = 0
+  for (const g of groups) {
+    const d = groupData(P, g)
+    if (d.rows.length < MIN_GAMES) continue
+    const url = `${SITE}${groupPath(g).slice(1)}`
+    const title = groupTitle(d, config.title)
+    const description = groupDescription(d)
+    const html = renderToString(React.createElement(App, { path: `/${SLUG}${groupPath(g)}`, preload: d }))
+    const ld = { '@context': 'https://schema.org', '@graph': [webPage(url, title, description, g.kind === 'school' ? { about: { '@type': 'SportsTeam', name: g.name, sport: 'American football' } } : {}), crumbs({ name: groupH1(d), item: url }), itemListOf({ name: groupH1(d), url, items: d.rows.slice(0, 10).map((r) => ({ name: `${r.name}: ${r.totals[0]?.toLocaleString('en-US')} ${d.metrics[0]}`, ...(hasPage.player?.has(r.id) ? { url: entityUrl('player')(r.id) } : {}) })) })] }
+    const dir = path.join(ROOT, 'dist', g.kind, g.id, POS_SLUG[g.pos])
+    fs.mkdirSync(dir, { recursive: true })
+    const image = { url: `${url}og.png`, alt: `${groupH1(d)}: ${groupLead(d)} On a dark background.` }
+    fs.writeFileSync(path.join(dir, 'index.html'), pageHtml({ title, head: headFor({ url, title, description, jsonLd: ld, image }), appHtml: html, embed: d }))
+    await draw(groupCard(d), path.join(dir, 'og.png'))
+    urls.push(url)
+    const entry = index[g.kind].find((e) => e.id === g.id) ?? (index[g.kind].push({ id: g.id, name: g.name, pos: [] }), index[g.kind][index[g.kind].length - 1])
+    entry.pos.push(g.pos)
+    if (g.kind === 'conference' || (g.pos === 'QB' && llmsGroups.length < 20)) llmsGroups.push({ h1: groupH1(d), url, lead: groupLead(d) })
+    n++
+  }
+  for (const kind of ['school', 'conference']) {
+    const url = `${SITE}${kind}/`
+    const title = `${kind === 'school' ? 'Every school' : 'Every conference'}'s best players by position, since ${P.firstSeason} · ${config.title}`
+    const description = `The best quarterbacks, running backs, receivers, defenders, kickers and punters ${kind === 'school' ? 'at every FBS school' : 'in every FBS conference'} since ${P.firstSeason}, each with the players' numbers drawn game by game.`
+    const html = renderToString(React.createElement(App, { path: `/${SLUG}/${kind}/`, preload: { items: index[kind] } }))
+    const ld = { '@context': 'https://schema.org', '@graph': [webPage(url, title, description), crumbs({ name: title.split(' · ')[0], item: url })] }
+    fs.mkdirSync(path.join(ROOT, 'dist', kind), { recursive: true })
+    fs.writeFileSync(path.join(ROOT, 'dist', kind, 'index.html'), pageHtml({ title, head: headFor({ url, title, description, jsonLd: ld }), appHtml: html, embed: { items: index[kind] } }))
+    urls.push(url)
+  }
+  await Promise.all(pending)
+  console.log(`prerendered ${n} group pages (${index.school.length} schools, ${index.conference.length} conferences) with cards in ${((Date.now() - t1) / 1000).toFixed(1)}s`)
+}
+await vite.close()
+
+fs.writeFileSync(path.join(ROOT, 'dist/llms.txt'), llmsText({ site: SITE, title: config.title, description: config.description, firstSeason: C.firstSeason, currentSeason: C.currentSeason, landings: llmsBoards, entities: llmsEntities, counts, groups: llmsGroups }))
 
 const lastmod = new Date().toISOString().slice(0, 10)
 fs.writeFileSync(path.join(ROOT, 'dist/sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `  <url>\n    <loc>${u}</loc>\n    <lastmod>${lastmod}</lastmod>\n  </url>`).join('\n')}\n</urlset>\n`)

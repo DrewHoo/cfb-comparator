@@ -36,7 +36,7 @@ const mount = (ledgers) => {
   else createRoot(root).render(app)
 }
 
-if (/\/(player|coach|team)\/[^/]+\/?$/.test(path)) mount({})
+if (/\/(player|coach|team)\/[^/]+\/?$/.test(path) || /\/(school|conference)\/([^/]+\/[a-z-]+\/?)?$/.test(path)) mount({})
 else {
   let q = DEFAULT_QUERY
   try { q = parseAddress(path, window.location.search, import.meta.env.BASE_URL).query } catch {}

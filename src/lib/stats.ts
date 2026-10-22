@@ -22,8 +22,8 @@ export type StatKey =
   | 'payd' | 'patd' | 'int' | 'cmp' | 'att' | 'ruyd' | 'rutd' | 'car' | 'reyd' | 'retd' | 'rec'
   | 'td' | 'scrimtd' | 'totyd' | 'scrimyd' | 'fum' | 'fuml' | 'tkl' | 'sack' | 'tfl' | 'dint' | 'pd' | 'kryd' | 'pryd' | 'rettd' | 'fgm' | 'fga' | 'xpm' | 'pnt' | 'pyd'
 
-/** a stat nobody recorded that game */
-export const UNKNOWN = -1
+/** a stat nobody recorded that game: a value no stat can take (yards run negative, so not -1) */
+export const UNKNOWN = -99999
 
 export interface Stat {
   key: StatKey

@@ -8,9 +8,11 @@ import { Picker } from './Picker.jsx'
 import { CloseIcon } from './Icons.jsx'
 import { holds, careerSpan, eraBound } from '../lib/query.ts'
 import { compare, crossingWords, matchWords, peerOf, peersOf } from '../lib/compare.ts'
-import { statByKey } from '../lib/stats.ts'
+import { statByKey, UNKNOWN } from '../lib/stats.ts'
 import { rowName, rowWords, rankWords, testsWords, eraWords, unitWords, he } from '../lib/words.ts'
 import { fmtDate, gameAt, spanWords, teamName, RANK_UNKNOWN, UNRANKED } from '../lib/ledger.ts'
+import { POS_SLUG, schoolIdOf } from '../lib/groups.ts'
+import { POS_WORDS } from '../lib/words.ts'
 
 const BASE = import.meta.env.BASE_URL
 
@@ -45,7 +47,7 @@ function Ledger({ L, r, q }) {
   const isTest = q.how === 'count' || q.how === 'every' || q.how === 'streak'
   const games = [...r.games].reverse()
   const shown = all ? games : games.slice(0, 10)
-  const fmt = (v) => (v === -1 ? '—' : Number.isInteger(v) ? v : v.toFixed(1))
+  const fmt = (v) => (v === UNKNOWN ? '—' : Number.isInteger(v) ? v : v.toFixed(1))
   return (
     <div className="ledger">
       <div className="xrow xhead"><span>#</span><span>date</span><span>game</span><span>{isTest ? testsWords(q.tests) : stat.noun}</span></div>
@@ -90,6 +92,7 @@ export function Panel({ L, row, board, query, peerKey = null, onPeer, onClose, h
           <span className="panel-meta" title={row.entity.posSrc ? `position from ${srcWords[row.entity.posSrc]}` : undefined}>
             {meta}
             {hasPage && <> · <a className="plink" href={`${BASE}${q.kind}/${encodeURIComponent(row.entity.id)}/`}>what {he(q.kind)} leads →</a></>}
+            {q.kind === 'player' && row.entity.pos && schoolIdOf(L, L.team[row.entity.hi - 1]) && <> · <a className="plink" href={`${BASE}school/${encodeURIComponent(schoolIdOf(L, L.team[row.entity.hi - 1]))}/${POS_SLUG[row.entity.pos]}/`}>{teamName(L, L.team[row.entity.hi - 1])}’s {POS_WORDS[row.entity.pos]} →</a></>}
           </span>
         </div>
         <button className="ico panel-close" onClick={onClose} aria-label="Close"><CloseIcon /></button>

@@ -61,7 +61,7 @@ async function main() {
   const all = await sitemap(ALL)
   if (!all) return
   // the default mode: the board and the named boards (/<slug>/), not the entity pages
-  const urls = [...new Set(ALL ? all : [SITE, ...all.filter((u) => !/^(player|coach|team)\//.test(u.slice(SITE.length)))])].filter((u) => u.startsWith(SITE))
+  const urls = [...new Set(ALL ? all : [SITE, ...all.filter((u) => !/^(player|coach|team|school|conference)\/[^/]/.test(u.slice(SITE.length)))])].filter((u) => u.startsWith(SITE))
   if (DRY) { console.log(`indexnow (dry): ${urls.length} URLs, key ${keyLocation}\n${urls.join('\n')}`); return }
   if (!(await keyIsLive())) { console.log(`indexnow: the key file isn't live at ${keyLocation}, skipped`); return }
   for (let i = 0; i < urls.length; i += BATCH) {

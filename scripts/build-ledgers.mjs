@@ -48,6 +48,12 @@ for (const t of payload.teams) teams.set(t.id, { id: t.id, name: t.name, espn: t
 for (const [id, name] of Object.entries(history.names)) if (!teams.has(id)) teams.set(id, { id, name, espn: null, major: history.spans[id] ?? null })
 for (const [id, spans] of Object.entries(history.spans)) { const t = teams.get(id); if (t && !t.major) t.major = spans }
 const isMajor = (id, season) => (teams.get(id)?.major ?? []).some(([a, b]) => a <= season && b >= season)
+// conference membership by season, from the payload's spans (1936 on; the history's conference names before)
+const CONFS = [...payload.confs]
+const confIdx = (name) => { let i = CONFS.indexOf(name); if (i < 0) { i = CONFS.length; CONFS.push(name) } return i }
+const teamConf = {} // team id -> season -> conf index
+for (const t of payload.teams) for (const [a, b, ci] of t.conf ?? []) for (let y = a; y <= Math.min(b, CURRENT_SEASON); y++) (teamConf[t.id] ??= {})[y] = ci
+for (const [id, byYear] of Object.entries(history.conf ?? {})) for (const [y, name] of Object.entries(byYear)) if (teamConf[id]?.[y] == null) (teamConf[id] ??= {})[y] = confIdx(name)
 const byEspn = new Map([...teams.values()].filter((t) => t.espn).map((t) => [String(t.espn), t.id]))
 
 const isoOfEp = (ep) => new Date(ep * 86400000).toISOString().slice(0, 10)
@@ -90,7 +96,7 @@ const tIdx = (id) => { let i = teamIndex.get(id); if (i == null) { i = teamList.
 const alloc = (name, n) => { const t = COL_TYPE[name] ?? 'u8'; return t === 'u8' ? new Uint8Array(n) : t === 'u16' ? new Uint16Array(n) : new Int16Array(n) }
 
 /** writes src/data/<kind>.json and its columns from entities [{ id, name, born, debut, cen, pos, src, rows: [{ day, season, flags, team, opp, tgn, pf, pa, rk, ork, stat? }] }] */
-function writeLedger(kind, entities, { firstSeason, teamGames, teamsOf, statSince = {} }) {
+function writeLedger(kind, entities, { firstSeason, teamGames, teamsOf, statSince = {}, confOf = teamConf }) {
   const N = entities.reduce((s, e) => s + e.rows.length, 0)
   const col = {}
   for (const k of [...BASE_COLS, 'opp']) col[k] = alloc(k, N)
@@ -105,10 +111,11 @@ function writeLedger(kind, entities, { firstSeason, teamGames, teamsOf, statSinc
       col.pf[i] = Math.min(255, r.pf); col.pa[i] = Math.min(255, r.pa); col.rk[i] = r.rk; col.ork[i] = r.ork
       if (r.pf > 255 || r.pa > 255) clipped++
       for (const k of statCols) {
-        // a stat with no row in a category the season carries is 0; -1 marks a category the season lacks
+        // a stat with no row in a category the season carries is 0; NaN marks a category the season lacks (a real -1,
+        // a catch for a loss of a yard, is a value)
         const v = r.stat?.[k] ?? 0
         const t = COL_TYPE[k] ?? 'u8'
-        if (v === -1) { col[k][i] = UNK_OF[t]; continue }
+        if (Number.isNaN(v)) { col[k][i] = UNK_OF[t]; continue }
         const max = t === 'u8' ? 254 : t === 'u16' ? 65534 : 32767, min = t === 'i16' ? -32767 : 0
         if (v > max || v < min) clipped++
         col[k][i] = Math.max(min, Math.min(max, v))
@@ -123,7 +130,7 @@ function writeLedger(kind, entities, { firstSeason, teamGames, teamsOf, statSinc
   fs.mkdirSync(dir, { recursive: true })
   const cols = {}
   for (const [k, arr] of Object.entries(col)) { cols[k] = COL_TYPE[k] ?? 'u8'; fs.writeFileSync(path.join(dir, `${k}.bin.gz`), zlib.gzipSync(Buffer.from(arr.buffer, arr.byteOffset, arr.byteLength), { level: 9 })) }
-  const file = { v: 4, kind, builtAt: new Date().toISOString(), firstSeason, currentSeason: CURRENT_SEASON, pollSince: POLL_FIRST_SEASON, n: N, cols, teams: teamsOf, teamGames, statSince, entities: out }
+  const file = { v: 4, kind, builtAt: new Date().toISOString(), firstSeason, currentSeason: CURRENT_SEASON, pollSince: POLL_FIRST_SEASON, n: N, cols, teams: teamsOf, teamGames, statSince, confs: CONFS, teamConf: confOf, entities: out }
   const text = JSON.stringify(file)
   fs.writeFileSync(path.join(OUT, `${kind}.json`), text)
   const kb = (f) => (fs.statSync(path.join(dir, f)).size / 1024).toFixed(0)
@@ -326,7 +333,7 @@ if (want('player')) {
     const norm = Math.max(statSinceCount[latest]?.[c] ?? 0, statSinceCount[latest - 1]?.[c] ?? 0)
     for (const s of seasons) if ((statSinceCount[s]?.[c] ?? 0) >= 0.7 * norm && norm > 0) (seasonsWith[c] ??= []).push(s)
   }
-  for (const p of players.values()) for (const gm of p.games) for (const [c, cols] of Object.entries(catOf)) if (!(seasonsWith[c] ?? []).includes(gm.season)) for (const col of cols) gm.stat[col] = -1
+  for (const p of players.values()) for (const gm of p.games) for (const [c, cols] of Object.entries(catOf)) if (!(seasonsWith[c] ?? []).includes(gm.season)) for (const col of cols) gm.stat[col] = NaN
   console.log(`player: schedule games joined to the spine ${joined}, unjoined ${unjoined}; team rows skipped ${teamRows}; stat_N fallbacks ${fallback}; rows only the .csv.gz had ${JSON.stringify(gzAdded)}`)
   console.log(`player: category coverage by season (% of games): ${JSON.stringify(statSinceCount)}`)
   // statSince: the first season a category is full in every later season too
@@ -370,7 +377,7 @@ if (want('player')) {
   }
   console.log(`player: ${spineOnly} team-games on the spine with no ESPN box (gaps the season windows count)`)
   const pteamIndex = new Map(), pteams = []
-  const ptIdx = (espn) => { let i = pteamIndex.get(espn); if (i == null) { i = pteams.length; pteamIndex.set(espn, i); pteams.push({ id: `espn:${espn}`, name: espnTeams.get(espn) ?? `team ${espn}`, espn }) } return i }
+  const ptIdx = (espn) => { let i = pteamIndex.get(espn); if (i == null) { i = pteams.length; pteamIndex.set(espn, i); pteams.push({ id: `espn:${espn}`, name: espnTeams.get(espn) ?? `team ${espn}`, espn, slug: byEspn.get(espn) ?? null }) } return i }
   const entities = []
   const tally = { pos: {}, src: {}, censored: 0, noRoster: 0, born: 0 }
   for (const p of players.values()) {
@@ -407,5 +414,8 @@ if (want('player')) {
   entities.sort((a, b) => a.rows[0].day - b.rows[0].day || a.name.localeCompare(b.name))
   console.log(`player: games by season ${JSON.stringify(perSeason)}`)
   console.log(`player: positions ${JSON.stringify(tally.pos)} by source ${JSON.stringify(tally.src)}, no roster row ${tally.noRoster}, censored ${tally.censored}, with a birth date ${tally.born}`)
-  writeLedger('player', entities, { firstSeason: PLAYERS_FIRST_SEASON, teamGames, teamsOf: pteams, statSince })
+  // the conference of each ESPN team by season, through the spine's id
+  const pConf = {}
+  for (const t of pteams) { const sid = byEspn.get(t.espn); if (sid && teamConf[sid]) pConf[t.id] = teamConf[sid] }
+  writeLedger('player', entities, { firstSeason: PLAYERS_FIRST_SEASON, teamGames, teamsOf: pteams, statSince, confOf: pConf })
 }

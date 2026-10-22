@@ -46,6 +46,8 @@ export const colType = (name: ColName): ColType => COL_TYPE[name] ?? 'u8'
 // the flags column's bits
 export const F_POST = 1, F_HOME = 2, F_NEUTRAL = 4, F_WIN = 8, F_TIE = 16, F_CONF = 32, F_MAJOROPP = 64
 
+/** `gameAt` writes this for a stat nobody recorded (stats.ts's UNKNOWN, repeated here so the ledger has no import) */
+export const UNKNOWN_STAT = -99999
 /** a rank nobody can give: no poll was in effect (before 1936, or a season's first weeks before 1950) */
 export const RANK_UNKNOWN = 255
 /** unranked in the poll in effect */
@@ -74,6 +76,8 @@ export interface Team {
   name: string
   /** ESPN's team id, for a mark */
   espn?: string | null
+  /** the spine's id for the same school, where the ledger keys teams by ESPN id (the player ledger); the address of its school pages */
+  slug?: string | null
 }
 
 export interface Ledger {
@@ -91,6 +95,10 @@ export interface Ledger {
   teamGames: Record<string, Record<string, [number, number]>>
   /** the first season each stat column is recorded in every game, where later than the ledger's start (tackles, sacks, fumbles arrived in ESPN's box after 2004) */
   statSince: Partial<Record<StatCol, number>>
+  /** conference names, by the index teamConf carries */
+  confs: string[]
+  /** team id -> season -> conference index (the spine's membership by season) */
+  teamConf: Record<string, Record<string, number>>
   /** YYYYMMDD of each game, from the day column */
   date: Int32Array
   /** the season each game belongs to (the column holds it less 1800) */
@@ -122,6 +130,8 @@ export interface LedgerFile {
   teams: Team[]
   teamGames: Record<string, Record<string, [number, number]>>
   statSince?: Partial<Record<StatCol, number>>
+  confs?: string[]
+  teamConf?: Record<string, Record<string, number>>
   entities: { id: string; name: string; born: string | null; debut: number; cen: 0 | 1; pos: Exclude<Pos, 'ALL'> | null; src: 'roster' | 'box' | null; lo: number; n: number }[]
 }
 
@@ -169,7 +179,7 @@ export function decodeLedger(file: LedgerFile, cols: Partial<Record<ColName, Col
   const L: Ledger = {
     kind: file.kind, builtAt: file.builtAt, firstSeason: file.firstSeason, currentSeason: file.currentSeason, pollSince: file.pollSince, n,
     entities: file.entities.map((p) => ({ id: p.id, name: p.name, born: p.born, debut: p.debut, censored: p.cen === 1, pos: p.pos, posSrc: p.src, lo: p.lo, hi: p.lo + p.n })),
-    teams: file.teams, teamGames: file.teamGames, statSince: file.statSince ?? {},
+    teams: file.teams, teamGames: file.teamGames, statSince: file.statSince ?? {}, confs: file.confs ?? [], teamConf: file.teamConf ?? {},
     date, season, flags: bytes(cols.flags!), team: typedCol('team', cols.team!) as Uint16Array, tgn: bytes(cols.tgn!),
     pf: bytes(cols.pf!), pa: bytes(cols.pa!), rk: bytes(cols.rk!), ork: bytes(cols.ork!), col: {},
   }
@@ -218,7 +228,7 @@ export function gameAt(L: Ledger, i: number): Game {
     team: L.teams[L.team[i]]?.id ?? '?', opp: L.opp ? L.teams[L.opp[i]]?.id ?? '?' : '?', majorOpp: (f & F_MAJOROPP) !== 0,
     result: (f & F_WIN) !== 0 ? 2 : (f & F_TIE) !== 0 ? 1 : 0, pf: L.pf[i], pa: L.pa[i], rk: L.rk[i], ork: L.ork[i], tgn: L.tgn[i], stat: {},
   }
-  for (const k of STAT_COLS) { const c = L.col[k]; if (c) { const v = c[i]; g.stat[k] = v === unkOf(k) ? -1 : v } }
+  for (const k of STAT_COLS) { const c = L.col[k]; if (c) { const v = c[i]; g.stat[k] = v === unkOf(k) ? UNKNOWN_STAT : v } }
   return g
 }
 

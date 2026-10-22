@@ -750,6 +750,8 @@ export interface EntityFile {
   from: number
   to: number
   teams: string[]
+  /** a player's last school's address id, for his school's position page */
+  school?: string | null
   games: number
   active: boolean
   rows: FileRow[]
@@ -763,7 +765,7 @@ export function encodeEntity(L: Ledger, p: Entity, rows: RecordRow[]): EntityFil
   const [from, to] = careerSpan(L, p)
   return {
     v: FILE_VERSION, kind: L.kind, id: p.id, name: p.name, pos: p.pos, born: p.born, debut: p.debut,
-    from, to, teams, games: p.hi - p.lo, active: isActive(L, p),
+    from, to, teams, school: L.kind === 'player' ? L.teams[L.team[p.hi - 1]]?.slug ?? null : null, games: p.hi - p.lo, active: isActive(L, p),
     rows: rows.map((r) => {
       const o: FileRow = {
         s: [r.shape.stat, testsKey(r.shape.tests), r.shape.how, r.shape.seq, r.shape.scope, r.shape.dir], k: r.kind, n: r.season, st: r.stint, tm: r.team,

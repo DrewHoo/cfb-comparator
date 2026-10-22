@@ -4,6 +4,8 @@ import { Board, rowId } from './components/Board.jsx'
 import { Panel } from './components/Panel.jsx'
 import { Notes, KOFI_URL } from './components/Notes.jsx'
 import { EntityPage } from './components/EntityPage.jsx'
+import { GroupPage, GroupIndex } from './components/GroupPage.jsx'
+import { posFromSlug } from './lib/groups.ts'
 import { Finder, loadIndex } from './components/Finder.jsx'
 import { CoffeeIcon, ShareIcon } from './components/Icons.jsx'
 import { useShare } from './hooks/useShare.ts'
@@ -29,12 +31,18 @@ export function parseRoute(path) {
   const rel = (path ?? '').startsWith(base) ? path.slice(base.length) : (path ?? '').replace(/^\//, '')
   const m = /^(player|coach|team)\/([^/]+)\/?$/.exec(rel)
   if (m) return { kind: m[1], id: decodeURIComponent(m[2]) }
+  const g = /^(school|conference)\/([^/]+)\/([a-z-]+)\/?$/.exec(rel)
+  if (g && posFromSlug(g[3])) return { kind: 'group', group: g[1], id: decodeURIComponent(g[2]), pos: posFromSlug(g[3]) }
+  const gi = /^(school|conference)\/?$/.exec(rel)
+  if (gi) return { kind: 'index', group: gi[1] }
   return { kind: 'board', landing: landingFromPath(`/${rel}`) }
 }
 
 /** `path`, `preload` and `ledgers` come from the prerender or main.jsx, never from window during render */
 export default function App({ path = '', preload = null, ledgers = {}, fetchLedger = null }) {
   const route = parseRoute(path)
+  if (route.kind === 'group') return <GroupPage kind={route.group} id={route.id} pos={route.pos} preload={preload} />
+  if (route.kind === 'index') return <GroupIndex kind={route.group} items={preload?.items ?? []} />
   if (route.kind !== 'board') return <EntityPage kind={route.kind} id={route.id} preload={preload} />
   return <BoardApp ledgers={ledgers} fetchLedger={fetchLedger} initial={route.landing?.query ?? DEFAULT_QUERY} />
 }

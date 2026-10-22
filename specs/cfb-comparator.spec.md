@@ -25,6 +25,10 @@ The research under `research/` settled this: five Opus probes (the ESPN box file
 
 The board with the three kinds; 42 named boards; 2,306 entity pages with their own cards; the share worker with a card per board address and Mixpanel unfurl events; llms.txt, JSON-LD, the sitemap, IndexNow; the Sunday/Tuesday refresh.
 
+## Added 2026-10-22: school and conference pages
+
+Drew: "prerendered pages for top players of a given position at a given school, like all time greatest wide receivers at alabama that renders graphs (a line for each player) for their important metrics. Same for conferences." Built as `src/lib/groups.ts` over the player ledger: 137 schools × 7 positions and 12 conferences × 7 positions, 1,008 pages, each with the position's metrics as cumulative lines (top eight) and the full table, a card, JSON-LD and a sitemap entry; the conference pages count a player's games while his team was a member (the spine's membership by season, now in every ledger as `teamConf`). Defenders rank by tackles and so begin in 2024. The era wall (2004) is in every title and h1.
+
 ## Open
 
 - Vacated wins and forfeits as a receipt-backed layer (a futility board readers could argue with).

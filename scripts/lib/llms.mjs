@@ -6,7 +6,7 @@ import { PLAYERS_FIRST_SEASON } from './window.mjs'
 const REPO = 'https://github.com/DrewHoo/cfb-comparator'
 const line = ({ text, url, lead }) => `- [${text}](${url})${lead ? ` — ${lead}` : ''}`
 
-export function llmsText({ site, title, description, firstSeason, currentSeason, landings = [], entities = {}, counts = {} }) {
+export function llmsText({ site, title, description, firstSeason, currentSeason, landings = [], entities = {}, counts = {}, groups = [] }) {
   const kinds = [['coach', 'Head coaches'], ['team', 'Teams'], ['player', 'Players']]
   return `# ${title}
 
@@ -25,6 +25,12 @@ ${kinds.map(([kind, label]) => `## ${label}
 A page per ${kind} at ${site}${kind}/<id>/ (${(counts[kind] ?? 0).toLocaleString('en-US')} of them), listing every comparison it leads, or once led, at some point. For example:
 
 ${(entities[kind] ?? []).map((p) => line({ text: p.name, url: p.url, lead: p.lead })).join('\n')}`).join('\n\n')}
+
+## Schools and conferences
+
+The best players of each position at each FBS school (${site}school/) and in each conference (${site}conference/) since ${PLAYERS_FIRST_SEASON}, ranked by the position's main stat with every player's line drawn game by game. For example:
+
+${groups.map((g) => line({ text: g.h1, url: g.url, lead: g.lead })).join('\n')}
 
 ## Data
 

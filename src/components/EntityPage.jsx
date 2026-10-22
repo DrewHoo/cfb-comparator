@@ -18,6 +18,8 @@ import { RECORDS, KNOB_PATHS, decodeEntity, knobAt, page, withKnob, statOf } fro
 import { statByKey } from '../lib/stats.ts'
 import { KIND_ONE, breakerWords, placeWords, recordWords, runWords, he } from '../lib/words.ts'
 import { toUrl } from '../lib/url.ts'
+import { GROUP_POS, POS_SLUG } from '../lib/groups.ts'
+import { POS_WORDS } from '../lib/words.ts'
 
 const BASE = import.meta.env.BASE_URL
 /** the ledgers' first seasons, for the words; the prerender passes the real ones */
@@ -170,6 +172,14 @@ export function EntityPage({ kind, id, preload, firstSeason = FIRST[kind] }) {
             Every comparison <b>{file.name}</b> leads among {field} since {seasonWords(firstSeason)}: {n} {n === 1 ? 'claim' : 'claims'} in {fams.length} {fams.length === 1 ? 'family' : 'families'}, the best first.
             A row leads its field now, or set a record that was later broken. Each links to its board.
           </p>
+          {kind === 'team' && (
+            <p className="baserate">
+              {file.name}’s best players since 2004, by position: {GROUP_POS.map((p, i) => <span key={p}>{i > 0 && ', '}<a href={`${BASE}school/${encodeURIComponent(id)}/${POS_SLUG[p]}/`}>{POS_WORDS[p]}</a></span>)}.
+            </p>
+          )}
+          {kind === 'player' && file.pos && file.school && (
+            <p className="baserate">Among <a href={`${BASE}school/${encodeURIComponent(file.school)}/${POS_SLUG[file.pos]}/`}>{file.teams[file.teams.length - 1]}’s {POS_WORDS[file.pos]}</a>.</p>
+          )}
           {tune && <Tuner knobs={knobs} onChange={changeKnobs} />}
           {fams.map((f) => <FamilyBlock key={f.key} f={f} tune={tune} minN={knobs.minN[f.best.shape.seq]} />)}
           {fams.length === 0 && <p className="empty">Nothing {pr} leads at any point.</p>}

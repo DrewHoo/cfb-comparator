@@ -21,6 +21,11 @@ export function Landings({ current = null }) {
           </ul>
         </div>
       ))}
+      <div className="landing-kind">schools and conferences</div>
+      <ul className="landing-list">
+        <li><a href={`${BASE}school/`}>Every school’s best players by position, since 2004</a></li>
+        <li><a href={`${BASE}conference/`}>Every conference’s best players by position, since 2004</a></li>
+      </ul>
     </section>
   )
 }
