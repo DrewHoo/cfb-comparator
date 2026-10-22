@@ -5,6 +5,17 @@ import { track } from '../lib/analytics.ts'
 
 export const KOFI_URL = 'https://ko-fi.com/drewhooverdotcom'
 
+/** the line at the foot of every page: the board, an entity page, a group page and its index; `from` names the page for the Ko-fi event */
+export function Footer({ from = 'footer' }) {
+  return (
+    <footer>
+      <a href="https://drewhoover.com/">drewhoover.com</a> · data rebuilt weekly in season ·{' '}
+      <a href="https://github.com/DrewHoo/cfb-comparator">source & receipts</a> ·{' '}
+      <a href={KOFI_URL} onClick={() => track('kofi', { from })}>buy me a coffee</a>
+    </footer>
+  )
+}
+
 export function Notes({ ledgers = {} }) {
   const built = Object.values(ledgers)[0]?.builtAt ?? ''
   return (
@@ -92,7 +103,9 @@ export function Notes({ ledgers = {} }) {
             Streak King (its researched rulings cover mid-season changes and interims) from 1936, and before that the
             coach Wikipedia's coach lists name for the season (one coach per season; a season with a mid-season change
             or co-coaches has no coach of record, and 3.6% of team-games have none). The pre-1936 coach file is in
-            the repository under CC BY-SA 4.0, as Wikipedia's license asks.
+            the repository under CC BY-SA 4.0, as Wikipedia's license asks. The coach ledger runs on the same games
+            from 1869, but its first coach of record is Lucius Littauer, Harvard's in 1881, the sport's first head
+            coach. Teams before him were run by their captains, so a coach board "since 1869" has no games before 1881.
           </p>
           <p>
             A <b>player's</b> games are ESPN's box scores, as published by{' '}

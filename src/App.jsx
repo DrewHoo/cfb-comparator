@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { Sentence } from './components/Sentence.jsx'
 import { Board, rowId } from './components/Board.jsx'
 import { Panel } from './components/Panel.jsx'
-import { Notes, KOFI_URL } from './components/Notes.jsx'
+import { Notes, Footer, KOFI_URL } from './components/Notes.jsx'
 import { EntityPage } from './components/EntityPage.jsx'
 import { GroupPage, GroupIndex } from './components/GroupPage.jsx'
 import { posFromSlug } from './lib/groups.ts'
@@ -194,11 +194,7 @@ function BoardApp({ ledgers: initialLedgers, fetchLedger, initial }) {
         : <p className="loading">loading…</p>}
       <Landings current={landing?.slug ?? null} />
       <Notes ledgers={ledgersRef.current} />
-      <footer>
-        <a href="https://drewhoover.com/">drewhoover.com</a> · data rebuilt weekly in season ·{' '}
-        <a href="https://github.com/DrewHoo/cfb-comparator">source & receipts</a> ·{' '}
-        <a href={KOFI_URL} onClick={() => track('kofi', { from: 'footer' })}>buy me a coffee</a>
-      </footer>
+      <Footer />
     </main>
   )
 }

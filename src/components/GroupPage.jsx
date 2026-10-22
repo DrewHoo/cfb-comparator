@@ -6,7 +6,7 @@
 import { useEffect, useState } from 'react'
 import { CoffeeIcon, ShareIcon } from './Icons.jsx'
 import { Finder } from './Finder.jsx'
-import { KOFI_URL } from './Notes.jsx'
+import { Footer, KOFI_URL } from './Notes.jsx'
 import { useShare } from '../hooks/useShare.ts'
 import { track } from '../lib/analytics.ts'
 import { spanWords } from '../lib/ledger.ts'
@@ -109,6 +109,7 @@ export function GroupPage({ kind, id, pos, preload }) {
         Also {where}: {others.map((p, i) => <span key={p}>{i > 0 && ', '}<a href={`${BASE}${data.kind}/${encodeURIComponent(data.id)}/${POS_SLUG[p]}/`}>{POS_WORDS[p]}</a></span>)}. Every school and conference: <a href={`${BASE}school/`}>schools</a>, <a href={`${BASE}conference/`}>conferences</a>.
         The games are ESPN's box scores since 2004 (the <a href={`${BASE}#method`}>Method</a> says where they fall short); a position is the roster's, else read off the box score, so a tight end from before 2014 may be listed with the wide receivers.
       </p>
+      <Footer from="footer group" />
     </main>
   )
 }
@@ -126,6 +127,7 @@ export function GroupIndex({ kind, items }) {
           <li key={it.id}><b>{it.name}</b> {it.pos.map((p) => <a key={p} href={`${BASE}${kind}/${encodeURIComponent(it.id)}/${POS_SLUG[p]}/`}>{POS_WORDS[p]}</a>)}</li>
         ))}
       </ul>
+      <Footer from="footer index" />
     </main>
   )
 }

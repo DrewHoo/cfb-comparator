@@ -23,7 +23,7 @@ The research under `research/` settled this: five Opus probes (the ESPN box file
 
 ## What shipped
 
-The board with the three kinds; 42 named boards; 2,306 entity pages with their own cards; the share worker with a card per board address and Mixpanel unfurl events; llms.txt, JSON-LD, the sitemap, IndexNow; the Sunday/Tuesday refresh.
+The board with the three kinds; 42 named boards; 2,287 entity pages with their own cards (1,847 players, 348 coaches, 92 programs in the 2026-10-22 build; the count moves with each records build); the share worker with a card per board address and Mixpanel unfurl events; llms.txt, JSON-LD, the sitemap, IndexNow; the Sunday/Tuesday refresh.
 
 ## Added 2026-10-22: school and conference pages
 

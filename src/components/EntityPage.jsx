@@ -9,7 +9,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { CoffeeIcon, ShareIcon } from './Icons.jsx'
 import { Finder } from './Finder.jsx'
-import { KOFI_URL } from './Notes.jsx'
+import { Footer, KOFI_URL } from './Notes.jsx'
 import { useShare } from '../hooks/useShare.ts'
 import { entityLead, entityText, fieldWords } from '../lib/share.ts'
 import { track } from '../lib/analytics.ts'
@@ -189,6 +189,7 @@ export function EntityPage({ kind, id, preload, firstSeason = FIRST[kind] }) {
           </p>
         </>
       )}
+      <Footer from={`footer ${kind}`} />
     </main>
   )
 }
