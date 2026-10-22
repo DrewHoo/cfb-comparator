@@ -14,3 +14,5 @@ data/raw/
 data/build/
 .claude/
 .wrangler/
+# vitest writes its run report here
+.vitest/

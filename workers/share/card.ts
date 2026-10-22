@@ -97,15 +97,16 @@ function chartSvg(c: Chart, W: number, H: number): { svg: string; len: number; t
   return { svg: `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">${parts.join('')}</svg>`, len, top };
 }
 
-/** the chart and its labels: the unit's first and last ordinal under it, the top value between */
+/** the chart and its labels: the unit's first and last ordinal over its ends, the top value between */
 function chart(c: Chart): string {
   const { svg, len, top } = chartSvg(c, SAFE, 130);
-  const lab = `font-family:'IBM Plex Mono'; font-size:11px; letter-spacing:1px; color:${FAINT};`;
+  // each label holds a third of the column, so the first and last sit over the chart's ends
+  const lab = (align: string) => `display:flex; width:${SAFE / 3}px; justify-content:${align}; font-family:'IBM Plex Mono'; font-size:11px; letter-spacing:1px; color:${FAINT};`;
   return `
-    <div style="display:flex; flex-direction:row; justify-content:space-between; width:${SAFE}px; margin-top:12px;">
-      <div style="display:flex; ${lab}">${esc(c.unit.toUpperCase())} 1</div>
-      <div style="display:flex; ${lab}">TOP ${top.toLocaleString('en-US')}</div>
-      <div style="display:flex; ${lab}">${esc(c.unit.toUpperCase())} ${len}</div>
+    <div style="display:flex; flex-direction:row; width:${SAFE}px; margin-top:12px;">
+      <div style="${lab('flex-start')}">${esc(c.unit.toUpperCase())} 1</div>
+      <div style="${lab('center')}">TOP ${top.toLocaleString('en-US')}</div>
+      <div style="${lab('flex-end')}">${esc(c.unit.toUpperCase())} ${len}</div>
     </div>
     <img src="data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}" width="${SAFE}" height="130" style="margin-top:2px;" />`;
 }
