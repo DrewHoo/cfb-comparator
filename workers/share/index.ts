@@ -15,7 +15,9 @@
 //                   the query's ledger the prerender publishes (dist/data/
 //                   <kind>.json and the gzipped columns in dist/data/cols/
 //                   <kind>/), runs the site's own evaluate, and renders the
-//                   top of the board. Cached at the edge.
+//                   top of the board; with a row open (?t=), the row read
+//                   against its peer (vs=, else the leader): both sides,
+//                   the panel's lines, its chart. Cached at the edge.
 //
 // Three ledgers, loaded as a query asks for its kind, once per isolate per
 // UTC day, then only the stat columns a query reads. Every column is a byte
@@ -36,10 +38,11 @@ import { evaluate, queryCols, type Board, type Query, type Row } from '../../src
 import { parseUrl, toUrl, parseAddress } from '../../src/lib/url.ts';
 import { landingFromPath } from '../../src/lib/landing.ts';
 import { eraBound } from '../../src/lib/query.ts';
-import { queryWords, unitWords } from '../../src/lib/words.ts';
+import { his, queryWords, rankWords, rowName, rowWords, seqWords, unitWords } from '../../src/lib/words.ts';
+import { countWords, statByKey } from '../../src/lib/stats.ts';
 import { cardHeading, cardRows, isShared, shareDescription, shareTitle, SITE as SITE_NAME } from '../../src/lib/share.ts';
-import { peerOf } from '../../src/lib/compare.ts';
-import { renderCard } from './card.ts';
+import { compare, crossingWords, matchWords, peerOf } from '../../src/lib/compare.ts';
+import { renderCard, type Card } from './card.ts';
 
 interface Env { ORIGIN?: string; NO_REPORT?: string }
 
@@ -119,7 +122,7 @@ const urlProps = (url: URL) => {
 };
 
 /** Bump on any change to what the card draws or how a URL reads; it keys the edge cache. */
-const CARD_VERSION = '2026-10-22b';
+const CARD_VERSION = '2026-10-22c';
 
 const edge = (ttl: number) => ({ cf: { cacheEverything: true, cacheTtlByStatus: { '200-299': ttl, '400-599': 30 } } }) as RequestInit;
 // a fresh cache key each UTC day: GitHub Pages ignores query strings, and a
@@ -181,15 +184,53 @@ async function ledgerFor(origin: string, q: Query): Promise<Ledger> {
 
 const findRow = (board: Board, key: string | null): Row | null => (key ? [...board.ranked, ...board.onTheWay].find((r) => r.key === key) ?? null : null);
 
+const fmtN = (n: number) => n.toLocaleString('en-US');
+
+/** the unit under a side's number: the stat for a total, else the games (or seasons) counted */
+const unitOf = (q: Query): string => (q.how === 'sum' ? statByKey(q.stat).noun : q.how === 'reach' ? seqWords(q.seq === 'tenure' ? 'games' : q.seq, 2, q.kind) : 'games');
+
+/** the comparison's card: both sides, the panel's lines, its chart (the panel's reading, from compare.ts) */
+function compareCard(L: Ledger, q: Query, board: Board, row: Row, peer: Row): Card {
+  const stat = statByKey(q.stat);
+  const value = (r: Row) => (r.value == null ? '—' : fmtN(r.value));
+  const claim = (r: Row) => (r.value == null ? `${fmtN(r.reached)} ${seqWords(q.seq, r.reached, q.kind)} so far` : r.season != null ? `${r.team}'s first ${q.n} games of ${r.season}` : q.how === 'reach' ? `to ${countWords(q.n, stat)}` : r.stint != null ? `through ${his(q.kind)} first ${fmtN(r.reached)} games at ${r.team}` : `through ${his(q.kind)} first ${fmtN(r.reached)} ${seqWords(q.seq, r.reached, q.kind)}`);
+  const cmp = compare(L, row, peer, q);
+  const lines: string[] = [];
+  if (cmp) {
+    lines.push(cmp.xs[0] ? `${row.entity.name} ${crossingWords(cmp.xs[0], peer, q)}.` : 'Their curves never met.');
+    const m = matchWords(row, peer, cmp, q);
+    if (m) lines.push(m);
+  } else {
+    lines.push(`${row.entity.name}: ${rowWords(row, q)}.`);
+    if (peer.value != null) lines.push(`${peer.entity.name}: ${rowWords(peer, q)}.`);
+  }
+  const field = board.ranked.length;
+  const place = (r: Row) => (r.complete && r.value != null ? rankWords(r, field) : 'inside the window');
+  const bound = eraBound(q, board);
+  return {
+    heading: `${rowName(row)} vs ${rowName(peer)}`,
+    words: queryWords(q, bound),
+    sides: [
+      { name: rowName(row), value: value(row), unit: unitOf(q), claim: `${place(row)} · ${claim(row)}` },
+      { name: rowName(peer), value: value(peer), unit: unitOf(q), claim: `${place(peer)} · ${claim(peer)}` },
+    ],
+    lines,
+    chart: cmp ? { me: cmp.me, them: cmp.them, n: cmp.n, unit: q.seq === 'seasons' ? 'season' : 'game' } : null,
+    footer: `${spanWords(bound ?? L.firstSeason, L.currentSeason)} · ${fmtN(field)} ${unitWords(q)} with the whole window · drewhoover.com`,
+  };
+}
+
 async function ogCard(origin: string, search: string): Promise<Response> {
-  const { query, open } = parseUrl(search);
+  const { query, open, vs } = parseUrl(search);
   const L = await ledgerFor(origin, query);
   const board = evaluate(L, query);
-  const res = renderCard({
+  const row = findRow(board, open);
+  const peer = row ? peerOf(board, row, vs) : null;
+  const res = renderCard(row && peer ? compareCard(L, query, board, row, peer) : {
     heading: cardHeading(query),
     words: queryWords(query, eraBound(query, board)),
     rows: cardRows(board, query, open),
-    footer: `${spanWords(eraBound(query, board) ?? L.firstSeason, L.currentSeason)} · ${board.ranked.length.toLocaleString('en-US')} ${unitWords(query)} with the whole window · drewhoover.com`,
+    footer: `${spanWords(eraBound(query, board) ?? L.firstSeason, L.currentSeason)} · ${fmtN(board.ranked.length)} ${unitWords(query)} with the whole window · drewhoover.com`,
   });
   // buffer the render: workers-og streams lazily, and a failure mid-stream
   // would otherwise ship a 200 with an empty body
