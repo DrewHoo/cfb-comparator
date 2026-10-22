@@ -1,0 +1,38 @@
+{{Navbox
+| name = Cornell Rams football coach navbox
+| title = [[Cornell Rams football|{{white|Cornell Rams head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Cornell Rams|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1891–1893)
+* [[Nott W. Flint]] (1894)
+* ''Unknown'' (1895–1897)
+* ''No coach'' (1898)
+* [[Dave Cropp]] (1899)
+* [[Leon L. Gilkey]] (1900)
+* [[N. Edwin Sanders]] (1901)
+* [[Justa Lindgren]] (1902–1903)
+* [[Fred DuBridge]] (1904–1905)
+* [[Donald Irwin (American football)|Donald Irwin]] (1906)
+* [[Sherman W. Finger]] (1907–1923)
+* [[Polly Wallace]] (1924)
+* [[Dick Barker]] (1925–1940)
+* [[Walton S. Koch]] (1941–1949)
+* Mike Miller (1950–1952)
+* [[James L. Dutcher]] (1953–1958)
+* [[Jerry Clark (American football)|Jerry Clark]] (1959–1986)
+* [[Steve Miller (American football coach)|Steve Miller]] (1987–2001)
+* [[Ray Reasland]] (2002–2005)
+* [[Matt Dillon (American football)|Matt Dillon]] (2006–2009)
+* [[Vince Brautigam]] (2010–2019)
+* ''No team'' (2020)
+* [[Dan Pifer]] (2021–2024)
+* [[Curt Ritchie]] (2025– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+</noinclude>

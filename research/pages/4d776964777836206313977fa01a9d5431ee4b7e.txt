@@ -1,0 +1,29 @@
+{{Navbox
+| name = Stevens football coach navbox
+| title = [[Stevens football|{{white|Stevens head football coaches}}]]
+| basestyle = background:#800000; color:white; {{box-shadow border|a|#ADAFAA|2px}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1872–1900)
+* ''No team'' (1901)
+* ''Unknown'' (1902–1903)
+* [[Stephen W. McClave]] (1904–1905)
+* [[Phillip Stillman]] (1906)
+* [[L. G. Saunders]] (1907)
+* [[Edwin T. Gibson]] (1908–1909)
+* [[Heman L. Dowd]] (1910)
+* [[Myron Fuller]] (1912–1913)
+* [[Henry F. Ayres]] (1914)
+* [[John A. Rogers (American football)|John A. Rogers]] (1915–1916)
+* [[Al McGall]] (1917)
+* [[LeRoy Durborow]] (1918–1923)
+* [[Udell H. Stallings]] (1924)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Stevens Tech Ducks football navigational boxes|Coach]]
+</noinclude>

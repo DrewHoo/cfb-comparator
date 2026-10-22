@@ -1,0 +1,53 @@
+{{Navbox
+| name = Rutgers Scarlet Knights football coach navbox
+| title = [[Rutgers Scarlet Knights football|{{white|Rutgers Scarlet Knights head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Rutgers Scarlet Knights|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1869–1870)
+* ''No team'' (1871)
+* ''No coach'' (1872–1894)
+* [[William Ayres Reynolds]] (1895)
+* [[H. W. Ambruster]] (1895)
+* [[John C. B. Pendleton]] (1896–1897)
+* [[William V. B. Van Dyck]] (1898–1899)
+* [[Michael F. Daly]] (1900)
+* [[Arthur P. Robinson]] (1901)
+* [[Henry Van Hoevenberg]] (1902)
+* [[Oliver D. Mann]] (1903)
+* [[Alfred Ellet Hitchner]] (1904)
+* [[Oliver D. Mann]] (1905)
+* [[Frank Gorton]] (1906–1907)
+* [[Joseph T. Smith (American football)|Joseph T. Smith]] (1908)
+* [[Herman Pritchard]] (1909)
+* [[Howard Gargan]] (1910–1912)
+* [[George Sanford (American football)|George Sanford]] (1913–1923)
+* [[John Wallace (American football coach)|John Wallace]] (1924–1926)
+* [[Harry Rockafeller]] (1927–1930)
+* [[J. Wilder Tasker]] (1931–1937)
+* [[Harvey Harman]] (1938–1941)
+* [[Harry Rockafeller]] (1942–1945)
+* [[Harvey Harman]] (1946–1955)
+* [[John Stiegman]] (1956–1959)
+* [[John F. Bateman]] (1960–1972)
+* [[Frank R. Burns]] (1973–1983)
+* [[Dick Anderson (American football, born 1941)|Dick Anderson]] (1984–1989)
+* [[Doug Graber]] (1990–1995)
+* [[Terry Shea]] (1996–2000)
+* [[Greg Schiano]] (2001–2011)
+* [[Kyle Flood]] (2012–2015)
+* [[Norries Wilson]] # (2015)
+* [[Chris Ash]] (2016–2019)
+* [[Nunzio Campanile]] # (2019)
+* [[Greg Schiano]] (2020– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Rutgers Scarlet Knights football navigational boxes|Coach]]
+</noinclude>

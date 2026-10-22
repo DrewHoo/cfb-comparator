@@ -1,0 +1,58 @@
+{{Navbox
+| name = Wyoming Cowboys football coach navbox
+| title = [[List of Wyoming Cowboys head football coaches|{{white|Wyoming Cowboys head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Wyoming Cowboys|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Fred Hess (coach)|Fred Hess]] (1892)
+* ''No team'' (1893)
+* [[Fred Hess (coach)|Fred Hess]] & [[Justus F. Soule]] (1894)
+* [[Justus F. Soule]] (1895–1897)
+* [[Fred Hess (coach)|Fred Hess]] (1898)
+* [[Justus F. Soule]] (1899)
+* [[William McMurray (American football)|William McMurray]] (1900–1906)
+* [[Robert Ehlman]] (1907–1908)
+* [[Harold I. Dean]] (1909–1911)
+* [[Leon Exelby]] (1912)
+* [[Ralph Thacker]] (1913–1914)
+* [[John Corbett (coach)|John Corbett]] (1915–1917)
+* ''No team'' (1918)
+* [[John Corbett (coach)|John Corbett]] (1919–1923)
+* [[William Henry Dietz]] (1924–1926)
+* [[George McLaren (American football)|George McLaren]] (1927–1929)
+* [[John Rhodes (coach)|John Rhodes]] (1930–1932)
+* [[Willard Witte]] (1933–1938)
+* [[Joel Hunt]] (1939)
+* [[Okie Blanchard]] (1940)
+* [[Bunny Oakes]] (1941–1942)
+* ''No team'' (1943–1945)
+* [[Bunny Oakes]] (1946)
+* [[Bowden Wyatt]] (1947–1952)
+* [[Phil Dickens]] (1953–1956)
+* [[Bob Devaney]] (1957–1961)
+* [[Lloyd Eaton]] (1962–1970)
+* [[Fritz Shurmur]] (1971–1974)
+* [[Fred Akers]] (1975–1976)
+* [[Bill Lewis (American football coach)|Bill Lewis]] (1977–1979)
+* [[Pat Dye]] (1980)
+* [[Al Kincaid]] (1981–1985)
+* [[Dennis Erickson]] (1986)
+* [[Paul Roach]] (1987–1990)
+* [[Joe Tiller]] (1991–1996)
+* [[Dana Dimel]] (1997–1999)
+* [[Vic Koenning]] (2000–2002)
+* [[Joe Glenn (American football)|Joe Glenn]] (2003–2008)
+* [[Dave Christensen]] (2009–2013)
+* [[Craig Bohl]] (2014–2023)
+* [[Jay Sawvel]] (2024– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Wyoming Cowboys football navigational boxes|Coach]]
+</noinclude>

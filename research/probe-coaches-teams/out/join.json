@@ -1,0 +1,1116 @@
+{
+ "sample": [
+  {
+   "coach": "Amos Alonzo Stagg",
+   "url": "https://en.wikipedia.org/wiki/Amos_Alonzo_Stagg",
+   "revid": 1372507063,
+   "infobox": "314-99-35",
+   "infoboxRaw": "314–99–35 (college football)<br>14–6 (college basketball)<br>266–166–3 (college baseball)",
+   "tableSeasonSum": "295-200-36",
+   "computedMajorCareer": "282-123-29",
+   "computedSeasons": 43,
+   "counts": {
+    "match": 30,
+    "mismatch": 13,
+    "offSpine": 14,
+    "unparsed": 0
+   },
+   "mismatches": [
+    {
+     "year": 1892,
+     "school": "Chicago Maroons football",
+     "wiki": "1-4-2",
+     "computed": "8-4-1",
+     "status": "mismatch",
+     "note": "",
+     "raw": "1–4–2"
+    },
+    {
+     "year": 1894,
+     "school": "Chicago Maroons football",
+     "wiki": "11-7-1",
+     "computed": "14-7-1",
+     "status": "mismatch",
+     "note": "",
+     "raw": "11–7–1"
+    },
+    {
+     "year": 1895,
+     "school": "Chicago Maroons football",
+     "wiki": "7-3-0",
+     "computed": "10-3-0",
+     "status": "mismatch",
+     "note": "",
+     "raw": "7–3"
+    },
+    {
+     "year": 1896,
+     "school": "Chicago Maroons football",
+     "wiki": "11-2-1",
+     "computed": "15-2-1",
+     "status": "mismatch",
+     "note": "",
+     "raw": "11–2–1"
+    },
+    {
+     "year": 1897,
+     "school": "Chicago Maroons football",
+     "wiki": "8-1-0",
+     "computed": "11-1-0",
+     "status": "mismatch",
+     "note": "",
+     "raw": "8–1"
+    },
+    {
+     "year": 1898,
+     "school": "Chicago Maroons football",
+     "wiki": "9-2-1",
+     "computed": "14-2-1",
+     "status": "mismatch",
+     "note": "",
+     "raw": "9–2–1"
+    },
+    {
+     "year": 1899,
+     "school": "Chicago Maroons football",
+     "wiki": "12-0-2",
+     "computed": "16-0-2",
+     "status": "mismatch",
+     "note": "",
+     "raw": "12–0–2"
+    },
+    {
+     "year": 1900,
+     "school": "Chicago Maroons football",
+     "wiki": "7-5-1",
+     "computed": "9-5-1",
+     "status": "mismatch",
+     "note": "",
+     "raw": "7–5–1"
+    },
+    {
+     "year": 1901,
+     "school": "Chicago Maroons football",
+     "wiki": "5-5-2",
+     "computed": "8-6-2",
+     "status": "mismatch",
+     "note": "",
+     "raw": "5–5–2"
+    },
+    {
+     "year": 1902,
+     "school": "Chicago Maroons football",
+     "wiki": "11-1-0",
+     "computed": "14-1-0",
+     "status": "mismatch",
+     "note": "",
+     "raw": "11–1"
+    },
+    {
+     "year": 1903,
+     "school": "Chicago Maroons football",
+     "wiki": "10-2-1",
+     "computed": "12-2-1",
+     "status": "mismatch",
+     "note": "",
+     "raw": "10–2–1"
+    },
+    {
+     "year": 1904,
+     "school": "Chicago Maroons football",
+     "wiki": "8-1-1",
+     "computed": "10-1-1",
+     "status": "mismatch",
+     "note": "",
+     "raw": "8–1–1"
+    },
+    {
+     "year": 1918,
+     "school": "Chicago Maroons football",
+     "wiki": "0-6-0",
+     "computed": "4-6-1",
+     "status": "mismatch",
+     "note": "",
+     "raw": "0–6"
+    }
+   ],
+   "offSpine": [
+    "1890 Springfield Pride 5-3-0",
+    "1933 Pacific Tigers 5-5-0",
+    "1934 Pacific Tigers 4-5-0",
+    "1935 Pacific Tigers 5-4-1",
+    "1936 Pacific Tigers 5-4-1",
+    "1937 Pacific Tigers 3-5-2",
+    "1938 Pacific Tigers 7-3-0",
+    "1939 Pacific Tigers 6-6-1",
+    "1940 Pacific Tigers 4-5-0",
+    "1941 Pacific Tigers 4-7-0",
+    "1942 Pacific Tigers 2-6-1",
+    "1944 Pacific Tigers 3-8-0",
+    "1945 Pacific Tigers 0-10-1",
+    "1946 Pacific Tigers 5-7-0"
+   ],
+   "offSpineRecord": "58-78-7"
+  },
+  {
+   "coach": "Bear Bryant",
+   "url": "https://en.wikipedia.org/wiki/Bear_Bryant",
+   "revid": 1379392725,
+   "infobox": "323-85-17",
+   "infoboxRaw": "323–85–17",
+   "tableSeasonSum": "323-85-17",
+   "computedMajorCareer": "323-85-17",
+   "computedSeasons": 38,
+   "counts": {
+    "match": 38,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Bobby Bowden",
+   "url": "https://en.wikipedia.org/wiki/Bobby_Bowden",
+   "revid": 1377133461,
+   "infobox": "377-129-4",
+   "infoboxRaw": "377–129–4 (college football){{efn|12 wins vacated; Bowden has a total of 411 wins as head coach. His 22 wins from South Georgia State College are also not count",
+   "tableSeasonSum": "389-129-4",
+   "computedMajorCareer": "357-124-4",
+   "computedSeasons": 40,
+   "counts": {
+    "match": 39,
+    "mismatch": 1,
+    "offSpine": 4,
+    "unparsed": 0
+   },
+   "mismatches": [
+    {
+     "year": 1983,
+     "school": "Florida State Seminoles football",
+     "wiki": "8-4-0",
+     "computed": "7-5-0",
+     "status": "mismatch",
+     "note": "",
+     "raw": "8–4 (7–5) ^"
+    }
+   ],
+   "offSpine": [
+    "1959 Samford Bulldogs 9-1-0",
+    "1960 Samford Bulldogs 8-1-0",
+    "1961 Samford Bulldogs 7-2-0",
+    "1962 Samford Bulldogs 7-2-0"
+   ],
+   "offSpineRecord": "31-6-0"
+  },
+  {
+   "coach": "Brian Kelly (American football coach)",
+   "url": "https://en.wikipedia.org/wiki/Brian_Kelly_(American_football_coach)",
+   "revid": 1379386704,
+   "infobox": "297-109-2",
+   "infoboxRaw": "297–109–2{{#tag:ref|On November 22, 2016, Notre Dame was forced to vacate all 12 wins and its appearance in the [[2013 BCS National Championship Game]] from the",
+   "tableSeasonSum": "297-110-2",
+   "computedMajorCareer": "200-76-0",
+   "computedSeasons": 23,
+   "counts": {
+    "match": 21,
+    "mismatch": 2,
+    "offSpine": 13,
+    "unparsed": 0
+   },
+   "mismatches": [
+    {
+     "year": 2012,
+     "school": "Notre Dame Fighting Irish football",
+     "wiki": "0-0-0",
+     "computed": "12-1-0",
+     "status": "mismatch",
+     "note": "",
+     "raw": "0–0"
+    },
+    {
+     "year": 2013,
+     "school": "Notre Dame Fighting Irish football",
+     "wiki": "0-4-0",
+     "computed": "9-4-0",
+     "status": "mismatch",
+     "note": "",
+     "raw": "0–4"
+    }
+   ],
+   "offSpine": [
+    "1991 Grand Valley State Lakers 9-3-0",
+    "1992 Grand Valley State Lakers 8-3-0",
+    "1993 Grand Valley State Lakers 6-3-2",
+    "1994 Grand Valley State Lakers 8-4-0",
+    "1995 Grand Valley State Lakers 8-3-0",
+    "1996 Grand Valley State Lakers 8-3-0",
+    "1997 Grand Valley State Lakers 9-2-0",
+    "1998 Grand Valley State Lakers 9-3-0",
+    "1999 Grand Valley State Lakers 5-5-0",
+    "2000 Grand Valley State Lakers 7-4-0",
+    "2001 Grand Valley State Lakers 13-1-0",
+    "2002 Grand Valley State Lakers 14-0-0",
+    "2003 Grand Valley State Lakers 14-1-0"
+   ],
+   "offSpineRecord": "118-35-2"
+  },
+  {
+   "coach": "Bud Wilkinson",
+   "url": "https://en.wikipedia.org/wiki/Bud_Wilkinson",
+   "revid": 1380752486,
+   "infobox": "145-29-4",
+   "infoboxRaw": "145–29–4 (college)<br>9–20 (NFL)",
+   "tableSeasonSum": "145-29-4",
+   "computedMajorCareer": "145-29-4",
+   "computedSeasons": 17,
+   "counts": {
+    "match": 17,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Fielding H. Yost",
+   "url": "https://en.wikipedia.org/wiki/Fielding_H._Yost",
+   "revid": 1380958794,
+   "infobox": "198-35-12",
+   "infoboxRaw": "198–35–12",
+   "tableSeasonSum": "198-35-12",
+   "computedMajorCareer": "165-29-10",
+   "computedSeasons": 25,
+   "counts": {
+    "match": 25,
+    "mismatch": 0,
+    "offSpine": 5,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [
+    "1897 Wesleyan Battling Bishops 7-1-1",
+    "1898 Nebraska Cornhuskers 8-3-0",
+    "1899 Kansas Jayhawks 10-0-0",
+    "1900 Stanford Cardinal 7-2-1",
+    "1900 San Jose State Spartans 1-0-0"
+   ],
+   "offSpineRecord": "33-6-2"
+  },
+  {
+   "coach": "Frank Leahy",
+   "url": "https://en.wikipedia.org/wiki/Frank_Leahy",
+   "revid": 1378139380,
+   "infobox": "107-13-9",
+   "infoboxRaw": "107–13–9",
+   "tableSeasonSum": "107-13-9",
+   "computedMajorCareer": "107-13-9",
+   "computedSeasons": 13,
+   "counts": {
+    "match": 13,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Fritz Crisler",
+   "url": "https://en.wikipedia.org/wiki/Fritz_Crisler",
+   "revid": 1372506553,
+   "infobox": "116-32-9",
+   "infoboxRaw": "116–32–9 (football)<br />32–11 (basketball)<br />22–25 (baseball)",
+   "tableSeasonSum": "116-32-9",
+   "computedMajorCareer": "116-32-9",
+   "computedSeasons": 18,
+   "counts": {
+    "match": 18,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Gil Dobie",
+   "url": "https://en.wikipedia.org/wiki/Gil_Dobie",
+   "revid": 1372518352,
+   "infobox": "182-45-15",
+   "infoboxRaw": "182–45–15 (football)<br />17–5 (basketball)",
+   "tableSeasonSum": "182-45-15",
+   "computedMajorCareer": "116-44-11",
+   "computedSeasons": 22,
+   "counts": {
+    "match": 22,
+    "mismatch": 0,
+    "offSpine": 11,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [
+    "1906 North Dakota State Bison 5-0-0",
+    "1907 North Dakota State Bison 3-0-0",
+    "1908 Washington Huskies 6-0-1",
+    "1909 Washington Huskies 7-0-0",
+    "1910 Washington Huskies 6-0-0",
+    "1911 Washington Huskies 7-0-0",
+    "1912 Washington Huskies 6-0-0",
+    "1913 Washington Huskies 7-0-0",
+    "1914 Washington Huskies 6-0-1",
+    "1915 Washington Huskies 7-0-0",
+    "1936 Boston College Eagles 6-1-2"
+   ],
+   "offSpineRecord": "66-1-4"
+  },
+  {
+   "coach": "Jim Tressel",
+   "url": "https://en.wikipedia.org/wiki/Jim_Tressel",
+   "revid": 1376404104,
+   "infobox": "229-79-2",
+   "infoboxRaw": "229–79–2",
+   "tableSeasonSum": "241-79-2",
+   "computedMajorCareer": "106-22-0",
+   "computedSeasons": 10,
+   "counts": {
+    "match": 10,
+    "mismatch": 0,
+    "offSpine": 15,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [
+    "1986 Youngstown State Penguins 2-9-0",
+    "1987 Youngstown State Penguins 8-4-0",
+    "1988 Youngstown State Penguins 4-7-0",
+    "1989 Youngstown State Penguins 9-4-0",
+    "1990 Youngstown State Penguins 11-1-0",
+    "1991 Youngstown State Penguins 12-3-0",
+    "1992 Youngstown State Penguins 11-3-1",
+    "1993 Youngstown State Penguins 13-2-0",
+    "1994 Youngstown State Penguins 14-0-1",
+    "1995 Youngstown State Penguins 3-8-0",
+    "1996 Youngstown State Penguins 8-3-0",
+    "1997 Youngstown State Penguins 13-2-0",
+    "1998 Youngstown State Penguins 6-5-0",
+    "1999 Youngstown State Penguins 12-3-0",
+    "2000 Youngstown State Penguins 9-3-0"
+   ],
+   "offSpineRecord": "135-57-2"
+  },
+  {
+   "coach": "Jock Sutherland",
+   "url": "https://en.wikipedia.org/wiki/Jock_Sutherland",
+   "revid": 1379222179,
+   "infobox": null,
+   "infoboxRaw": "",
+   "tableSeasonSum": "144-28-14",
+   "computedMajorCareer": "144-28-14",
+   "computedSeasons": 20,
+   "counts": {
+    "match": 20,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Joe Paterno",
+   "url": "https://en.wikipedia.org/wiki/Joe_Paterno",
+   "revid": 1372395360,
+   "infobox": "409-136-3",
+   "infoboxRaw": "409–136–3",
+   "tableSeasonSum": "409-136-3",
+   "computedMajorCareer": "409-136-3",
+   "computedSeasons": 46,
+   "counts": {
+    "match": 46,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "John Heisman",
+   "url": "https://en.wikipedia.org/wiki/John_Heisman",
+   "revid": 1380209703,
+   "infobox": "186-70-18",
+   "infoboxRaw": "186–70–18 (football)<br>9–14 (basketball)<br>199–108–7 (baseball)",
+   "tableSeasonSum": "186-70-18",
+   "computedMajorCareer": "148-60-14",
+   "computedSeasons": 26,
+   "counts": {
+    "match": 26,
+    "mismatch": 0,
+    "offSpine": 11,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [
+    "1892 Oberlin Yeomen 7-0-0",
+    "1893 Akron Zips 5-2-0",
+    "1894 Akron Zips 1-0-0",
+    "1894 Oberlin Yeomen 4-3-1",
+    "1895 Auburn Tigers 2-1-0",
+    "1896 Auburn Tigers 3-1-0",
+    "1897 Auburn Tigers 2-0-1",
+    "1898 Auburn Tigers 2-1-0",
+    "1899 Auburn Tigers 3-1-1",
+    "1900 Clemson Tigers 6-0-0",
+    "1901 Clemson Tigers 3-1-1"
+   ],
+   "offSpineRecord": "38-10-4"
+  },
+  {
+   "coach": "Kirby Smart",
+   "url": "https://en.wikipedia.org/wiki/Kirby_Smart",
+   "revid": 1381246215,
+   "infobox": "124-23-0",
+   "infoboxRaw": "{{Winning percentage|124|23|record=y}} ",
+   "tableSeasonSum": "123-22-0",
+   "computedMajorCareer": "123-22-0",
+   "computedSeasons": 11,
+   "counts": {
+    "match": 11,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Knute Rockne",
+   "url": "https://en.wikipedia.org/wiki/Knute_Rockne",
+   "revid": 1379279390,
+   "infobox": "105-12-5",
+   "infoboxRaw": "105–12–5",
+   "tableSeasonSum": "105-12-5",
+   "computedMajorCareer": "105-12-5",
+   "computedSeasons": 13,
+   "counts": {
+    "match": 13,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Nick Saban",
+   "url": "https://en.wikipedia.org/wiki/Nick_Saban",
+   "revid": 1380752613,
+   "infobox": "292-71-1",
+   "infoboxRaw": "292–71–1 (college){{#tag:ref|Saban's on-the-field record in 2007 was 7–6 (4–4 SEC). The NCAA ruled that Alabama must vacate 21{{nbsp}}victories due to sanctions",
+   "tableSeasonSum": "292-71-1",
+   "computedMajorCareer": "297-71-1",
+   "computedSeasons": 28,
+   "counts": {
+    "match": 27,
+    "mismatch": 1,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [
+    {
+     "year": 2007,
+     "school": "Alabama Crimson Tide football",
+     "wiki": "2-6-0",
+     "computed": "7-6-0",
+     "status": "mismatch",
+     "note": "",
+     "raw": "2–6"
+    }
+   ],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Pop Warner",
+   "url": "https://en.wikipedia.org/wiki/Pop_Warner",
+   "revid": 1380700743,
+   "infobox": "319-106-32",
+   "infoboxRaw": "319–106–32 (football){{#tag:ref|The [[National Collegiate Athletic Association|NCAA]] credits Warner with a career football coaching record of 319–106–32. The [",
+   "tableSeasonSum": "319-106-32",
+   "computedMajorCareer": "319-111-33",
+   "computedSeasons": 44,
+   "counts": {
+    "match": 40,
+    "mismatch": 2,
+    "offSpine": 2,
+    "unparsed": 0
+   },
+   "mismatches": [
+    {
+     "year": 1908,
+     "school": "Carlisle Indians football",
+     "wiki": "11-2-1",
+     "computed": "10-2-1",
+     "status": "mismatch",
+     "note": "",
+     "raw": "11–2–1"
+    },
+    {
+     "year": 1914,
+     "school": "Carlisle Indians football",
+     "wiki": "5-9-1",
+     "computed": "5-10-1",
+     "status": "mismatch",
+     "note": "",
+     "raw": "5–9–1"
+    }
+   ],
+   "offSpine": [
+    "1895 Georgia Bulldogs 3-4-0",
+    "1896 Georgia Bulldogs 4-0-0"
+   ],
+   "offSpineRecord": "7-4-0"
+  },
+  {
+   "coach": "Robert Neyland",
+   "url": "https://en.wikipedia.org/wiki/Robert_Neyland",
+   "revid": 1381246600,
+   "infobox": "173-31-12",
+   "infoboxRaw": "173–31–12",
+   "tableSeasonSum": "173-31-12",
+   "computedMajorCareer": "173-31-12",
+   "computedSeasons": 21,
+   "counts": {
+    "match": 21,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Robert Zuppke",
+   "url": "https://en.wikipedia.org/wiki/Robert_Zuppke",
+   "revid": 1364548005,
+   "infobox": "131-81-12",
+   "infoboxRaw": "131–81–12 (college)",
+   "tableSeasonSum": "131-81-12",
+   "computedMajorCareer": "131-81-12",
+   "computedSeasons": 29,
+   "counts": {
+    "match": 29,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Tom Osborne",
+   "url": "https://en.wikipedia.org/wiki/Tom_Osborne",
+   "revid": 1377160142,
+   "infobox": null,
+   "infoboxRaw": "",
+   "tableSeasonSum": "255-49-3",
+   "computedMajorCareer": "255-49-3",
+   "computedSeasons": 25,
+   "counts": {
+    "match": 25,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Urban Meyer",
+   "url": "https://en.wikipedia.org/wiki/Urban_Meyer",
+   "revid": 1379571064,
+   "infobox": "187-32-0",
+   "infoboxRaw": "NCAA: 187–32 <br> NFL: 2–11",
+   "tableSeasonSum": "187-32-0",
+   "computedMajorCareer": "187-32-0",
+   "computedSeasons": 17,
+   "counts": {
+    "match": 17,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Wallace Wade",
+   "url": "https://en.wikipedia.org/wiki/Wallace_Wade",
+   "revid": 1381093638,
+   "infobox": "171-49-10",
+   "infoboxRaw": "171–49–10 (college football)<br>24–16 (college basketball)<br>87–45–2 (college baseball)",
+   "tableSeasonSum": "171-49-10",
+   "computedMajorCareer": "171-49-10",
+   "computedSeasons": 24,
+   "counts": {
+    "match": 24,
+    "mismatch": 0,
+    "offSpine": 0,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [],
+   "offSpineRecord": "0-0-0"
+  },
+  {
+   "coach": "Walter Camp",
+   "url": "https://en.wikipedia.org/wiki/Walter_Camp",
+   "revid": 1378459605,
+   "infobox": "79-5-3",
+   "infoboxRaw": "79–5–3",
+   "tableSeasonSum": "66-5-3",
+   "computedMajorCareer": "68-2-0",
+   "computedSeasons": 5,
+   "counts": {
+    "match": 4,
+    "mismatch": 0,
+    "offSpine": 3,
+    "unparsed": 1
+   },
+   "mismatches": [],
+   "offSpine": [
+    "1892 Stanford Cardinal 1-0-2",
+    "1894 Stanford Cardinal 6-3-0",
+    "1895 Stanford Cardinal 4-0-1"
+   ],
+   "offSpineRecord": "11-3-3"
+  },
+  {
+   "coach": "Woody Hayes",
+   "url": "https://en.wikipedia.org/wiki/Woody_Hayes",
+   "revid": 1380754294,
+   "infobox": "238-72-10",
+   "infoboxRaw": "238–72–10 (college)<br>18–11–1 (high school)",
+   "tableSeasonSum": "238-72-10",
+   "computedMajorCareer": "205-61-10",
+   "computedSeasons": 28,
+   "counts": {
+    "match": 28,
+    "mismatch": 0,
+    "offSpine": 5,
+    "unparsed": 0
+   },
+   "mismatches": [],
+   "offSpine": [
+    "1946 Denison Big Red 2-6-0",
+    "1947 Denison Big Red 9-0-0",
+    "1948 Denison Big Red 8-0-0",
+    "1949 Miami RedHawks 5-4-0",
+    "1950 Miami RedHawks 9-1-0"
+   ],
+   "offSpineRecord": "33-11-0"
+  }
+ ],
+ "knownAnswers": [
+  {
+   "name": "Knute Rockne career",
+   "published": "105-12-5",
+   "computed": "105-12-5",
+   "why": "Howell Notre Dame 1918-1930 (122 games) x navbox"
+  },
+  {
+   "name": "Bud Wilkinson longest win streak",
+   "published": "47 (1953-1957)",
+   "computed": "47 (ended after 1957-11-09)",
+   "why": "payload, Oklahoma, ties break a run"
+  },
+  {
+   "name": "Bud Wilkinson career",
+   "published": "145-29-4",
+   "computed": "145-29-4",
+   "why": ""
+  },
+  {
+   "name": "Bear Bryant career wins",
+   "published": "323 (all four schools, bowls included)",
+   "computed": "323 (323-85-17)",
+   "why": "payload: Maryland 1945, Kentucky, Texas A&M, Alabama"
+  },
+  {
+   "name": "Bear Bryant at Alabama",
+   "published": "232-46-9",
+   "computed": "232-46-9",
+   "why": ""
+  },
+  {
+   "name": "Bear Bryant career excluding bowls",
+   "published": "-",
+   "computed": "308-73-15",
+   "why": "scope check"
+  },
+  {
+   "name": "Joe Paterno on-field wins",
+   "published": "409 (restored 2015)",
+   "computed": "409 (409-136-3)",
+   "why": ""
+  },
+  {
+   "name": "Joe Paterno with 1998-2011 wins vacated (2012-2015 official)",
+   "published": "298",
+   "computed": "298 (vacating 111 wins 1998-2011)",
+   "why": ""
+  },
+  {
+   "name": "Bobby Bowden major-college on-field",
+   "published": "-",
+   "computed": "357-124-4",
+   "why": "payload: WVU 1970-75 42-26-0, FSU 1976-2009 315-98-4"
+  },
+  {
+   "name": "Bobby Bowden all on-field (+ Howard/Samford from Wikipedia rows)",
+   "published": "389",
+   "computed": "388 (Samford 31-6-0)",
+   "why": ""
+  },
+  {
+   "name": "Bobby Bowden official (12 FSU wins 2006-07 vacated)",
+   "published": "377",
+   "computed": "376",
+   "why": "the 12 vacated games are a researched list; the payload has no vacated flag"
+  },
+  {
+   "name": "Nick Saban career on-field (through 2023, his last season)",
+   "published": "292-71-1 official",
+   "computed": "297-71-1",
+   "why": "payload: Toledo 1990, Michigan State, LSU, Alabama"
+  },
+  {
+   "name": "Nick Saban official (2007 Alabama: 5 wins vacated)",
+   "published": "292",
+   "computed": "292",
+   "why": "the 5 vacated 2007 wins are a ruling, not in the payload"
+  },
+  {
+   "name": "Nick Saban at Alabama on-field / official",
+   "published": "206-29 official (201? per vacated)",
+   "computed": "206-29-0 on-field, 201 wins official",
+   "why": ""
+  },
+  {
+   "name": "Kirby Smart first 100 games at Georgia",
+   "published": "- (CFBD/ESPN: n/a)",
+   "computed": "85-15-0 (game 100 on 2023-09-23)",
+   "why": "145 Georgia games in the payload through 2026 to date, record 123-22-0"
+  },
+  {
+   "name": "Urban Meyer first 24 games at Ohio State",
+   "published": "24-0",
+   "computed": "24-0-0",
+   "why": "game 24 on 2013-11-30"
+  },
+  {
+   "name": "Urban Meyer major career",
+   "published": "187-32",
+   "computed": "187-32-0",
+   "why": "Bowling Green, Utah (2004 Fiesta credited to Meyer by coach-overrides), Florida, Ohio State"
+  },
+  {
+   "name": "Fielding Yost Michigan 1901-05",
+   "published": "55-1-1",
+   "computed": "55-1-1",
+   "why": "Howell Michigan x navbox"
+  },
+  {
+   "name": "Fielding Yost career, major seasons only",
+   "published": "198-35-12",
+   "computed": "165-29-10",
+   "why": "Ohio Wesleyan 1897 and Stanford 1900 (and San Jose Normal) are not on the spine"
+  },
+  {
+   "name": "Tom Osborne career",
+   "published": "255-49-3",
+   "computed": "255-49-3",
+   "why": ""
+  },
+  {
+   "name": "Woody Hayes at Ohio State",
+   "published": "205-61-10",
+   "computed": "205-61-10",
+   "why": ""
+  },
+  {
+   "name": "Woody Hayes career major only",
+   "published": "238-72-10 incl. Denison",
+   "computed": "205-61-10",
+   "why": "Denison 1946-48 is off the spine; Miami (OH) 1949-50 is it major then?"
+  },
+  {
+   "name": "Brian Kelly major career (payload)",
+   "published": "-",
+   "computed": "200-76-0",
+   "why": "+ Grand Valley State 118-35-2 (Wikipedia rows) = 318 wins on-field; ND vacated 21 (2012-13)"
+  },
+  {
+   "name": "Jim Tressel major career (payload)",
+   "published": "-",
+   "computed": "106-22-0",
+   "why": "+ Youngstown State 135-57-2; Ohio State vacated the 2010 season (12 wins)"
+  }
+ ],
+ "payloadCoachCoverage": {
+  "1930s": {
+   "majorTeamGames": 4641,
+   "noCoach": 907,
+   "noCoachTeams": [
+    "centenary",
+    "grinnell",
+    "mercer",
+    "citadel",
+    "erskine",
+    "virginia-military-institute",
+    "wofford",
+    "san-francisco",
+    "duquesne",
+    "loyola-new-orleans",
+    "st-louis",
+    "washburn",
+    "bucknell",
+    "colorado-mines",
+    "western-state",
+    "cornell",
+    "furman",
+    "holy-cross",
+    "idaho",
+    "manhattan",
+    "montana",
+    "montana-state",
+    "william-and-mary",
+    "northern-arizona",
+    "santa-clara",
+    "villanova",
+    "washington-missouri",
+    "washington-and-lee",
+    "colorado-college",
+    "gonzaga",
+    "carnegie-tech",
+    "yale",
+    "sewanee",
+    "harvard",
+    "rhodes"
+   ]
+  },
+  "1940s": {
+   "majorTeamGames": 10419,
+   "noCoach": 959,
+   "noCoachTeams": [
+    "virginia-military-institute",
+    "gonzaga",
+    "washburn",
+    "washington-and-lee",
+    "northern-arizona",
+    "furman",
+    "centenary",
+    "idaho",
+    "st-louis",
+    "montana",
+    "san-francisco",
+    "carnegie-tech",
+    "citadel",
+    "sewanee",
+    "villanova",
+    "yale",
+    "washington-missouri",
+    "jacksonville-nas",
+    "st-mary-s-pre-flight",
+    "great-lakes-navy",
+    "camp-grant",
+    "fort-riley",
+    "alameda-coast-guard",
+    "colorado-college",
+    "del-monte-pre-flight",
+    "march-field",
+    "second-air-force-colorado",
+    "fort-warren",
+    "amarillo-field",
+    "bucknell",
+    "coast-guard",
+    "idaho-state",
+    "lubbock-field",
+    "randolph-field",
+    "norman-nas",
+    "wichita-state",
+    "lafayette",
+    "merchant-marine",
+    "tennessee-chattanooga",
+    "montana-state",
+    "portland",
+    "bradley"
+   ]
+  },
+  "1950s": {
+   "majorTeamGames": 10989,
+   "noCoach": 192,
+   "noCoachTeams": [
+    "furman",
+    "citadel",
+    "northern-arizona",
+    "bradley",
+    "dayton"
+   ]
+  },
+  "1960s": {
+   "majorTeamGames": 11749,
+   "noCoach": 185,
+   "noCoachTeams": [
+    "dayton",
+    "lehigh",
+    "quantico-marines",
+    "tampa",
+    "long-beach-state",
+    "los-angeles-state"
+   ]
+  },
+  "1970s": {
+   "majorTeamGames": 14640,
+   "noCoach": 685,
+   "noCoachTeams": [
+    "dayton",
+    "long-beach-state",
+    "los-angeles-state",
+    "tampa",
+    "tennessee-chattanooga",
+    "texas-arlington",
+    "southern-illinois",
+    "lamar",
+    "illinois-state",
+    "mcneese-state",
+    "northwestern-state",
+    "alcorn-state",
+    "jackson-state",
+    "mississippi-valley-state",
+    "southern",
+    "tennessee-state",
+    "texas-southern",
+    "western-carolina",
+    "grambling-state",
+    "prairie-view-a-and-m",
+    "east-tennessee-state"
+   ]
+  },
+  "1980s": {
+   "majorTeamGames": 12948,
+   "noCoach": 176,
+   "noCoachTeams": [
+    "lamar",
+    "mcneese-state",
+    "illinois-state",
+    "texas-arlington",
+    "western-carolina",
+    "east-tennessee-state"
+   ]
+  },
+  "1990s": {
+   "majorTeamGames": 12516,
+   "noCoach": 0,
+   "noCoachTeams": []
+  },
+  "2000s": {
+   "majorTeamGames": 14485,
+   "noCoach": 6,
+   "noCoachTeams": [
+    "florida-am"
+   ]
+  },
+  "2010s": {
+   "majorTeamGames": 16079,
+   "noCoach": 0,
+   "noCoachTeams": []
+  },
+  "2020s": {
+   "majorTeamGames": 9594,
+   "noCoach": 0,
+   "noCoachTeams": []
+  }
+ },
+ "preCoachKinds": {
+  "1930s": {
+   "one": 6458,
+   "co": 15,
+   "multi": 18,
+   "noCoach": 0,
+   "hole": 0,
+   "noNavbox": 9
+  },
+  "1920s": {
+   "one": 8769,
+   "co": 72,
+   "multi": 52,
+   "noCoach": 0,
+   "hole": 0,
+   "noNavbox": 47
+  },
+  "1910s": {
+   "one": 6398,
+   "co": 28,
+   "multi": 53,
+   "noCoach": 0,
+   "hole": 0,
+   "noNavbox": 19
+  },
+  "1900s": {
+   "one": 5823,
+   "co": 42,
+   "multi": 46,
+   "noCoach": 11,
+   "hole": 23,
+   "noNavbox": 6
+  },
+  "1890s": {
+   "one": 2048,
+   "co": 109,
+   "multi": 41,
+   "noCoach": 450,
+   "hole": 107,
+   "noNavbox": 46
+  },
+  "1880s": {
+   "one": 294,
+   "co": 0,
+   "multi": 0,
+   "noCoach": 613,
+   "hole": 35,
+   "noNavbox": 31
+  },
+  "1870s": {
+   "one": 39,
+   "co": 0,
+   "multi": 3,
+   "noCoach": 151,
+   "hole": 0,
+   "noNavbox": 0
+  },
+  "1860s": {
+   "one": 0,
+   "co": 0,
+   "multi": 0,
+   "noCoach": 4,
+   "hole": 0,
+   "noNavbox": 0
+  }
+ }
+}

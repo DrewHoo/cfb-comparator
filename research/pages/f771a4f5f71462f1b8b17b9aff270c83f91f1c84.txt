@@ -1,0 +1,50 @@
+{{Navbox
+| name = Trinity Bantams football coach navbox
+| title = [[Trinity Bantams football|{{white|Trinity Bantams head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Trinity Bantams|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1877–1888)
+* [[Lucius Robinson (American football)|Lucius Robinson]] (1889)
+* ''No coach'' (1890)
+* [[Russell Lee Jones]] (1891)
+* ''No coach'' (1892–1896)
+* [[Everett J. Lake]] (1897)
+* ''No coach'' (1898)
+* [[Albert Fulton]] (1899)
+* [[J. H. Callahan]] (1900)
+* [[Gerrish Newell]] (1901)
+* [[Frederick S. Bacon]] (1902)
+* [[John Pierson (American football coach)|John Pierson]] (1903)
+* [[J. J. Welch]] (1904)
+* [[Clinton Landefeld]] (1905–1907)
+* [[Raymond G. Gettell]] (1908–1913)
+* [[John B. Price]] (1914–1915)
+* [[James L. Cole (American football)|James L. Cole]] (1916)
+* [[Robert S. Morris]] (1917)
+* [[Art Howe (American football)|Art Howe]] (1918)
+* [[Thomas D. Shepherd]] (1919)
+* [[Harry Lamberton]] (1920)
+* [[Harold Drew]] (1921–1923)
+* [[Paul Becker (American football coach)|Paul Becker]] (1924)
+* [[Henry W. Clark]] (1925)
+* [[Johnny Merriman]] (1926–1928)
+* [[William Galvin (American football coach)|William Galvin]] (1929–1931)
+* [[Dan Jessee]] (1932–1942) 
+* ''No team'' (1943–1945)
+* [[Dan Jessee]] (1946–1966)
+* [[Don Miller (American football coach)|Don Miller]] (1967–1998)
+* [[Bill Decker]] (1999)
+* [[Chuck Priore]] (2000–2005)
+* [[Jeff Devanney]] (2006–2019)
+* ''No team'' (2020)
+* [[Jeff Devanney]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Trinity Bantams football navigational boxes|Coach]]
+</noinclude>

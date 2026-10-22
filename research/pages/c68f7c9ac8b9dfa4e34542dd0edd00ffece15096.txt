@@ -1,0 +1,47 @@
+{{Navbox
+| name = New Hampshire Wildcats football coach navbox
+| title = [[New Hampshire Wildcats football|{{white|New Hampshire Wildcats head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|New Hampshire Wildcats|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[John Scannell]] (1902–1903)
+* [[G. B. Ward]] (1904)
+* ''Unknown'' (1905)
+* [[Edward Herr]] (1906–1907)
+* [[Charles O. Gill]] (1908)
+* [[Willard Gildersleeve]] (1909)
+* [[Ray B. Thomas]] (1910)
+* [[George McCaa]] (1911)
+* [[Ray B. Thomas]] (1911)
+* [[Tod Eberle]] (1912–1913)
+* [[Thomas D. Shepherd]] (1914)
+* [[Butch Cowell]] (1915–1917)
+* ''No team'' (1918)
+* [[Butch Cowell]] (1919–1936)
+* [[George Sauer]] (1937–1941)
+* [[Charles M. Justice]] (1942)
+* ''No team'' (1943)
+* [[Herbert Snow (American football)|Herbert Snow]] (1944)
+* ''No team'' (1945)
+* [[Bill Glassford]] (1946–1948)
+* [[Chief Boston]] (1949–1964)
+* [[Andy Mooradian]] (1965)
+* [[Joe Yukica]] (1966–1967)
+* [[Jim Root (gridiron football)|Jim Root]] (1968–1971)
+* [[Bill Bowes (American football)|Bill Bowes]] (1972–1998)
+* [[Sean McDonnell]] (1999–2018)
+* [[Ricky Santos]] # (2019)
+* [[Sean McDonnell]] (2020–2021)
+* [[Ricky Santos]] (2022–2025)
+* [[Sean Goldrich]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:New Hampshire Wildcats football navigational boxes|Coach]]
+</noinclude>

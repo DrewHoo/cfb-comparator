@@ -1,0 +1,56 @@
+{{Navbox
+| name = New Mexico State Aggies football coach navbox
+| title = [[List of New Mexico State Aggies head football coaches|{{white|New Mexico State Aggies head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|New Mexico State Aggies|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[William M. Clute]] (1893)
+* ''No team'' (1894)
+* [[Alfred Holt (American football)|Alfred Holt]] (1895)
+* ''No coach'' (1896)
+* [[Charles M. Barber]] (1897–1898)
+* [[John O. Miller]] (1899)
+* [[William A. Sutherland (American football)|William A. Sutherland]] (1900)
+* [[John O. Miller]] (1901–1907)
+* [[William G. Hummell]] (1908)
+* [[John H. Squires]] (1909)
+* [[Art Badenoch]] (1910–1913)
+* [[Clarence W. Russell]] (1914–1916)
+* [[John G. Griffith]] (1917)
+* ''No team'' (1918)
+* [[Anthony Savage]] (1919)
+* [[Dutch Bergman]] (1920–1922)
+* [[R. R. Brown]] (1923–1925)
+* [[Arthur Burkholder]] (1926)
+* [[Ted Coffman]] (1927–1928)
+* [[Jerry Hines]] (1929–1939)
+* [[Julius H. Johnston]] (1940–1942)
+* [[Maurice Moulder]] (1943)
+* ''No team'' (1944–1945)
+* [[Raymond A. Curfman]] (1946–1947)
+* [[Vaughn Corley]] (1948–1950)
+* [[Joseph T. Coleman]] (1951–1952)
+* [[James Patton (American football coach)|James Patton]] (1953–1954)
+* [[Tony Cavallo]] (1955–1957)
+* [[Warren B. Woodson]] (1958–1967)
+* [[Jim Wood (American football)|Jim Wood]] (1968–1972)
+* [[Jim Bradley (American football)|Jim Bradley]] (1973–1977)
+* [[Gil Krueger]] (1978–1982)
+* [[Fred Zechman]] (1983–1985)
+* [[Mike Knoll]] (1986–1989)
+* [[Jim Hess]] (1990–1996)
+* [[Tony Samuel]] (1997–2004)
+* [[Hal Mumme]] (2005–2008)
+* [[DeWayne Walker]] (2009–2012)
+* [[Doug Martin (American football coach)|Doug Martin]] (2013–2021)
+* [[Jerry Kill]] (2022–2023)
+* [[Tony Sanchez (American football)|Tony Sanchez]] (2024– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:New Mexico State Aggies football navigational boxes|Coach]]
+</noinclude>

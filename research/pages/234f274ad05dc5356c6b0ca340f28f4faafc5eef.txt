@@ -1,0 +1,43 @@
+{{Navbox
+| name = Oklahoma State Cowboys football coach navbox
+| title = [[List of Oklahoma State Cowboys head football coaches|{{color|black|Oklahoma State Cowboys head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Oklahoma State Cowboys|color=black}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 =
+* ''No coach'' (1901–1904)
+* [[Frank A. McCoy]] (1905)
+* [[Boyd Hill]] (1906–1907)
+* [[Ed Parry]] (1908)
+* [[Paul J. Davis]] (1909–1914)
+* [[John G. Griffith]] (1915–1916)
+* [[Earl A. Pritchard]] (1917–1918)
+* [[Jim Pixlee]] (1919–1920)
+* [[John Maulbetsch]] (1921–1928)
+* [[Pappy Waldorf]] (1929–1933)
+* [[Albert Exendine]] (1934–1935)
+* [[Ted Cox (American football)|Ted Cox]] (1936–1938)
+* [[Jim Lookabaugh]] (1939–1949)
+* [[Jennings B. Whitworth]] (1950–1954)
+* [[Cliff Speegle]] (1955–1962)
+* [[Phil Cutchin]] (1963–1968)
+* [[Floyd Gass]] (1969–1971)
+* [[Dave Smith (American football coach)|Dave Smith]] (1972)
+* [[Jim Stanley (American football)|Jim Stanley]] (1973–1978)
+* [[Jimmy Johnson (American football coach)|Jimmy Johnson]] (1979–1983)
+* [[Pat Jones (American football)|Pat Jones]] (1984–1994)
+* [[Bob Simmons (American football coach)|Bob Simmons]] (1995–2000)
+* [[Les Miles]] (2001–2004)
+* [[Mike Gundy]] (2005–2025)
+* [[Doug Meacham]] # (2025)
+* [[Eric Morris (American football)|Eric Morris]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Oklahoma State Cowboys football navigational boxes|Coaches]]
+</noinclude>

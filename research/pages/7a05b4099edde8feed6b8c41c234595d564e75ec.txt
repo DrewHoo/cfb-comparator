@@ -1,0 +1,43 @@
+{{Navbox
+| name = Iowa Hawkeyes football coach navbox
+| title = [[List of Iowa Hawkeyes head football coaches|{{white|Iowa Hawkeyes head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Iowa Hawkeyes|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1889–1891)
+* [[Edwin A. Dalton]] (1892)
+* [[Ben "Sport" Donnelly]] (1893)
+* [[Roger Sherman (American football)|Roger Sherman]] (1894)
+* ''No coach'' (1895)
+* [[Alfred E. Bull]] (1896)
+* [[Otto Wagonhurst]] (1897)
+* [[Alden Knipe]] (1898–1902)
+* [[John Chalmers (coach)|John Chalmers]] (1903–1905)
+* [[Mark Catlin Sr.]] (1906–1908)
+* [[John G. Griffith]] (1909)
+* [[Jesse Hawley (American football)|Jesse Hawley]] (1910–1915)
+* [[Howard Jones (American football coach)|Howard Jones]] (1916–1923)
+* [[Burt Ingwersen]] (1924–1931)
+* [[Ossie Solem]] (1932–1936)
+* [[Irl Tubbs]] (1937–1938)
+* [[Eddie Anderson (American football coach)|Eddie Anderson]] (1939–1942)
+* [[Slip Madigan]] (1943–1944)
+* [[Clem Crowe]] (1945)
+* [[Eddie Anderson (American football coach)|Eddie Anderson]] (1946–1949)
+* [[Leonard Raffensperger]] (1950–1951)
+* [[Forest Evashevski]] (1952–1960)
+* [[Jerry Burns]] (1961–1965)
+* [[Ray Nagel]] (1966–1970)
+* [[Frank Lauterbur]] (1971–1973)
+* [[Bob Commings]] (1974–1978)
+* [[Hayden Fry]] (1979–1998)
+* [[Kirk Ferentz]] (1999– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Iowa Hawkeyes football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,1598 @@
+{
+ "_meta": {
+  "authority": "ESPN site summary API boxscore.players[].statistics[] for one game per season (saved under downloads/espn_summary/)",
+  "how_to_read": "season -> category -> labels in ESPN order. _columns gives the player_box .csv column for each position (ESPN keys). The fresh .csv assets carry these named columns in every season; only the stale .csv.gz assets have stat_1..stat_5.",
+  "probe_events": {
+   "2004": "242410193",
+   "2005": "252440276",
+   "2006": "262430009",
+   "2007": "272420166",
+   "2008": "282410041",
+   "2009": "292460066",
+   "2010": "302450005",
+   "2011": "312440009",
+   "2012": "322430009",
+   "2013": "332410006",
+   "2014": "400547640",
+   "2015": "400603827",
+   "2016": "400868911",
+   "2017": "400933827",
+   "2018": "401012351",
+   "2019": "401110727",
+   "2020": "401207158",
+   "2021": "401281947",
+   "2022": "401403873",
+   "2023": "401520165",
+   "2024": "401628319",
+   "2025": "401752670",
+   "2026": "401856634"
+  },
+  "label_key_mismatch": {
+   "2004": {
+    "passing": [
+     5,
+     6
+    ]
+   }
+  },
+  "_columns": {
+   "passing": [
+    "completions/passingAttempts",
+    "passingYards",
+    "yardsPerPassAttempt",
+    "passingTouchdowns",
+    "interceptions",
+    "adjQBR"
+   ],
+   "rushing": [
+    "rushingAttempts",
+    "rushingYards",
+    "yardsPerRushAttempt",
+    "rushingTouchdowns",
+    "longRushing"
+   ],
+   "receiving": [
+    "receptions",
+    "receivingYards",
+    "yardsPerReception",
+    "receivingTouchdowns",
+    "longReception"
+   ],
+   "fumbles": [
+    "fumbles",
+    "fumblesLost",
+    "fumblesRecovered"
+   ],
+   "defensive": [
+    "totalTackles",
+    "soloTackles",
+    "sacks",
+    "tacklesForLoss",
+    "passesDefended",
+    "hurries",
+    "defensiveTouchdowns"
+   ],
+   "interceptions": [
+    "interceptions",
+    "interceptionYards",
+    "interceptionTouchdowns"
+   ],
+   "kickReturns": [
+    "kickReturns",
+    "kickReturnYards",
+    "yardsPerKickReturn",
+    "longKickReturn",
+    "kickReturnTouchdowns"
+   ],
+   "puntReturns": [
+    "puntReturns",
+    "puntReturnYards",
+    "yardsPerPuntReturn",
+    "longPuntReturn",
+    "puntReturnTouchdowns"
+   ],
+   "kicking": [
+    "fieldGoalsMade/fieldGoalAttempts",
+    "fieldGoalPct",
+    "longFieldGoalMade",
+    "extraPointsMade/extraPointAttempts",
+    "totalKickingPoints"
+   ],
+   "punting": [
+    "punts",
+    "puntYards",
+    "grossAvgPuntYards",
+    "touchbacks",
+    "puntsInside20",
+    "longPunt"
+   ]
+  }
+ },
+ "2004": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2005": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2006": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2007": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2008": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2009": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2010": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2011": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2012": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2013": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2014": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2015": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2016": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "fumbles": [
+   "FUM",
+   "LOST",
+   "REC"
+  ],
+  "defensive": [
+   "TOT",
+   "SOLO",
+   "SACKS",
+   "TFL",
+   "PD",
+   "QB HUR",
+   "TD"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2017": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "fumbles": [
+   "FUM",
+   "LOST",
+   "REC"
+  ],
+  "defensive": [
+   "TOT",
+   "SOLO",
+   "SACKS",
+   "TFL",
+   "PD",
+   "QB HUR",
+   "TD"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2018": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "fumbles": [
+   "FUM",
+   "LOST",
+   "REC"
+  ],
+  "defensive": [
+   "TOT",
+   "SOLO",
+   "SACKS",
+   "TFL",
+   "PD",
+   "QB HUR",
+   "TD"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2019": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "fumbles": [
+   "FUM",
+   "LOST",
+   "REC"
+  ],
+  "defensive": [
+   "TOT",
+   "SOLO",
+   "SACKS",
+   "TFL",
+   "PD",
+   "QB HUR",
+   "TD"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2020": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "fumbles": [
+   "FUM",
+   "LOST",
+   "REC"
+  ],
+  "defensive": [
+   "TOT",
+   "SOLO",
+   "SACKS",
+   "TFL",
+   "PD",
+   "QB HUR",
+   "TD"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2021": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "fumbles": [
+   "FUM",
+   "LOST",
+   "REC"
+  ],
+  "defensive": [
+   "TOT",
+   "SOLO",
+   "SACKS",
+   "TFL",
+   "PD",
+   "QB HUR",
+   "TD"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2022": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "fumbles": [
+   "FUM",
+   "LOST",
+   "REC"
+  ],
+  "defensive": [
+   "TOT",
+   "SOLO",
+   "SACKS",
+   "TFL",
+   "PD",
+   "QB HUR",
+   "TD"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2023": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "fumbles": [
+   "FUM",
+   "LOST",
+   "REC"
+  ],
+  "defensive": [
+   "TOT",
+   "SOLO",
+   "SACKS",
+   "TFL",
+   "PD",
+   "QB HUR",
+   "TD"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2024": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "fumbles": [
+   "FUM",
+   "LOST",
+   "REC"
+  ],
+  "defensive": [
+   "TOT",
+   "SOLO",
+   "SACKS",
+   "TFL",
+   "PD",
+   "QB HUR",
+   "TD"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2025": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "fumbles": [
+   "FUM",
+   "LOST",
+   "REC"
+  ],
+  "defensive": [
+   "TOT",
+   "SOLO",
+   "SACKS",
+   "TFL",
+   "PD",
+   "QB HUR",
+   "TD"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ },
+ "2026": {
+  "passing": [
+   "C/ATT",
+   "YDS",
+   "AVG",
+   "TD",
+   "INT",
+   "QBR"
+  ],
+  "rushing": [
+   "CAR",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "receiving": [
+   "REC",
+   "YDS",
+   "AVG",
+   "TD",
+   "LONG"
+  ],
+  "fumbles": [
+   "FUM",
+   "LOST",
+   "REC"
+  ],
+  "defensive": [
+   "TOT",
+   "SOLO",
+   "SACKS",
+   "TFL",
+   "PD",
+   "QB HUR",
+   "TD"
+  ],
+  "interceptions": [
+   "INT",
+   "YDS",
+   "TD"
+  ],
+  "kickReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "puntReturns": [
+   "NO",
+   "YDS",
+   "AVG",
+   "LONG",
+   "TD"
+  ],
+  "kicking": [
+   "FG",
+   "PCT",
+   "LONG",
+   "XP",
+   "PTS"
+  ],
+  "punting": [
+   "NO",
+   "YDS",
+   "AVG",
+   "TB",
+   "In 20",
+   "LONG"
+  ]
+ }
+}

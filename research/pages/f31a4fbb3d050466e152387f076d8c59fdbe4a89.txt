@@ -1,0 +1,31 @@
+{{Navbox
+| name = Erskine Flying Fleet football coach navbox
+| title = [[Erskine Flying Fleet football|{{white|Erskine Flying Fleet head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Erskine Flying Fleet|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* John Walker (1896)
+* ''No team'' (1897–1914)
+* [[Norman G. LaMotte]] (1915)
+* [[Claude Moore (football coach)|Claude Moore]] (1916)
+* [[Lucius H. Ranson]] (1917)
+* Lieutenant F. C. Fishback (1918)
+* [[Joseph Lindsay Jr.]] (1919)
+* [[David W. Parrish]] (1920–1923)
+* [[Robert S. Galloway]] (1924–1925)
+* [[Dode Phillips]] (1926–1927)
+* [[Jakie Todd]] (1928–1941)
+* ''No team'' (1942–1945)
+* [[Harry Bolick]] (1946)
+* [[John D. McMillan]] (1947–1951)
+* ''No team'' (1952–2019)
+* [[Shap Boyd]] (2020– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division II football coach navigational boxes]]
+[[Category:Erskine Flying Fleet football navigational boxes|Coach]]
+</noinclude>

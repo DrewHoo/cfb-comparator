@@ -1,0 +1,61 @@
+{{Navbox
+| name = Ole Miss Rebels football coach navbox
+| title = [[List of Ole Miss Rebels head football coaches|{{white|Ole Miss Rebels head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Ole Miss Rebels|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Alexander Bondurant]] (1893)
+* [[James White Sheffey Rhea]] / [[Charles Dow Clark]] % (1894)
+* [[H. L. Fairbanks]] (1895)
+* [[John W. Hollister]] (1896)
+* ''No team'' (1897)
+* [[T. G. Scarbrough]] (1898)
+* [[W. H. Lyon]] (1899)
+* [[Z. N. Estes]] (1900)
+* [[William Shibley]] (1901)
+* [[Daniel S. Martin]] (1902)
+* [[M. S. Harvey]] (1903–1904)
+* ''No coach'' (1905)
+* [[Thomas S. Hammond]] (1906)
+* [[Frank A. Mason]] (1907)
+* [[Frank Kyle]] (1908)
+* [[Nathan Stauffer]] (1909–1911)
+* [[Leo DeTray]] (1912)
+* [[William L. Driver]] (1913–1914)
+* [[Fred A. Robins]] (1915–1916)
+* [[Dudy Noble]] (1917–1918)
+* [[R. L. Sullivan]] (1919–1921)
+* [[Roland Cowell]] (1922–1923)
+* [[Chester S. Barnard]] (1924)
+* [[Homer Hazel]] (1925–1929)
+* [[Ed Walker (American football)|Ed Walker]] (1930–1937)
+* [[Harry Mehre]] (1938–1942)
+* ''No team'' (1943)
+* [[Harry Mehre]] (1944–1945)
+* [[Harold Drew]] (1946)
+* [[Johnny Vaught]] (1947–1970)
+* [[Billy Kinard]] (1971–1973)
+* [[Johnny Vaught]] (1973)
+* [[Ken Cooper (American football coach)|Ken Cooper]] (1974–1977)
+* [[Steve Sloan]] (1978–1982)
+* [[Billy Brewer]] (1983–1993)
+* [[Joe Lee Dunn]] (1994)
+* [[Tommy Tuberville]] (1995–1998)
+* [[David Cutcliffe]] (1998–2004)
+* [[Ed Orgeron]] (2005–2007)
+* [[Houston Nutt]] (2008–2011)
+* [[Hugh Freeze]] (2012–2016)
+* [[Matt Luke (American football)|Matt Luke]] (2017–2019)
+* [[Lane Kiffin]] (2020–2025)
+* [[Pete Golding]] (2025– )
+
+''% denotes disputed coaching records''<br />''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Ole Miss Rebels football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,54 @@
+{{Navbox
+| name = VMI Keydets football coach navbox
+| title = [[List of VMI Keydets head football coaches|{{white|VMI Keydets head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|VMI Keydets|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 =  
+* ''Unknown'' (1873)
+* ''No team'' (1874–1890)
+* [[Walter Taylor (American football)|Walter Taylor]] (1891)
+* ''No coach'' (1892–1894)
+* [[George W. Bryant]] (1895–1896)
+* [[R. N. Groner]] (1897)
+* [[Sam Boyle]] (1898–1899)
+* [[Sam Walker (American football)|Sam Walker]] (1900–1902)
+* [[Bill Roper (American football)|Bill Roper]] (1903–1904)
+* [[Ira Johnson]] (1905–1906)
+* [[Charles Roller]] (1907–1908)
+* [[William C. Gloth]] (1909–1910)
+* [[Alpha Brumage]] (1911–1912)
+* [[Henry Poague]] (1913)
+* [[Frank Gorton]] (1914–1916)
+* [[Earl Abell]] (1917)
+* [[Earl Abell]] & [[Mose Goodman]] (1918)
+* [[Red Fleming]] (1919)
+* [[Blandy Clarkson]] (1920–1926)
+* [[W. C. Raftery]] (1927–1936)
+* [[Pooley Hubert]] (1937–1946)
+* [[Arthur Morton (American football)|Arthur Morton]] (1947–1948)
+* [[Tom Nugent]] (1949–1952)
+* [[John McKenna (American football)|John McKenna]] (1953–1965)
+* [[Vito Ragazzo]] (1966–1970)
+* [[Bob Thalman]] (1971–1984)
+* [[Eddie Williamson]] (1985–1988)
+* [[Jim Shuck]] (1989–1993)
+* [[Bill Stewart (gridiron football)|Bill Stewart]] (1994–1996)
+* [[Ted Cain]] (1997–1998)
+* [[Donny White]] # (1998)
+* [[Cal McCombs]] (1999–2005)
+* [[Jim Reid (American football)|Jim Reid]] (2006–2007)
+* [[Sparky Woods]] (2008–2014)
+* [[Scott Wachenheim]] (2015–2022)
+* [[Danny Rocco]] (2023–2025)
+* [[Ashley Ingram]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:VMI Keydets football navigational boxes|Coach]]
+</noinclude>

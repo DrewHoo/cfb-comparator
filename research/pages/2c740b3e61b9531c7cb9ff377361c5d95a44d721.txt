@@ -1,0 +1,33 @@
+{{Navbox
+| name = Gonzaga Bulldogs football coach navbox
+| title = [[Gonzaga Bulldogs football|{{white|Gonzaga Bulldogs head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Gonzaga Bulldogs|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Henry Luhn]] (1892–1893)
+* ''No team'' (1894–1895)
+* [[Henry Luhn]] (1896–1898)
+* ''No team'' (1899–1906)
+* [[George M. Varnell]] (1907–1911)
+* [[Fred Burns (coach)|Fred Burns]] (1912)
+* [[Robert E. Harmon]] (1913–1914)
+* [[William J. Coyle]] (1915)
+* [[John F. McGough]] (1916)
+* [[Jimmy Condon]] (1917)
+* [[C. A. Mullin]] (1918)
+* [[William S. Higgins]] (1919)
+* [[Gus Dorais]] (1920–1924)
+* [[Maurice J. "Clipper" Smith]] (1925–1928)
+* [[Robert L. Mathews]] (1929)
+* [[Ray Flaherty]] (1930)
+* [[Mike Pecarovich]] (1931–1938)
+* [[Puggy Hunton]] (1939–1941)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Gonzaga Bulldogs football navigational boxes|Coach]]
+</noinclude>

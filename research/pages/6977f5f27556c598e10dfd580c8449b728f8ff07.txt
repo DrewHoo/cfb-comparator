@@ -1,0 +1,18 @@
+{{Navbox
+| name = Great Lakes Navy Bluejackets football coach navbox
+| title = [[Great Lakes Navy Bluejackets football|Great Lakes Navy Bluejackets football head football coaches]]
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Herman Olcott]] (1918)
+* [[Clarence J. McReavy]] (1918)
+* [[Harold Ofstie]] (1923)
+* [[Tony Hinkle]] (1942–1943)
+* [[Paul Brown]] (1944–1945)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+</noinclude>

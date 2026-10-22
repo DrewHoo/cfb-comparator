@@ -1,0 +1,60 @@
+{{Navbox
+| name = Pittsburgh Panthers football coach navbox
+| title = [[List of Pittsburgh Panthers head football coaches|{{white|Pittsburgh Panthers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Pittsburgh Panthers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1890–1892)
+* [[Anson Harrold]] (1893)
+* ''No coach'' (1894)
+* [[J. P. Linn]] (1895)
+* [[George W. Hoskins]] (1896)
+* [[Thomas Trenchard]] (1897)
+* [[Fred A. Robison]] (1898–1899)
+* [[Roy Jackson (American football)|Roy Jackson]] (1900)
+* [[Wilbur Hockensmith]] (1901)
+* [[Fred Crolius]] (1902)
+* [[Arthur Mosse]] (1903–1905)
+* [[Edgar Wingard]] (1906)
+* [[John A. Moorhead]] (1907–1908)
+* [[Joseph H. Thompson]] (1909–1912)
+* [[Joseph Duff]] (1913–1914)
+* [[Pop Warner]] (1915–1923)
+* [[Jock Sutherland]] (1924–1938)
+* [[Charley Bowser]] (1939–1942)
+* [[Clark Shaughnessy]] (1943–1945)
+* [[Wes Fesler]] (1946)
+* [[Mike Milligan (coach)|Mike Milligan]] (1947–1949)
+* [[Len Casanova]] (1950)
+* [[Tom Hamilton (American football)|Tom Hamilton]] (1951)
+* [[Red Dawson]] (1952–1954)
+* [[Tom Hamilton (American football)|Tom Hamilton]] (1954)
+* [[John Michelosen]] (1955–1965)
+* [[Dave Hart]] (1966–1968)
+* [[Carl DePasqua]] (1969–1972)
+* [[Johnny Majors]] (1973–1976)
+* [[Jackie Sherrill]] (1977–1981)
+* [[Foge Fazio]] (1982–1985)
+* [[Mike Gottfried]] (1986–1989)
+* [[Paul Hackett (American football)|Paul Hackett]] (1989–1992)
+* [[Sal Sunseri]] # (1992)
+* [[Johnny Majors]] (1993–1996)
+* [[Walt Harris (American football coach)|Walt Harris]] (1997–2004)
+* [[Dave Wannstedt]] (2005–2010)
+* [[Phil Bennett (American football)|Phil Bennett]] # (2010)
+* [[Todd Graham]] (2011)
+* [[Keith Patterson]] # (2011)
+* [[Paul Chryst]] (2012–2014)
+* [[Joe Rudolph]] # (2014)
+* [[Pat Narduzzi]] (2015– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Pittsburgh Panthers football navigational boxes|Coach]]
+</noinclude>

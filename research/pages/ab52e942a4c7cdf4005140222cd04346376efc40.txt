@@ -1,0 +1,50 @@
+{{Navbox
+| name = Villanova Wildcats football coach navbox
+| title = [[Villanova Wildcats football|{{white|Villanova Wildcats head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Villanova Wildcats|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Mike Murphy (trainer and coach)|Mike Murphy]] (1894)
+* [[James A. McDonald]] (1895–1896)
+* [[John F. Bagley]] (1897–1898)
+* [[Dick Nallin]] (1899)
+* [[John J. Egan]] & [[John Powers (American football coach)|John Powers]] (1900)
+* [[John J. Egan]] (1901)
+* [[Richard Kelly (American football)|Richard Kelly]] & [[Timothy O'Rourke]] (1902)
+* [[Martin Caine]] (1903)
+* [[Fred Crolius]] (1904–1911)
+* [[Charles McGeehan]] (1912)
+* [[Ted St. Germaine]] (1913)
+* [[Dutch Sommer]] (1914–1915)
+* [[Edward Bennis]] (1916)
+* [[Thomas Reap]] (1917–1920)
+* [[Allie Miller]] (1921–1922)
+* [[Hugh McGeehan]] (1923)
+* [[Dutch Sommer]] (1924)
+* [[Harry Stuhldreher]] (1925–1935)
+* [[Maurice J. "Clipper" Smith]] (1936–1942)
+* [[Jordan Olivar]] (1943–1948)
+* [[Jim Leonard (American football, born 1910)|Jim Leonard]] (1949–1950)
+* [[Art Raimo]] (1951–1953)
+* [[Frank Reagan]] (1954–1959)
+* [[Joseph Rogers (American football)|Joseph Rogers]] # (1959)
+* [[Alexander F. Bell]] (1960–1966)
+* [[Jack Gregory (American football coach)|Jack Gregory]] (1967–1969)
+* [[Lou Ferry]] (1970–1973)
+* [[Jim Weaver (athletic director)|Jim Weaver]] (1974)
+* [[Lou Ferry]] # (1974)
+* [[Dick Bedesem]] (1975–1980)
+* ''No team'' (1981–1984)
+* [[Andy Talley]] (1985–2016)
+* [[Mark Ferrante]] (2017− )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Villanova Wildcats football navigational boxes|Coach]]
+</noinclude>

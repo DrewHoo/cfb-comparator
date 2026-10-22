@@ -1,0 +1,27 @@
+{{Navbox
+| name = Phillips Haymakers football coach navbox
+| title = [[Phillips Haymakers football|{{white|Phillips Haymakers head football coaches}}]]
+| basestyle = background:#800000; color:white; {{box-shadow border|a|#000000|2px}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist 
+| nowrapitems = yes
+
+| list1 = 
+* [[Park Cole]] (1908)
+* [[Willis Bates]] (1909)
+* [[Robert "Snapper" Kennedy]] (1910)
+* [[Earl Ratcliffe]] (1911)
+* ''Unknown'' (1912)
+* [[Truman A. Copas]] (1913–1914)
+* [[Wilbur H. Cramblet]] (1915–1916)
+* [[John Maulbetsch]] (1917–1920)
+* [[Mont McIntire]] (1921–1923)
+* [[Everett Shelton]] (1924–1926)
+* [[Louis Wilke]] (1927–1928)
+* [[Toby Greene (baseball)|Toby Greene]] (1929–1932)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Phillips Haymakers football navigational boxes|Coach]]
+</noinclude>

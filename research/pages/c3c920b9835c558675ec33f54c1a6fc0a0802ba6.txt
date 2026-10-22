@@ -1,0 +1,36 @@
+{{Navbox
+| name = Saint Louis Billikens football coach navbox
+| title = [[Saint Louis Billikens football|{{white|Saint Louis Billikens head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Saint Louis Billikens|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Martin Delaney (coach)|Martin Delaney]] (1899–1904)
+* [[Tommy Dowd (baseball)|Tommy Dowd]] (1905)
+* [[Eddie Cochems]] (1906–1908)
+* [[Bill Warner (American football)|Bill Warner]] (1909)
+* [[John R. Bender]] (1910–1911)
+* [[Frank Dennie]] (1912–1913)
+* [[George Keogan]] (1914–1915)
+* [[Earl H. Painter]] (1916)
+* [[Charles M. Rademacher]] (1917)
+* [[Ernest C. Quigley]] (1918)
+* [[Charles M. Rademacher]] (1919–1920)
+* [[Stephen G. O'Rourke]] (1921–1922)
+* [[Dan J. Savage]] (1923–1925)
+* [[Robert L. Mathews]] (1926–1927)
+* [[Hunk Anderson]] (1928–1929)
+* [[Chile Walsh]] (1930–1933)
+* [[Cecil Muellerleile]] (1934–1939)
+* [[Dukes Duford]] (1940–1942)
+* ''No team'' (1943–1944)
+* [[Dukes Duford]] (1945–1947)
+* [[Joe Maniaci]] (1948–1949)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Saint Louis Billikens football navigational boxes|Coach]]
+</noinclude>

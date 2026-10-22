@@ -1,0 +1,47 @@
+{{Navbox
+| name = Lafayette Leopards football coach navbox
+| title = [[List of Lafayette Leopards head football coaches|{{white|Lafayette Leopards head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Lafayette Leopards|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1882–1890)
+* [[Wallace Moyle]] (1891–1892)
+* [[Pearl T. Haskell]] & [[H. H. Vincent (American football)|H. H. Vincent]] (1893)
+* [[Hugh Janeway]] & [[H. H. Vincent (American football)|H. H. Vincent]] (1894)
+* [[Parke H. Davis]] (1895–1897)
+* [[Samuel B. Newton]] (1898–1901)
+* [[Dave Fultz]] (1902)
+* [[Alfred E. Bull]] (1903–1907)
+* [[George Barclay (sportsperson)|George Barclay]] (1908)
+* [[Bob Folwell]] (1909–1911)
+* [[Samuel B. Newton]] (1911)
+* [[George McCaa]] (1912–1913)
+* [[Wilmer G. Crowell]] (1914–1916)
+* [[Punk Berryman]] (1917)
+* [[Lewis A. Cobbett]] (1918)
+* [[Jock Sutherland]] (1919–1923)
+* [[Herb McCracken]] (1924–1935)
+* [[Ernie Nevers]] (1936)
+* [[Edward Mylin]] (1937–1942)
+* [[Ben Wolfson]] (1943–1945)
+* [[Edward Mylin]] (1946)
+* [[Ivy Williamson]] (1947–1948)
+* [[Clipper Smith (American football, born 1898)|Clipper Smith]] (1949–1951)
+* [[Steve Hokuf]] (1952–1957)
+* [[James McConlogue]] (1958–1962)
+* [[Kenneth Bunn]] (1963–1966)
+* [[Harry Gamble]] (1967–1970)
+* [[Neil Putnam]] (1971–1980)
+* [[Bill Russo (American football)|Bill Russo]] (1981–1999)
+* [[Frank Tavani]] (2000–2016)
+* [[John Garrett (American football)|John Garrett]] (2017–2021)
+* [[John Troxell]] (2022– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Lafayette Leopards football navigational boxes|Coach]]
+</noinclude>

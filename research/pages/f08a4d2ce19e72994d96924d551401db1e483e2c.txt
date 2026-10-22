@@ -1,0 +1,54 @@
+{{Navbox
+| name = Simpson Storm football coach navbox
+| title = [[Simpson Storm football|{{white|Simpson Storm head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Simpson Storm|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Charles Cheney (American football)|Charles Cheney]] (1893)
+* ''Unknown'' (1894)
+* [[Perry W. Jenkins]] (1895)
+* [[James M. Jackson (American football)|James M. Jackson]] (1896)
+* ''Unknown'' (1897)
+* [[Hal McNeil]] (1898–1899)
+* [[Paul Coldren]] (1900)
+* [[John G. Griffith]] (1901)
+* [[Andrew G. Reid]] (1902–1905)
+* ''No team'' (1906–1907)
+* [[Ralph N. Post]] (1908)
+* [[Carroll N. Kirk]] (1909–1910)
+* [[Harold Iddings]] (1911–1913)
+* [[Arthur Aston  (American football)|Arthur Aston]] (1914)
+* [[Archie Kirk]] (1915)
+* [[Chester C. Dillon]] (1916–1917)
+* [[Nile Graves]] (1918–1920)
+* [[Cecil A. Cushman]] (1921–1922)
+* [[C. Noel Workman]] (1923–1925)
+* [[Hoge Workman]] (1926–1930)
+* [[Lloyd Dean]] (1931–1934)
+* [[Frank Casey (American football)|Frank Casey]]  (1935–1939)
+* [[Bob Waldorf]] (1940–1941)
+* [[Frank Casey (American football)|Frank Casey]]  (1942–1947)
+* [[Raburn G. Miller]] (1948–1957)
+* [[E. G. Booth]] (1958–1961)
+* [[Ken Heizer]] (1962–1965)
+* [[John Sullivan (American football coach)|John Sullivan]] (1966–1970)
+* [[Al Paone]] (1971–1973)
+* [[Larry Johnson (athletic director)|Larry Johnson]] # (1974)
+* [[Maury Waugh]] (1975–1979)
+* [[Alex Glann]] (1980–1984)
+* [[Lloyd Krumlauf]] (1985–1986)
+* [[Jim Williams (American football)|Jim Williams]] (1987–2001)
+* [[Jay Niemann]] (2002–2007)
+* [[Jim Glogowski]] (2008–2015)
+* [[Matt Jeter]] (2016–2022)
+* [[Reed Hoskins]] (2023– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+</noinclude>

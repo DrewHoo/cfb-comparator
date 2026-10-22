@@ -1,0 +1,33 @@
+Knute Rockne -> Knute Rockne 1379279390 57569
+Fielding H. Yost -> Fielding H. Yost 1380958794 74136
+Amos Alonzo Stagg -> Amos Alonzo Stagg 1372507063 61124
+Pop Warner -> Pop Warner 1380700743 121128
+Walter Camp -> Walter Camp 1378459605 24964
+Bud Wilkinson -> Bud Wilkinson 1380752486 28516
+Bear Bryant -> Bear Bryant 1379392725 124772
+Frank Leahy -> Frank Leahy 1378139380 20298
+Gil Dobie -> Gil Dobie 1372518352 25873
+John Heisman -> John Heisman 1380209703 131651
+Robert Zuppke 429
+Robert Neyland 429
+Fritz Crisler 429
+Jock Sutherland 429
+Wallace Wade 429
+Joe Paterno 429
+Bobby Bowden 429
+Nick Saban 429
+Tom Osborne -> Tom Osborne 1377160142 43731
+Woody Hayes -> Woody Hayes 1380754294 49910
+Kirby Smart -> Kirby Smart 1381246215 70522
+Urban Meyer -> Urban Meyer 1379571064 115199
+Brian Kelly (American football coach) -> Brian Kelly (American football coach) 1379386704 131541
+Jim Tressel -> Jim Tressel 1376404104 66641
+Robert Zuppke -> Robert Zuppke 1364548005 18023
+Robert Neyland -> Robert Neyland 1381246600 32100
+Fritz Crisler -> Fritz Crisler 1372506553 40182
+Jock Sutherland -> Jock Sutherland 1379222179 29138
+Wallace Wade 429, waiting 10000 ms
+Wallace Wade -> Wallace Wade 1381093638 38388
+Joe Paterno -> Joe Paterno 1372395360 131858
+Bobby Bowden -> Bobby Bowden 1377133461 64997
+Nick Saban -> Nick Saban 1380752613 406412

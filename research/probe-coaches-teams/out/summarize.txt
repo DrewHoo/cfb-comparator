@@ -1,0 +1,4 @@
+AP max rank eras (payload): [{"from":1936,"to":1960,"maxRank":20},{"from":1961,"to":1967,"maxRank":10},{"from":1968,"to":1988,"maxRank":20},{"from":1989,"to":2026,"maxRank":25}]
+rank-unknown (-1) sides by decade: {"1930s":{"sides":5468,"unknown":2322},"1940s":{"sides":11962,"unknown":3552},"1950s":{"sides":11934,"unknown":0},"1960s":{"sides":12594,"unknown":0},"1970s":{"sides":15684,"unknown":0},"1980s":{"sides":13780,"unknown":0},"1990s":{"sides":12972,"unknown":0},"2000s":{"sides":15174,"unknown":0},"2010s":{"sides":17130,"unknown":0},"2020s":{"sides":11252,"unknown":0}}
+Wikipedia coach-season rows 1890-1935 vs Howell: {"match":221,"mismatch":15,"offSpine":35}
+wrote /private/tmp/claude-501/-Users-drewhoo-Projects-cfb-comparator/3ff4e702-05dc-4dbb-8387-fa6fa9a3d5aa/scratchpad/probe-coaches-teams/out/coverage.json

@@ -1,0 +1,44 @@
+{{Navbox
+| name = Mercer Bears football coach navbox
+| title = [[List of Mercer Bears head football coaches|{{white|Mercer Bears head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Mercer Bears|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Dave Beggs]] (1891)
+* ''No coach'' (1892)
+* [[George Stallings]] (1893)
+* ''No team'' (1894–1895)
+* [[J. D. Winston]] (1896)
+* [[Gordon Saussy]] (1897)
+* ''No team'' (1898–1902)
+* ''No coach'' (1903)
+* ''No team'' (1904–1905)
+* [[E. E. Tarr]] (1906)
+* [[H. R. Schenker]] (1907)
+* [[Frank Blake (American football)|Frank Blake]] (1908–1909)
+* [[Charles C. Stroud]] (1910–1912)
+* [[Lewie Hardage]] (1913)
+* [[Fred A. Robins]] (1914)
+* [[Jake Zellars]] (1915–1916)
+* [[David Peacock (American football)|David Peacock]] (1916)
+* ''No team'' (1917–1918)
+* [[Maxwell James]] (1919)
+* [[Josh Cody]] (1920–1922)
+* [[Stanley L. Robinson]] (1923–1925)
+* [[Bernie Moore]] (1926–1928)
+* [[Lake Russell (coach)|Lake Russell]] (1929–1940)
+* [[Bobby Hooks]] (1941)
+* ''No team'' (1942–2012)
+* [[Bobby Lamb (American football)|Bobby Lamb]] (2013–2019)
+* [[Drew Cronic]] (2020–2023)
+* [[Mike Jacobs (American football)|Mike Jacobs]] (2024–2025)
+* [[Joel Taylor (American football)|Joel Taylor]] (2026– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Mercer Bears football navigational boxes|Coach]]
+</noinclude>

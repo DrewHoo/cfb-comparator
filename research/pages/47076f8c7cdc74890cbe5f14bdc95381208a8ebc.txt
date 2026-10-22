@@ -1,0 +1,57 @@
+{{Navbox
+| name        = Washington State Cougars football coach navbox
+| title       = [[List of Washington State Cougars head football coaches|{{white|Washington State Cougars head football coaches}}]]
+| basestyle   = {{CollegePrimaryStyle|Washington State Cougars|color=white}}
+| state       = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass   = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[William Goodyear]] (1894)
+* [[Fred Waite (American football)|Fred Waite]] (1895)
+* [[David A. Brodie]] (1896)
+* [[Robert Gailey (American football)|Robert Gailey]] (1897)
+* [[Frank Shively]] (1898–1899)
+* [[William L. Allen]] (1900)
+* [[William Namack]] (1901)
+* [[William L. Allen]] (1902)
+* [[James N. Ashmore]] (1903)
+* [[Everett Sweeley]] (1904–1905)
+* [[John R. Bender]] (1906–1907)
+* [[Walter Rheinschild]] (1908)
+* [[Willis Kienholz]] (1909)
+* [[Oscar Osthoff]] (1910–1911)
+* [[John R. Bender]] (1912–1914)
+* [[William Henry Dietz]] (1915–1917)
+* [[Emory Alvord]] (1918)
+* [[Gus Welch]] (1919–1922)
+* [[Albert Exendine]] (1923–1925)
+* [[Babe Hollingbery]] (1926–1942)
+* ''No team'' (1943–1944)
+* [[Phil Sarboe]] (1945–1949)
+* [[Forest Evashevski]] (1950–1951)
+* [[Al Kircher]] (1952–1955)
+* [[Jim Sutherland]] (1956–1963)
+* [[Bert Clark]] (1964–1967)
+* [[Jim Sweeney (American football, born 1929)|Jim Sweeney]] (1968–1975)
+* [[Jackie Sherrill]] (1976)
+* [[Warren Powers]] (1977)
+* [[Jim Walden (American football)|Jim Walden]] (1978–1986)
+* [[Dennis Erickson]] (1987–1988)
+* [[Mike Price]] (1989–2002)
+* [[Bill Doba]] (2003–2007)
+* [[Paul Wulff]] (2008–2011)
+* [[Mike Leach (American football coach)|Mike Leach]] (2012–2019)
+* [[Nick Rolovich]] (2020–2021)
+* [[Jake Dickert]] (2021–2024)
+* [[Pete Kaligis]] # (2024)
+* [[Jimmy Rogers (American football coach)|Jimmy Rogers]] (2025)
+* [[Jesse Bobbit]] # (2025) 
+* [[Kirby Moore]] (2026– )
+
+''# denotes interim head coach''
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Washington State Cougars football navigational boxes|Coach]]
+</noinclude>

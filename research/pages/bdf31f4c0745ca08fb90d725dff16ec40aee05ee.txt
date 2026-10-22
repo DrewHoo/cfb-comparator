@@ -1,0 +1,55 @@
+{{Navbox
+| name = Utah State Aggies football coach navbox
+| title = [[List of Utah State Aggies head football coaches|{{white|Utah State Aggies head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Utah State Aggies|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1892)
+* ''No team'' (1893–1895)
+* [[J. Walter Mayo]] (1896)
+* ''No team'' (1897)
+* [[Samuel Dunning]] (1898)
+* [[Willard Langton]] (1899–1900)
+* [[Dick Richards (coach)|Dick Richards]] (1901)
+* [[George P. Campbell]] (1902–1906)
+* [[Mysterious Walker]] (1907–1908)
+* [[Clayton Teetzel]] (1909–1915)
+* [[Jack Watson (American football)|Jack Watson]] (1916–1917)
+* ''No team'' (1918)
+* [[Dick Romney]] (1919–1942)
+* ''No team'' (1943)
+* [[Dick Romney]] (1944–1948)
+* [[George Melinkovich]] (1949–1950)
+* [[John Roning]] (1951–1954)
+* [[Ev Faunce]] (1955–1958)
+* [[John Ralston (American football)|John Ralston]] (1959–1962)
+* [[Tony Knap]] (1963–1966)
+* [[Chuck Mills]] (1967–1972)
+* [[Phil Krueger (American football)|Phil Krueger]] (1973–1975)
+* [[Bruce Snyder]] (1976–1982)
+* [[Chris Pella]] (1983–1985)
+* [[Chuck Shelton]] (1986–1991)
+* [[Charlie Weatherbie]] (1992–1994)
+* [[John L. Smith]] (1995–1997)
+* [[Dave Arslanian]] (1998–1999)
+* [[Mick Dennehy]] (2000–2004)
+* [[Brent Guy]] (2005–2008)
+* [[Gary Andersen]] (2009–2012)
+* [[Matt Wells (American football coach)|Matt Wells]] (2013–2018)
+* [[Frank Maile]] # (2018)
+* [[Gary Andersen]] (2019–2020)
+* [[Frank Maile]] # (2020)
+* [[Blake Anderson (American football)|Blake Anderson]] (2021–2023)
+* [[Nate Dreiling]] # (2024)
+* [[Bronco Mendenhall]] (2025– )
+
+''# denotes interim/acting head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Utah State Aggies football navigational boxes|Coach]]
+</noinclude>

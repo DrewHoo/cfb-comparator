@@ -1,0 +1,58 @@
+{{Navbox
+| name = Virginia Tech Hokies football coach navbox
+| title = [[List of Virginia Tech Hokies head football coaches|{{white|Virginia Tech Hokies head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Virginia Tech Hokies|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[E. A. Smyth (entomologist)|E. A. Smyth]] (1892–1893)
+* [[Joseph Massie (American football)|Joseph Massie]] (1894)
+* [[Arlie C. Jones]] (1895–1896)
+* [[Charles Firth (coach)|Charles Firth]] (1897)
+* [[J. Lewis Ingles]] (1898)
+* [[James Morrison (American football)|James Morrison]] (1899)
+* [[Eugene Davis (doctor)|Eugene Davis]] (1900)
+* [[A. B. Morrison Jr.]] (1901)
+* [[R. R. Brown]] (1902)
+* [[Charles Augustus Lueder]] (1903)
+* [[John C. O'Connor]] (1904)
+* [[Sally Miles]] (1905–1906)
+* [[Bob Williams (coach, born 1877)|Bob Williams]] (1907)
+* [[R. M. Brown]] (1908)
+* [[Branch Bocock]] (1909–1910)
+* [[Lew Riess]] (1911)
+* [[Branch Bocock]] (1912–1915)
+* [[Jack E. Ingersoll]] (1916)
+* [[Charles A. Bernier]] (1917–1919)
+* [[Stanley Sutton]] (1920)
+* [[B. C. Cubbage]] (1921–1925)
+* [[Andy Gustafson]] (1926–1929)
+* [[Orville Neal]] (1930–1931)
+* [[Henry Redd]] (1932–1940)
+* [[Jimmy Kitts]] (1941)
+* [[Herbert McEver]] & [[Sumner D. Tilson]] (1942)
+* ''No team'' (1943–1944)
+* [[Herbert McEver]] (1945)
+* [[Jimmy Kitts]] (1946–1947)
+* [[Bob McNeish]] (1948–1950)
+* [[Frank Moseley]] (1951–1960)
+* [[Jerry Claiborne]] (1961–1970)
+* [[Charlie Coffey]] (1971–1973)
+* [[Jimmy Sharpe]] (1974–1977)
+* [[Bill Dooley]] (1978–1986)
+* [[Frank Beamer]] (1987–2015)
+* [[Justin Fuente]] (2016–2021)
+* [[J. C. Price]] # (2021)
+* [[Brent Pry]] (2022–2025)
+* [[Philip Montgomery]] # (2025)
+* [[James Franklin (American football coach)|James Franklin]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Virginia Tech Hokies football navigational boxes|Coach]]
+</noinclude>

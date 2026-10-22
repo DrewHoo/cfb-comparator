@@ -1,0 +1,22 @@
+{{Navbox
+| name = Nashville Garnet and Blue football coach navbox
+| title = [[Nashville Garnet and Blue football|{{white|Nashville Garnet and Blue head football coaches}}]]
+| basestyle = background:#782F40; color:white; {{box-shadow border|a|blue|1px}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 =
+* [[C. E. Woodruff]] (1899)
+* [[Charley Moran]] (1900–1901)
+* [[Neil Snow]] (1902)
+* [[Ernest A. Wreidt]] (1903)
+* [[Bradley Walker]] (1903)
+* [[Avent Childress]] (1903)
+* [[Hubert Fisher]] (1904)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Nashville Garnet and Blue football navigational boxes|Coach]]
+</noinclude>

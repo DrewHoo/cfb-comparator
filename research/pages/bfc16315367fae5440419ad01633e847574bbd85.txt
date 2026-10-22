@@ -1,0 +1,30 @@
+{{Navbox
+| name = Coe Kohawks football coach navbox
+| title = [[Coe Kohawks football|{{white|Coe Kohawks head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Coe Kohawks|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[George Beltz]] (1891–1898)
+* [[George W. Bryant]] (1899–1913)
+* [[Moray Eby]] (1914–1942)
+* ''No team'' (1943–1944)
+* [[Harris Lamb]] (1945–1947)
+* [[Dick Clausen]] (1948–1955)
+* [[Wally Schwank]] (1956–1959)
+* [[Glenn Drahn]] (1960–1970)
+* [[Wayne Phillips (American football)|Wayne Phillips]] (1971–1978)
+* [[Roger Schegel]] (1979–1981)
+* [[Bob Thurness]] (1982–1988)
+* [[D. J. LeRoy]] (1989–1999)
+* [[Erik Raeburn]] (2000–2007)
+* [[Steve Staker]] (2008–2015)
+* [[Tyler Staker]] (2016– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Coe Kohawks football navigational boxes|Coach]]
+</noinclude>

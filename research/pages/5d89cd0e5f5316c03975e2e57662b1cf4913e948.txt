@@ -1,0 +1,45 @@
+{{Navbox
+| name = Colby Mules football coach navbox
+| title = [[Colby Mules football|{{white|Colby Mules head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Colby Mules|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Byron W. Dickson]] (1898)
+* [[Harry McDevitt]] (1908–1911)
+* [[Edward J. Daley]] (1912–1913)
+* [[Myron Fuller]] (1914–1915)
+* [[Roger A. Greene]] (1916)
+* [[Robert L. Ervin]] (1917–1919)
+* [[John B. McAuliffe]] (1920–1921)
+* [[Win Snow]] (1922)
+* [[Roger A. Greene]] (1923)
+* [[Eddie Roundy]] (1924–1936)
+* [[Alfred McCoy (American football)|Alfred McCoy]] (1937–1940)
+* [[Nelson Nitchman]]  (1941)
+* [[Bill Millett]] (1942)
+* ''No team'' (1943–1944)
+* [[Bill Millett]] (1945)
+* [[Daniel G. Lewis]] (1946)
+* [[Walt Holmer]] (1947–1950)
+* [[Nels Corey]] (1951)
+* [[Frank Maze]] (1952–1955)
+* [[Bob Clifford (American football)|Bob Clifford]] (1956–1961)
+* [[John Simpson (athletic director)|John Simpson]] (1962–1966)
+* [[Dick McGee]] (1967–1978)
+* [[Tom Kopp]] (1979–1982)
+* [[Chris Raymond]] (1983–1985)
+* [[Tom Austin (American football)|Tom Austin]]  (1986–2003)
+* [[Ed Mestieri]] (2004–2011)
+* [[Jonathan Michaeles]] (2012–2017)
+* [[Jack Cosgrove (American football)|Jack Cosgrove]] (2018–2019)
+* ''No team'' (2020)
+* [[Jack Cosgrove (American football)|Jack Cosgrove]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Colby Mules navigational boxes|Football, coach]]
+</noinclude>

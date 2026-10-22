@@ -1,0 +1,33 @@
+{{Navbox
+| name = Loyola Lions football coach navbox
+| title = [[Loyola Lions football|{{white|Loyola Lions head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Loyola Marymount Lions|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Frank Haggerty]] (1904–1906)
+* [[Walter Hempel (coach)|Walter Hempel]] (1907–1908)
+* [[Walter Rheinschild]] (1909)
+* ''No team'' (1910–1919)
+* [[Ralph Jesson]] (1920)
+* [[James Linden]] (1921)
+* [[Jimmy Smith (American football coach)|Jimmy Smith]] (1922)
+* [[Harold Hess]] (1923–1927)
+* [[Mike Pecarovich]] (1928)
+* [[William L. Driver]] (1929)
+* [[Tom Lieb]] (1930–1938)
+* [[Mike Pecarovich]] (1939)
+* [[Marty Brill (American football)|Marty Brill]] (1940–1941)
+* [[Bernie Bradley]] (1942)
+* ''No team'' (1943–1945)
+* [[Tony DeLellis]] (1946)
+* [[Bill Sargent]] (1947–1948)
+* [[Jordan Olivar]] (1949–1951)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Loyola Lions football navigational boxes|Coach]]
+</noinclude>

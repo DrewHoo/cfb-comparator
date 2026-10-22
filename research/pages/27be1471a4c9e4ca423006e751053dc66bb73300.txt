@@ -1,0 +1,58 @@
+{{Navbox
+| name = Oregon State Beavers football coach navbox
+| title = [[List of Oregon State Beavers head football coaches|{{white|Oregon State Beavers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Oregon State Beavers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Will Bloss]] (1893)
+* [[Guy Kennedy]] (1894)
+* [[Paul Downing]] (1895)
+* [[Tommy Code]] (1896)
+* [[Will Bloss]] (1897)
+* ''No coach'' (1898)
+* [[Hiland Orlando Stickney]] (1899)
+* ''No team'' (1900)
+* ''No coach'' (1901)
+* [[Fred Herbold]] (1902)
+* [[Thomas L. McFadden]] (1903)
+* [[Allen Steckle]] (1904–1905)
+* [[Fred Norcross]] (1906–1908)
+* [[Sol Metzger]] (1909)
+* [[George Schildmiller]] (1910)
+* [[Sam Dolan]] (1911–1912)
+* [[E. J. Stewart]] (1913–1915)
+* [[Joseph Pipal]] (1916–1917)
+* [[Homer Woodson Hargiss]] (1918–1919)
+* [[Dick Rutherford]] (1920–1923)
+* [[Paul J. Schissler]] (1924–1932)
+* [[Lon Stiner]] (1933–1942)
+* ''No team'' (1943–1944)
+* [[Lon Stiner]] (1945–1948)
+* [[Kip Taylor]] (1949–1954)
+* [[Tommy Prothro]] (1955–1964)
+* [[Dee Andros]] (1965–1975)
+* [[Craig Fertig]] (1976–1979)
+* [[Joe Avezzano]] (1980–1984)
+* [[Dave Kragthorpe]] (1985–1990)
+* [[Jerry Pettibone]] (1991–1996)
+* [[Mike Riley (gridiron football)|Mike Riley]] (1997–1998)
+* [[Dennis Erickson]] (1999–2002)
+* [[Mike Riley (gridiron football)|Mike Riley]] (2003–2014)
+* [[Gary Andersen]] (2015–2017)
+* [[Cory Hall]] # (2017)
+* [[Jonathan Smith (American football coach)|Jonathan Smith]] (2018–2023)
+* [[Kefense Hynson]] # (2023)
+* [[Trent Bray (American football)|Trent Bray]] (2024–2025)
+* [[Robb Akey]] # (2025)
+* [[JaMarcus Shephard]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Oregon State Beavers football navigational boxes|Coach]]
+</noinclude>

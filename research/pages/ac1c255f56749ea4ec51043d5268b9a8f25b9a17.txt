@@ -1,0 +1,42 @@
+{{Navbox
+| name = Denver Pioneers football coach navbox
+| title = [[Denver Pioneers football|{{white|Denver Pioneers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Denver Pioneers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1888–1889)
+* ''No team'' (1890)
+* ''No coach'' (1891–1900)
+* [[Arthur Leland]] (1901)
+* [[Ben Griffith]] (1902–1903)
+* [[Ora Smith Fowler]] (1904–1905)
+* [[John P. Koehler]] (1906–1910)
+* [[Thomas A. Barry]] (1911)
+* [[Clem Crowley]] (1912)
+* [[Charles Wingender]] (1913)
+* [[Harry G. Buckingham]] (1914)
+* [[John Fike]] (1915–1918)
+* [[George Koonsman]] (1919)
+* [[Fred J. Murphy]] (1920–1922)
+* [[Elmer McDevitt]] (1923–1924)
+* [[Fred Dawson]] (1925–1928)
+* [[Jeff Cravath]] (1929–1931)
+* [[Percy Locey]] (1932–1935)
+* [[Bill Saunders]] (1936–1938)
+* [[Cac Hubbard]] (1939–1941)
+* [[Ellison Ketchum]] (1942)
+* [[Mark Duncan (coach)|Mark Duncan]] (1943)
+* [[Cac Hubbard]] & [[Adam Esslinger]] (1944)
+* [[Cac Hubbard]] (1945–1947)
+* [[Johnny Baker (guard)|Johnny Baker]] (1948–1952)
+* [[Bob Blackman (American football)|Bob Blackman]] (1953–1954)
+* [[John Roning]] (1955–1960)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Denver Pioneers football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,43 @@
+{{Navbox
+| name = Columbia Lions football coach navbox
+| title = [[Columbia Lions football|<span style="color:black">Columbia Lions head football coaches</span>]]
+| basestyle = {{CollegePrimaryStyle|Columbia Lions|color=black}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1870–1898)
+* [[George Sanford (American football)|George Sanford]] (1899–1901)
+* [[Bill Morley]] (1902–1905)
+* ''No team'' (1906–1914)
+* [[T. Nelson Metcalf]] (1915–1917)
+* [[Fred Dawson]] (1918–1919)
+* [[Frank "Buck" O'Neill]] (1920–1922)
+* [[Percy Haughton]] (1923–1924)
+* [[Paul Withington]] (1924)
+* [[Charles Crowley (American football)|Charles Crowley]] (1925–1929)
+* [[Lou Little]] (1930–1956)
+* [[Aldo Donelli]] (1957–1967)
+* [[Frank Navarro]] (1968–1973)
+* [[Bill Campbell (business executive)|Bill Campbell]] (1974–1979)
+* [[Bob Naso]] (1980–1984)
+* [[Jim Garrett]] (1985)
+* [[Larry McElreavy]] (1986–1988)
+* [[Ray Tellier]] (1989–2002)
+* [[Bob Shoop]] (2003–2005)
+* [[Norries Wilson]] (2006–2011)
+* [[Pete Mangurian]] (2012–2014)
+* [[Al Bagnoli]] (2015–2019)
+* ''No team'' (2020)
+* [[Al Bagnoli]] (2021–2022)
+* [[Mark Fabish]] # (2023)
+* [[Jon Poppe]] (2024– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Columbia Lions football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,58 @@
+{{Navbox
+| name = Dickinson Red Devils football coach navbox
+| title = [[Dickinson Red Devils football|{{white|Dickinson Red Devils head football coaches}}]]
+| basestyle = background:#E31837; color:white; {{box-shadow border|a|black|2px}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1885–1895)
+* [[Nathan Stauffer]] (1896–1899)
+* [[Sam Boyle]] (1900)
+* [[Ralph Hutchinson]] (1901)
+* [[Charles P. Hutchins]] (1902–1903)
+* [[Forrest Craver]] (1904)
+* [[J. William Williams]] (1905–1906)
+* [[Joseph Pipal]] (1907)
+* [[Paul J. Davis]] (1908)
+* [[Paul G. Smith]] (1909)
+* [[J. Troutman Gougler]] (1910)
+* [[Thomas Crooks (American football)|Thomas Crooks]] (1910)
+* [[Simon F. Pauxtis]] (1911–1912)
+* [[S. W. Harrington]] (1913–1914)
+* [[Francis Dunn (American football)|Francis Dunn]] (1915)
+* ''No team'' (1916)
+* [[Francis Dunn (American football)|Francis Dunn]] (1917)
+* [[Forrest Craver]] (1918–1921)
+* [[Glenn Killinger]] (1922)
+* [[B. Russell Murphy]] (1923)
+* [[Joseph Lightner]] (1923–1925)
+* [[S. Marsh Johnson]] (1926)
+* [[Robert Duffy (American football)|Robert Duffy]] (1927–1928)
+* [[Percy W. Griffiths]] (1929–1930)
+* [[Joseph H. McCormick]] (1931–1934)
+* [[Art Kahler]] (1935–1941)
+* [[Benjamin James (American football)|Benjamin James]] (1942)
+* ''No team'' (1943–1945)
+* [[Ralph Ricker]] (1946–1949)
+* [[Frank Maze]] (1950–1951)
+* [[Alured Ransom]] (1952–1954)
+* [[Brinton Piez]] (1955–1956)
+* [[Donald Seibert]] (1957–1963)
+* [[W. J. Gobrecht]] (1965–1979)
+* [[Ray Erney]] (1980–1983)
+* [[W. J. Gobrecht]] # (1984)
+* [[Ed Sweeney (American football)|Ed Sweeney]] (1985–1992)
+* [[Darwin Breaux]] (1993–2016)
+* [[Brad Fordyce]] (2017–2019)
+* ''No team'' (2020)
+* [[Brad Fordyce]] (2021– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Dickinson Red Devils football navigational boxes|Coach]]
+</noinclude>

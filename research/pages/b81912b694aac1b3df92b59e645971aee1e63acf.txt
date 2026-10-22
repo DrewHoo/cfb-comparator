@@ -1,0 +1,41 @@
+{{Navbox
+| name = Northern Colorado Bears football coach navbox
+| title = [[List of Northern Colorado Bears head football coaches|{{white|Northern Colorado Bears head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Northern Colorado Bears|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[John Lister (American football)|John Lister]] (1893)
+* ''No team'' (1894)
+* [[John Lister (American football)|John Lister]] (1895–1896)
+* ''No team'' (1897–1898)
+* [[Arthur Kendel]] (1899–1900)
+* ''No team'' (1901–1904)
+* Samuel E. Abbott (1905)
+* ''No team'' (1906–1916)
+* [[Ralph Glaze]] (1917–1918)
+* [[William E. Search]] (1919–1921)
+* [[George E. Cooper]] (1922–1927)
+* [[Bill Saunders]] (1928–1931)
+* [[John W. Hancock]] (1932–1942)
+* ''No team'' (1943–1944)
+* [[John W. Hancock]] (1946–1953)
+* [[Joe Lindahl]] (1954–1962)
+* [[William C. Heiss]] (1963–1965)
+* [[Bob Blasi]] (1966–1984)
+* [[Ron Simonson]] (1985–1988)
+* [[Joe Glenn (American football)|Joe Glenn]] (1989–1999)
+* [[Kay Dalton]] (2000–2005)
+* [[Scott Downing]] (2006–2010)
+* [[Earnest Collins Jr.]] (2011–2019)
+* ''No team'' (2020)
+* [[Ed McCaffrey]] (2021–2022)
+* [[Ed Lamb]] (2023– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Northern Colorado Bears football navigational boxes|Coach]]
+</noinclude>

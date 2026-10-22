@@ -1,0 +1,56 @@
+{{Navbox
+| name = Montana Grizzlies football coach navbox
+| title = [[List of Montana Grizzlies head football coaches|{{white|Montana Grizzlies head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Montana Grizzlies|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Fred D. Smith]] (1897)
+* [[Benjamin F. Searight]] (1898)
+* [[Guy Cleveland]] (1899)
+* [[Frank Bean (American football)|Frank Bean]] (1900–1901)
+* [[Dewitt Peck (American football)|Dewitt Peck]] (1902)
+* [[Hiram Conibear]] (1903–1904)
+* [[Frederick Schule]] (1905–1906)
+* [[Albion Findlay]] (1907)
+* [[Roy White (American football coach)|Roy White]] (1908–1909)
+* [[Robert H. Cary]] (1910–1911)
+* [[Wallace Philoon]] (1912)
+* [[A. George Heilman]] (1913–1914)
+* [[Jerry Nissen]] (1915–1917)
+* ''No team'' (1918)
+* [[Bernie Bierman]] (1919–1921)
+* [[John W. Stewart (American football)|John W. Stewart]] (1922–1923)
+* [[Earl Clark (American football)|Earl Clark]] (1924–1925)
+* [[Frank W. Milburn]] (1926–1930)
+* [[Bunny Oakes]] (1931–1934)
+* [[Doug Fessenden]] (1935–1941)
+* [[Clyde Carpenter]] (1942)
+* ''No team'' (1943–1944)
+* [[George Dahlberg]] (1945)
+* [[Doug Fessenden]] (1946–1948)
+* [[Ted Shipkey]] (1949–1951)
+* [[Ed Chinske]] (1952–1954)
+* [[Jerry Williams (gridiron football)|Jerry Williams]] (1955–1957)
+* [[Ray Jenkins (American football)|Ray Jenkins]] (1958–1963)
+* [[Hugh Davidson (American football)|Hugh Davidson]] (1964–1966)
+* [[Jack Swarthout]] (1967–1975)
+* [[Gene Carlson]] (1976–1979)
+* [[Larry Donovan]] (1980–1985)
+* [[Don Read]] (1986–1995)
+* [[Mick Dennehy]] (1996–1999)
+* [[Joe Glenn (American football)|Joe Glenn]] (2000–2002)
+* [[Bobby Hauck]] (2003–2009)
+* [[Robin Pflugrad]] (2010–2011)
+* [[Mick Delaney]] (2012–2014)
+* [[Bob Stitt]] (2015–2017)
+* [[Bobby Hauck]] (2018–2025)
+* [[Bobby Kennedy (American football)|Bobby Kennedy]] (2026– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Montana Grizzlies football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,52 @@
+{{Navbox
+| name = West Virginia Wesleyan Bobcats football coach navbox
+| title = [[West Virginia Wesleyan Bobcats football|{{white|West Virginia Wesleyan Bobcats head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|West Virginia Wesleyan Bobcats|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Henry White (American football)|Henry White]] (1898)
+* ''No team'' (1899)
+* ''No coach'' (1900–1901)
+* [[Ed Kenna]] (1902)
+* [[Bull Smith]] (1903)
+* [[Homer Roy Waugh]] (1904–1906)
+* [[Paul Martin (American football)|Paul Martin]] (1907)
+* [[O. Kerr Price]] (1908–1909)
+* [[Cap Edwards]] (1910–1911)
+* [[John Felton (American football)|John Felton]] & [[Mont McIntire]] (1912–1913)
+* [[Frank Mount Pleasant]] (1914)
+* [[William Garlow]] (1915)
+* [[Greasy Neale]] (1916–1917)
+* ''No team'' (1918)
+* [[Don Drumm (American football)|Don Drumm]] (1919)
+* [[Bob Higgins (American football)|Bob Higgins]] (1920)
+* [[John Felton (American football)|John Felton]] (1921)
+* [[Bob Higgins (American football)|Bob Higgins]] (1922–1924)
+* [[Cebe Ross]] (1925–1941)
+* ''No team'' (1942–1945)
+* [[Cebe Ross]] (1946–1950)
+* ''No team'' (1951–1952)
+* [[David E. Reemsnyder]] (1953–1957)
+* [[Samuel Ross (American football)|Samuel Ross]] (1958–1961)
+* [[William Pugh (American football)|William Pugh]] (1962–1968)
+* [[D. Ralph Bouch]] (1969–1972)
+* [[Kent Carpenter (American football)|Kent Carpenter]] (1973–1982)
+* [[Bill Struble]] (1983–2008)
+* [[Dennis Creehan]] (2009–2010)
+* [[Jonas Jackson]] (2011–2012)
+* [[George Shehl]] (2013–2015)
+* [[Del Smith (American football)|Del Smith]] (2016–2018)
+* [[Tony Testa (American football)|Tony Testa]] (2019)
+* ''No team'' (2020)
+* [[Tony Testa (American football)|Tony Testa]] (2021)
+* [[Dwayne Martin]] (2021–2025)
+* [[Mike Kellar]] (2026– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division II football coach navigational boxes]]
+[[Category:West Virginia Wesleyan Bobcats football navigational boxes|Coach]]
+</noinclude>

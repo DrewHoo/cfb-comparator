@@ -1,0 +1,50 @@
+{{Navbox
+| name = Alabama Crimson Tide football coach navbox
+| title = [[List of Alabama Crimson Tide head football coaches|{{white|Alabama Crimson Tide head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Alabama Crimson Tide|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[E. B. Beaumont]] (1892)
+* [[Eli Abbott]] (1893–1895)
+* [[Otto Wagonhurst]] (1896)
+* [[Allen McCants]] (1897)
+* ''No team'' (1898)
+* [[W. A. Martin]] (1899)
+* [[Malcolm Griffin (American football)|Malcolm Griffin]] (1900)
+* [[M. S. Harvey]] (1901)
+* [[Eli Abbott]] (1902)
+* [[W. A. Blount]] (1903–1904)
+* [[Jack Leavenworth]] (1905)
+* [[J. W. H. Pollard]] (1906–1909)
+* [[Guy Lowman]] (1910)
+* [[D. V. Graves]] (1911–1914)
+* [[Thomas Kelley (coach)|Thomas Kelley]] (1915–1917)
+* ''No team'' (1918)
+* [[Xen C. Scott]] (1919–1922)
+* [[Wallace Wade]] (1923–1930)
+* [[Frank Thomas (American football)|Frank Thomas]] (1931–1942)
+* ''No team'' (1943)
+* [[Frank Thomas (American football)|Frank Thomas]] (1944–1946)
+* [[Harold Drew]] (1947–1954)
+* [[Jennings B. Whitworth]] (1955–1957)
+* [[Bear Bryant]] (1958–1982)
+* [[Ray Perkins]] (1983–1986)
+* [[Bill Curry]] (1987–1989)
+* [[Gene Stallings]] (1990–1996)
+* [[Mike DuBose]] (1997–2000)
+* [[Dennis Franchione]] (2001–2002)
+* [[Mike Shula]] (2003–2006)
+* [[Joe Kines]] # (2006)
+* [[Nick Saban]] (2007–2023)
+* [[Kalen DeBoer]] (2024– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Alabama Crimson Tide football navigational boxes|Coach]]
+</noinclude>

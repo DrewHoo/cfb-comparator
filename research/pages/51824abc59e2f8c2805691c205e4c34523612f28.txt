@@ -1,0 +1,53 @@
+{{Navbox
+| name = Kansas State Wildcats football coach navbox
+| title = [[List of Kansas State Wildcats head football coaches|{{white|Kansas State Wildcats head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Kansas State Wildcats|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Ira Pratt]] (1896)
+* [[A. W. Ehrsam]] (1897)
+* [[Billy P. Williamson]] (1898)
+* [[Albert Hansen]] (1899)
+* [[Fay Moulton]] (1900)
+* [[Wade Moore]] (1901)
+* [[Cyrus E. Dietz]] (1902)
+* [[G. O. Dietz]] (1903)
+* [[Reuben F. Booth]] (1904)
+* [[Mike Ahearn]] (1905–1910)
+* [[Guy Lowman]] (1911–1914)
+* [[John R. Bender]] (1915)
+* [[Zora Clevenger]] (1916–1919)
+* [[Charlie Bachman]] (1920–1927)
+* [[Bo McMillin]] (1928–1933)
+* [[Pappy Waldorf]] (1934)
+* [[Wesley Fry]] (1935–1939)
+* [[Hobbs Adams]] (1940–1941)
+* [[Ward Haylett]] (1942–1944)
+* [[Lud Fiser]] (1945)
+* [[Hobbs Adams]] (1946)
+* [[Sam Francis (American football)|Sam Francis]] (1947)
+* [[Ralph Graham (American football)|Ralph Graham]] (1948–1950)
+* [[Bill Meek]] (1951–1954)
+* [[Bus Mertes]] (1955–1959)
+* [[Doug Weaver]] (1960–1966)
+* [[Vince Gibson]] (1967–1974)
+* [[Ellis Rainsberger]] (1975–1977)
+* [[Jim Dickey]] (1978–1985)
+* [[Lee Moon]] # (1985)
+* [[Stan Parrish]] (1986–1988)
+* [[Bill Snyder]] (1989–2005)
+* [[Ron Prince]] (2006–2008)
+* [[Bill Snyder]] (2009–2018)
+* [[Chris Klieman]] (2019–2025)
+* [[Collin Klein]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Kansas State Wildcats football navigational boxes|Coach]]
+</noinclude>

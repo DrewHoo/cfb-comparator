@@ -1,0 +1,58 @@
+{{Navbox
+| name = Mississippi State Bulldogs football coach navbox
+| title = [[List of Mississippi State Bulldogs head football coaches|{{white|Mississippi State Bulldogs head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Mississippi State Bulldogs|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[W. M. Matthews]] (1895)
+* [[J. B. Hildebrand]] (1896)
+* ''No team'' (1897–1900)
+* [[L. B. Harvey]] (1901)
+* [[Jerry Gwin]] (1902)
+* [[Daniel S. Martin]] (1903–1906)
+* [[Fred Furman]] (1907–1908)
+* [[W. D. Chadwick]] (1909–1913)
+* [[Earl C. Hayes]] (1914–1916)
+* [[Stanley L. Robinson]] (1917–1919)
+* [[Ferdinand Holtkamp]] (1920–1921)
+* [[Dudy Noble]] (1922)
+* [[Earl Abell]] (1923–1924)
+* [[Bernie Bierman]] (1925–1926)
+* [[John W. Hancock]] (1927–1929)
+* [[Chris Cagle (American football)|Chris Cagle]] (1930)
+* [[Ray G. Dauber]] (1931–1932)
+* [[Ross MacKechnie]] (1933–1934)
+* [[Ralph Sasse]] (1935–1937)
+* [[Spike Nelson]] (1938)
+* [[Allyn McKeen]] (1939–1942)
+* ''No team'' (1943)
+* [[Allyn McKeen]] (1944–1948)
+* [[Arthur Morton (American football)|Arthur Morton]] (1949–1951)
+* [[Murray Warmath]] (1952–1953)
+* [[Darrell Royal]] (1954–1955)
+* [[Wade Walker]] (1956–1961)
+* [[Paul E. Davis]] (1962–1966)
+* [[Charles Shira]] (1967–1972)
+* [[Bob Tyler]] (1973–1978)
+* [[Emory Bellard]] (1979–1985)
+* [[Rockey Felker]] (1986–1990)
+* [[Jackie Sherrill]] (1991–2003)
+* [[Sylvester Croom]] (2004–2008)
+* [[Dan Mullen]] (2009–2017)
+* [[Greg Knox]] # (2017)
+* [[Joe Moorhead]] (2018–2019)
+* [[Mike Leach (American football coach)|Mike Leach]] (2020–2022)
+* [[Zach Arnett]] (2022–2023)
+* [[Greg Knox]] # (2023)
+* [[Jeff Lebby]] (2024– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Mississippi State Bulldogs football navigational boxes|Coach]]
+</noinclude>

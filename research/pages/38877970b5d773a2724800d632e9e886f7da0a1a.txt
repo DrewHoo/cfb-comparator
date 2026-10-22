@@ -1,0 +1,53 @@
+{{Navbox
+|  name = Texas A&M Aggies football coach navbox
+| title = [[List of Texas A&M Aggies head football coaches|{{white|Texas A&M Aggies head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Texas A&M Aggies|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[F. Dudley Perkins]] (1894)
+* ''No team'' (1895)
+* [[Andrew M. Soule]] & [[Horace W. South]] (1896)
+* [[Charles T. Taylor]] (1897)
+* [[H. W. Williams]] (1898)
+* [[W. A. Murray]] (1899–1901)
+* [[J. E. Platt]] (1902–1904)
+* [[Walter E. Bachman]] (1905–1906)
+* [[Lester Larson]] (1907)
+* [[Ned Merriam]] (1908–1909)
+* [[Charley Moran]] (1909–1914)
+* [[Edwin Harlan]] (1915–1916)
+* [[Dana X. Bible]] (1917)
+* [[D. V. Graves]] (1918)
+* [[Dana X. Bible]] (1919–1928)
+* [[Matty Bell]] (1929–1933)
+* [[Homer Norton]] (1934–1947)
+* [[Harry Stiteler]] (1948–1950)
+* [[Raymond George]] (1951–1953)
+* [[Bear Bryant]] (1954–1957)
+* [[Jim Myers]] (1958–1961)
+* [[Hank Foldberg]] (1962–1964)
+* [[Gene Stallings]] (1965–1971)
+* [[Emory Bellard]] (1972–1978)
+* [[Tom Wilson (American football)|Tom Wilson]] (1978–1981)
+* [[Jackie Sherrill]] (1982–1988)
+* [[R. C. Slocum]] (1989–2002)
+* [[Dennis Franchione]] (2003–2007)
+* [[Gary Darnell]] # (2007)
+* [[Mike Sherman]] (2008–2011)
+* [[Tim DeRuyter]] # (2011)
+* [[Kevin Sumlin]] (2012–2017)
+* [[Jeff Banks (American football)|Jeff Banks]] # (2017)
+* [[Jimbo Fisher]] (2018–2023)
+* [[Elijah Robinson]] # (2023)
+* [[Mike Elko]] (2024– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Texas A&M Aggies football navigational boxes|Coach]]
+</noinclude>

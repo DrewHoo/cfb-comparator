@@ -1,0 +1,41 @@
+{{Navbox
+| name = Marquette Golden Avalanche football coach navbox
+| title = [[Marquette Golden Avalanche football|{{white|Marquette Golden Avalanche head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Marquette Golden Eagles|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1892–1893)
+* [[Maurice A. McCabe]] (1894)
+* [[Maurice A. McCabe]] & Madden (1895)
+* ''Unknown'' (1898–1898)
+* ''No team'' (1899)
+* ''Unknown'' (1900)
+* [[Jerry Riordan]] (1901)
+* [[Oscar Erickson (American football)|Oscar Erickson]] (1902)
+* [[Jerry Riordan]] (1903)
+* [[Thomas Skelly]] (1904)
+* [[John Ford (American football coach)|John Ford]] (1905–1906)
+* [[Cody Clark (American football)|Cody Clark]] (1907)
+* [[William Juneau]] (1908–1911)
+* [[Clarence Kenney]] (1912)
+* [[Leander J. Foley]] (1913)
+* [[John P. Koehler]] (1914–1915)
+* [[John B. McAuliffe]] (1916)
+* [[John J. Ryan]] (1917–1921)
+* [[Frank Murray (coach)|Frank Murray]] (1922–1936)
+* [[Paddy Driscoll]] (1937–1940)
+* [[Thomas E. Stidham]] (1941–1945)
+* [[Frank Murray (coach)|Frank Murray]] (1946–1949)
+* [[Lisle Blackbourn]] (1950–1953)
+* [[Frosty Ferzacca]] (1954–1955)
+* [[John F. Druze]] (1956–1958)
+* [[Lisle Blackbourn]] (1959–1960)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Marquette Golden Avalanche football navigational boxes|Coach]]
+</noinclude>

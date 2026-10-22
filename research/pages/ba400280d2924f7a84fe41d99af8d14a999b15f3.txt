@@ -1,0 +1,45 @@
+{{Navbox
+| name = Colorado College Tigers football coach navbox
+| title = [[Colorado College Tigers football|{{white|Colorado College Tigers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Colorado College Tigers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[E. B. Curtis]] (1883–1884)
+* [[R. D. McLeod]] (1885)
+* ''No team'' (1886–1890)
+* [[George K. Olmstead]] (1891–1893)
+* [[Harvey Noble]] (1894)
+* [[R. D. McLeod]] (1895)
+* [[Pope Lamson]] (1896)
+* [[Browning Smith]] (1897)
+* [[Charles Wilson (American football coach)|Charles Wilson]] (1898)
+* [[John Clark (American football)|John Clark]] (1899)
+* [[J. C. Ewing]] (1900–1901)
+* [[Fred Caldwell]] (1902)
+* [[Edward S. Merrill]] (1903)
+* [[William Juneau]] (1904)
+* [[John R. Richards]] (1905–1909)
+* [[Claude Rothgeb]] (1910–1918)
+* [[Charles "Poss" Parsons]] (1919–1921)
+* [[Telfer L. Mead]] (1922–1925)
+* [[William T. Van de Graaff]] (1926–1939)
+* [[Clark DeGroot]] (1940)
+* [[Juan Reid]] (1941)
+* [[Harold A. White]] (1942–1946)
+* [[Ben Douglas (American football)|Ben Douglas]] (1947)
+* [[Allison Binns]] (1948–1950)
+* [[William C. Heiss]] (1951–1953)
+* [[Roy B. Robertson]] (1954–1956)
+* [[Jerry Carle]] (1957–1989)
+* [[Craig Rundle]] (1990–1996)
+* [[Greg Polnasek]] (1997–2002)
+* [[Bob Bodor]] (2003–2008)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Colorado College Tigers football navigational boxes|Coach]]
+</noinclude>

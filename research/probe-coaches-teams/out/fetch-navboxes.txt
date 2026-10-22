@@ -1,0 +1,26 @@
+search offset 0 got 500 total hits 1059
+search offset 500 got 500 total hits 1059
+search offset 1000 got 59 total hits 1059
+navbox titles 997
+fetched 50
+fetched 100
+fetched 150
+fetched 200
+fetched 250
+fetched 300
+fetched 350
+fetched 400
+fetched 450
+fetched 500
+fetched 550
+fetched 600
+429, waiting
+429, waiting
+fetched 650
+fetched 700
+fetched 750
+fetched 800
+fetched 850
+fetched 900
+fetched 950
+fetched 997

@@ -1,0 +1,64 @@
+{{Navbox
+| name = Purdue Boilermakers football coach navbox
+| title = [[List of Purdue Boilermakers head football coaches|{{white|Purdue Boilermakers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Purdue Boilermakers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Albert Berg]] (1887)
+* ''No team'' (1888)
+* [[George Andrew Reisner]] (1889)
+* [[Clinton L. Hare]] (1890)
+* [[Knowlton Ames]] (1891–1892) <!-- Possibly incorrect, as Northwestern also claims him as head coach in same years. https://s3.amazonaws.com/sidearm.sites/nusports.com/documents/2017/7/21/Northwestern_2017_Media_Guide.pdf pg 105-->
+* [[D. M. Balliet]] (1893)
+* [[M. P. Randolph]] (1893)
+* [[Edward Seixas]] (1893)
+* [[D. M. Balliet]] (1894–1895)
+* [[Samuel M. Hammond]] (1896)
+* [[William W. Church]] (1897)
+* [[Alpha Jamison]] (1898–1900)
+* [[D. M. Balliet]] (1901)
+* [[Charles Best (American football)|Charles Best]] (1902)
+* [[Oliver Cutts]] (1903–1904)
+* [[Albert E. Herrnstein]] (1905)
+* [[Myron E. Witham]] (1906)
+* [[Leigh C. Turner]] (1907)
+* [[Frederick A. Speik]] (1908–1909)
+* [[Bill Horr]] (1910–1912)
+* [[Keckie Moll]] (1912)
+* [[Andy Smith (American football)|Andy Smith]] (1913–1915)
+* [[Cleo A. O'Donnell]] (1916–1917)
+* [[A. G. Scanlon]] (1918–1920)
+* [[William Henry Dietz]] (1921)
+* [[James Phelan (American football)|James Phelan]] (1922–1929)
+* [[Noble Kizer]] (1930–1936)
+* [[Mal Elward]] (1937–1941)
+* [[Elmer Burnham]] (1942–1943)
+* [[Cecil Isbell]] (1944–1946)
+* [[Stu Holcomb]] (1947–1955)
+* [[Jack Mollenkopf]] (1956–1969)
+* [[Bob DeMoss]] (1970–1972)
+* [[Alex Agase]] (1973–1976)
+* [[Jim Young (American football coach)|Jim Young]] (1977–1981)
+* [[Leon Burtnett]] (1982–1986)
+* [[Fred Akers]] (1987–1990)
+* [[Jim Colletto]] (1991–1996)
+* [[Joe Tiller]] (1997–2008)
+* [[Danny Hope]] (2009–2012)
+* [[Patrick Higgins (American football)|Patrick Higgins]] # (2012)
+* [[Darrell Hazell]] (2013–2016)
+* [[Gerad Parker]] # (2016)
+* [[Jeff Brohm]] (2017–2022)
+* [[Brian Brohm]] # (2022)
+* [[Ryan Walters (American football)|Ryan Walters]] (2023–2024)
+* [[Barry Odom]] (2025– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Purdue Boilermakers football navigational boxes|Coach]]
+</noinclude>

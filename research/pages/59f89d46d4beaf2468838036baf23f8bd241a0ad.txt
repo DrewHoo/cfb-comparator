@@ -1,0 +1,37 @@
+{{Navbox
+| name = Carnegie Mellon Tartans football coach navbox
+| title = [[Carnegie Mellon Tartans football|{{white|Carnegie Mellon Tartans head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Carnegie Mellon Tartans|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[George Oliver Challinor]] (1906)
+* [[Joseph H. Thompson]] (1907)
+* [[William F. Knox]] (1908)
+* [[Edwin N. Snitjer]] (1909)
+* [[Eugene "Winks" Dowling]] (1910)
+* [[Ernest Cozens]] (1911)
+* [[William L. Marks]] (1912–1913)
+* [[Walter Steffen]] (1914–1917)
+* ''No team'' (1918)
+* [[Walter Steffen]] (1919–1932)
+* [[Howard Harpster]] (1933–1936)
+* [[Bill Kern]] (1937–1939)
+* [[Edward Baker (American football)|Edward Baker]] (1940–1942)
+* [[Joe Skladany]] (1943)
+* ''No team'' (1944–1945)
+* [[Bill Donohoe]] (1946–1948)
+* [[Edward Baker (American football)|Edward Baker]] (1949–1959)
+* [[Edward Hirshberg]] (1960–1962)
+* [[Joe Gasparella]] (1963–1975)
+* [[Chuck Klausing]] (1976–1985)
+* [[Rich Lackner]] (1986–2021)
+* [[Ryan Larsen]] (2022– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Carnegie Mellon Tartans football navigational boxes|Coach]]
+</noinclude>

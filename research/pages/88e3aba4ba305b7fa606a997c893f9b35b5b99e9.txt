@@ -1,0 +1,44 @@
+{{Navbox
+| name = Clemson Tigers football coach navbox
+| title = [[List of Clemson Tigers head football coaches|{{color|black|Clemson Tigers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Clemson Tigers|color=black}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 =
+* [[Walter Riggs]] (1896)
+* [[William M. Williams (American football)|William M. Williams]] (1897)
+* [[John Penton (American football)|John Penton]] (1898)
+* [[Walter Riggs]] (1899)
+* [[John Heisman]] (1900–1903)
+* [[Shack Shealy]] (1904)
+* [[Eddie Cochems]] (1905)
+* [[Bob Williams (coach, born 1877)|Bob Williams]] (1906)
+* [[Frank Shaughnessy]] (1907)
+* [[Stein Stone]] (1908)
+* [[Bob Williams (coach, born 1877)|Bob Williams]] (1909)
+* [[Frank Dobson (American football)|Frank Dobson]] (1910–1912)
+* [[Bob Williams (coach, born 1877)|Bob Williams]] (1913–1915)
+* [[Wayne Hart]] (1916)
+* [[Edward Donahue]] (1917–1920)
+* [[E. J. Stewart]] (1921–1922)
+* [[Bud Saunders]] (1923–1926)
+* [[Bob Williams (coach, born 1877)|Bob Williams]] (1926)
+* [[Josh Cody]] (1927–1930)
+* [[Jess Neely]] (1931–1939)
+* [[Frank Howard (American football)|Frank Howard]] (1940–1969)
+* [[Hootie Ingram]] (1970–1972)
+* [[Red Parker]] (1973–1976)
+* [[Charley Pell]] (1977–1978)
+* [[Danny Ford]] (1978–1989)
+* [[Ken Hatfield]] (1990–1993)
+* [[Tommy West (American football)|Tommy West]] (1993–1998)
+* [[Tommy Bowden]] (1999–2008)
+* [[Dabo Swinney]] (2008– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Clemson Tigers football navigational boxes|Coach]]
+</noinclude>

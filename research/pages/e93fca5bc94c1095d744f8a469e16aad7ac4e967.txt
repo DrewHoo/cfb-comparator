@@ -1,0 +1,53 @@
+{{Navbox
+| name = Bowdoin Polar Bears football coach navbox
+| title = [[Bowdoin Polar Bears football|{{white|Bowdoin Polar Bears head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Bowdoin Polar Bears|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1889–1890)
+* [[Pearl T. Haskell]] (1891)
+* [[Frank N. Whittier]] (1892–1893)
+* [[Warren R. Smith (American football)|Warren R. Smith]] (1894)
+* [[William C. Mackie]] (1895)
+* [[William Hoag]] (1896)
+* [[William C. Mackie]] (1896)
+* [[Prescott Warren]] (1897)
+* [[David C. MacAndrew]] (1898)
+* [[William M. Richards]] (1898)
+* [[Fred Crolius]] (1899)
+* [[James G. Lathrop]] (1900)
+* [[Harry Howard Cloudman]] (1901)
+* [[John C. O'Connor]] (1902–1903)
+* [[Roscoe P. McClave]] (1904–1909)
+* [[Frank Bergin]] (1910–1912)
+* [[Thomas A. McCann]] (1913–1914)
+* [[Thomas J. Campbell (American football)|Thomas J. Campbell]] (1915)
+* [[Albert J. Weatherhead Jr.]] (1916)
+* [[Jack Magee]] (1917–1918)
+* [[Roger A. Greene]] (1919–1920)
+* [[Frederick V. Ostergren]] (1921–1924)
+* [[John M. Cates]] (1925–1926)
+* [[Mal Morrell]] (1927–1929)
+* [[Charley Bowser]] (1930–1934)
+* [[Adam Walsh (American football)|Adam Walsh]] (1935–1942)
+* ''No team'' (1943–1945)
+* [[Dinny Shay]] (1946)
+* [[Adam Walsh (American football)|Adam Walsh]] (1947–1958)
+* [[Nels Corey]] (1959–1964)
+* [[Peter Kostacopoulos]] (1965–1967)
+* [[James S. Lentz]] (1968–1983)
+* [[Howard S. Vandersea]] (1984–1999)
+* [[Dave Caputi]] (2000–2014)
+* [[J. B. Wells]] (2015–2018)
+* [[B. J. Hammer]] (2019)
+* ''No team'' (2020)
+* [[B. J. Hammer]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Bowdoin Polar Bears navigational boxes|Football, coach]]
+</noinclude>

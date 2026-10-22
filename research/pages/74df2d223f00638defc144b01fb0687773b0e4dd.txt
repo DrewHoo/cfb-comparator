@@ -1,0 +1,47 @@
+{{Navbox
+| name = Bucknell Bison football coach navbox
+| title = [[List of Bucknell Bison head football coaches|{{white|Bucknell Bison head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Bucknell Bison|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1881–1892)
+* [[Will Young (American football)|Will Young]] (1893–1896)
+* [[George Jennings (American football)|George Jennings]] (1897–1898)
+* [[George W. Hoskins]] (1899–1906)
+* [[James H. Costello]] (1907)
+* [[Paul G. Smith]] (1908)
+* [[George W. Hoskins]] (1909)
+* [[Byron W. Dickson]] (1910–1913)
+* [[George Cockill]] (1914)
+* [[George Johnson (American football coach)|George Johnson]] (1915–1917)
+* [[Edgar Wingard]] (1918)
+* [[Pete Reynolds]] (1919–1923)
+* [[Charley Moran]] (1924–1926)
+* [[Carl Snavely]] (1927–1933)
+* [[Edward Mylin]] (1934–1936)
+* [[Al Humphreys]] (1937–1942)
+* [[John Sitarsky]] (1943)
+* [[J. Ellwood Ludwig]] (1944–1945)
+* [[Al Humphreys]] (1946)
+* [[Harry Lawrence (American football)|Harry Lawrence]] (1947–1957)
+* [[Bob Odell (American football)|Bob Odell]] (1958–1964)
+* [[Carroll Huntress]] (1965–1968)
+* [[Fred Prender]] (1969–1974)
+* [[Bob Curtis (American football)|Bob Curtis]] (1975–1985)
+* [[George Landis]] (1986–1988)
+* [[Lou Maranzana]] (1989–1994)
+* [[Tom Gadd]] (1995–2001)
+* [[Dave Kotulski]] (2002)
+* [[Tim Landis]] (2003–2009)
+* [[Joe Susan]] (2010–2018)
+* [[Dave Cecchini]] (2019–2025)
+* [[Jeff Behrman]] (2026– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Bucknell Bison football navigational boxes|Coach]]
+</noinclude>

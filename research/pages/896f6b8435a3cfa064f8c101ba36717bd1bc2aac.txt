@@ -1,0 +1,44 @@
+{{Navbox
+| name = Ohio State Buckeyes football coach navbox
+| title = [[List of Ohio State Buckeyes head football coaches|{{white|Ohio State Buckeyes head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Ohio State Buckeyes|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Alexander S. Lilley]] (1890–1891)
+* [[Jack Ryder (American football)|Jack Ryder]] (1892–1895)
+* [[Charles A. Hickey]] (1896)
+* [[David Farragut Edwards]] (1897)
+* [[Jack Ryder (American football)|Jack Ryder]] (1898)
+* [[John B. Eckstorm]] (1899–1901)
+* [[Perry Hale]] (1902–1903)
+* [[Edwin Sweetland]] (1904–1905)
+* [[Albert E. Herrnstein]] (1906–1909)
+* [[Howard Jones (American football coach)|Howard Jones]] (1910)
+* [[Harry Vaughan (American football)|Harry Vaughan]] (1911)
+* [[John R. Richards]] (1912)
+* [[John Wilce]] (1913–1928)
+* [[Sam Willaman]] (1929–1933)
+* [[Francis Schmidt]] (1934–1940)
+* [[Paul Brown]] (1941–1943)
+* [[Carroll Widdoes]] (1944–1945)
+* [[Paul Bixler]] (1946)
+* [[Wes Fesler]] (1947–1950)
+* [[Woody Hayes]] (1951–1978)
+* [[Earle Bruce]] (1979–1987)
+* [[John Cooper (American football)|John Cooper]] (1988–2000)
+* [[Jim Tressel]] (2001–2010)
+* [[Luke Fickell]] # (2011)
+* [[Urban Meyer]] (2012–2018)
+* [[Ryan Day]] # (2018)
+* [[Ryan Day]] (2019– )
+
+''# denotes interim/acting head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Ohio State Buckeyes football navigational boxes|Coach]]
+</noinclude>

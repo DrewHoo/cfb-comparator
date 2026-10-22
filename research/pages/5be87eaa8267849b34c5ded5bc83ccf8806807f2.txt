@@ -1,0 +1,62 @@
+{{Navbox
+| name = Richmond Spiders football coach navbox
+| title = [[List of Richmond Spiders head football coaches|{{white|Richmond Spiders head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Richmond Spiders|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[M. C. Taylor]] (1881)
+* [[C. M. Hazen]] (1882)
+* ''No team'' (1883–1884)
+* [[C. M. Hazen]] (1885–1886)
+* [[H. R. Hundley]] (1887)
+* [[C. M. Hazen]] (1888)
+* [[Frank Johnson (American football)|Frank Johnson]] (1889)
+* [[C. T. Taylor]] (1890)
+* [[Dana Rucker]] (1891)
+* [[Penwick Shelton]] (1892)
+* [[Dana Rucker]] (1893–1895)
+* ''No team'' (1896)
+* [[Bill Wertenbaker]] (1897)
+* [[Oscar Lee Owens]] (1898)
+* [[Julien Hill]] (1899)
+* [[Ed Kenna]] (1900)
+* [[Garnett Nelson]] (1901)
+* [[Graham Hobson]] (1902)
+* [[Fred Vail]] (1903)
+* [[Harry Wall (American football)|Harry Wall]] (1904)
+* [[E. A. Dunlap]] (1905–1909)
+* [[E. V. Long]] (1910)
+* [[Sam Honaker]] (1911)
+* [[E. A. Dunlap]] (1912)
+* [[Frank Dobson (American football)|Frank Dobson]] (1913–1917)
+* [[Robert C. Marshall]] (1918)
+* [[Frank Dobson (American football)|Frank Dobson]] (1919–1933)
+* [[Glenn Thistlethwaite]] (1934–1941)
+* [[John Fenlon]] (1942)
+* [[Malcolm Pitt]] (1943–1944)
+* [[George Hope (American football)|George Hope]] (1945)
+* [[John Fenlon]] (1946–1947)
+* [[Karl Esleeck]] (1948–1950)
+* [[Ed Merrick]] (1951–1965)
+* [[Frank Jones (American football coach)|Frank Jones]] (1966–1973)
+* [[Jim Tait]] (1974–1979)
+* [[Dal Shealy]] (1980–1988)
+* [[Jim Marshall (coach)|Jim Marshall]] (1989–1994)
+* [[Jim Reid (American football)|Jim Reid]] (1995–2003)
+* [[Dave Clawson]] (2004–2007)
+* [[Mike London]] (2008–2009)
+* [[Latrell Scott]] (2010)
+* [[Wayne Lineburg]] # (2011)
+* [[Danny Rocco]] (2012–2016)
+* [[Russ Huesman]] (2017– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Richmond Spiders football navigational boxes|Coach]]
+</noinclude>

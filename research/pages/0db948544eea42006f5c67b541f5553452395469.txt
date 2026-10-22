@@ -1,0 +1,56 @@
+{{Navbox
+| name = Tufts Jumbos football coach navbox
+| title = [[Tufts Jumbos football|{{white|Tufts Jumbos head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Tufts Jumbos|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Luman Aldrich]] (1875–1877)
+* [[Scott Campbell (coach)|Scott Campbell]] (1877)
+* ''No formal games'' (1878–1883)
+* [[Dwight Griswold (American football)|Dwight Griswold]] (1884)
+* [[Fred P. Chapman]] (1885)
+* [[James Galletly]] (1886)
+* [[Frank W. Durkee]] (1887)
+* ''No formal games'' (1888)
+* Martin (1889)
+* [[Charles Stover]] (1890)
+* [[Wilfred Russ]] (1891)
+* [[Andrew J. Balliet]] (1892)
+* Haskell (1893)
+* [[H. W. Hamlin]] (1894)
+* [[Marshall Newell]] (1895–1896)
+* [[Joshua Damon Upton]] (1897–1898)
+* [[Edwin A. Locke (coach)|Edwin A. Locke]] (1899)
+* [[William B. Hopkins (coach)|William B. Hopkins]] (1900)
+* [[John C. Pearson (American football coach)|John C. Pearson]] (1901–1902)
+* [[Charles Whelan]] (1903–1907)
+* [[Nate Pulsifer]] (1908)
+* [[Edward N. Robinson]] (1909)
+* [[Vin H. Sheehy]] (1910)
+* [[Clark Tobin]] (1911)
+* [[Charles Whelan]] (1912–1917)
+* [[Al Pierotti]] (1918)
+* [[Charles Whelan]] (1919)
+* [[William Parks (American football)|William Parks]] (1920–1921)
+* [[Eddie Casey]] (1922–1925)
+* [[Arthur Sampson]] (1926–1929)
+* [[Lewis Manly]] (1930–1945)
+* [[Frederick M. Ellis]] (1946–1953)
+* [[Harry Arlanson]] (1954–1965)
+* [[Rocco J. Carzo]] (1966–1973)
+* [[Paul Pawlak]] (1974–1977)
+* [[Vic Gatto]] (1978–1984)
+* [[Duane Ford]] (1985–1993)
+* [[Bill Samko]] (1994–2010)
+* [[Jay Civetti]] (2011–2019)
+* ''No team'' (2020)
+* [[Jay Civetti]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Tufts Jumbos football navigational boxes|Coach]]
+</noinclude>

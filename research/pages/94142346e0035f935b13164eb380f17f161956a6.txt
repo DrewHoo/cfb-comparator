@@ -1,0 +1,49 @@
+{{Navbox
+| name = Cornell Big Red football coach navbox
+| title = [[Cornell Big Red football|{{white|Cornell Big Red head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Cornell Big Red|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1887–1891)
+* [[Carl Johanson]] (1892–1893)
+* [[Marshall Newell]] (1894–1895)
+* [[George Sanford (American football)|George Sanford]] (1896)
+* [[Pop Warner]] (1897–1898)
+* [[Percy Haughton]] (1899–1900)
+* [[Raymond Starbuck]] (1901–1902)
+* [[Bill Warner (American football)|Bill Warner]] (1903)
+* [[Pop Warner]] (1904–1906)
+* [[Henry Schoellkopf]] (1907–1908)
+* [[George Walder]] (1909)
+* [[Daniel A. Reed (politician)|Daniel A. Reed]] (1910–1911)
+* [[Albert Sharpe (American football)|Albert Sharpe]] (1912–1917)
+* ''No team'' (1918)
+* [[John H. Rush]] (1919)
+* [[Gil Dobie]] (1920–1935)
+* [[Carl Snavely]] (1936–1944)
+* [[Edward McKeever]] (1945–1946)
+* [[George K. James]] (1947–1960)
+* [[Tom Harp]] (1961–1965)
+* [[Jack Musick]] (1966–1974)
+* [[George Seifert]] (1975–1976)
+* [[Bob Blackman (American football)|Bob Blackman]] (1977–1982)
+* [[Maxie Baughan]] (1983–1988)
+* [[Jack Fouts]] (1989)
+* [[Jim Hofher]] (1990–1997)
+* [[Pete Mangurian]] (1998–2000)
+* [[Tim Pendergast]] (2001–2003)
+* [[Jim Knowles (American football)|Jim Knowles]] (2004–2009)
+* [[Kent Austin]] (2010–2012)
+* [[David Archer (American football coach)|David Archer]] (2013–2019)
+* ''No team'' (2020)
+* [[David Archer (American football coach)|David Archer]] (2021–2023)
+* [[Dan Swanstrom]] (2024– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Cornell Big Red football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,61 @@
+{{Navbox
+| name = Kansas Jayhawks football coach navbox
+| title = [[List of Kansas Jayhawks head football coaches|{{white|Kansas Jayhawks head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Kansas Jayhawks|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Will Coleman (American football)|Will Coleman]] (1890)
+* [[Edwin Mortimer Hopkins]] (1891)
+* [[A. W. Shepard]] (1892–1893)
+* [[Hector Cowan]] (1894–1896)
+* [[Wylie G. Woodruff]] (1897–1898)
+* [[Fielding H. Yost]] (1899)
+* [[L. W. Boynton]] (1900)
+* [[John H. Outland]] (1901)
+* [[Arthur Hale Curtis]] (1902)
+* [[Boss Weeks]] (1903)
+* [[A. R. Kennedy]] (1904–1910)
+* [[Ralph W. Sherwin]] (1911)
+* [[Arthur Mosse]] (1912–1913)
+* [[H. M. Wheaton]] (1914)
+* [[Herman Olcott]] (1915–1917)
+* [[Jay Bond]] (1918)
+* [[Leon McCarty]] (1919)
+* [[Phog Allen]] (1920)
+* [[George Clark (American football coach)|George Clark]] (1921–1925)
+* [[Franklin Cappon]] (1926–1927)
+* [[Homer Woodson Hargiss]] (1928–1932)
+* [[Adrian Lindsey]] (1933–1938)
+* [[Gwinn Henry]] (1939–1942)
+* [[Henry Shenk]] (1943–1945)
+* [[George Sauer]] (1946–1947)
+* [[Jules V. Sikes]] (1948–1953)
+* [[Chuck Mather]] (1954–1957)
+* [[Jack Mitchell (American football)|Jack Mitchell]] (1958–1966)
+* [[Pepper Rodgers]] (1967–1970)
+* [[Don Fambrough]] (1971–1974)
+* [[Bud Moore (American football)|Bud Moore]] (1975–1978)
+* [[Don Fambrough]] (1979–1982)
+* [[Mike Gottfried]] (1983–1985)
+* [[Bob Valesente]] (1986–1987)
+* [[Glen Mason]] (1988–1996)
+* [[Terry Allen (American football coach)|Terry Allen]] (1997–2001)
+* [[Tom Hayes (American football coach)|Tom Hayes]] # (2001)
+* [[Mark Mangino]] (2002–2009)
+* [[Turner Gill]] (2010–2011)
+* [[Charlie Weis]] (2012–2014)
+* [[Clint Bowen]] # (2014)
+* [[David Beaty (American football)|David Beaty]] (2015–2018)
+* [[Les Miles]] (2019–2020)
+* [[Lance Leipold]] (2021– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Kansas Jayhawks football navigational boxes|Coach]]
+</noinclude>

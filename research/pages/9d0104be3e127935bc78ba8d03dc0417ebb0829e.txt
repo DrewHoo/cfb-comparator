@@ -1,0 +1,54 @@
+{{Navbox
+| name = Wisconsin Badgers football coach navbox
+| title = [[List of Wisconsin Badgers head football coaches|{{white|Wisconsin Badgers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Wisconsin Badgers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Alvin Kletsch]] (1889)
+* [[Ted Mestre]] (1890)
+* [[Herb Alward]] (1891)
+* [[Billy Crawford (American football)|Billy Crawford]] (1892)
+* [[Parke H. Davis]] (1893)
+* [[Hiland Orlando Stickney]] (1894–1895)
+* [[Philip King (American football)|Philip King]] (1896–1902)
+* [[Arthur Hale Curtis]] (1903–1904)
+* [[Philip King (American football)|Philip King]] (1905)
+* [[Charles P. Hutchins]] (1906–1907)
+* [[Thomas A. Barry]] (1908–1910)
+* [[John R. Richards]] (1911)
+* [[William Juneau]] (1912–1915)
+* [[Paul Withington]] (1916)
+* [[John R. Richards]] (1917)
+* [[Guy Lowman]] (1918)
+* [[John R. Richards]] (1919–1922)
+* [[John J. Ryan]] (1923–1924)
+* [[George Little (American football coach)|George Little]] (1925–1926)
+* [[Glenn Thistlethwaite]] (1927–1931)
+* [[Clarence Spears]] (1932–1935)
+* [[Harry Stuhldreher]] (1936–1948)
+* [[Ivy Williamson]] (1949–1955)
+* [[Milt Bruhn]] (1956–1966)
+* [[John Coatta]] (1967–1969)
+* [[John Jardine (American football)|John Jardine]] (1970–1977)
+* [[Dave McClain (American football)|Dave McClain]] (1978–1985)
+* [[Jim Hilles]] # (1986)
+* [[Don Morton]] (1987–1989)
+* [[Barry Alvarez]] (1990–2005)
+* [[Bret Bielema]] (2006–2012)
+* [[Barry Alvarez]] # (2012)
+* [[Gary Andersen]] (2013–2014)
+* [[Barry Alvarez]] # (2014)
+* [[Paul Chryst]]  (2015–2022)
+* [[Jim Leonhard]] # (2022)
+* [[Luke Fickell]] (2022– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Wisconsin Badgers football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,54 @@
+{{Navbox
+| name = Butler Bulldogs football coach navbox
+| title = [[Butler Bulldogs football|{{white|Butler Bulldogs head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Butler Bulldogs|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1884)
+* ''No team'' (1885)
+* ''Unknown'' (1886)
+* [[Clinton L. Hare]] (1887)
+* ''No team'' (1888)
+* [[Clinton L. Hare]] (1889)
+* [[Billy Crawford (American football)|Billy Crawford]] (1890–1891)
+* ''Unknown'' (1892–1893)
+* [[Joseph Marshall Flint]] (1894–1895)
+* Flint<!--Brother of Joseph Marshall Flint--> (1896)
+* [[James L. Zink]] (1897)
+* [[Earl W. Williamson]] (1898)
+* [[Walter F. Kelly]] (1899–1903)
+* [[Edgar Wingard]] (1904–1905)
+* [[Don Robinson (American businessman)|Don Robinson]] (1906)
+* [[Jack McKay (coach)|Jack McKay]] (1907–1908)
+* [[Walter Gipe]] (1909)
+* [[Jack McKay (coach)|Jack McKay]] (1910)
+* [[Dave Allerdice]] (1911)
+* [[G. Cullen Thomas]] (1912–1918)
+* [[Joe Mullane]] (1919)
+* [[Harlan Page]] (1920–1925)
+* [[Tony Hinkle]] (1926)
+* [[George Clark (American football coach)|George Clark]] (1927–1929)
+* [[Harry M. Bell]] (1930–1931)
+* [[Fred Mackey]] (1932–1934)
+* [[Tony Hinkle]] (1935–1941)
+* [[Frank Hedden]] (1942)
+* ''No team'' (1943–1944)
+* [[Frank Hedden]] (1945)
+* [[Tony Hinkle]] (1946–1969)
+* [[Bill Sylvester]] (1970–1984)
+* [[Bill Lynch]] (1985–1989)
+* [[Bob Bartolomeo]] (1990–1991)
+* [[Ken LaRose]] (1992–2001)
+* [[Kit Cartwright]] (2002–2005)
+* [[Jeff Voris]] (2006–2021)
+* [[Mike Uremovich]] (2022–2024)
+* [[Kevin Lynch (American football)|Kevin Lynch]] (2025– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Butler Bulldogs football navigational boxes|Coach]]
+</noinclude>

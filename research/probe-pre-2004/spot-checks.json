@@ -1,0 +1,264 @@
+{
+  "about": "Pre-2004 per-game feasibility probe, 2026-10-21. Spot checks only, not a harvest. Each row is one game line found in an open (or receipt-only) source, with the verbatim quote string-checked by scripts/check-receipts.mjs against the saved page text in pages/. 'ocr' rows quote archive.org's OCR (djvu.txt), so the match proves the quote is on the page text, not that the OCR read the digits correctly; 'ocr_digits_verified' says whether the values were also checked against an independent source.",
+  "rows": [
+    {
+      "decade": "1960s",
+      "player": "O.J. Simpson",
+      "team": "USC",
+      "season": 1968,
+      "date": "1968-09-21",
+      "opponent": "at Minnesota",
+      "result": "W 29-20",
+      "rushing": {
+        "att": 39,
+        "yds": 236,
+        "td": 4
+      },
+      "receiving": {
+        "rec": 6,
+        "yds": 57,
+        "td": 0
+      },
+      "source_kind": "heisman.com winner page (HTML text; ToS bars robots and copying: receipt-only, like Sports-Reference)",
+      "receipts": [
+        {
+          "url": "https://www.heisman.com/heisman-winners/o-j-simpson/",
+          "quote": "9/21/68 at #18 Minnesota W 29-20 39 236 6.05 4 6 57 9.50 0",
+          "note": "'Statistics' table: Date Opponent Result Att Yards YPC TD Rec Yards Avg TD ... First row.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "negative_control": {
+        "note": "The USC 1969 media guide (archive.org) does NOT carry Simpson's 1968 game lines: only team stats per opponent ('LAST YEAR'S GAME SUMMARY') and season totals.",
+        "receipts": [
+          {
+            "url": "https://archive.org/download/usc-football-1969-media-guide-c/USC%20Football%2C%201969%20Media%20Guide%20%28C%29_djvu.txt",
+            "quote": "Simpson =. 383 1941 61 1880 4.90",
+            "note": "Season rushing line (TCB YG YL Net Avg) with OCR noise '=.'; no per-game individual line anywhere in the guide."
+          }
+        ]
+      }
+    },
+    {
+      "decade": "1970s",
+      "player": "Tony Dorsett",
+      "team": "Pitt",
+      "season": 1976,
+      "date": "1976-09-25",
+      "opponent": "Temple",
+      "result": "W 21-7",
+      "rushing": {
+        "att": 23,
+        "yds": 112,
+        "td": 1
+      },
+      "source_kind": "school media guide of the following season (Pitt 1977), archive.org OCR; game recap prose, no stat table",
+      "ocr_digits_verified": "yes: 112 yards and 1 TD agree with heisman.com's 1976 table, which also supplies the 23 carries the guide lacks",
+      "receipts": [
+        {
+          "url": "https://archive.org/download/pitt-football-1977-media-guide_202508/Pitt%20Football%201977%20Media%20Guide_djvu.txt",
+          "quote": "Tony Dorsett rushed for 112 yards and a touchdown despite missing part of the game with a bruised calf.",
+          "note": "'The Road to the National Championship' recap, PITT 21, TEMPLE 7 — SEPTEMBER 25, 1976."
+        },
+        {
+          "url": "https://www.heisman.com/heisman-winners/tony-dorsett/",
+          "quote": "9/25/76 Temple W 21-7 23 112 4.86 1",
+          "note": "heisman.com Heisman-year game table (cross-check; ToS: receipt-only). Att Yards YPC TD.",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "decade": "1980s",
+      "player": "Marcus Allen",
+      "team": "USC",
+      "season": 1981,
+      "date": "1981-09-12",
+      "opponent": "Tennessee",
+      "result": "W 43-7",
+      "rushing": {
+        "att": 22,
+        "yds": 210,
+        "td": 4
+      },
+      "receiving": {
+        "rec": 4,
+        "yds": 21,
+        "td": 0
+      },
+      "source_kind": "school media guide of the following season (USC 1982), archive.org OCR; per-game TOP INDIVIDUALS block + scoring summary (TDs counted from it)",
+      "ocr_digits_verified": "210 yards agrees with the NCAA record book (second receipt)",
+      "receipts": [
+        {
+          "url": "https://archive.org/download/usc-football-1982-media-guide-c/USC%20Football%2C%201982%20Media%20Guide%20%28C%29_djvu.txt",
+          "quote": "Rushing — Allen (USC) 22-210; Lee (USC) 6-81; Crutcher (USC)",
+          "note": "1981 GAME SUMMARIES, GAME 1 — September 12, 1981, TOP INDIVIDUALS. TDs: four 'USC — Allen, N-yard run' lines in the same block's SCORING."
+        },
+        {
+          "url": "https://archive.org/download/usc-football-1982-media-guide-c/USC%20Football%2C%201982%20Media%20Guide%20%28C%29_djvu.txt",
+          "quote": "Receiving — Allen (USC) 4-21; Gault (Tennessee) 3-24",
+          "note": "Same game block."
+        },
+        {
+          "url": "https://web.archive.org/web/2020/http://fs.ncaa.org/Docs/stats/football_records/2019/FBS.pdf",
+          "quote": "1981 (210 vs. Tennessee, Sept. 12;",
+          "note": "NCAA FBS Records Book 2019, consecutive 200-yard games streak list. Born-digital PDF text extracted with PyMuPDF to pages/."
+        }
+      ]
+    },
+    {
+      "decade": "1980s",
+      "player": "Barry Sanders",
+      "team": "Oklahoma State",
+      "season": 1988,
+      "date": "1988-10-01",
+      "opponent": "Tulsa",
+      "result": "W 56-35",
+      "rushing": {
+        "att": 33,
+        "yds": 304,
+        "td": 5
+      },
+      "source_kind": "school's current media guide (okstate.com, 2026), born-digital PDF text: 'Sanders' 1988 Game-by-Game Rushing Stats' table",
+      "ocr_digits_verified": "no OCR involved (born-digital); agrees with heisman.com's 1988 table (second receipt)",
+      "receipts": [
+        {
+          "url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/okstate.com/documents/2026/7/6/2026_Oklahoma_State_Football_Media_Guide.pdf",
+          "quote": "Oct. 1 Tulsa 33 304 5 36 9.2",
+          "note": "PDF page 155 (0-based 154), 'Sanders' 1988 Game-by-Game Rushing Stats' (Date Opponent No. Yds TD Long Avg.). Linked from okstate.com as /documents/2026/7/6/2026_Oklahoma_State_Football_Media_Guide.pdf; text extracted with PyMuPDF.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.heisman.com/heisman-winners/barry-sanders/",
+          "quote": "10/1/88 Tulsa W 56-35 33 304 9.21 5",
+          "note": "Heisman Year Statistics table. heisman.com ToS: receipt-only.",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "decade": "1980s",
+      "player": "Herschel Walker",
+      "team": "Georgia",
+      "season": 1982,
+      "date": "1982-09-11",
+      "opponent": "BYU",
+      "result": "W 17-14",
+      "rushing": {
+        "att": 31,
+        "yds": 124,
+        "td": 1
+      },
+      "source_kind": "newspaper via Google News Archive (image only; TRANSCRIBED by a reader, not machine-matchable against the live page)",
+      "receipts": [
+        {
+          "url": "https://news.google.com/newspapers?id=egAhAAAAIBAJ&sjid=JXUFAAAAIBAJ&pg=3193,2142400",
+          "quote": "Walker, who rushed for 124 yards on 31 carries, had gotten Georgia even at 14-14 with only 5:36 left when he dove over for a 1-yard touchdown.",
+          "note": "TRANSCRIBED from the page image (The Day, New London, Sept. 12, 1982, p.16, AP story 'Georgia, 17-14'). The saved pages/ .txt is the transcription; the live URL has no text layer. Found via a citation in Wikipedia's 1982 Georgia Bulldogs article.",
+          "transcribed": true,
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.heisman.com/heisman-winners/herschel-walker/",
+          "quote": "9/11/82 Brigham Young@ W 17-14 31 124 4.00 1",
+          "note": "heisman.com Heisman-year game table (cross-check; ToS: receipt-only). Att Yds YPC TD. Independently confirms the transcription.",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "decade": "1990s",
+      "player": "Ty Detmer",
+      "team": "BYU",
+      "season": 1990,
+      "date": "1990-09-01",
+      "opponent": "at UTEP",
+      "result": "W 30-10",
+      "passing": {
+        "comp": 33,
+        "att": 46,
+        "int": 2,
+        "yds": 387,
+        "td": 1
+      },
+      "source_kind": "school media guide of the following season (BYU 1991), archive.org OCR; per-game LEADERS table",
+      "ocr_digits_verified": "agrees with Wikipedia's 1990 BYU article game box ('Detmer 33/46, 387 yards, TD, 2 INT')",
+      "receipts": [
+        {
+          "url": "https://archive.org/download/byu-football-1991-media-guide/BYU%20Football%2C%201991%20Media%20Guide_djvu.txt",
+          "quote": "Detmer 33 46 2 387 1 28",
+          "note": "Game-By-Game Summary, BYU 30, UTEP 10, LEADERS: Passing Comp. Att. Int Yards TD Long."
+        },
+        {
+          "url": "https://www.heisman.com/heisman-winners/ty-detmer/",
+          "quote": "9/1/90 at UTEP W 30-10 46 33 71.7 387 8.4 1 2",
+          "note": "heisman.com Heisman-year game table (cross-check; ToS: receipt-only). Att Comp Pct. Yards YPA TD Int (note att before comp).",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "decade": "1990s",
+      "player": "Charlie Ward",
+      "team": "Florida State",
+      "season": 1993,
+      "date": "1993-08-28",
+      "opponent": "Kansas (Kickoff Classic)",
+      "result": "W 42-0",
+      "passing": {
+        "comp": 16,
+        "att": 26,
+        "int": 0,
+        "yds": 194,
+        "td": 0
+      },
+      "source_kind": "school media guide of the following season (FSU 1994), archive.org OCR; per-game INDIVIDUAL STATISTICS (noisy OCR)",
+      "ocr_digits_verified": "yes for Ward's line: heisman.com's 1993 table agrees (16 of 26, 194 yards, 0 TD, 0 INT); other players' lines in the same OCR block are garbled ('M. Smith 1]-B7')",
+      "receipts": [
+        {
+          "url": "https://archive.org/download/florida-state-football-1994-media-guide-c/Florida%20State%20Football%2C%201994%20Media%20Guide%20%28C%29_djvu.txt",
+          "quote": "Passing: FSU: Ward 16-26-0-194,",
+          "note": "Game box 'Florida State 42, Konsas [sic OCR] 0', INDIVIDUAL STATISTICS. Format comp-att-int-yds; TDs only via scoring summary."
+        },
+        {
+          "url": "https://www.heisman.com/heisman-winners/charlie-ward/",
+          "quote": "8/28/93 +Kansas W 42-0 26 16 61.5 194 7.46 0 0",
+          "note": "heisman.com Heisman-year game table (cross-check; ToS: receipt-only). Att Comp Pct. Yards YPA TD Int.",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "decade": "1920s",
+      "player": "Red Grange",
+      "team": "Illinois",
+      "season": 1924,
+      "date": "1924-10-18",
+      "opponent": "Michigan",
+      "rushing": {
+        "att": null,
+        "yds": 212,
+        "td": null
+      },
+      "source_kind": "school record book (Illinois 2025 media guide, archive.org OCR): 'KNOWN 100-YARD GAMES PRIOR TO 1945' list, yards only",
+      "ocr_digits_verified": "no; the OCR clips the leading digit of most yardage cells in this column ('42 Red Grange vs. Butler' for a 1xx figure). 212 is read whole here.",
+      "receipts": [
+        {
+          "url": "https://archive.org/download/illinois-football-2025-media-guide-2025-08-21/Illinois%20Football%202025%20Media%20Guide%20%282025-08-21%29_djvu.txt",
+          "quote": "212 Red Grange vs. Michigan, 10/18/1924",
+          "note": "RUSHING RECORDS > KNOWN 100-YARD GAMES PRIOR TO 1945. Only games of 100+ yards; no carries or TDs."
+        }
+      ]
+    }
+  ],
+  "ocr_failure_exhibit": {
+    "note": "Wisconsin 1997 guide (UW-Madison Digital Collections, 'In Copyright') has a 'RON DAYNE, GAME-BY-GAME IN 1996' table, but its text layer is unusable: the Eastern Michigan row reads as below. Reader-pace from the page image only.",
+    "receipts": [
+      {
+        "url": "https://asset.library.wisc.edu/1711.dl/B7G7KI5ZBARSV8W/E/file-6270a.pdf",
+        "quote": "RON DAYNE, GAME-BY-GAME IN 1996",
+        "note": "PDF page 68 (0-based 67). Next row in the text layer: 'Eostern Michigon.....8 2.2.53 ....6.6'."
+      }
+    ]
+  }
+}

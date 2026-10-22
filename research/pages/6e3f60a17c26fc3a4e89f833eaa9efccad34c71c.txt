@@ -1,0 +1,52 @@
+{{Navbox
+| name        = USC Trojans football coach navbox
+| title       = [[List of USC Trojans head football coaches|{{white|USC Trojans head football coaches}}]]
+| basestyle   = {{CollegePrimaryStyle|USC Trojans|color=white}}
+| state       = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass   = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Henry H. Goddard]] & [[Frank H. Suffel]] (1888)
+* ''No coach'' (1889)
+* ''No team'' (1890)
+* ''No coach'' (1891–1896)
+* [[Lewis R. Freeman]] (1897)
+* ''No coach'' (1898–1900)
+* [[Clair S. Tappaan]] (1901)
+* ''No coach'' (1902)
+* [[John Walker (American football coach)|John Walker]] (1903)
+* [[Harvey Holmes]] (1904–1907)
+* [[William I. Traeger]] (1908)
+* [[Dean Cromwell]] (1909–1910)
+* ''No team'' (1911–1913)
+* [[Ralph Glaze]] (1914–1915)
+* [[Dean Cromwell]] (1916–1918)
+* [[Gus Henderson]] (1919–1924)
+* [[Howard Jones (American football coach)|Howard Jones]] (1925–1940)
+* [[Sam Barry]] (1941)
+* [[Jeff Cravath]] (1942–1950)
+* [[Jess Hill]] (1951–1956)
+* [[Don Clark (American football)|Don Clark]] (1957–1959)
+* [[John McKay (American football)|John McKay]] (1960–1975)
+* [[John Robinson (American football)|John Robinson]] (1976–1982)
+* [[Ted Tollner]] (1983–1986)
+* [[Larry Smith (American football coach)|Larry Smith]] (1987–1992)
+* [[John Robinson (American football)|John Robinson]] (1993–1997)
+* [[Paul Hackett (American football)|Paul Hackett]] (1998–2000)
+* [[Pete Carroll]] (2001–2009)
+* [[Lane Kiffin]] (2010–2013)
+* [[Ed Orgeron]] # (2013)
+* [[Clay Helton]] # (2013)
+* [[Steve Sarkisian]] (2014–2015)
+* [[Clay Helton]] (2015–2021)
+* [[Donte Williams]] # (2021)
+* [[Lincoln Riley]] (2022– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:USC Trojans football navigational boxes|Coach]]
+</noinclude>

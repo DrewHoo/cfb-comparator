@@ -1,0 +1,64 @@
+{{Navbox
+| name = Samford Bulldogs football coach navbox
+| title = [[List of Samford Bulldogs head football coaches|{{white|Samford Bulldogs head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Samford Bulldogs|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Houston Gwin]] (1902)
+* [[Walter T. O'Hara]] (1903)
+* [[Houston Gwin]] (1903)
+* ''No team'' (1904)
+* [[Davis F. Stakely]] (1905)
+* [[John Counselman]] (1906–1908)
+* [[Winton M. Blount (American football)|Winton M. Blount]] (1908)
+* [[John B. Longwell]] (1909)
+* [[James C. Donnelly]] (1910)
+* [[John B. Longwell]] (1911)
+* [[B. L. Noojin]] (1912–1914)
+* [[Eugene Caton]] (1915)
+* [[John B. Longwell]] (1916–1917)
+* [[C. W. Streit]] (1917)
+* [[Maxwell James]] (1918)
+* [[Chester C. Dillon]] (1919)
+* [[Robert C. Marshall]] (1920–1921)
+* [[Harris G. Cope]] (1922–1923)
+* [[Jenks Gillem]] (1924–1926)
+* [[Chester C. Dillon]] (1927–1928)
+* [[Eddie McLane]] (1929–1933)
+* [[Clyde Propst]] (1934)
+* [[Billy Bancroft (coach)|Billy Bancroft]] (1935–1939)
+* [[William C. White (American football)|William C. White]] (1940–1941)
+* ''No team'' (1942)
+* [[Euil Snider]] (1943)
+* [[Bub Walker]] (1944–1945)
+* ''No team'' (1946–1947)
+* [[Ted McCrary]] (1948) 
+* [[Earl Gartman]] (1949–1953)
+* [[William C. White (American football)|William C. White]] (1954)
+* [[Howard Foote]] (1955–1956)
+* [[Virgil Ledbetter]] (1957–1958)
+* [[Bobby Bowden]] (1959–1962)
+* [[Bubba Scott]] (1963–1965)
+* [[John Lee Armstrong]] (1966–1968)
+* [[Wayne Grubb (American football)|Wayne Grubb]] (1969–1973)
+* ''No team'' (1974–1983)
+* [[Kim Alsop]] (1984–1986)
+* [[Terry Bowden]] (1987–1992)
+* [[Chan Gailey]] (1993)
+* [[Pete Hurt]] (1994–2001)
+* [[Bill Gray (American football coach)|Bill Gray]] (2001–2006)
+* [[Pat Sullivan (American football)|Pat Sullivan]] (2007–2014)
+* [[Chris Hatcher (American football)|Chris Hatcher]] (2015–2025)
+* [[Scot Sloan (American football)|Scot Sloan]] # (2025)
+* [[John Grass (American football)|John Grass]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Samford Bulldogs football navigational boxes|Coach]]
+</noinclude>

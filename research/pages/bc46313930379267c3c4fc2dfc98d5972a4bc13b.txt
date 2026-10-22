@@ -1,0 +1,46 @@
+{{Navbox
+| name = Vermont Catamounts football coach navbox
+| title = [[Vermont Catamounts football|{{color|white|Vermont Catamounts head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Vermont Catamounts|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[William Farrar (American football)|William Farrar]] (1897)
+* [[D. Maujer McLaughlin]] (1898–1899)
+* [[M. Delmar Ritchie]] (1900)
+* [[P. J. McMahon (American football)|P. J. McMahon]] (1901)
+* [[Harry Howard Cloudman]] (1902–1904)
+* [[George B. Drake]] (1905–1907)
+* [[Edward Herr]] (1908)
+* [[Ray B. Thomas]] (1909)
+* [[Edward Joseph Slavin]] (1910–1911)
+* [[Earle T. Pickering]] (1912)
+* [[Jere O'Brien]] (1913)
+* [[James A. Turner]] (1914)
+* [[Stanley L. Robinson]] (1915)
+* [[Edwin W. Leary]] (1916)
+* ''No team'' (1917)
+* ''No coach'' (1918)
+* [[William P. Edmunds]] (1919)
+* [[J. Frank Burke]] (1920)
+* [[Tom Keady]] (1921–1924)
+* [[William McAvoy]] (1925–1927)
+* [[William V. Rattan]] (1928–1929)
+* [[David L. Dunn]] (1930–1931)
+* [[John H. Burke (coach)|John H. Burke]] (1932–1933)
+* [[John P. Sabo]] (1934–1939)
+* [[John C. Evans]] (1940–1942)
+* ''No team'' (1943–1945)
+* [[John C. Evans]] (1946–1951)
+* [[J. Edward Donnelly]] (1952–1961)
+* [[Bob Clifford (American football)|Bob Clifford]] (1962–1969)
+* [[Joe Scannella]] (1970–1971)
+* [[Carl Falivene]] (1972–1974)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Vermont Catamounts football navigational boxes|Coaches]]
+</noinclude>

@@ -1,0 +1,54 @@
+{{Navbox
+| name = Syracuse Orange football coach navbox
+| title = [[Syracuse Orange football|{{white|Syracuse Orange head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Syracuse Orange|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1889)
+* [[Robert Winston (coach)|Robert Winston]] (1890)
+* [[William Galbraith (American football)|William Galbraith]] (1891)
+* [[Jordan C. Wells]] (1892)
+* ''No coach'' (1893)
+* [[George H. Bond]] (1894)
+* [[George O. Redington]] (1895–1896)
+* [[Frank E. Wade]] (1897–1899)
+* [[Edwin Sweetland]] (1900–1902)
+* [[Jason B. Parrish]] & [[Ancil D. Brown]] (1903)
+* [[Charles P. Hutchins]] (1904–1905)
+* [[Frank "Buck" O'Neill]] (1906–1907)
+* [[Howard Jones (American football coach)|Howard Jones]] (1908)
+* [[Tad Jones (American football)|Tad Jones]] (1909–1910)
+* [[C. DeForest Cummings]] (1911–1912)
+* [[Frank "Buck" O'Neill]] (1913–1915)
+* [[Bill Hollenback]] (1916)
+* [[Frank "Buck" O'Neill]] (1917–1919)
+* [[Chick Meehan]] (1920–1924)
+* [[Pete Reynolds]] (1925–1926)
+* [[Lew Andreas]] (1927–1929)
+* [[Vic Hanson]] (1930–1936)
+* [[Ossie Solem]] (1937–1942)
+* ''No team'' (1943)
+* [[Ossie Solem]] (1944–1945)
+* [[Biggie Munn]] (1946)
+* [[Reaves Baysinger]] (1947–1948)
+* [[Ben Schwartzwalder]] (1949–1973)
+* [[Frank Maloney (American football)|Frank Maloney]] (1974–1980)
+* [[Dick MacPherson]] (1981–1990)
+* [[Paul Pasqualoni]] (1991–2004)
+* [[Greg Robinson (American football coach)|Greg Robinson]] (2005–2008)
+* [[Doug Marrone]] (2009–2012)
+* [[Scott Shafer]] (2013–2015)
+* [[Dino Babers]] (2016–2023)
+* [[Nunzio Campanile]] # (2023)
+* [[Fran Brown]] (2024– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Syracuse Orange football navigational boxes|Coach]]
+</noinclude>

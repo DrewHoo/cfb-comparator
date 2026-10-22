@@ -1,0 +1,53 @@
+{{Navbox
+| name = Bates Bobcats football coach navbox
+| title = [[Bates Bobcats football|{{white|Bates Bobcats head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Bates Bobcats|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1875)
+* ''No team'' (1876–1888)
+* ''No coach'' (1889)
+* ''No team'' (1890–1892)
+* [[Calvin C. Brackett]] (1893)
+* [[William F. Garcelon]] (1894)
+* [[Edward M. Bowles]] (1895)
+* [[Walter Kelly (American football)|Walter Kelly]]<!-- possibly [[Walter F. Kelly]] of Texas --><!--Could well be Walter F., he only coached 2 games at Bates http://athletics.bates.edu/sports/fball/Year_By_Year_Records --> (1897)
+* [[William Hoag]] (1897–1901)
+* [[Royce Purinton]]  (1902)
+* [[Dennett Richardson]]  (1903)
+* [[Royce Purinton]]  (1904–1912)
+* [[Roger A. Greene]] (1913–1915)
+* [[Royce Purinton]]  (1916–1917)
+* ''No team'' (1918)
+* [[Thomas Sullivan (American football)|Thomas Sullivan]] (1919–1920)
+* [[Raymond A. Watkins]] (1921)
+* [[Oliver Cutts]] (1922–1924)
+* [[Carleton Wiggin]] (1925–1928)
+* [[Dave Morey]] (1929–1938)
+* [[Wendell D. Mansfield]] (1939–1940)
+* [[Ducky Pond]] (1941)
+* [[Wade Marlette]] (1942)
+* [[Winnie Lodrigues]] (1943)
+* [[Monte Moore (athletic director)|Monte Moore]] (1944)
+* ''No team'' (1945)
+* [[Ducky Pond]] (1946–1951)
+* [[Robert W. Hatch]] (1952–1972)
+* [[Vic Gatto]] (1973–1977)
+* [[Web Harrison]] (1978–1991)
+* [[Rick Pardy]] (1992–1997)
+* [[Mark Harriman]] (1998–2017)
+* [[Malik Hall (American football)|Malik Hall]] (2018–2019)
+* ''No team'' (2020)
+* [[Ed Argast]] # (2021)
+* [[Matt Coyne]] (2022– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Bates Bobcats navigational boxes|Football, coach]]
+</noinclude>

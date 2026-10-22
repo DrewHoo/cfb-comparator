@@ -1,0 +1,46 @@
+totals 1869-1935 {"teamRows":31860,"games":20849,"vsNonMajor":9838}
+per decade
+  1860s {"seasons":1,"games":2,"gamesVsNonMajor":0,"gamesBothMajor":2,"green":2,"yellow":0,"red":0,"white":0,"ties":0,"maxTeams":2,"shareVsNonMajor":0}
+  1870s {"seasons":10,"games":111,"gamesVsNonMajor":29,"gamesBothMajor":82,"green":73,"yellow":1,"red":37,"white":0,"ties":15,"maxTeams":9,"shareVsNonMajor":0.261}
+  1880s {"seasons":10,"games":569,"gamesVsNonMajor":165,"gamesBothMajor":404,"green":336,"yellow":7,"red":226,"white":0,"ties":30,"maxTeams":21,"shareVsNonMajor":0.29}
+  1890s {"seasons":10,"games":1913,"gamesVsNonMajor":1025,"gamesBothMajor":888,"green":1135,"yellow":17,"red":761,"white":0,"ties":92,"maxTeams":41,"shareVsNonMajor":0.536}
+  1900s {"seasons":10,"games":4064,"gamesVsNonMajor":2177,"gamesBothMajor":1887,"green":2730,"yellow":81,"red":1253,"white":0,"ties":246,"maxTeams":82,"shareVsNonMajor":0.536}
+  1910s {"seasons":10,"games":4404,"gamesVsNonMajor":2310,"gamesBothMajor":2094,"green":3020,"yellow":114,"red":1270,"white":0,"ties":269,"maxTeams":99,"shareVsNonMajor":0.525}
+  1920s {"seasons":10,"games":5766,"gamesVsNonMajor":2592,"gamesBothMajor":3174,"green":4160,"yellow":84,"red":1522,"white":0,"ties":392,"maxTeams":111,"shareVsNonMajor":0.45}
+  1930s {"seasons":6,"games":4020,"gamesVsNonMajor":1540,"gamesBothMajor":2480,"green":2953,"yellow":35,"red":1032,"white":0,"ties":272,"maxTeams":128,"shareVsNonMajor":0.383}
+mirror {"pairs":11011,"singles":0,"triples":0,"scoreDisagree":0,"resultDisagree":0,"siteDisagree":0,"oppFileHasNoSeason":0}
+mirror single examples []
+byconf {"files":304,"earliestStart":1869,"filesWithMultipleSpans":145,"filesStartingBefore1936":193,"filesWhoseAllSpansEndBefore1936":["Carlisle [[1896,1915],[1917,1917]]","Dickinson [[1889,1891],[1896,1910]]","FranklinMarshall [[1889,1891],[1896,1898],[1904,1904]]","Haverford [[1891,1891]]","Stevens [[1872,1889],[1891,1891]]","Swarthmore [[1888,1889],[1903,1907],[1912,1912]]","WashingtonJefferson [[1905,1934]]","WestVirginiaWesleyan [[1913,1916]]","Beloit [[1894,1894],[1898,1905]]","Coe [[1905,1905]]","Cornell(Iowa) [[1903,1903]]","Drury [[1907,1907]]","Haskell [[1902,1910],[1914,1916]]","Knox [[1899,1900],[1902,1903],[1905,1905]]","LakeForest [[1893,1896],[1899,1899]]","Lawrence [[1905,1905]]","Lombard [[1903,1903]]","Simpson [[1902,1903]]","Wabash [[1904,1905]]","FortBenning [[1922,1922]]","MareIslandMarines [[1917,1918]]","Butler [[1932,1933]]","Amherst [[1877,1878],[1881,1882],[1886,1906]]","Bates [[1901,1901],[1904,1905]]","Bowdoin [[1896,1896],[1898,1901],[1904,1905]]","Colby [[1904,1904]]","Hamilton [[1907,1907]]","MIT [[1882,1882],[1886,1889],[1891,1895],[1898,1899]]","Maine [[1904,1905]]","NewHampshire [[1904,1905]]","Springfield [[1891,1892]]","Trinity(Connecticut) [[1887,1901]]","Tufts [[1877,1877],[1886,1887],[1892,1905]]","Union(NewYork) [[1894,1895],[1902,1902]]","Vermont [[1901,1905]]","Wesleyan [[1882,1905]]","Williams [[1886,1906]]","WorcesterTech [[1893,1893]]","Regis [[1924,1924],[1929,1930]]","Whitman [[1923,1924]]","Birmingham-Southern [[1920,1922],[1924,1924]]","Centre [[1919,1925],[1935,1935]]","Cumberland [[1903,1903],[1905,1905]]","Maryville [[1906,1907]]","Millsaps [[1924,1924]]","MississippiCollege [[1911,1912],[1915,1916],[1919,1924]]","Nashville [[1904,1904]]","Newberry [[1914,1917],[1919,1925]]","Oglethorpe [[1919,1925]]","Samford [[1907,1907],[1909,1912],[1919,1924]]","SpringHill [[1919,1919],[1921,1922]]","TennesseeMedical [[1904,1904]]","Phillips [[1920,1921]]","Southwestern(Texas) [[1910,1921]]"],"majorCount":{"1869":2,"1875":6,"1880":8,"1890":18,"1900":41,"1910":74,"1920":96,"1930":106,"1935":128,"1936":131,"1950":120},"maxSpansOneTeam":[["Rutgers",6],["Mississippi",5],["Bucknell",5],["Columbia",5],["Georgetown",5],["BostonCollege",4],["Virginia",4],["Tulane",4]]}
+majorIn1900 Syracuse Army Navy IowaState Illinois Indiana Iowa Michigan Minnesota Nebraska Northwestern PennState Purdue Wisconsin NotreDame Massachusetts Bucknell Carlisle Dickinson Lafayette Lehigh Brown Columbia Cornell Dartmouth Harvard Pennsylvania Princeton Yale Beloit Chicago Knox Drake Grinnell Amherst Bowdoin HolyCross Trinity(Connecticut) Tufts Wesleyan Williams
+examples {"Michigan":[[1881,1881],[1883,1883],[1892,9999]],"NotreDame":[[1899,1902],[1904,1905],[1913,9999]],"Alabama":[[1902,1917],[1919,1942],[1944,9999]],"Chicago":[[1892,1939]],"Carlisle":[[1896,1915],[1917,1917]],"Yale":[[1872,1916],[1919,1981]],"Princeton":[[1869,1870],[1872,1916],[1919,1943],[1945,1981]],"Rutgers":[[1869,1870],[1872,1884],[1886,1892],[1914,1914],[1916,1923],[1946,9999]],"Harvard":[[1875,1884],[1886,1916],[1918,1942],[1945,1981]],"Sewanee":[[1902,1941]],"Centre":[[1919,1925],[1935,1935]],"WashingtonJefferson":[[1905,1934]],"Oberlin":null,"Akron":[[1975,1975],[1987,9999]],"Texas":[[1902,9999]],"Stanford":[[1918,1942],[1946,9999]],"Penn":null,"Clemson":[[1902,9999]],"Pittsburgh":[[1905,9999]],"Temple":[[1930,1952],[1971,9999]],"Cornell":[[1888,1917],[1919,1981]],"Georgia":[[1902,1916],[1919,9999]],"Auburn":[[1902,1942],[1944,9999]],"GeorgiaTech":[[1902,9999]],"Rice":[[1914,9999]],"Illinois":[[1892,9999]],"Minnesota":[[1892,9999]],"Oklahoma":[[1903,1903],[1905,1905],[1909,1909],[1912,9999]],"Tennessee":[[1902,1916],[1919,1942],[1944,9999]],"OhioState":[[1904,1904],[1913,9999]]}
+pages with no byconf span 
+seasons on a page outside its byconf span: 1
+   WorcesterTech: 1 seasons (1888)
+teams with pre-1936 seasons 193 of 304
+earliest row {"se":1869,"file":"Princeton","name":"Princeton","conf":"Independent","date":"1869-11-06","at":"@","oppFile":"Rutgers","oppName":"Rutgers","oppTag":"1-1","confGame":false,"res":"L","pf":4,"pa":6,"city":"","note":"","color":"green"}
+first 25 teams by first season
+   Princeton 1869 64 524
+   Rutgers 1869 31 201
+   Columbia 1870 38 289
+   Stevens 1872 19 123
+   Yale 1872 62 566
+   Harvard 1875 59 548
+   Pennsylvania 1876 59 623
+   Amherst 1877 25 239
+   Tufts 1877 17 178
+   Brown 1878 47 447
+   Dartmouth 1881 47 385
+   Michigan 1881 46 386
+   Lafayette 1882 45 422
+   Massachusetts 1882 14 116
+   MIT 1882 12 77
+   Wesleyan 1882 24 217
+   Lehigh 1884 40 385
+   Williams 1886 21 211
+   Trinity(Connecticut) 1887 15 126
+   Bucknell 1888 33 298
+   Cornell 1888 47 427
+   Swarthmore 1888 8 65
+   WorcesterTech 1888 2 11
+   Dickinson 1889 18 173
+   FranklinMarshall 1889 7 62

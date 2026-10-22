@@ -1,0 +1,34 @@
+{{Navbox
+| name = Chicago Maroons football coach navbox
+| title = [[List of Chicago Maroons head football coaches|{{white|Chicago Maroons head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Chicago Maroons|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Amos Alonzo Stagg]] (1892–1932)
+* [[Clark Shaughnessy]] (1933–1939)
+* ''No team'' (1940–1962)
+* [[Walter Hass]] (1963–1975)
+* [[Bob Lombardi]] (1976–1978)
+* [[Tom Kurucz]] (1979)
+* [[Robert Larsen (American football)|Robert Larsen]] (1980–1982)
+* [[Mick Ewing]] (1983–1987)
+* [[Rich Parrinello]] (1988)
+* [[Greg Quick]] (1989–1993)
+* [[Dick Maloney (American football)|Dick Maloney]] (1994–2012)
+* [[Chris Wilkerson]] (2013–2019)
+* ''No team'' (2020)
+* [[Chris Wilkerson]] (2021)
+* [[Todd Gilcrist Jr.]] (2022–2023)
+* [[Max Andrews (American football)|Max Andrews]] # (2024)
+* [[Craig Knoche]] (2025– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Chicago Maroons football navigational boxes|Coach]]
+</noinclude>

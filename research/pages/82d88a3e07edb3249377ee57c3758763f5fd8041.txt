@@ -1,0 +1,50 @@
+{{Navbox
+| name = Davidson Wildcats football coach navbox
+| title = [[Davidson Wildcats football|{{white|Davidson Wildcats head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Davidson Wildcats|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1896–1899)
+* [[John A. Brewin]] (1900–1903)
+* [[Bob Williams (coach, born 1877)|Bob Williams]] (1904–1905)
+* [[Robert S. Graham (American football)|Robert S. Graham]] & [[John Beverly Pollard]] (1906–1907)
+* [[John Nathan Levine]] (1908)
+* [[Floyd M. Simmons]] (1909–1910)
+* [[Edwin W. Holladay]] (1911)
+* [[W. T. Cook]] (1912–1913)
+* [[Bob Fetzer]] (1914)
+* [[Bill Fetzer]] (1915–1918)
+* [[Pete Crayton]] (1919)
+* [[H. M. Grey]] (1920–1922)
+* [[William L. Younger]] (1923–1931)
+* [[Williams Newton]] (1932–1935)
+* [[Gene McEver]] (1936–1943)
+* ''No team'' (1944–1945)
+* [[William Story (American football)|William Story]] (1946–1947)
+* [[Lefty Jamerson]] (1948–1949)
+* [[Crowell Little]] (1950–1951)
+* [[Bill Dole]] (1952–1964)
+* [[Homer Smith (American football)|Homer Smith]] (1965–1969)
+* [[Dave Fagg]] (1970–1973)
+* [[Ed Farrell]] (1974–1984)
+* [[Vic Gatto]] (1985–1989)
+* [[Dave Fagg]] (1990–1992)
+* [[Tim Landis]] (1993–1999)
+* [[Joe Susan]] (2000)
+* [[Mike Toop]] (2001–2004)
+* [[Tripp Merritt]] (2005–2012)
+* [[Brett Hayford]] # (2012)
+* [[Paul Nichols]] (2013–2017)
+* [[Scott Abell]] (2018–2024)
+* [[Saj Thakkar]] (2025– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Davidson Wildcats football navigational boxes|Coach]]
+</noinclude>

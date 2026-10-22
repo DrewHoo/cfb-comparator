@@ -1,0 +1,43 @@
+{{Navbox
+| name = Georgia Tech Yellow Jackets football coach navbox
+| title = [[List of Georgia Tech Yellow Jackets head football coaches|{{color|black|Georgia Tech Yellow Jackets head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Georgia Tech Yellow Jackets|color=black}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Ernest E. West (American football)|Ernest West]] (1892)
+* [[Leonard Wood]] (1893)
+* [[Rufus Dorsey|Dutch Dorsey]] (1894)
+* ''No team'' (1895)
+* [[J. B. Wood]] (1896–1898)
+* [[Rufus B. Nalley|Cow Nalley]] (1899)
+* [[Harris T. Collier|Harris Collier]] (1900)
+* [[John McKee (American football)|John McKee]] (1901)
+* [[George Andree]] (1902)
+* [[Oliver Huie]] (1903)
+* [[John Heisman]] (1904–1919)
+* [[William Alexander (American football)|William Alexander]] (1920–1944)
+* [[Bobby Dodd]] (1945–1966)
+* [[Bud Carson]] (1967–1971)
+* [[Bill Fulcher]] (1972–1973)
+* [[Pepper Rodgers]] (1974–1979)
+* [[Bill Curry]] (1980–1986)
+* [[Bobby Ross]] (1987–1991)
+* [[Bill Lewis (American football coach)|Bill Lewis]] (1992–1994)
+* [[George O'Leary]] (1994–2001)
+* [[Mac McWhorter]] # (2001)
+* [[Chan Gailey]] (2002–2007)
+* [[Jon Tenuta]] # (2007)
+* [[Paul Johnson (American football coach, born 1957)|Paul Johnson]] (2008–2018)
+* [[Geoff Collins (American football)|Geoff Collins]] (2019–2022)
+* [[Brent Key]]  (2022– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Georgia Tech Yellow Jackets football navigational boxes|Coach]]
+</noinclude>

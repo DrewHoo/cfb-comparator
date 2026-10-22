@@ -1,0 +1,52 @@
+{{Navbox
+| name = Colorado Mines Orediggers football coach navbox
+| title = [[Colorado Mines Orediggers football|{{white|Colorado Mines Orediggers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Colorado Mines Orediggers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1888–1895)
+* [[Louis Mein Whitehouse]] (1896)
+* [[Conrad F. Goss]] (1897)
+* [[Thomas Beadle (American football)|Thomas Beadle]] (1898–1903)
+* [[Shorty Ellsworth]] (1904–1907)
+* [[Clarence W. Russell]] (1908)
+* [[Joe Curtis]] (1909)
+* [[Theodore M. Stuart]] (1910–1911)
+* [[William E. Johnston (American football)|William E. Johnston]] & [[Erle Kristler]] (1912)
+* [[Harry G. Buckingham]] & [[Erle Kristler]] (1913)
+* [[Bo Hanley]] (1914–1915)
+* [[Fred G. Carter]] (1916)
+* [[Charles "Poss" Parsons]] (1917)
+* [[Irving J. Barron]] (1918)
+* [[Ralph Glaze]] (1919–1920)
+* [[Elmer Capshaw]] (1921)
+* [[Elmer Capshaw]] & [[Tim Callahan (American football)|Tim Callahan]] (1922)
+* [[Tim Callahan (American football)|Tim Callahan]] (1923)
+* [[Ray Courtright]] (1924–1926)
+* [[George H. Allen]] (1927–1930)
+* [[George H. Allen]] & [[Elmer Wynne]] (1931–1932)
+* [[Dutch Clark]] (1933)
+* [[George W. Scott (American football)|George W. Scott]] (1934–1935)
+* [[Alfred F. "Red" White]] (1936)
+* [[John Mason (American football)|John Mason]] (1937–1943)
+* ''No team'' (1944–1945)
+* [[John Mason (American football)|John Mason]] (1946)
+* [[Fritz S. Brennecke]] (1947–1968)
+* [[Marvin L. Kay]] (1969–1994)
+* [[Versie Wallace]] (1995–1999)
+* [[Bob Stitt]] (2000–2014)
+* [[Gregg Brandon]] (2015–2019)
+* ''No team'' (2020)
+* [[Gregg Brandon]] (2021)
+* [[Brandon Moore (linebacker)|Brandon Moore]] (2022)
+* [[Pete Sterbick]] (2023–2024)
+* [[Bob Stitt]] (2025–)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division II football coach navigational boxes]]
+[[Category:Colorado Mines Orediggers football navigational boxes|Coach]]
+</noinclude>

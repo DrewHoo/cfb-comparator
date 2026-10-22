@@ -1,0 +1,53 @@
+{{Navbox
+| name = Knox Prairie Fire football coach navbox
+| title = [[Knox Prairie Fire football|{{white|Knox Prairie Fire head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Knox Prairie Fire|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1888)
+* ''No team'' (1889–1890)
+* ''No coach'' (1891–1894)
+* [[James L. Morrison]] (1895)
+* [[Stephen Chase (American football)|Stephen Chase]] (1896)
+* [[Wilfred Arnold (American football)|Wilfred Arnold]] (1897)
+* [[Gordon D. Stuart]] (1898)
+* [[Madison G. Gonterman]] (1899)
+* [[Edgar M. Clinton]] (1900)
+* [[John McLean (athlete)|John McLean]] (1901–1902)
+* [[Nelson W. Willard]] (1903–1904)
+* [[Fred Ewing]] (1905)
+* ''No team'' (1906)
+* [[Harry M. Towne]] (1907–1909)
+* [[Ira T. Carrithers]] (1910–1912)
+* [[Royal R. Campbell]] (1913–1914)
+* [[Leo DeTray]] (1915–1916)
+* [[John E. Anderson (American football)|John E. Anderson]] (1917)
+* [[Sam Barry]] (1918–1921)
+* [[Edward B. Grogan]] (1922)
+* [[John Van Liew]] (1923–1926)
+* [[Earl R. Jackson]] (1927–1932)
+* [[Leigh Bell]] (1933)
+* [[Lloyd Burdick]] (1934)
+* [[Pete Reynolds]] (1935–1937)
+* [[Harold C. Turner]] (1938–1942)
+* ''No team'' (1943–1944)
+* [[Harold C. Turner]] (1945–1953)
+* [[Al Partin]] (1955–1963)
+* [[Dick Bowman]] (1965–1970)
+* [[Albert Reilly (American football)|Albert Reilly]] (1971–1976)
+* [[Joe Campanelli]] (1977–1984)
+* [[Randy Oberembt]] (1985–1995)
+* [[Andy Gibbons]] (1996–2009)
+* [[Chad Eisele]] (2010–2012)
+* [[Damon Tomeo]] (2013–2019)
+* ''No team'' (2020)
+* [[Aaron Willits]] (2021–2025)
+* [[Adam Gonzaga]] (2026– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+</noinclude>

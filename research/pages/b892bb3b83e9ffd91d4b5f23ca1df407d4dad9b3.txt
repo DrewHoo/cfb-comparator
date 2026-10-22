@@ -1,0 +1,40 @@
+{{Navbox
+| name = Swarthmore Garnet Tide football coach navbox
+| title = [[Swarthmore Garnet Tide football|{{white|Swarthmore Garnet Tide head football coaches}}]]
+| basestyle = background:#8B0000; color:white; {{box-shadow border|a|#808080|2px}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1878–1879)
+* ''No team'' (1880–1881)
+* ''No coach'' (1882–1887)
+* [[Jacob K. Shell]] (1888–1898)
+* [[W. Sinnott Cummings]] (1899)
+* [[George H. Brooke]] (1900–1907)
+* ''No team'' (1908)
+* [[George H. Brooke]] (1909–1912)
+* [[L. Fred Gieg]] (1913–1914)
+* [[Bill Roper (American football)|Bill Roper]] (1915–1916)
+* [[Leroy Mercer]] (1917–1930)
+* [[George Pfann]] (1931–1935)
+* [[Ira MacIntosh]] (1936–1937)
+* [[Lew Elverson]] (1938–1941)
+* [[Carl K. Dellmuth]] (1942–1944)
+* [[Avery Blake]] (1945)
+* [[Lew Elverson]] (1946–1972)
+* [[Millard Robinson]] # (1973)
+* [[Lew Elverson]] (1974)
+* [[Tom Lapinski]] (1975–1984)
+* [[Fran Meagher]] (1985–1989)
+* [[Karl Miran]] (1990–1997)
+* [[Pete Alvanos]] (1998–2000)
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Swarthmore Garnet Tide football navigational boxes|Coach]]
+</noinclude>

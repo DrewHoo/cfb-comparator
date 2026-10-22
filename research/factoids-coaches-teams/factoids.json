@@ -1,0 +1,1566 @@
+{
+ "version": 1,
+ "updated": "2026-10-21",
+ "note": "Known-answer gate corpus for College Football Comparator: famous coach and team numbers (FBS head coaches and programs, any era) with the publisher's exact value, the window and N they used, and a scope saying which games counted (bowls, interim/acting games, vacated games, non-FBS tenures). A row gets in only when every receipt quote string-matches a saved copy of its page (scripts/check-receipts.mjs --pages research/factoids-coaches-teams/pages). The build recomputes each row from the game spine at the row's window, N and scope and fails if it disagrees; where two publishers disagree both numbers are recorded and the site words the difference in Method rather than patching data. Precedence: NCAA record book > ESPN/AP > school > Wikipedia > Sports-Reference.",
+ "rows": [
+  {
+   "kind": "coach",
+   "school": "Notre Dame",
+   "span": "1918–1930",
+   "stat": "win_pct",
+   "value": 0.881,
+   "window": "career",
+   "n": 122,
+   "scope": "all games incl. bowls; ties counted as half win, half loss",
+   "claim": "Knute Rockne went 105-12-5 (.881) at Notre Dame, the best career percentage among coaches with 10+ FBS seasons.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA: minimum 10 years as head coach at FBS institutions; record at four-year colleges only; ties computed as half won and half lost; includes bowl games.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "1. Knute Rockne, Notre Dame 1918-30 13 105 12 5 .881",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). FBS Winningest Coaches All-Time, by percentage."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Knute_Rockne",
+     "quote": "Overall 105–12–5",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Ryan Day passed .881 in Oct 2025 but is not eligible for the NCAA list until 10 seasons (see day-passes-rockne). The all-divisions list ranks Larry Kehres (Mount Union) .929 first; Rockne is first among FBS coaches.",
+   "id": "rockne-career-pct",
+   "entity": "Knute Rockne"
+  },
+  {
+   "kind": "coach",
+   "school": "Georgia",
+   "span": "2016–2025",
+   "stat": "wins",
+   "value": 117,
+   "window": "first N seasons",
+   "n": 10,
+   "scope": "all games incl. bowls/playoff",
+   "claim": "Kirby Smart went 117-21 (.848) in his first 10 seasons, fourth on the NCAA FBS percentage list and second in wins through 10 seasons.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA \"Best career starts by wins, 10 seasons\" (head coaches with at least half their seasons at a major college or FBS) and all-time percentage list (10-year minimum). Smart has no non-Georgia head-coaching seasons.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "4. *Kirby Smart, Georgia 2016-25 10 117 21 0 .848",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). FBS winningest by percentage."
+    },
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Kirby Smart, Georgia 2016-25 117 21 0 .848",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). Best career starts by wins, 10 seasons."
+    }
+   ],
+   "notes": "In the 10-season by-wins list the book prints DeBoer (114) above Smart (117); the order looks like a book error, the numbers are what we gate on. Woodruff 124-15-2 (1892-1901) leads the 10-season list.",
+   "id": "smart-career-pct-10-seasons",
+   "entity": "Kirby Smart"
+  },
+  {
+   "kind": "coach",
+   "school": "Penn State",
+   "span": "1966–2011",
+   "stat": "wins",
+   "value": 409,
+   "window": "career",
+   "n": 548,
+   "scope": "all games incl. bowls; 111 wins vacated in 2012 restored in 2015",
+   "claim": "Joe Paterno won 409 games (409-136-3), the FBS record.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA current total includes the 111 wins (1998-2011) that were vacated by the 2012 consent decree and restored in the 2015 settlement. Between July 2012 and January 2015 the official figure was 298.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "1. Joe Paterno, Penn St. 1966-2011 46 409 136 3 .749",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). FBS winningest by victories."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Joe_Paterno",
+     "quote": "In a 2015 legal settlement with Penn State, the NCAA reversed its decision and restored all 111 wins to Paterno's record.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Any gate using 2012-2014 publications will see 298. The 548 games ties Stagg for most games in the book.",
+   "id": "paterno-409",
+   "entity": "Joe Paterno"
+  },
+  {
+   "kind": "coach",
+   "school": "Samford, West Virginia, Florida State",
+   "span": "1959–2009",
+   "stat": "wins",
+   "value": 377,
+   "window": "career",
+   "n": 510,
+   "scope": "vacated games excluded (12 FSU wins, 2006-07); includes Samford (then small college)",
+   "claim": "Bobby Bowden's official total is 377 wins (377-129-4) after 12 vacated wins.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA marks Bowden ^ (adjusted by Committee on Infractions); 377 is after the 12 vacated FSU wins. Includes 1959-62 at Samford, a non-major program.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Virginia 70-75, Florida St. 76-2009 44 377 129 4 .743",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). FBS winningest by victories; row begins \"^Bobby Bowden, Samford 1959-62, West\"."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Bobby_Bowden",
+     "quote": "Upon final investigation by FSU, it was determined that Bowden was to vacate 12 wins,",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Bobby_Bowden",
+     "quote": "bringing his final career record to 377–129–4, second to Paterno's final tally of 409 wins.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Pre-vacation on-field total 389. The seed \"Bobby Bowden 377\" is correct only as the vacated-excluded figure.",
+   "id": "bowden-377",
+   "entity": "Bobby Bowden"
+  },
+  {
+   "kind": "coach",
+   "school": "Maryland, Kentucky, Texas A&M, Alabama",
+   "span": "1945–1982",
+   "stat": "wins",
+   "value": 323,
+   "window": "career",
+   "n": 425,
+   "scope": "all games incl. bowls; ties half-half",
+   "claim": "Bear Bryant won 323 games (323-85-17).",
+   "publisher": "NCAA record book",
+   "definition_note": "All four schools were major programs; no non-major years.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Bear Bryant, Maryland 1945, Kentucky 46-53, Texas A&M 54-57, Alabama 58-82 38 323 85 17 .780",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Bear_Bryant",
+     "quote": "Overall 323–85–17",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "",
+   "id": "bryant-323",
+   "entity": "Bear Bryant"
+  },
+  {
+   "kind": "coach",
+   "school": "Toledo, Michigan State, LSU, Alabama",
+   "span": "1990–2023",
+   "stat": "wins",
+   "value": 292,
+   "window": "career",
+   "n": 364,
+   "scope": "vacated games excluded (Alabama 2007)",
+   "claim": "Nick Saban's official college record is 292-71-1, with seven national titles.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA marks Saban ^ (adjusted by Committee on Infractions): Alabama vacated wins from 2007 are removed. Outlets that count on-field results print 297 (lead, not saved).",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "^Nick Saban, Toledo 1990, Michigan St. 95-98, LSU 2000-04, Alabama 07-23 28 292 71 1 .804",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Nick_Saban",
+     "quote": "Saban's career record as a college head coach is 292–71–1.",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Nick_Saban",
+     "quote": "Championships 7 national (2003, 2009, 2011, 2012, 2015, 2017, 2020)",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Book lists Michigan St. as 95-98 though Saban coached the 1999 regular season there too; tenure years are a print quirk, the W-L is the gate.",
+   "id": "saban-292",
+   "entity": "Nick Saban"
+  },
+  {
+   "kind": "coach",
+   "school": "Springfield, Chicago, Pacific",
+   "span": "1890–1946",
+   "stat": "wins",
+   "value": 314,
+   "window": "career",
+   "n": 548,
+   "scope": "all games; ties half-half",
+   "claim": "Amos Alonzo Stagg won 314 games (314-199-35) over 57 seasons.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA four-year-college record; Pacific years count.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Amos Alonzo Stagg, Springfield 1890-91, Chicago 92-1932, Pacific 33-46 57 314 199 35 .605",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Amos_Alonzo_Stagg",
+     "quote": "compiling a career college football record of 314–199–35 (.605)",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Wikipedia infobox prints 314–99–35 (typo for 199); the article body and season table say 314–199–35.",
+   "id": "stagg-314",
+   "entity": "Amos Alonzo Stagg"
+  },
+  {
+   "kind": "coach",
+   "school": "Georgia, Iowa State, Cornell, Carlisle, Pittsburgh, Stanford, Temple",
+   "span": "1895–1938",
+   "stat": "wins",
+   "value": 336,
+   "window": "career",
+   "n": 482,
+   "scope": "includes simultaneous Iowa State co-coaching seasons 1895-99",
+   "claim": "The NCAA book credits Pop Warner with 336 wins (336-114-32); Wikipedia says 319-106-32.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA includes Iowa State 1895-99 (18-8, coached simultaneously with other schools). Wikipedia says \"The NCAA credits Warner with 319–106–32\" and that neither NCAA nor CFDW figure includes Iowa State; the current NCAA book contradicts that note.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Stanford 24-32, Temple 33-38 44 336 114 32 .730",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). Row begins \"3. Pop Warner, Georgia 1895-96, Iowa St. 95-99\"."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Pop_Warner",
+     "quote": "The NCAA credits Warner with a career football coaching record of 319–106–32.",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Pop_Warner",
+     "quote": "Neither includes the five seasons at Iowa State (1895–1899) during which time Warner co-coached the Cyclones to a record of 18–8",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Arithmetic: CFDW 318 + Iowa State 18 = 336 and 106 + 8 = 114, so the NCAA book appears to be CFDW minus the 1908 Carlisle game plus Iowa State. Two publishers, two numbers; the build must pick a scope and say so.",
+   "id": "warner-wins",
+   "entity": "Pop Warner"
+  },
+  {
+   "kind": "coach",
+   "school": "Grand Valley State, Central Michigan, Cincinnati, Notre Dame, LSU",
+   "span": "1991–2025",
+   "stat": "wins",
+   "value": 297,
+   "window": "career",
+   "n": 409,
+   "scope": "includes 13 Division II seasons at Grand Valley State; vacated Notre Dame wins excluded",
+   "claim": "Brian Kelly's career total is 297 wins, 118 of them at Division II Grand Valley State.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA FBS list counts \"record at four-year colleges only\", so Grand Valley State (D-II, 118-35-2) is in. Kelly is marked ^ (Notre Dame 2012-13 wins vacated). FBS-only total is 179.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "LSU 2022-25 36 297 110 2 .729",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). Row begins \"6. ^Brian Kelly, Grand Valley St. 1991-2003\"."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Brian_Kelly_(American_football_coach)",
+     "quote": "Total: 297–109–2",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Brian_Kelly_(American_football_coach)",
+     "quote": "Grand Valley State: 118–35–2",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Loss count disagrees: NCAA 110, Wikipedia 109. Kelly was fired 26 Oct 2025 with LSU 5-3.",
+   "id": "kelly-297-incl-d2",
+   "entity": "Brian Kelly"
+  },
+  {
+   "kind": "coach",
+   "school": "Nebraska",
+   "span": "1973–1997",
+   "stat": "wins",
+   "value": 255,
+   "window": "career",
+   "n": 307,
+   "scope": "all games incl. bowls",
+   "claim": "Tom Osborne went 255-49-3 (.836) in 25 seasons at Nebraska.",
+   "publisher": "NCAA record book",
+   "definition_note": "One school; no vacated games.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "7. Tom Osborne, Nebraska 1973-97 25 255 49 3 .836",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Tom_Osborne",
+     "quote": "Career 255–49–3 (.836)",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "",
+   "id": "osborne-255",
+   "entity": "Tom Osborne"
+  },
+  {
+   "kind": "coach",
+   "school": "Nebraska",
+   "span": "1993–1997",
+   "stat": "wins",
+   "value": 60,
+   "window": "last N seasons",
+   "n": 5,
+   "scope": "all games incl. bowls",
+   "claim": "Osborne went 60-3 in his final five seasons.",
+   "publisher": "Wikipedia",
+   "definition_note": "Wikipedia; the \"strongest finale\" superlative is unsourced there. 1993-97 includes bowls.",
+   "grade": "wikipedia",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Tom_Osborne",
+     "quote": "In his final five seasons, Osborne's record was a staggering 60–3, which remains the strongest finale to any Division I coaching career.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Our spine can compute this exactly (last 63 games). A \"last N seasons\" window is not one of the site's windows; keep as a check only.",
+   "id": "osborne-final-five-60-3",
+   "entity": "Tom Osborne"
+  },
+  {
+   "kind": "coach",
+   "school": "North Dakota State, Washington, Navy",
+   "span": "1906–1919",
+   "stat": "games_to_100_wins",
+   "value": 108,
+   "window": "first N games as head coach",
+   "n": 108,
+   "scope": "all games; ties count as games",
+   "claim": "Gil Dobie reached 100 wins in 108 games (100-5-3), the fewest ever.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA \"Fewest Games to Reach 100 Victories\": coach must have five years or 50 wins at a major college; ties count as games.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Fewest Games to Reach 100 Victories Coach Career Game (Record at Time) Gil Dobie 108 (100-5-3) George Woodruff 109 (100-9-0)",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "Seed \"Woodruff 100 in 101\" is wrong: NCAA has Woodruff at 109 (100-9-0).",
+   "id": "dobie-fewest-games-100",
+   "entity": "Gil Dobie"
+  },
+  {
+   "kind": "coach",
+   "school": "Georgia",
+   "span": "2016–2024",
+   "stat": "games_to_100_wins",
+   "value": 117,
+   "window": "first N games as head coach",
+   "n": 117,
+   "scope": "all games incl. bowls/playoff",
+   "claim": "Kirby Smart reached 100 wins in 117 games (100-17), tied with Rockne for fifth-fewest ever and the fewest at one SEC school.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA list and Georgia notes agree on 117 for Smart. The SEC \"single school\" version (SDS/Cole Cubelic) compares Saban's 118 at Alabama only.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Knute Rockne 117 (100-12-5) *Kirby Smart 117 (100-17-0) Urban Meyer 118 (100-18-0) Chris Petersen 118 (100-18-0)",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://georgiadogs.com/news/2024/10/20/football-georgia-postgame-notes",
+     "quote": "he reached 100 wins tonight in just 117 games with the road win over #1 Texas. That ranks tied for fifth fastest with Knute Rockne (100-12-5 at Notre Dame) and Chris Petersen (100-17) with Boise State and Washington.",
+     "retrieved": "2026-10-21",
+     "note": "Georgia postgame notes, 19 Oct 2024."
+    },
+    {
+     "url": "https://www.saturdaydownsouth.com/news/college-football/kirby-smart-beats-out-nick-saban-to-become-fastest-sec-coach-ever-to-100-wins/",
+     "quote": "Fastest to 100 wins at a single SEC school all-time: Kirby Smart 117 games Nick Saban- 118 games Steve Spurrier- 120 games",
+     "retrieved": "2026-10-21",
+     "note": "Embedded Cole Cubelic post."
+    }
+   ],
+   "notes": "Georgia ties Smart with Petersen at 117; NCAA has Petersen at 118. See petersen-fastest-100. Meyer is 118 (100-18-0) in the NCAA list.",
+   "id": "smart-fastest-100",
+   "entity": "Kirby Smart"
+  },
+  {
+   "kind": "coach",
+   "school": "Boise State, Washington",
+   "span": "2006–2014",
+   "stat": "games_to_100_wins",
+   "value": 118,
+   "window": "first N games as head coach",
+   "n": 118,
+   "scope": "all games incl. bowls",
+   "claim": "NCAA says Chris Petersen reached 100 wins in his 118th game (100-18); Washington and Georgia say 117th (100-17).",
+   "publisher": "NCAA record book",
+   "definition_note": "Two publishers, two numbers. Washington's bio says 117th game; Georgia notes say (100-17). NCAA 2018 and current editions both print 118 (100-18-0). Petersen did not coach Boise's 2013 bowl (he left for Washington), which is one hypothesis for the one-game drift (unverified).",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Chris Petersen 118 (100-18-0)",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://gohuskies.com/coaches.aspx?rc=259",
+     "quote": "Earned his 100th career coaching victory in just his 117th career game, making him the fifth-fastest coach in college football history to reach 100 victories.",
+     "retrieved": "2026-10-21",
+     "note": "Washington coach bio."
+    }
+   ],
+   "notes": "Gate on the game spine, not either publisher: count Petersen's games through his 100th win. If the spine says 117 the NCAA row is the outlier.",
+   "id": "petersen-fastest-100",
+   "entity": "Chris Petersen"
+  },
+  {
+   "kind": "coach",
+   "school": "Penn State",
+   "span": "1966–1987",
+   "stat": "games_to_200_wins",
+   "value": 246,
+   "window": "first N games as head coach",
+   "n": 246,
+   "scope": "all games incl. bowls",
+   "claim": "Joe Paterno reached 200 wins in 246 games (200-44-2), the fewest ever.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA milestone list.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Fewest Games to Reach 200 Victories Coach Career Game (Record at Time) Joe Paterno 246 (200-44-2) Tom Osborne 249 (200-46-3) Nick Saban 261 (200-60-1)",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "Saban's 261 is the vacated-excluded count; Paterno is fewest to 300 as well, 380 (300-77-3).",
+   "id": "paterno-fewest-200",
+   "entity": "Joe Paterno"
+  },
+  {
+   "kind": "coach",
+   "school": "Georgia",
+   "span": "2016–2023",
+   "stat": "wins",
+   "value": 85,
+   "window": "first N games as head coach",
+   "n": 100,
+   "scope": "all games incl. bowls/playoff",
+   "claim": "Kirby Smart was 85-15 through his first 100 games, an SEC record.",
+   "publisher": "CBS Sports",
+   "definition_note": "CBS (David Cobb, 23 Sep 2023) counts all games; Smart has no other head-coaching job, so career = Georgia.",
+   "grade": "publisher",
+   "receipts": [
+    {
+     "url": "https://www.cbssports.com/college-football/news/georgia-coach-kirby-smart-passes-nick-saban-sets-sec-record-for-most-wins-through-first-100-games",
+     "quote": "Georgia coach Kirby Smart established a new SEC record for most victories through 100 career games on Saturday as the No. 1 Bulldogs defeated UAB 49-21. The victory brought Smart's record to 85-15",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Kirby_Smart",
+     "quote": "Smart's record as head coach of Georgia increased to 85–15, which became the highest total of wins and the highest win percentage achieved by an SEC coach through their first 100 games in history.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "SI reportedly said 86 (search snippet; SI page returns HTTP 410, unverified). Seed \"first 119 games\" has no publisher; 117 is the fastest-to-100 number.",
+   "id": "smart-first-100-games-sec",
+   "entity": "Kirby Smart"
+  },
+  {
+   "kind": "coach",
+   "school": "Alabama",
+   "span": "2007–2014",
+   "stat": "wins",
+   "value": 84,
+   "window": "first N games at the school",
+   "n": 100,
+   "scope": "first 100 games at one school; vacated 2007 wins treatment unstated",
+   "claim": "Nick Saban won 84 of his first 100 games at Alabama.",
+   "publisher": "CBS Sports",
+   "definition_note": "CBS compares Saban at Alabama only (not his career). Whether CBS counts the five vacated 2007 wins is unstated; 84 vs 79 is the gap to watch.",
+   "grade": "publisher",
+   "receipts": [
+    {
+     "url": "https://www.cbssports.com/college-football/news/georgia-coach-kirby-smart-passes-nick-saban-sets-sec-record-for-most-wins-through-first-100-games",
+     "quote": "Smart actually surpassed Saban's mark of 84 victories through his first 100 games at Alabama.",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.cbssports.com/college-football/news/georgia-coach-kirby-smart-passes-nick-saban-sets-sec-record-for-most-wins-through-first-100-games",
+     "quote": "Steve Spurrier (83), Tennessee's Phillip Fulmer (83) and Alabama's Bear Bryant (81) through their first 100 games.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Spurrier 83, Fulmer 83, Bryant 81 come from the same sentence but are career-or-school ambiguous (Bryant's first 100 games were at Maryland/Kentucky). Do not gate those three until the scope is pinned.",
+   "id": "saban-first-100-at-alabama",
+   "entity": "Nick Saban"
+  },
+  {
+   "kind": "coach",
+   "school": "Penn",
+   "span": "1892",
+   "stat": "wins",
+   "value": 15,
+   "window": "first N seasons",
+   "n": 1,
+   "scope": "all games",
+   "claim": "George Woodruff won 15 games (15-1) in his first season, the most for any first-year coach.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA \"Best career starts by wins, one season\" (coaches with at least half their seasons at a major college).",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "BEST CAREER STARTS BY WINS (Head coaches with at least half their seasons at a major college or FBS at the time) ^Records adjusted by NCAA Committee on Infractions. One Season Coach, School Season W L T Pct. George Woodruff, Penn 1892 15 1 0 .938",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "",
+   "id": "woodruff-first-season-15",
+   "entity": "George Woodruff"
+  },
+  {
+   "kind": "coach",
+   "school": "Boise State",
+   "span": "2006",
+   "stat": "wins",
+   "value": 13,
+   "window": "first N seasons",
+   "n": 1,
+   "scope": "all games incl. bowls",
+   "claim": "Chris Petersen's 13-0 in 2006 is the most wins by an FBS first-year head coach.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA \"Most Victories by FBS First-Year Head Coaches\": no previous head-coaching experience at a four-year college; √ marks a bowl win included. Tom Herman (Houston 2015) also has 13 but with a loss.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Chris Petersen, Boise St., 2006 √13 0 0 Tom Herman, Houston, 2015 √13 1 0",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "",
+   "id": "petersen-first-season-13-0",
+   "entity": "Chris Petersen"
+  },
+  {
+   "kind": "coach",
+   "school": "Yale, Stanford",
+   "span": "1888–1892",
+   "stat": "wins",
+   "value": 69,
+   "window": "first N seasons",
+   "n": 5,
+   "scope": "all games; ties half-half",
+   "claim": "Walter Camp won 69 games (69-2-2) in his first five seasons, the most ever.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA best starts by wins, five seasons.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Five Seasons Coach, School Seasons W L T Pct. Walter Camp, Yale, Stanford 1888-92 69 2 2 .959 George Woodruff, Penn 1892-96 67 5 0 .931 Chris Petersen, Boise St. 2006-10 61 5 0 .924",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "Contradicts Washington's claim that Petersen's 61 is the most in history (see petersen-first-five-61).",
+   "id": "camp-first-five-69",
+   "entity": "Walter Camp"
+  },
+  {
+   "kind": "coach",
+   "school": "Boise State",
+   "span": "2006–2010",
+   "stat": "wins",
+   "value": 61,
+   "window": "first N seasons",
+   "n": 5,
+   "scope": "all games incl. bowls",
+   "claim": "Chris Petersen went 61-5 in his first five seasons, third all-time and first since the 1890s.",
+   "publisher": "NCAA record book",
+   "definition_note": "The number (61) agrees across NCAA and Washington; the superlative does not. Washington says \"than any coach in history\"; NCAA lists Camp (69) and Woodruff (67) ahead. The superlative is true only from 1900 on.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Chris Petersen, Boise St. 2006-10 61 5 0 .924",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://gohuskies.com/coaches.aspx?rc=259",
+     "quote": "Also won more games (61) in his first five seasons as a head coach than any coach in history.",
+     "retrieved": "2026-10-21",
+     "note": "Washington bio; superlative contradicted by the NCAA list."
+    }
+   ],
+   "notes": "",
+   "id": "petersen-first-five-61",
+   "entity": "Chris Petersen"
+  },
+  {
+   "kind": "coach",
+   "school": "Bowling Green, Utah, Florida, Ohio State",
+   "span": "2001–2016",
+   "stat": "wins",
+   "value": 165,
+   "window": "first N seasons",
+   "n": 15,
+   "scope": "all games incl. bowls/playoff",
+   "claim": "Urban Meyer won 165 games in his first 15 seasons, breaking Bob Stoops's 160.",
+   "publisher": "NCAA record book",
+   "definition_note": "\"First 15 seasons\" skips Meyer's 2011 year off (2001-10, 2012-16). Ohio State's 2016 tweet framed it the same way.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Urban Meyer, Bowling Green, Utah, Florida, Ohio St. 2001-10, 12-16 165 29 0 .851",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). Best career starts by wins, 15 seasons."
+    },
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Bob Stoops, Oklahoma 1999-2013 160 39 0 .804",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://www.elevenwarriors.com/ohio-state-football/2016/10/75305/urban-meyer-on-pace-to-break-record-for-most-wins-in-first-15-seasons-as-a-head-coach",
+     "quote": "Ohio State's head coach is on pace to break Oklahoma's Bob Stoops' record for most wins by a head coach in his first 15 seasons. Stoops won 160 games from 1999-2013.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "",
+   "id": "meyer-first-15-seasons",
+   "entity": "Urban Meyer"
+  },
+  {
+   "kind": "coach",
+   "school": "Nebraska",
+   "span": "1973–1992",
+   "stat": "wins",
+   "value": 195,
+   "window": "first N seasons",
+   "n": 20,
+   "scope": "all games incl. bowls",
+   "claim": "Tom Osborne won 195 games in his first 20 seasons, the most ever; Saban (256) edges him at 25 seasons, 256 to 255.",
+   "publisher": "NCAA record book",
+   "definition_note": "Saban's 25-season total is vacated-excluded (^) and spans 1990, 1995-2005, 2007-20 (NFL gap skipped).",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "20 Seasons Coach, School Seasons W L T Pct. Tom Osborne, Nebraska 1973-92 195 46 3 .805",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Alabama 1990; 1995-05; 07-20 256 65 1 .797 Tom Osborne, Nebraska 1973-97 255 49 3 .836",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). 25 seasons, by wins."
+    }
+   ],
+   "notes": "",
+   "id": "osborne-first-20-seasons",
+   "entity": "Tom Osborne"
+  },
+  {
+   "kind": "coach",
+   "school": "North Dakota State, Washington, Navy",
+   "span": "1906–1917",
+   "stat": "unbeaten_streak",
+   "value": 70,
+   "window": "streak",
+   "n": 70,
+   "scope": "all games; ties do not end the streak",
+   "claim": "Gil Dobie went unbeaten in the first 70 games of his career.",
+   "publisher": "Saturday Blitz",
+   "definition_note": "Unbeaten (ties allowed), counted from his first game. Consistent with NCAA 10-season 61-0-2 plus Washington 1916 (6-0-1) and Navy 1917 game 1 = 70; the NCAA book does not print the 70 itself.",
+   "grade": "article",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "10 Seasons Coach, School Seasons W L T Pct. Gil Dobie, North Dakota St., Washington 1906-15 61 0 2 .984",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). Best career starts by percentage: no losses in first 10 seasons."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Gil_Dobie",
+     "quote": "where he had a 58–0–3 record as a head coach.",
+     "retrieved": "2026-10-21",
+     "note": "At Washington only."
+    },
+    {
+     "url": "https://saturdayblitz.com/2017/06/09/college-football-top-25-head-coaches-all-time/6",
+     "quote": "He eventually lost his second game of his first season with the Midshipmen, ending a streak of 70 undefeated games to begin his coaching career.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Article-grade only. The \"longest unbeaten start to a tenure\" board will compute this; gate requires 70 with ties allowed.",
+   "id": "dobie-unbeaten-start-70",
+   "entity": "Gil Dobie"
+  },
+  {
+   "kind": "coach",
+   "school": "Ohio State",
+   "span": "2018–2022",
+   "stat": "win_pct",
+   "value": 0.882,
+   "window": "first N seasons",
+   "n": 5,
+   "scope": "includes 3 games as acting head coach in 2018",
+   "claim": "Ryan Day went 45-6 (.882) in his first five seasons, counting his three 2018 games as acting coach.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA counts 2018 (3-0 during Meyer's suspension) as Day's first season. A 2019-start count gives 42-6.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Ryan Day, Ohio St. 2018-22 45 6 0 .882",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "",
+   "id": "day-five-seasons-pct",
+   "entity": "Ryan Day"
+  },
+  {
+   "kind": "coach",
+   "school": "Ohio State",
+   "span": "2018–2025",
+   "stat": "win_pct",
+   "value": 0.882,
+   "window": "first N games as head coach",
+   "n": 85,
+   "scope": "includes 2018 acting games",
+   "claim": "At 75-10 (.882) in October 2025 Ryan Day passed Rockne's .881 for the best career percentage, though the NCAA list needs 10 seasons.",
+   "publisher": "FootballScoop / CBS Sports",
+   "definition_note": "75-10 includes the 3-0 in 2018. CBS notes the NCAA 10-year minimum, so this is not an NCAA record.",
+   "grade": "article",
+   "receipts": [
+    {
+     "url": "https://ohiostatebuckeyes.com/sports/football/roster/coaches/ryan-day/1753",
+     "quote": "Coach Ryan Day's.872 winning percentage (82-12) in 94 games at Ohio State ranks No. 1 nationally among all Division I head coaches",
+     "retrieved": "2026-10-21",
+     "note": "Second N: 82-12 through 94 games (OSU bio as of 15 Jun 2026)."
+    },
+    {
+     "url": "https://www.footballscoop.com/2025/10/05/ryan-day-record-winningest-coach-college-football-history",
+     "quote": "head coach Ryan Day to 75-10 on his career. And in moving his winning percentage from.8809 to.882, Day became the winningest (by percentage) coach in college football history.",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.cbssports.com/college-football/news/ohio-states-ryan-day-jokes-im-gonna-hang-it-up-and-thats-it-after-making-college-football-history",
+     "quote": "However, he is not in the official NCAA record books just yet because NCAA requires a minimum of 10 years to earn a spot in its record book for this stat.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "",
+   "id": "day-passes-rockne",
+   "entity": "Ryan Day"
+  },
+  {
+   "kind": "coach",
+   "school": "Ohio State",
+   "span": "2018–2025",
+   "stat": "wins_vs_top10",
+   "value": 16,
+   "window": "career",
+   "n": 26,
+   "scope": "ranking source and timing unstated (school notes)",
+   "claim": "Ryan Day is 16-10 against Top 10 teams.",
+   "publisher": "Ohio State Athletics",
+   "definition_note": "School notes as of 15 Jun 2026; does not say AP vs CFP rank or at game time. Includes neutral/home/road and postseason.",
+   "grade": "publisher",
+   "receipts": [
+    {
+     "url": "https://ohiostatebuckeyes.com/sports/football/roster/coaches/ryan-day/1753",
+     "quote": "27-11 all-time vs. Top 25 teams 16-10 vs. Top 10 teams 8-7 vs. Top 5 teams",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Hostile Territory covers road-only vs AP top 10; this is all venues. Gate against AP-at-game-time and log any gap.",
+   "id": "day-vs-top10",
+   "entity": "Ryan Day"
+  },
+  {
+   "kind": "coach",
+   "school": "Georgia",
+   "span": "2016–2021 (through 25 Sep 2021)",
+   "stat": "wins_vs_top10",
+   "value": 11,
+   "window": "career",
+   "n": 17,
+   "scope": "ranking source unstated; Georgia counts 2018 Kentucky as a top-10 win",
+   "claim": "Georgia was 11-6 against top-10 teams under Kirby Smart entering 2 Oct 2021.",
+   "publisher": "Georgia Athletics",
+   "definition_note": "Rivals (Oct 2020, not saved) reported UGA counts the 2018 Kentucky win as top-10 when AP did not, making UGA one win higher than an AP-at-game-time count.",
+   "grade": "publisher",
+   "receipts": [
+    {
+     "url": "https://georgiadogs.com/news/2021/9/27/football-game-notes-no-2-georgia-welcomes-no-8-11-arkansas-to-sanford",
+     "quote": "Georgia is 11-6 against top-10 teams under Kirby Smart, including 3-0 at home.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "If the Kentucky dispute holds, an AP-at-game-time count through the same date is one win lower than Georgia's.",
+   "id": "smart-vs-top10-2021",
+   "entity": "Kirby Smart"
+  },
+  {
+   "kind": "coach",
+   "school": "Indiana",
+   "span": "2024–2025",
+   "stat": "wins",
+   "value": 27,
+   "window": "first N seasons at the school",
+   "n": 2,
+   "scope": "all games incl. playoff",
+   "claim": "Curt Cignetti won 27 games in his first two seasons at Indiana, the most by an FBS coach in his first two seasons at a school.",
+   "publisher": "Indiana Athletics",
+   "definition_note": "\"At a school\": Cignetti's earlier head jobs (IUP, Elon, James Madison) are excluded. 11-2 (2024) + 16-0 (2025).",
+   "grade": "publisher",
+   "receipts": [
+    {
+     "url": "https://iuhoosiers.com/staff-directory/curt-cignetti/3477",
+     "quote": "He has led Indiana to a nation's-best 27 victories over his first two seasons in Bloomington, the most by an FBS coach in their first two seasons at a school all-time.",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Curt_Cignetti",
+     "quote": "leading the Hoosiers to a program-record 11 wins and their first-ever College Football Playoff berth.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Same bio says \"The 16 wins in 2026 tie the all-time FBS single season mark (Yale, 1894)\"; 2026 is a typo for 2025, and NCAA pre-1937 lists Yale 1889, Penn 1892 and Yale 1894 at 16 (one table) or Yale 1894 alone (another).",
+   "id": "cignetti-first-two-seasons-27",
+   "entity": "Curt Cignetti"
+  },
+  {
+   "kind": "coach",
+   "school": "Oklahoma",
+   "span": "2017–2020",
+   "stat": "wins",
+   "value": 45,
+   "window": "first N seasons at the school",
+   "n": 4,
+   "scope": "all games incl. bowls/playoff",
+   "claim": "Lincoln Riley set Oklahoma records with 24, 36 and 45 wins in his first two, three and four seasons.",
+   "publisher": "USC Athletics",
+   "definition_note": "School record (Oklahoma), not national. Riley had no prior head job. NCAA five-season line: 55-10.",
+   "grade": "publisher",
+   "receipts": [
+    {
+     "url": "https://usctrojans.com/news/2021/11/28/usc-trojans-college-football-lincoln-riley-named-new-head-coach-announcement-oklahoma-sooners",
+     "quote": "He set Oklahoma records for most victories in his first two (24), three (36) and four (45) seasons, breaking marks held by Barry Switzer and Bob Stoops.",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Lincoln Riley, Oklahoma 2017-21 55 10 0 .846",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "Seed \"first 50 games\" not found; 45-5 is unverified.",
+   "id": "riley-first-four-45",
+   "entity": "Lincoln Riley"
+  },
+  {
+   "kind": "coach",
+   "school": "Oregon",
+   "span": "2022–2024",
+   "stat": "wins",
+   "value": 35,
+   "window": "first N seasons at the school",
+   "n": 3,
+   "scope": "all games incl. bowls/playoff",
+   "claim": "Dan Lanning went 35-6 in his first three seasons, the most wins by an Oregon coach through three seasons.",
+   "publisher": "Oregon Athletics",
+   "definition_note": "School record; Lanning's first head job.",
+   "grade": "publisher",
+   "receipts": [
+    {
+     "url": "https://goducks.com/staff.aspx?staff=3041",
+     "quote": "Lanning has led Oregon to a terrific 35-6 overall record while posting double-digit wins in each of his first three seasons. He owns the most wins by any Oregon head coach through his first three seasons",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "",
+   "id": "lanning-first-three-35",
+   "entity": "Dan Lanning"
+  },
+  {
+   "kind": "coach",
+   "school": "Sioux Falls, Fresno State, Washington, Alabama",
+   "span": "2005–2024",
+   "stat": "wins",
+   "value": 114,
+   "window": "first N seasons",
+   "n": 10,
+   "scope": "includes five NAIA seasons at Sioux Falls",
+   "claim": "Kalen DeBoer went 114-16 in his first 10 seasons, counting five NAIA years at Sioux Falls.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA four-year-college record includes NAIA Sioux Falls (2005-09). Alabama's Jan 2024 release (nine seasons) says 104-12.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "Kalen DeBoer, Sioux Falls, Fresno St., Washington, Alabama 2005-09, 2020-24 114 16 0 .877",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://rolltide.com/news/2024/1/13/kalen-deboer-officially-introduced-as-the-28th-head-coach-in-alabama-football-history",
+     "quote": "In his nine seasons as a head coach, DeBoer has won 104 games while only losing 12, which includes a 25-3 record with the Huskies.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "An FBS-only spine sees 2020-24 only; compute that subset from the spine rather than from either publisher. Fastest-to-100 claims for DeBoer depend entirely on counting NAIA games.",
+   "id": "deboer-first-ten-incl-naia",
+   "entity": "Kalen DeBoer"
+  },
+  {
+   "kind": "coach",
+   "school": "Miami (FL)",
+   "span": "2001",
+   "stat": "national_title_first_season",
+   "value": 1,
+   "window": "season",
+   "n": 1,
+   "scope": "first-year head coaches with no prior four-year head job",
+   "claim": "Larry Coker (2001) and Bennie Oosterbaan (1948) are the only first-year head coaches to win a national championship poll.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA \"first-year\" = no previous head-coaching experience at a four-year college. Wikipedia counts Dennis Erickson (1989, first year at Miami but not a first-time head coach) and calls Coker the third since 1948.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf",
+     "quote": "The only first-year coaches to win a national championship poll are Bennie Oosterbaan, Michigan, 1948 (9-0-0), and Larry Coker, Miami (FL), 2001 (12-0-0).",
+     "retrieved": "2026-10-21",
+     "note": "NCAA Football Coaching Records, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Larry_Coker",
+     "quote": "Coker became the third head coach since 1948 to win the national championship in his first season.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "",
+   "id": "coker-first-year-title",
+   "entity": "Larry Coker"
+  },
+  {
+   "kind": "coach",
+   "school": "Ohio State",
+   "span": "2012–2013",
+   "stat": "consecutive_wins_to_start_tenure",
+   "value": 24,
+   "window": "streak",
+   "n": 24,
+   "scope": "all games; started tenure",
+   "claim": "Urban Meyer won his first 24 games at Ohio State, the longest streak in school history.",
+   "publisher": "Eleven Warriors",
+   "definition_note": "Streak from Meyer's first OSU game (2012 opener) to the 2013 Big Ten title game loss; 2012 had no bowl (postseason ban).",
+   "grade": "article",
+   "receipts": [
+    {
+     "url": "https://www.elevenwarriors.com/ohio-state-football/2017/07/83526/going-streaking-urban-meyer-and-jim-tressels-best-winning-streaks-at-ohio-state",
+     "quote": "Urban Meyer, 24 Straight Wins, 2012-2013 Season This one made its way to Ohio State's history books as the longest streak in school history",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://www.elevenwarriors.com/ohio-state-football/2016/10/75305/urban-meyer-on-pace-to-break-record-for-most-wins-in-first-15-seasons-as-a-head-coach",
+     "quote": "owns winning streaks of 24 and 23 games",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "",
+   "id": "meyer-24-0-start-osu",
+   "entity": "Urban Meyer"
+  },
+  {
+   "kind": "coach",
+   "school": "Michigan",
+   "span": "2023",
+   "stat": "wins",
+   "value": 12,
+   "window": "season",
+   "n": 15,
+   "scope": "credited wins, not games on the sideline",
+   "claim": "Jim Harbaugh coached 9 games in Michigan's 15-0 2023 season but is credited with 12 wins.",
+   "publisher": "Wikipedia",
+   "definition_note": "Harbaugh served a 3-game school suspension (wins credited to interim coaches) and a 3-game Big Ten suspension (wins credited to Harbaugh). \"Games coached\" and \"credited games\" diverge by 3 in either direction.",
+   "grade": "wikipedia",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Jim_Harbaugh",
+     "quote": "Harbaugh served as head coach for 9 games and was officially credited with 12 wins during Michigan's 15–0 national championship season.",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Jim_Harbaugh",
+     "quote": "2023 Michigan 12–0",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "The CBS article on the Big Ten suspension credit was JS-rendered and its body did not save (lead). Same issue as Day 2018 and Swinney 2008: the spine must attribute each game to a credited coach.",
+   "id": "harbaugh-2023-credited",
+   "entity": "Jim Harbaugh"
+  },
+  {
+   "kind": "coach",
+   "school": "Kansas",
+   "span": "2015–2018",
+   "stat": "losses",
+   "value": 42,
+   "window": "career",
+   "n": 48,
+   "scope": "all games",
+   "claim": "David Beaty went 6-42 at Kansas, including 2-34 in the Big 12.",
+   "publisher": "CBS Sports",
+   "definition_note": "Career = Kansas only (his only college head job).",
+   "grade": "publisher",
+   "receipts": [
+    {
+     "url": "https://www.cbssports.com/college-football/news/ex-kansas-coach-david-beaty-files-lawsuit-against-jayhawks-athletic-department-claiming-breach-of-contract",
+     "quote": "In his four years at Kansas, Beaty posted a 6-42 overall record, went 2-34 in Big 12 play and finished last in the conference in each of his four seasons.",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/David_Beaty_(American_football)",
+     "quote": "College: 6–42 (.125)",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Futility mirror gate for \"most losses through N games\".",
+   "id": "beaty-6-42",
+   "entity": "David Beaty"
+  },
+  {
+   "kind": "team",
+   "school": "Oklahoma",
+   "span": "1953–1957",
+   "stat": "consecutive_wins",
+   "value": 47,
+   "window": "streak",
+   "n": 47,
+   "scope": "includes bowl games",
+   "claim": "Oklahoma won 47 straight games (1953-57) under Bud Wilkinson, ended by Notre Dame 7-0.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA \"Longest Winning Streaks (Includes Bowl Games)\".",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "LONGEST WINNING STREAKS (Includes Bowl Games) Wins Team Years Ended by Score 47 Oklahoma 1953-57 Notre Dame 7-0",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Bud_Wilkinson",
+     "quote": "Between 1953 and 1957, Wilkinson's Oklahoma squads won 47 straight games, a record that still stands at the highest level of college football.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Also the longest since 1936 (the AP era).",
+   "id": "oklahoma-47-straight",
+   "entity": "Oklahoma"
+  },
+  {
+   "kind": "team",
+   "school": "Washington",
+   "span": "1907–1917",
+   "stat": "unbeaten_streak",
+   "value": 64,
+   "window": "streak",
+   "n": 64,
+   "scope": "includes ties (60-0-4)",
+   "claim": "Washington went 64 games without a loss (60-0-4), 1907-17, mostly under Gil Dobie.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA \"Longest Unbeaten Streaks (Includes Bowl Games; May Include Ties)\".",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "64 60 4 Washington 1907-17 California 27-0",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "40 Washington 1908-14 Oregon St. 0-0",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). Longest winning streaks: 40, ended by a 0-0 tie."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Gil_Dobie",
+     "quote": "His coaching career at Washington also comprised virtually all of Washington's 64-game unbeaten streak",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "",
+   "id": "washington-64-unbeaten",
+   "entity": "Washington"
+  },
+  {
+   "kind": "team",
+   "school": "Michigan",
+   "span": "1901–1905",
+   "stat": "record",
+   "value": 55,
+   "window": "first N seasons at the school",
+   "n": 5,
+   "scope": "all games; Fielding Yost",
+   "claim": "Fielding Yost's \"Point-a-Minute\" Michigan teams went 55-1-1 from 1901 to 1905, outscoring opponents 2,821-42.",
+   "publisher": "Wikipedia",
+   "definition_note": "55-1-1 is Yost's first five Michigan seasons; NCAA prints the 56-game unbeaten streak (55-0-1) that the 1905 Chicago loss ended.",
+   "grade": "wikipedia",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Fielding_H._Yost",
+     "quote": "From 1901 to 1905, his \"Point-a-Minute\" squads had a record of 55–1–1, outscoring their opponents by a margin of 2,821–42.",
+     "retrieved": "2026-10-21"
+    },
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "56 55 1 Michigan 1901-05 Chicago 2-0",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "",
+   "id": "michigan-point-a-minute",
+   "entity": "Michigan"
+  },
+  {
+   "kind": "team",
+   "school": "Northwestern",
+   "span": "1979–1982",
+   "stat": "consecutive_losses",
+   "value": 34,
+   "window": "streak",
+   "n": 34,
+   "scope": "includes bowl games (none played)",
+   "claim": "Northwestern lost 34 straight games (1979-82), the FBS record, ended 31-6 over Northern Illinois.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA \"Longest Losing Streaks\".",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "34 Northwestern 1979-82 NIU 31-6",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Rick_Venturi",
+     "quote": "Overall 1–31–1 (college)",
+     "retrieved": "2026-10-21",
+     "note": "Venturi, Northwestern 1978-80, coached the 1979-80 part of the streak; the Venturi/Green split comes from the spine."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/1982_Northwestern_Wildcats_football_team",
+     "quote": "On September 25, Northwestern defeated Northern Illinois, 31–6, to end the Wildcats' 34-game losing streak, which remains the longest losing streak in NCAA Division I Football Bowl Subdivision (FBS) history.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "",
+   "id": "northwestern-34-losses",
+   "entity": "Northwestern"
+  },
+  {
+   "kind": "team",
+   "school": "Georgia",
+   "span": "2021–2023",
+   "stat": "consecutive_wins",
+   "value": 29,
+   "window": "streak",
+   "n": 29,
+   "scope": "includes bowl/playoff games",
+   "claim": "Georgia won 29 straight (2021-23), an SEC record, ended 27-24 by Alabama in the 2023 SEC title game.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA longest winning streaks, includes bowls.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "29 Georgia 2021-23 Alabama 27-24",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://www.cbssports.com/college-football/news/no-8-alabama-knocks-off-no-1-georgia-27-24-for-sec-title-both-teams-await-postseason-fate",
+     "quote": "after ending Georgia's 29-game winning streak with a 27-24 victory over the No. 1 Bulldogs in the Southeastern Conference championship game Saturday.",
+     "retrieved": "2026-10-21",
+     "note": "AP story via CBS Sports."
+    }
+   ],
+   "notes": "Ties Clemson 2018-19, FSU 2012-14, Miami 1990-93 and Michigan 1901-03 at 29 in the NCAA list.",
+   "id": "georgia-29-straight",
+   "entity": "Georgia"
+  },
+  {
+   "kind": "team",
+   "school": "LSU",
+   "span": "2019",
+   "stat": "points",
+   "value": 726,
+   "window": "season",
+   "n": 15,
+   "scope": "all games incl. playoff",
+   "claim": "2019 LSU scored 726 points in 15 games, the most ever in a 15-game season.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA \"Most Points Scored\" is split by games played; 726 is the 15-game record, not an all-lengths record.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "(14 games) 723—Florida St., 2013 (15 games) 726—LSU, 2019 (16 games) 666—Indiana, 2025",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "\"Most points through a season's first N games\" must count games, not seasons; Indiana's 16-game 666 is the only 16-game entry.",
+   "id": "lsu-2019-726",
+   "entity": "LSU"
+  },
+  {
+   "kind": "team",
+   "school": "Indiana",
+   "span": "2025",
+   "stat": "wins",
+   "value": 16,
+   "window": "season",
+   "n": 16,
+   "scope": "all games incl. playoff; modern era (1937-)",
+   "claim": "2025 Indiana went 16-0, the most wins in a season in the modern era and the first 16-0 since 1894 Yale.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA \"Modern Era, 1937-present\".",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "Most Victories in a Season (Modern Era, 1937-present) 16—Indiana, 2025 15—Clemson, 2018; LSU, 2019; Georgia, 2022; Michigan, 2023",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Curt_Cignetti",
+     "quote": "becoming the first FBS team to compile a perfect 16–0 season since the 1894 Yale Bulldogs.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "",
+   "id": "indiana-2025-16-0",
+   "entity": "Indiana"
+  },
+  {
+   "kind": "team",
+   "school": "Oklahoma",
+   "span": "2008",
+   "stat": "consecutive_games_60_points",
+   "value": 5,
+   "window": "streak",
+   "n": 5,
+   "scope": "all games",
+   "claim": "2008 Oklahoma scored 60+ points in five straight games, the FBS record.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA team record.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "Most Consecutive Games Scoring at Least 60 Points 5—Oklahoma, 2008",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "",
+   "id": "oklahoma-2008-five-60",
+   "entity": "Oklahoma"
+  },
+  {
+   "kind": "team",
+   "school": "USC",
+   "span": "2002–2006",
+   "stat": "consecutive_games_20_points",
+   "value": 63,
+   "window": "streak",
+   "n": 63,
+   "scope": "includes games whose wins were later vacated (2004-05)",
+   "claim": "USC scored at least 20 points in 63 straight games (2002-06).",
+   "publisher": "NCAA record book",
+   "definition_note": "The scoring streak spans the 2004-05 games whose wins USC vacated; the NCAA still prints the streak, so vacating erases wins, not scores.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "Most Consecutive Games Scoring at Least 20 Points 63—Southern California, 2002-06",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "A useful gate for \"vacated games still have scores\". Pete Carroll's 97-19 (Wikipedia) is the on-field record; the vacated-excluded figure is not saved here (lead).",
+   "id": "usc-63-games-20-points",
+   "entity": "Southern California"
+  },
+  {
+   "kind": "team",
+   "school": "Houston",
+   "span": "1968",
+   "stat": "points_game",
+   "value": 100,
+   "window": "season",
+   "n": 1,
+   "scope": "vs major-college opponent; NCAA FBS era (1937-)",
+   "claim": "Houston's 100-6 win over Tulsa (23 Nov 1968) is the most points against a major-college opponent in the NCAA record book.",
+   "publisher": "NCAA record book",
+   "definition_note": "The NCAA book's overall game record is Wyoming 103 vs Northern Colorado (1949), a non-major opponent. Georgia Tech 222-0 Cumberland (1916) predates the book's 1937 window.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "Most Points Scored 103—Wyoming vs. Northern Colo. (0), Nov. 5, 1949 (15 TDs, 13 PATs) Most Points Scored Against a Major- College Opponent 100—Houston vs. Tulsa (6), Nov. 23, 1968",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "\"Most points in a game\" depends on era (pre/post 1937) and opponent class. Three different answers: 222, 103, 100.",
+   "id": "houston-100-tulsa",
+   "entity": "Houston"
+  },
+  {
+   "kind": "team",
+   "school": "Georgia Tech",
+   "span": "1916",
+   "stat": "points_game",
+   "value": 222,
+   "window": "season",
+   "n": 1,
+   "scope": "all games, any era, any opponent",
+   "claim": "Georgia Tech beat Cumberland 222-0 on 7 Oct 1916, the most lopsided score in college football history.",
+   "publisher": "Wikipedia",
+   "definition_note": "Not in the NCAA FBS book (pre-1937, non-major opponent). In-scope for the spine since Howell scores start in 1869.",
+   "grade": "wikipedia",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/1916_Cumberland_vs._Georgia_Tech_football_game",
+     "quote": "Georgia Tech 63 63 54 42 222 Date October 7, 1916",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "",
+   "id": "georgia-tech-222",
+   "entity": "Georgia Tech"
+  },
+  {
+   "kind": "team",
+   "school": "Army",
+   "span": "2003",
+   "stat": "losses",
+   "value": 13,
+   "window": "season",
+   "n": 13,
+   "scope": "modern era (1937-)",
+   "claim": "2003 Army went 0-13, the most losses in a season in the modern era.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA modern era, 1937-present.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "Most Losses in a Season (Modern Era, 1937-present) 13—Army West Point, 2003 (0-13 record)",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "",
+   "id": "army-2003-0-13",
+   "entity": "Army"
+  },
+  {
+   "kind": "team",
+   "school": "Hawaii",
+   "span": "1998–1999",
+   "stat": "games_improved",
+   "value": 8.5,
+   "window": "season",
+   "n": 13,
+   "scope": "half-games; includes bowl",
+   "claim": "Hawaii improved 8½ games from 0-12 in 1998 to 9-4 in 1999 (June Jones's first season), the record.",
+   "publisher": "NCAA record book",
+   "definition_note": "NCAA counts improvement in half-games and includes the bowl win.",
+   "grade": "record-book",
+   "receipts": [
+    {
+     "url": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf",
+     "quote": "Most Improved Won-Lost Record 8½ games—Hawaii, 1999 (9-4-0, including a bowl win) from 1998 (0-12-0)",
+     "retrieved": "2026-10-21",
+     "note": "NCAA FBS Records book, current S3 edition (through the 2025 season). "
+    }
+   ],
+   "notes": "Seed \"first team to start N-0 after a losing season\" not found; this is the nearest record-book item. Indiana 2024 is 7½ games in the same list.",
+   "id": "hawaii-1999-improved",
+   "entity": "Hawaii"
+  },
+  {
+   "kind": "team",
+   "school": "Ohio State",
+   "span": "2010",
+   "stat": "wins",
+   "value": 0,
+   "window": "season",
+   "n": 13,
+   "scope": "vacated games excluded",
+   "claim": "Ohio State's official 2010 record is 0-1 after its 12 wins were vacated.",
+   "publisher": "Wikipedia",
+   "definition_note": "Vacated wins become no-decisions, not losses; the loss stands. Jim Tressel's official total drops 12.",
+   "grade": "wikipedia",
+   "receipts": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Jim_Tressel",
+     "quote": "However, all of the wins were later vacated due to Tressel knowingly using ineligible players, leaving the team's \"official\" record for the campaign as 0–1.",
+     "retrieved": "2026-10-21"
+    }
+   ],
+   "notes": "Gate for the vacated-games scope toggle. Tressel's Youngstown State (FCS) years are also in his NCAA milestone line (200th win in 273 games).",
+   "id": "osu-2010-vacated",
+   "entity": "Ohio State"
+  }
+ ],
+ "rejections": [
+  {
+   "claim": "George Woodruff reached 100 wins in 101 games (seed)",
+   "reason": "NCAA Fewest Games to Reach 100 Victories lists Woodruff at 109 (100-9-0); Dobie is fewest at 108.",
+   "source": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf"
+  },
+  {
+   "claim": "Kirby Smart reached 100 wins through his first 119 games (seed)",
+   "reason": "NCAA and Georgia both say 117 games (100-17). No publisher uses 119.",
+   "source": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/Coaching.pdf"
+  },
+  {
+   "claim": "Chris Petersen won more games (61) in his first five seasons than any coach in history (Washington bio)",
+   "reason": "The number 61 stands; the superlative is false per NCAA (Walter Camp 69, George Woodruff 67). Kept as row petersen-first-five-61 with the superlative rejected.",
+   "source": "https://gohuskies.com/coaches.aspx?rc=259"
+  },
+  {
+   "claim": "Nebraska won 32 consecutive games, 1969-72 (NCAA.com, 2018)",
+   "reason": "NCAA FBS record book lists Nebraska 1969-71 as a 32-game UNBEATEN streak (31 wins, 1 tie), not a winning streak; it is absent from the winning-streak list. NCAA.com article contradicts NCAA record book.",
+   "source": "https://www.ncaa.com/news/football/article/2018-11-02/longest-winning-streaks-college-football-history"
+  },
+  {
+   "claim": "Amos Alonzo Stagg 314–99–35 (Wikipedia infobox)",
+   "reason": "Infobox typo; the same article body and NCAA book give 314-199-35.",
+   "source": "https://en.wikipedia.org/wiki/Amos_Alonzo_Stagg"
+  },
+  {
+   "claim": "Pop Warner: \"The NCAA credits Warner with 319–106–32\" (Wikipedia note)",
+   "reason": "Current NCAA coaching book prints 336-114-32 including Iowa State 1895-99. Not rejected as a number (kept in row warner-wins) but the attribution to NCAA is stale.",
+   "source": "https://en.wikipedia.org/wiki/Pop_Warner"
+  },
+  {
+   "claim": "Indiana's \"16 wins in 2026\" (Indiana bio)",
+   "reason": "Typo for 2025 (16-0 national title season). The 2026 season is in progress.",
+   "source": "https://iuhoosiers.com/staff-directory/curt-cignetti/3477"
+  },
+  {
+   "claim": "Georgia Tech-Cumberland 222-0 as \"most points since 1936\" (seed framing)",
+   "reason": "The game is 1916. Post-1936 record-book answer is Wyoming 103 (1949) overall or Houston 100 vs a major opponent (1968). Both kept as rows with era noted.",
+   "source": "http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/FBS.pdf"
+  },
+  {
+   "claim": "Bobby Bowden 377 as on-field wins",
+   "reason": "377 is the vacated-excluded total; on-field total was 389 before 12 FSU wins were vacated.",
+   "source": "https://en.wikipedia.org/wiki/Bobby_Bowden"
+  }
+ ],
+ "tried": [
+  "http(s)://fs.ncaa.org/Docs/stats/football_records/{2019..2025}/coaching.pdf and /DI/<year>/FBS.pdf: 404 (only 2013, 2016, 2018 coaching.pdf and 2019, 2022 FBS.pdf live on fs.ncaa.org).",
+  "https://fs.ncaa.org.s3.amazonaws.com/... over HTTPS: connection fails; HTTP works. Year-scoped S3 paths (/2024/, /2025/) return 403. The unversioned S3 FBS.pdf and Coaching.pdf are the through-2025 editions and are the record-book receipts here.",
+  "http://fs.ncaa.org/Docs/stats/football_records/2018/coaching.pdf saved as a cross-edition check (same Fewest-Games-to-100 table, Petersen 118 in both editions); not cited as a receipt.",
+  "https://www.si.com/college/georgia/news/kirby-smart-makes-sec-history-with-latest-win-over-uab-for-georgia-football: HTTP 410 (the \"86 wins through 100 games\" variant).",
+  "https://uga.rivals.com/news/kirby-smart-is-on-a-historic-pace-vs-top-10-teams: HTTP error (paywall/bot wall).",
+  "https://en.wikipedia.org/wiki/Point-a-Minute: 404; used the Fielding H. Yost article.",
+  "https://roundtable.io/... (Day 84-13 in 97 games after 2026 Kent State): saved but body is JS-rendered; quote not on saved page.",
+  "CBS Harbaugh suspension-credit article: saved; body JS-rendered, no quotable text. Used Wikipedia.",
+  "Deion Sanders (Colorado 4-8, 9-4, 3-9, 2-4 so far in 2026 per Wikipedia): no canonical publisher factoid found; not a row.",
+  "Sports-Reference via Wayback: not used; every factoid here had a higher-precedence receipt."
+ ],
+ "leads": [
+  "Saved and verified but cut to keep the corpus at 50 (quotes on saved pages, ready to promote): NCAA FBS book \"1,708—Oklahoma (854) & Texas Tech (854), Oct. 22, 2016 (185 plays)\" (total yards, outside the box-score spine); Wikipedia 2007 Hawaii \"first undefeated regular season in school history\" (12-0 regular season); Wikipedia Lane Kiffin \"Ole Miss: 55–19\"; NCAA Leahy 107-13-9 (.864), Meyer 187-32 (.854), Wilkinson 145-29-4.",
+  "Saturday Down South says Saban 297-71-1 (on-field, vacated wins counted); not fetched. Would be the second number for saban-292.",
+  "Rivals (Oct 2020): Smart 8-4 vs AP top 10 vs UGA's 9-4 (UGA counts 2018 Kentucky). Page blocked.",
+  "CFBTrack lists Smart 22-12 vs AP top-10 at game time; snapshot date unknown.",
+  "Pete Carroll USC on-field 97-19 vs NCAA vacated-excluded (14 wins 2004-05): need an NCAA/USC receipt for the official figure.",
+  "stats.ncaa.org/head_coaches (named in the NCAA book) is the live leaderboard; could re-receipt in-season totals.",
+  "Roundtable: Day 84-13 in 97 games after Kent State 2026 (interim 2018 counted). Needs a static receipt.",
+  "Search snippet: Lanning 35 wins most by an Oregon coach through first 40 games, second among active coaches to Smart (39). Not found on a saved page.",
+  "NCAA coaching book \"Youngest coaches to reach 100 victories\" lists Dabo Swinney 38-5 (yrs-days), which counts his 2008 interim games."
+ ],
+ "unverified": [
+  {
+   "claim": "Ryan Day best winning percentage through 70 games in the modern era (seed)",
+   "status": "No publisher found; nearest are .872 through 94 (OSU) and .882 through 85 (FootballScoop)."
+  },
+  {
+   "claim": "Lincoln Riley 45-5 through first 50 games (seed)",
+   "status": "Not found. USC release gives 45 wins in four seasons; NCAA gives 55-10 in five."
+  },
+  {
+   "claim": "Kansas 4 straight losses / Charlie Weis records (seed)",
+   "status": "Seed garbled; Weis Kansas record not extracted (Wikipedia Charlie Weis page saved but not quoted). Beaty 6-42 used as the Kansas futility gate."
+  },
+  {
+   "claim": "Boise State win streak (seed)",
+   "status": "Not in the NCAA longest winning streaks top list; Boise appears only in home-streak list (35, 2006-11). Not row-ified."
+  },
+  {
+   "claim": "Smart 86-14 / 86 wins through 100 games (SI)",
+   "status": "SI page gone (410); CBS and Wikipedia say 85-15."
+  },
+  {
+   "claim": "Most consecutive wins to start a tenure: Larry Coker 24-0 (seed)",
+   "status": "Not confirmed on any saved page; Miami's 34-game streak (2000-03) began under Butch Davis."
+  },
+  {
+   "claim": "UMass / \"most losses in first 30 games\" (seed)",
+   "status": "No publisher factoid found."
+  }
+ ]
+}

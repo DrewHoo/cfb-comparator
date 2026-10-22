@@ -1,0 +1,52 @@
+{{Navbox
+| name = Washington & Jefferson Presidents football coach navbox
+| title = [[List of Washington & Jefferson Presidents head football coaches|{{white|Washington & Jefferson Presidents head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Washington & Jefferson Presidents|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[R. LeBlanc Lynch]] (1890–1891)
+* [[Joseph Julius Clarke]] (1892)
+* [[Joseph Hamilton (coach)|Joseph Hamilton]] (1893)
+* [[E. Gard Edwards]] (1894–1895)
+* [[Clinton Wood]] (1896–1897)
+* [[William D. Inglis]] (1898)
+* [[Walter H. Black]] (1899)
+* [[J. Roy Beardsley]] (1900)
+* [[Norvell B. Knight]] (1901)
+* [[William B. Seaman]] (1902–1904)
+* [[Frank Piekarski]] (1905–1907)
+* [[David C. Morrow (American football)|David C. Morrow]] (1908–1911)
+* [[Bob Folwell]] (1912–1915)
+* [[Sol Metzger]] (1916–1917)
+* [[Ralph Hutchinson]] (1918)
+* [[David C. Morrow (American football)|David C. Morrow]] (1919–1920)
+* [[Greasy Neale]] (1921–1922)
+* [[John Heisman]] (1923)
+* [[David C. Morrow (American football)|David C. Morrow]] (1924–1925)
+* [[Andrew Kerr]] (1926–1928)
+* [[Bill Amos]] (1929–1931)
+* [[Hank Day]] (1932–1936)
+* [[George Roark]] (1937–1940)
+* [[Stu Holcomb]] (1941)
+* [[Pete Henry]] (1942)
+* ''No team'' (1943–1944)
+* [[Pete Henry]] (1945)
+* [[Henry Luecht]] (1946–1949)
+* [[Alured Ransom]] (1950–1951)
+* [[Joe McMullen]] (1952–1953)
+* [[Charles Nelson (American football)|Charles Nelson]] (1954–1955)
+* [[Edward Chupa]] (1956–1959)
+* [[Chuck Ream]] (1960–1972)
+* [[Pat Mondock]] (1973–1981)
+* [[John Luckhardt]] (1982–1998)
+* [[John Banaszak]] (1999–2002)
+* [[Mike Sirianni]] (2003– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Washington & Jefferson Presidents football navigational boxes|Coach]]
+</noinclude>

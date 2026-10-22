@@ -1,0 +1,46 @@
+{{Navbox
+| name = Baylor Bears football coach navbox
+| title = [[List of Baylor Bears head football coaches|{{white|Baylor Bears head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Baylor Bears|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[R. H. Hamilton]] (1899–1900)
+* [[W. R. Ritchie]] (1901)
+* [[J. C. Ewing]] (1902)
+* [[R. N. Watts]] (1903)
+* [[Sol Metzger]] (1904)
+* [[Archie R. Webb]] (1905)
+* ''No team'' (1906)
+* [[Luther Burleson]] (1907)
+* [[Enoch J. Mills]] (1908–1909)
+* [[Ralph Glaze]] (1910–1912)
+* [[Norman C. Paine]] (1913)
+* [[Charles Mosley (coach)|Charles Mosley]] (1914–1919)
+* [[Frank Bridges]] (1920–1925)
+* [[Morley Jennings]] (1926–1940)
+* [[Frank Kimbrough (American football)|Frank Kimbrough]] (1941–1942)
+* ''No team'' (1943–1944)
+* [[Frank Kimbrough (American football)|Frank Kimbrough]] (1945–1946)
+* [[Bob Woodruff (American football)|Bob Woodruff]] (1947–1949)
+* [[George Sauer]] (1950–1955)
+* [[Sam Boyd (American football)|Sam Boyd]] (1956–1958)
+* [[John Bridgers]] (1959–1968)
+* [[Bill Beall]] (1969–1971)
+* [[Grant Teaff]] (1972–1992)
+* [[Chuck Reedy]] (1993–1996)
+* [[Dave Roberts (American football)|Dave Roberts]] (1997–1998)
+* [[Kevin Steele]] (1999–2002)
+* [[Guy Morriss]] (2003–2007)
+* [[Art Briles]] (2008–2015)
+* [[Jim Grobe]] (2016)
+* [[Matt Rhule]] (2017–2019)
+* [[Dave Aranda]] (2020– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Baylor Bears football navigational boxes|Coach]]
+</noinclude>

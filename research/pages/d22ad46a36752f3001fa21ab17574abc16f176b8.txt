@@ -1,0 +1,57 @@
+{{Navbox
+| name = LSU Tigers football coach navbox
+| title = [[List of LSU Tigers head football coaches|{{white|LSU Tigers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|LSU Tigers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Charles E. Coates]] (1893)
+* [[Albert Simmonds]] (1894–1895)
+* [[Allen Jeardeau]] (1896–1897)
+* [[Edmond Chavanne]] (1898)
+* [[John P. Gregg]] (1899)
+* [[Edmond Chavanne]] (1900)
+* [[W. S. Borland]] (1901–1903)
+* [[Dan A. Killian]] (1904–1906)
+* [[Edgar Wingard]] (1907–1908)
+* [[Joe Pritchard (American football)|Joe Pritchard]] (1909)
+* [[John W. Mayhew]] (1909–1910)
+* [[Pat Dwyer (American football)|Pat Dwyer]] (1911–1913)
+* [[E. T. MacDonnell]] (1914–1916)
+* [[Irving Pray]] (1916)
+* [[Dana X. Bible]] (1916)
+* [[Wayne Sutton]] (1917)
+* ''No team'' (1918)
+* [[Irving Pray]] (1919)
+* [[Branch Bocock]] (1920–1921)
+* [[Irving Pray]] (1922)
+* [[Mike Donahue]] (1923–1927)
+* [[Russ Cohen]] (1928–1931)
+* [[Biff Jones]] (1932–1934)
+* [[Bernie Moore]] (1935–1947)
+* [[Gaynell Tinsley]] (1948–1954)
+* [[Paul Dietzel]] (1955–1961)
+* [[Charles McClendon]] (1962–1979)
+* [[Jerry Stovall]] (1980–1983)
+* [[Bill Arnsparger]] (1984–1986)
+* [[Mike Archer (gridiron football)|Mike Archer]] (1987–1990)
+* [[Curley Hallman]] (1991–1994)
+* [[Gerry DiNardo]] (1995–1999)
+* [[Hal Hunter (American football, born 1959)|Hal Hunter]] # (1999)
+* [[Nick Saban]] (2000–2004)
+* [[Les Miles]] (2005–2016)
+* [[Ed Orgeron]] (2016–2021)
+* [[Brad Davis (American football coach)|Brad Davis]] # (2021)
+* [[Brian Kelly (American football coach)|Brian Kelly]] (2022–2025)
+* [[Frank Wilson (American football)|Frank Wilson]] # (2025)
+* [[Lane Kiffin]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:LSU Tigers football navigational boxes|Coach]]
+</noinclude>

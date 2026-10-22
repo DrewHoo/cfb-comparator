@@ -1,0 +1,49 @@
+{{Navbox
+| name = Indiana Hoosiers football coach navbox
+| title = [[List of Indiana Hoosiers head football coaches|{{white|Indiana Hoosiers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Indiana Hoosiers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Arthur B. Woodford]] (1887–1888)
+* [[Evans Woollen]] (1889)
+* ''No team'' (1890)
+* [[Billy Herod]] (1891)
+* ''No coach'' (1892–1893)
+* [[Gustave Ferbert]] & [[Joseph R. Hudelson]] (1894)
+* [[Winchester Osgood]] & [[Robert Wrenn]] (1895)
+* [[Madison G. Gonterman]] (1896–1897)
+* [[James H. Horne]] (1898–1904)
+* [[James M. Sheldon]] (1905–1913)
+* [[Clarence Childs]] (1914–1915)
+* [[Ewald O. Stiehm]] (1916–1921)
+* [[James P. Herron]] (1922)
+* [[Bill Ingram]] (1923–1925)
+* [[Harlan Page]] (1926–1930)
+* [[Earl C. Hayes]] (1931–1933)
+* [[Bo McMillin]] (1934–1947)
+* [[Clyde B. Smith]] (1948–1951)
+* [[Bernie Crimmins]] (1952–1956)
+* [[Bob Hicks (American football)|Bob Hicks]] # (1957)
+* [[Phil Dickens]] (1958–1964)
+* [[John Pont]] (1965–1972)
+* [[Lee Corso]] (1973–1982)
+* [[Sam Wyche]] (1983)
+* [[Bill Mallory]] (1984–1996)
+* [[Cam Cameron]] (1997–2001)
+* [[Gerry DiNardo]] (2002–2004)
+* [[Terry Hoeppner]] (2005–2006)
+* [[Bill Lynch]] (2007–2010)
+* [[Kevin Wilson (American football)|Kevin Wilson]] (2011–2016)
+* [[Tom Allen (American football)|Tom Allen]] (2016–2023)
+* [[Curt Cignetti]] (2024– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Indiana Hoosiers football navigational boxes|Coach]]
+</noinclude>

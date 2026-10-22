@@ -1,0 +1,42 @@
+{{Navbox
+| name = NYU Violets football coach navbox
+| title = [[List of NYU Violets head football coaches|{{color|white|NYU Violets head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|NYU Violets|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1873–1893)
+* [[John A. Hartwell]] (1894)
+* ''Unknown'' (1895–1897)
+* [[Frank H. Cann]] (1898)
+* [[James Ogilvie (coach)|James Ogilvie]] (1899)
+* [[Nelson B. Hatch]] (1900)
+* [[W. H. Rorke]] (1901–1902)
+* [[Robert P. Wilson]] (1903)
+* [[Dave Fultz]] (1904)
+* [[Marshall Mills]] (1905)
+* [[Douglas Church]] (1906)
+* [[Herman Olcott]] (1907–1912)
+* [[Jake High]] (1913)
+* [[Thomas T. Reilley]] (1914–1915)
+* [[Richard E. Eustis]] (1916)
+* [[Francis P. Wall]] (1917)
+* [[Appleton A. Mason]] (1918)
+* [[John B. Longwell]] (1919)
+* [[Frank Gargan]] (1920–1921)
+* [[Tom Thorp]] (1922–1924)
+* [[Chick Meehan]] (1925–1931)
+* [[Howard Cann]] (1932–1933)
+* [[Mal Stevens]] (1934–1941)
+* ''No team'' (1942–1943)
+* [[John J. Weinheimer]] (1944–1946)
+* [[Edward Mylin]] (1947–1949)
+* [[Hugh Devore]] (1950–1952)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:NYU Violets football navigational boxes|Coach]]
+</noinclude>

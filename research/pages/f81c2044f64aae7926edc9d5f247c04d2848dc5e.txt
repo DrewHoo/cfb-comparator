@@ -1,0 +1,43 @@
+{{Navbox
+| name = Penn Quakers football coach navbox
+| title = [[Penn Quakers football|{{white|Penn Quakers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Penn Quakers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1876)
+* ''No team'' (1877)
+* ''No coach'' (1878–1884)
+* [[Frank Dole]] (1885–1887)
+* [[Woody Wagenhorst]] (1888–1891)
+* [[George Washington Woodruff]] (1892–1901)
+* [[Carl S. Williams]] (1902–1907)
+* [[Sol Metzger]] (1908)
+* [[Andy Smith (American football)|Andy Smith]] (1909–1912)
+* [[George H. Brooke]] (1913–1915)
+* [[Bob Folwell]] (1916–1919)
+* [[John Heisman]] (1920–1922)
+* [[Lou Young (American football coach)|Lou Young]] (1923–1929)
+* [[Lud Wray]] (1930)
+* [[Harvey Harman]] (1931–1937)
+* [[George Munger (American football)|George Munger]] (1938–1953)
+* [[Steve Sebo]] (1954–1959)
+* [[John Stiegman]] (1960–1964)
+* [[Bob Odell (American football)|Bob Odell]] (1965–1970)
+* [[Harry Gamble]] (1971–1980)
+* [[Jerry Berndt]] (1981–1985)
+* [[Ed Zubrow]] (1986–1988)
+* [[Gary Steele (American football)|Gary Steele]] (1989–1991)
+* [[Al Bagnoli]] (1992–2014)
+* [[Ray Priore]] (2015–2019)
+* ''No team'' (2020)
+* [[Ray Priore]] (2021–2025)
+* [[Ricky Santos]] (2026– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Penn Quakers football navigational boxes|Coach]]
+</noinclude>

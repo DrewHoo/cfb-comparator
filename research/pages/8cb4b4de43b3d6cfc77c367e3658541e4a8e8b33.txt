@@ -1,0 +1,44 @@
+{{Navbox
+| name = Wesleyan Cardinals football coach navbox
+| title = [[Wesleyan Cardinals football|{{white|Wesleyan Cardinals head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Wesleyan Cardinals|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1881–1891)
+* [[William T. Bull]] (1892–1896)
+* [[Neilson Poe (American football)|Neilson Poe]] (1897)
+* [[Robert P. Wilson]] (1898–1902)
+* [[Howard R. Reiter]] (1903–1909)
+* [[Larry Vorhis]] (1910–1911)
+* [[Jake High]] (1912)
+* [[Danny Hutchinson]] (1913)
+* [[Richard E. Eustis]] (1914–1915)
+* [[Dan Kenan]] (1916)
+* [[Edgar Fauver]] (1917)
+* [[Emil Liston]] (1918–1919)
+* [[Dan Kenan]] (1920)
+* [[Edgar Fauver]] (1921)
+* [[John Martin (American football)|John Martin]] (1922–1924)
+* [[Sam H. Hill]] (1925–1926)
+* [[Bill Wood (American football)|Bill Wood]] (1927–1929)
+* [[Andy Oberlander]] (1930–1933)
+* [[Jack Blott]] (1934–1940)
+* [[Wes Fesler]] (1941–1942)
+* [[Norm Daniels (American football)|Norm Daniels]] (1945–1963)
+* [[Donald Russell (American football)|Donald Russell]] (1964–1970)
+* [[Bill MacDermott]] (1971–1986)
+* [[Kevin Spencer (American football)|Kevin Spencer]] (1987–1991)
+* [[Frank Hauser (American football)|Frank Hauser]] (1992–2009)
+* [[Mike Whalen]] (2010–2014)
+* [[Dan DiCenzo]] (2015–2019)
+* ''No team'' (2020)
+* [[Dan DiCenzo]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Wesleyan Cardinals football navigational boxes|Coach]]
+</noinclude>

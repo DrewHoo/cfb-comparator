@@ -1,0 +1,47 @@
+{{Navbox
+| name = Princeton Tigers football coach navbox
+| title = [[Princeton Tigers football|{{white|Princeton Tigers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Princeton Tigers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1869–1870)
+* ''No team'' (1871)
+* ''No coach'' (1872–1895)
+* [[Franklin Morse]] (1896)
+* ''No coach'' (1897–1900)
+* [[Langdon Lea]] (1901)
+* [[Garrett Cochran]] (1902)
+* [[Art Hillebrand]] (1903–1905)
+* [[Bill Roper (American football)|Bill Roper]] (1906–1908)
+* [[Jim McCormick (American football)|Jim McCormick]] (1909)
+* [[Bill Roper (American football)|Bill Roper]] (1910–1911)
+* [[Logan Cunningham (coach)|Logan Cunningham]] (1912)
+* [[Walter G. Andrews]] (1913)
+* [[Wilder Penfield]] (1914)
+* [[John H. Rush]] (1915–1916)
+* [[Keene Fitzpatrick]] (1917–1918)
+* [[Bill Roper (American football)|Bill Roper]] (1919–1930)
+* [[Albert Wittmer]] (1931)
+* [[Fritz Crisler]] (1932–1937)
+* [[Tad Wieman]] (1938–1942)
+* [[Harry Mahnken]] (1943–1944)
+* [[Charlie Caldwell]] (1945–1956)
+* [[Dick Colman]] (1957–1968)
+* [[Jake McCandless]] (1969–1972)
+* [[Robert Casciola]] (1973–1977)
+* [[Frank Navarro]] (1978–1984)
+* [[Ron Rogerson]] (1985–1986)
+* [[Steve Tosches]] (1987–1999)
+* [[Roger Hughes]] (2000–2009)
+* [[Bob Surace]] (2010–2019)
+* ''No team'' (2020)
+* [[Bob Surace]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Princeton Tigers football navigational boxes|Coach]]
+</noinclude>

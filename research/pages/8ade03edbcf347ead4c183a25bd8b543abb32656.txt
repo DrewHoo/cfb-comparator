@@ -1,0 +1,38 @@
+{{Navbox
+| name = Western Colorado Mountaineers football coach navbox
+| title = [[Western Colorado Mountaineers football|{{white|Western Colorado Mountaineers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Western Colorado Mountaineers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Arthur C. Krause]] (1922–1924)
+* [[Eugene Maynor]] (1925–1926)
+* [[John Van Liew]] (1927)
+* [[Stewart Clark (coach)|Stewart Clark]] (1928–1929)
+* [[Telfer L. Mead]] (1930–1934)
+* [[Paul Wright (American football)|Paul Wright]] (1935–1941)
+* ''No team'' (1942–1945)
+* [[Paul Wright (American football)|Paul Wright]] (1946–1947)
+* [[Vince Gavre]] (1948–1949)
+* [[Joe Thomas (American football coach)|Joe Thomas]] (1950)
+* [[Donald Cumley]] (1951–1952)
+* [[Pete Pederson]] (1953–1960)
+* [[Kay Dalton]] (1961–1965)
+* [[Oliver H. Woods]] (1966–1967)
+* [[Gordon Zapp]] (1968–1970)
+* [[Bill Noxon]] (1971–1984)
+* [[Hal Rogers (American football)|Hal Rogers]] (1985–1987)
+* [[Carl Iverson]] (1988–1995)
+* [[Wayne McGinn]] (1996)
+* [[Carl Iverson]] (1997–2000)
+* [[Jeff Zenisek]] (2001–2005)
+* [[Pat Stewart (American football)|Pat Stewart]] (2006–2010)
+* [[Jas Bains]] (2011– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division II football coach navigational boxes]]
+[[Category:Western Colorado Mountaineers football navigational boxes|Coach]]
+</noinclude>

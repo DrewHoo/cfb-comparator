@@ -1,0 +1,53 @@
+{{Navbox
+| name = Auburn Tigers football coach navbox
+| title = [[List of Auburn Tigers head football coaches|{{white|Auburn Tigers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Auburn Tigers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[George Petrie (American football)|George Petrie]] (1891–1892)
+* [[D. M. Balliet]] (1892)
+* [[George Roy Harvey]] (1893)
+* [[Forrest M. Hall]] (1894)
+* [[John Heisman]] (1895–1899)
+* [[Walter H. Watkins]] (1900–1901)
+* [[Ralph S. Kent]] (1902)
+* [[M. S. Harvey]] (1902)
+* [[William Penn Bates]] (1903)
+* [[Mike Donahue]] (1904–1906)
+* [[Willis Kienholz]] (1907)
+* [[Mike Donahue]] (1908–1922)
+* [[Boozer Pitts]] (1923–1924)
+* [[Dave Morey]] (1925–1927)
+* [[Boozer Pitts]] (1927)
+* [[George Bohler]] (1928–1929)
+* [[Johnny Floyd]] (1929)
+* [[Chet A. Wynne]] (1930–1933)
+* [[Jack Meagher]] (1934–1942)
+* ''No team'' (1943)
+* [[Carl M. Voyles]] (1944–1947)
+* [[Earl Brown (coach)|Earl Brown]] (1948–1950)
+* [[Ralph Jordan]] (1951–1975)
+* [[Doug Barfield]] (1976–1980)
+* [[Pat Dye]] (1981–1992)
+* [[Terry Bowden]] (1993–1998)
+* [[Bill Oliver (American football)|Bill Oliver]] # (1998)
+* [[Tommy Tuberville]] (1999–2008)
+* [[Gene Chizik]] (2009–2012)
+* [[Gus Malzahn]] (2013–2020)
+* [[Kevin Steele]] # (2020)
+* [[Bryan Harsin]] (2021–2022)
+* [[Cadillac Williams]] # (2022)
+* [[Hugh Freeze]] (2023–2025)
+* [[D. J. Durkin]] # (2025)
+* [[Alex Golesh]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Auburn Tigers football navigational boxes|Coach]]
+</noinclude>

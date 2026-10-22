@@ -1,0 +1,57 @@
+{{Navbox
+| name = Army Black Knights football coach navbox
+| title = [[List of Army Black Knights head football coaches|{{white|Army Black Knights head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Army Black Knights|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Dennis Michie]] (1890)
+* [[Henry L. Williams]] (1891)
+* [[Dennis Michie]] (1892)
+* [[Laurie Bliss]] (1893)
+* [[Harmon S. Graves]] (1894–1895)
+* [[George P. Dyer]] (1896)
+* [[Herman Koehler]] (1897–1900)
+* [[Leon Kromer]] (1901)
+* [[Dennis E. Nolan]] (1902)
+* [[Edward Leonard King]] (1903)
+* [[Robert Boyers (American football)|Robert Boyers]] (1904–1905)
+* [[Ernest Graves Sr.]] (1906)
+* [[Henry Smither]] (1906–1907)
+* [[Harry Nelly]] (1908–1910)
+* [[Joseph Beacham]] (1911)
+* [[Ernest Graves Sr.]] (1912)
+* [[Charles Dudley Daly]] (1913–1916)
+* [[Geoffrey Keyes]] (1917)
+* [[Hugh Mitchell (American football)|Hugh Mitchell]] (1918)
+* [[Charles Dudley Daly]] (1919–1922)
+* [[John McEwan]] (1923–1925)
+* [[Biff Jones]] (1926–1929)
+* [[Ralph Sasse]] (1930–1932)
+* [[Garrison H. Davidson]] (1933–1937)
+* [[William H. Wood (American football)|William H. Wood]] (1938–1940)
+* [[Earl Blaik]] (1941–1958)
+* [[Dale Hall]] (1959–1961)
+* [[Paul Dietzel]] (1962–1965)
+* [[Tom Cahill (American football)|Tom Cahill]] (1966–1973)
+* [[Homer Smith (American football)|Homer Smith]] (1974–1978)
+* [[Lou Saban]] (1979)
+* [[Ed Cavanaugh]] (1980–1982)
+* [[Jim Young (American football coach)|Jim Young]] (1983–1990)
+* [[Bob Sutton (American football)|Bob Sutton]] (1991–1999)
+* [[Todd Berry]] (2000–2003)
+* [[John Mumford (American football)|John Mumford]] # (2003)
+* [[Bobby Ross]] (2004–2006)
+* [[Stan Brock (American football)|Stan Brock]] (2007–2008)
+* [[Rich Ellerson]] (2009–2013)
+* [[Jeff Monken]] (2014– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Army Black Knights football navigational boxes|Coach]]
+</noinclude>

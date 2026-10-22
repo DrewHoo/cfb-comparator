@@ -1,0 +1,58 @@
+{{Navbox
+| name = Washington and Lee Generals football coach navbox
+| title = [[Washington and Lee Generals football|{{white|Washington and Lee Generals head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Washington and Lee Generals}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1890–1891)
+* [[F. W. Cobb]] (1892)
+* [[James Bell Bullitt]] (1893)
+* ''No coach'' (1894)
+* [[R. S. Thomas (American football)|R. S. Thomas]] (1895)
+* ''No coach'' (1896–1898)
+* [[Thomas Trenchard]] (1899)
+* [[Bill Wertenbaker]] (1900)
+* [[Thomas Trenchard]] (1901)
+* [[Bill Wertenbaker]] (1902)
+* [[D. M. Balliet]] & [[Axtell J. Byles]] (1903)
+* [[D. M. Balliet]] (1904)
+* [[R. R. Brown]] (1905–1908)
+* [[Timothy N. Pfeiffer]] (1909)
+* [[J. W. H. Pollard]] (1910–1911)
+* [[James Reilly (American football)|James Reilly]] (1912)
+* [[Heman L. Dowd]] (1913)
+* [[Jogger Elcock]] (1914–1916)
+* [[W. C. Raftery]] (1917)
+* [[J. J. Fitzpatrick]] (1918)
+* [[W. C. Raftery]] (1919–1921)
+* [[Jimmy DeHart]] (1922–1925)
+* [[James P. Herron]] (1926–1928)
+* [[Eugene Oberst]] (1929–1930)
+* [[Jimmy DeHart]] (1931–1932)
+* [[Warren E. Tilson]] (1933–1940)
+* [[Riley Smith (American football)|Riley Smith]] (1941)
+* [[Paul A. Holstein]] (1942)
+* ''No team'' (1943–1945)
+* [[Art Lewis]] (1946–1948)
+* [[George T. Barclay]] (1949–1951)
+* [[Carl Wise]] (1952–1953)
+* ''No team'' (1954)
+* [[Bill Chipley]] (1955–1956)
+* [[Lee McLaughlin (American football)|Lee McLaughlin]] (1957–1967)
+* [[Buck Leslie]] (1968–1972)
+* [[William D. McHenry]] (1973–1977)
+* [[Gary Fallon]] (1978–1994)
+* [[Frank Mirrielo]] (1995–2011)
+* [[Scott Abell]] (2012–2017)
+* [[Garrett LeRose]] (2018–2019)
+* ''No team'' (2020)
+* [[Garrett LeRose]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Washington and Lee Generals football navigational boxes|Coach]]
+</noinclude>

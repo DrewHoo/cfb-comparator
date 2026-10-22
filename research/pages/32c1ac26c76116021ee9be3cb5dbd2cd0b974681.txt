@@ -1,0 +1,46 @@
+{{Navbox
+| name = Tennessee Volunteers football coach navbox
+| title = [[List of Tennessee Volunteers head football coaches|<span style="color:black">Tennessee Volunteers head football coaches</span>]]
+| basestyle = {{CollegePrimaryStyle|Tennessee Volunteers|color=black}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[J. A. Pierce]] (1899–1900)
+* [[Gilbert Kelly]] (1901)
+* [[Hubert Fisher]] (1902–1903)
+* [[Sax Crawford]] (1904)
+* [[James DePree]] (1905–1906)
+* [[George Levene]] (1907–1909)
+* [[Lex Stone]] (1910)
+* [[Zora Clevenger]] (1911–1915)
+* [[John R. Bender]] (1916–1920)
+* [[M. B. Banks]] (1921–1925)
+* [[Robert Neyland]] (1926–1934)
+* [[W. H. Britton]] (1935)
+* [[Robert Neyland]] (1936–1940)
+* [[John Barnhill (American football)|John Barnhill]] (1941–1945)
+* [[Robert Neyland]] (1946–1952)
+* [[Harvey Robinson]] (1953–1954)
+* [[Bowden Wyatt]] (1955–1962)
+* [[Jim McDonald (halfback)|Jim McDonald]] (1963)
+* [[Doug Dickey]] (1964–1969)
+* [[Bill Battle]] (1970–1976)
+* [[Johnny Majors]] (1977–1992)
+* [[Phillip Fulmer]] (1992–2008)
+* [[Lane Kiffin]] (2009)
+* [[Derek Dooley (American football)|Derek Dooley]] (2010–2012)
+* [[Jim Chaney]] # (2012)
+* [[Butch Jones]] (2013–2017)
+* [[Brady Hoke]] # (2017)
+* [[Jeremy Pruitt]] (2018–2020)
+* [[Josh Heupel]] (2021– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Tennessee Volunteers football navigational boxes|Coach]]
+</noinclude>

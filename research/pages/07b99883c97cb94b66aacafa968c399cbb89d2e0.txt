@@ -1,0 +1,46 @@
+{{Navbox
+| name = Dartmouth Big Green football coach navbox
+| title = [[Dartmouth Big Green football|{{white|Dartmouth Big Green head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Dartmouth Big Green|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1881–1884)
+* ''No team'' (1885)
+* ''No coach'' (1886–1892)
+* [[Wallace Moyle]] (1893–1894)
+* [[William Wurtenburg]] (1895–1899)
+* [[Frederick E. Jennings]] (1900)
+* [[Walter McCornack]] (1901–1902)
+* [[Fred Folsom]] (1903–1906)
+* [[John C. O'Connor]] (1907–1908)
+* [[W. H. Lillard]] (1909)
+* [[W. J. Randall]] (1910)
+* [[Frank Cavanaugh (American football)|Frank Cavanaugh]] (1911–1916)
+* [[Clarence Spears]] (1917–1920)
+* [[Jackson Cannell]] (1921–1922)
+* [[Jesse Hawley (American football)|Jesse Hawley]] (1923–1928)
+* [[Jackson Cannell]] (1929–1933)
+* [[Earl Blaik]] (1934–1940)
+* [[Tuss McLaughry]] (1941–1942)
+* [[Earl Brown (coach)|Earl Brown]] (1943–1944)
+* [[Tuss McLaughry]] (1945–1954)
+* [[Bob Blackman (American football)|Bob Blackman]] (1955–1970)
+* [[Jake Crouthamel]] (1971–1977)
+* [[Joe Yukica]] (1978–1986)
+* [[Buddy Teevens]] (1987–1991)
+* [[John Lyons (American football coach)|John Lyons]] (1992–2004)
+* [[Buddy Teevens]] (2005–2019)
+* ''No team'' (2020)
+* [[Buddy Teevens]] (2021–2022)
+* [[Sammy McCorkle]] (2023– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Dartmouth Big Green football navigational boxes|Coach]]
+</noinclude>

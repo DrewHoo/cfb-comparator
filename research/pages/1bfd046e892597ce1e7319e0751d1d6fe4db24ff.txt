@@ -1,0 +1,47 @@
+{{Navbox
+| name = Texas Longhorns football coach navbox
+| title = [[List of Texas Longhorns head football coaches|{{white|Texas Longhorns head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Texas Longhorns|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1893)
+* [[Reginald DeMerritt Wentworth]] (1894)
+* [[Frank Crawford]] (1895)
+* [[Harry Orman Robinson]] (1896)
+* [[Walter F. Kelly]] (1897)
+* [[David Farragut Edwards]] (1898)
+* [[Maurice Gordon Clarke]] (1899)
+* [[Samuel Huston Thompson]] (1900–1901)
+* [[J. B. Hart]] (1902)
+* [[Ralph Hutchinson]] (1903–1905)
+* [[H. R. Schenker]] (1906)
+* [[W. E. Metzenthin]] (1907–1908)
+* [[Dexter W. Draper]] (1909)
+* [[Billy Wasmund]] (1910)
+* [[Dave Allerdice]] (1911–1915)
+* [[Eugene Van Gent]] (1916)
+* [[William Juneau]] (1917–1919)
+* [[Berry Whitaker]] (1920–1922)
+* [[E. J. Stewart]] (1923–1926)
+* [[Clyde Littlefield]] (1927–1933)
+* [[Jack Chevigny]] (1934–1936)
+* [[Dana X. Bible]] (1937–1946)
+* [[Blair Cherry]] (1947–1950)
+* [[Ed Price (American football)|Ed Price]] (1951–1956)
+* [[Darrell Royal]] (1957–1976)
+* [[Fred Akers]] (1977–1986)
+* [[David McWilliams (American football)|David McWilliams]] (1987–1991)
+* [[John Mackovic]] (1992–1997)
+* [[Mack Brown]] (1998–2013)
+* [[Charlie Strong]] (2014–2016)
+* [[Tom Herman]] (2017–2020)
+* [[Steve Sarkisian]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes|Texas]]
+[[Category:Texas Longhorns football navigational boxes|Coach]]
+</noinclude>

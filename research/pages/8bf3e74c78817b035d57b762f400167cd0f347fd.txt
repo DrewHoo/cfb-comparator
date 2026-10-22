@@ -1,0 +1,42 @@
+{{Navbox
+| name = Utah Utes football coach navbox
+| title = [[List of Utah Utes head football coaches|{{white|Utah Utes head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Utah Utes|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1892)
+* ''No team'' (1893)
+* [[Robert Harkness (American football)|Robert Harkness]] (1894)
+* [[Walter Shoup]] (1895)
+* [[C. B. Ferris]] (1896)
+* [[Byron Cummings]] (1897)
+* [[Benjamin Wilson (American football)|Benjamin Wilson]] (1898)
+* [[Charles Gatehouse]] (1899)
+* [[Harvey Holmes]] (1900–1903)
+* [[Joe Maddock (coach)|Joe Maddock]] (1904–1909)
+* [[Fred Bennion]] (1910–1913)
+* [[Nelson Norgren]] (1914–1917)
+* ''No team'' (1918)
+* [[Thomas M. Fitzpatrick]] (1919–1924)
+* [[Ike Armstrong]] (1925–1949)
+* [[Jack Curtice]] (1950–1957)
+* [[Ray Nagel]] (1958–1965)
+* [[Mike Giddings]] (1966–1967)
+* [[Bill Meek]] (1968–1973)
+* [[Tom Lovat]] (1974–1976)
+* [[Wayne Howard (American football)|Wayne Howard]] (1977–1981)
+* [[Chuck Stobart]] (1982–1984)
+* [[Jim Fassel]] (1985–1989)
+* [[Ron McBride]] (1990–2002)
+* [[Urban Meyer]] (2003–2004)
+* [[Kyle Whittingham]] (2005–2025)
+* [[Morgan Scalley]] (2025– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes|Utah]]
+[[Category:Utah Utes football navigational boxes|Coach]]
+</noinclude>

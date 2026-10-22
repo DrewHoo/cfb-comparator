@@ -1,0 +1,3 @@
+files 305, byconf files with spans 304, rows 149929
+result cell values {"W":78699,"L":66741,"T":4489}
+rows with a non-numeric score 0 []

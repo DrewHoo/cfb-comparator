@@ -1,0 +1,42 @@
+decade	teamSeasons	games	navboxNamed	navboxNoCoach	navboxHole	navboxMissing	navboxMultiEntry	navboxCoCoachEntry	cfbdRow	cfbdHole
+1860s	2	4	0	2	0	0	0	0	0	0
+1870s	55	193	1	54	0	0	1	0	0	0
+1880s	125	973	15	100	5	5	0	0	0	0
+1890s	281	2801	207	56	11	7	4	10	0	0
+1900s	664	5951	656	4	3	1	5	5	0	0
+1910s	816	6498	813	1	0	2	6	4	0	0
+1920s	1026	8940	1020	0	0	6	6	8	0	0
+1930s	1217	11141	1206	0	0	11	2	2	389	114
+1940s	1109	10380	1038	0	0	71	2	2	871	238
+1950s	1127	10989	1028	0	0	99	3	0	943	184
+1960s	1182	11749	964	0	0	218	0	0	1051	131
+1970s	1333	14640	950	0	0	383	8	0	1142	191
+1980s	1140	12948	801	0	0	339	9	0	1076	64
+1990s	1091	12548	764	0	0	327	13	0	1089	2
+2000s	1185	14496	770	0	0	415	23	0	1177	8
+2010s	1264	16086	776	0	0	488	52	0	1260	4
+2020s	791	9592	461	0	0	330	56	1	791	0
+pre-1936 totals {'teamSeasons': 4186, 'games': 36501, 'navboxNamed': 3918, 'navboxNoCoach': 217, 'navboxHole': 19, 'navboxMissing': 32, 'navboxMultiEntry': 24, 'navboxCoCoachEntry': 29, 'cfbdRow': 389, 'cfbdHole': 114, 'navboxNoCoachGames': 1515, 'navboxHoleGames': 165}
+navbox vs cfbd 1936+ {'agree': 7328, 'disagree': 19}
+IowaState 1954: navbox ['Vince DiFrancesca'] vs cfbd ['Vince Di Francesca']
+IowaState 1955: navbox ['Vince DiFrancesca'] vs cfbd ['Vince Di Francesca']
+IowaState 1956: navbox ['Vince DiFrancesca'] vs cfbd ['Vince Di Francesca']
+SouthCarolina 1943: navbox ['James Moran Sr.'] vs cfbd ['J.P. Moran']
+SouthernMethodist 1953: navbox ['Woody Woodard'] vs cfbd ['Chalmer Woodward']
+SouthernMethodist 1954: navbox ['Woody Woodard'] vs cfbd ['Chalmer Woodward']
+SouthernMethodist 1955: navbox ['Woody Woodard'] vs cfbd ['Chalmer Woodward']
+SouthernMethodist 1956: navbox ['Woody Woodard'] vs cfbd ['Chalmer Woodward']
+Tulane 1942: navbox ['Claude Simons Jr.'] vs cfbd ['Claude Simons']
+Tulane 1943: navbox ['Claude Simons Jr.'] vs cfbd ['Claude Simons']
+Tulane 1944: navbox ['Claude Simons Jr.'] vs cfbd ['Claude Simons']
+Tulane 1945: navbox ['Claude Simons Jr.'] vs cfbd ['Claude Simons']
+WestVirginia 1943: navbox ['Ira Rodgers'] vs cfbd ['Rat Rogers']
+WestVirginia 1944: navbox ['Ira Rodgers'] vs cfbd ['Rat Rogers']
+WestVirginia 1945: navbox ['Ira Rodgers'] vs cfbd ['Rat Rogers']
+WestVirginia 1976: navbox ['Frank Cignetti Sr.'] vs cfbd ['Frank Cignetti']
+WestVirginia 1977: navbox ['Frank Cignetti Sr.'] vs cfbd ['Frank Cignetti']
+WestVirginia 1978: navbox ['Frank Cignetti Sr.'] vs cfbd ['Frank Cignetti']
+WestVirginia 1979: navbox ['Frank Cignetti Sr.'] vs cfbd ['Frank Cignetti']
+files (pre-1936 major) without navbox: ['FortBenning', 'MIT', 'MareIslandMarines', 'Millsaps', 'Regis', 'TennesseeMedical', 'Whitman']
+hole examples {"1900s": ["Colby 1904", "Florida 1904", "Williams 1900"], "1890s": ["Haverford 1891", "PennState 1891", "Williams 1890", "Williams 1891", "Williams 1892", "Williams 1893", "Williams 1894", "Williams 1895"], "1880s": ["PennState 1889", "Williams 1886", "Williams 1887", "Williams 1888", "Williams 1889"]}
+cfbd schools unmatched (top) {'Sacramento State': 1, 'North Dakota State': 1}

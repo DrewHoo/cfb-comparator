@@ -1,0 +1,48 @@
+{{Navbox
+| name = UTEP Miners football coach navbox
+| title = [[List of UTEP Miners head football coaches|{{white|UTEP Miners head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|UTEP Miners|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Tommy Dwyer (American football)|Tommy Dwyer]] (1914–1917)
+* ''No team'' (1918)
+* [[Tommy Dwyer (American football)|Tommy Dwyer]] (1919)
+* [[Harry Van Surdam]] (1920)
+* [[Thomas C. Holliday]] (1921)
+* [[Jack C. Vowell]] (1922–1923)
+* [[George B. Powell]] (1924–1926)
+* [[E. J. Stewart]] (1927–1928)
+* [[Mack Saxon]] (1929–1941)
+* [[Walter Milner]] (1942)
+* ''No team'' (1943–1945)
+* [[Jack Curtice]] (1946–1949)
+* [[Mike Brumbelow]] (1950–1956)
+* [[Ben Collins (American football)|Ben Collins]] (1957–1961)
+* [[Bum Phillips]] (1962)
+* [[Warren Harper]] (1963–1964)
+* [[Bobby Dobbs]] (1965–1972)
+* [[Tommy Hudspeth]] (1972–1973)
+* [[Gil Bartosh]] (1974–1976)
+* [[Bill Michael]] (1977–1981)
+* [[Billy Alton]] # (1981)
+* [[Bill Yung]] (1982–1985)
+* [[Bob Stull]] (1986–1988)
+* [[David Lee (American football coach)|David Lee]] (1989–1993)
+* [[Charlie Bailey (American football)|Charlie Bailey]] (1993–1999)
+* [[Gary Nord]] (2000–2003)
+* [[Mike Price]] (2004–2012)
+* [[Sean Kugler]] (2013–2017)
+* [[Mike Price]] # (2017)
+* [[Dana Dimel]] (2018–2023)
+* [[Scotty Walden]] (2024– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:UTEP Miners football navigational boxes|Coach]]
+</noinclude>

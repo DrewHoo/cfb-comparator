@@ -1,0 +1,51 @@
+{{Navbox
+| name = Notre Dame Fighting Irish football coach navbox
+| title = [[List of Notre Dame Fighting Irish head football coaches|{{white|Notre Dame Fighting Irish head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Notre Dame Fighting Irish|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1887–1893)
+* [[James L. Morrison]] (1894)
+* [[H. G. Hadden]] (1895)
+* [[Frank E. Hering]] (1896–1898)
+* [[James McWeeney]] (1899)
+* [[Pat O'Dea]] (1900–1901)
+* [[James Farragher]] (1902–1903)
+* [[Louis J. Salmon]] (1904)
+* [[Henry J. McGlew]] (1905)
+* [[Thomas A. Barry]] (1906–1907)
+* [[Victor M. Place]] (1908)
+* [[Frank Longman]] (1909–1910)
+* [[John L. Marks]] (1911–1912)
+* [[Jesse Harper]] (1913–1917)
+* [[Knute Rockne]] (1918–1930)
+* [[Hunk Anderson]] (1931–1933)
+* [[Elmer Layden]] (1934–1940)
+* [[Frank Leahy]] (1941–1943)
+* [[Edward McKeever]] (1944)
+* [[Hugh Devore]] (1945)
+* [[Frank Leahy]] (1946–1953)
+* [[Terry Brennan]] (1954–1958)
+* [[Joe Kuharich]] (1959–1962)
+* [[Hugh Devore]] (1963)
+* [[Ara Parseghian]] (1964–1974)
+* [[Dan Devine]] (1975–1980)
+* [[Gerry Faust]] (1981–1985)
+* [[Lou Holtz]] (1986–1996)
+* [[Bob Davie (American football)|Bob Davie]] (1997–2001)
+* [[Tyrone Willingham]] (2002–2004)
+* [[Kent Baer]] # (2004)
+* [[Charlie Weis]] (2005–2009)
+* [[Brian Kelly (American football coach)|Brian Kelly]] (2010–2021)
+* [[Marcus Freeman]] (2021– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Notre Dame Fighting Irish football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,37 @@
+{{Navbox
+| name = Texas Tech Red Raiders football coach navbox
+| title = [[List of Texas Tech Red Raiders head football coaches|{{white|Texas Tech Red Raiders head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Texas Tech Red Raiders|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Ewing Y. Freeland]] (1925–1928)
+* [[Grady Higginbotham]] (1929)
+* [[Pete Cawthon]] (1930–1940)
+* [[Dell Morgan]] (1941–1950)
+* [[DeWitt Weaver]] (1951–1960)
+* [[J. T. King]] (1961–1969)
+* [[Jim Carlen]] (1970–1974)
+* [[Steve Sloan]] (1975–1977)
+* [[Rex Dockery]] (1978–1980)
+* [[Jerry Moore (American football, born 1939)|Jerry Moore]] (1981–1985)
+* [[David McWilliams (American football)|David McWilliams]] (1986)
+* [[Spike Dykes]] (1986–1999)
+* [[Mike Leach (American football coach)|Mike Leach]] (2000–2009)
+* [[Ruffin McNeill]] # (2009)
+* [[Tommy Tuberville]] (2010–2012)
+* [[Chris Thomsen]] # (2012)
+* [[Kliff Kingsbury]] (2013–2018)
+* [[Matt Wells (American football coach)|Matt Wells]] (2019–2021)
+* [[Sonny Cumbie]] # (2021)
+* [[Joey McGuire]] (2022– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Texas Tech Red Raiders football navigational boxes|Coach]]
+</noinclude>

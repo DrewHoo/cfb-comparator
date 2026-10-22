@@ -1,0 +1,39 @@
+{{Navbox
+| name = Rice Owls football coach navbox
+| title = [[Rice Owls football|{{white|Rice Owls head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Rice Owls|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Philip Arbuckle]] (1912–1917)
+* [[John E. Anderson (American football)|John E. Anderson]] (1918)
+* [[Philip Arbuckle]] (1919–1923)
+* [[John Heisman]] (1924–1927)
+* [[Claude Rothgeb]] (1928)
+* [[Jack Meagher]] (1929–1933)
+* [[Jimmy Kitts]] (1934–1939)
+* [[Jess Neely]] (1940–1966)
+* [[Bo Hagan]] (1967–1970)
+* [[Bill Peterson]] (1971)
+* [[Al Conover]] (1972–1975)
+* [[Homer Rice]] (1976–1977)
+* [[Ray Alborn]] (1978–1983)
+* [[Watson Brown (American football)|Watson Brown]] (1984–1985)
+* [[Jerry Berndt]] (1986–1988)
+* [[Fred Goldsmith (American football)|Fred Goldsmith]] (1989–1993)
+* [[Ken Hatfield]] (1994–2005)
+* [[Todd Graham]] (2006)
+* [[David Bailiff]] (2007–2017)
+* [[Mike Bloomgren]] (2018–2024)
+* [[Pete Alamar]] # (2024)
+* [[Scott Abell]] (2025– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Rice Owls football navigational boxes|Coach]]
+</noinclude>

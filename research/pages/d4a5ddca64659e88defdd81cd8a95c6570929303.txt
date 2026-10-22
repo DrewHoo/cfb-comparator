@@ -1,0 +1,48 @@
+{{Navbox
+| name = Boston University Terriers football coach navbox
+| title = [[Boston University Terriers football|{{white|Boston University Terriers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Boston University Terriers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1884)
+* ''No team'' (1885)
+* ''No coach'' (1886–1887)
+* ''No team'' (1888–1890)
+* ''No coach'' (1891–1897)
+* ''No team'' (1898–1903)
+* ''No coach'' (1904–1905)
+* ''No team'' (1906–1916)
+* ''No coach'' (1917)
+* [[John MacDonald (American football)|John MacDonald]] (1918–1919)
+* [[Percy Wendell]] (1920)
+* [[Charles Whelan]] (1921–1925)
+* [[Edward N. Robinson]] & [[Reggie Brown (American football coach)|Reggie Brown]] (1926–1929)
+* [[Hilary Mahaney]] (1930–1931)
+* [[Myles Lane]] (1932)
+* [[John Harmon (coach)|John Harmon]] (1933)
+* [[Pat Hanley]] (1934–1941)
+* [[Walt Holmer]] (1942)
+* ''No team'' (1943–1944)
+* [[Robert McKelvey]] # (1945)
+* [[Walt Holmer]] (1945–1946)
+* [[Aldo Donelli]] (1947–1956)
+* [[Steve Sinko]] (1957–1963)
+* [[Warren Schmakel]] (1964–1968)
+* [[Larry Naviaux]] (1969–1972)
+* [[Paul Kemp (American football)|Paul Kemp]] (1973–1976)
+* [[Rick Taylor (American football)|Rick Taylor]] (1977–1984)
+* [[Steve Stetson]] (1985–1987)
+* [[Chris Palmer (American football)|Chris Palmer]] (1988–1989)
+* [[Dan Allen (American football)|Dan Allen]] (1990–1995)
+* [[Tom Masella]] (1996–1997)
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Boston University Terriers football navigational boxes|Coach]]
+</noinclude>

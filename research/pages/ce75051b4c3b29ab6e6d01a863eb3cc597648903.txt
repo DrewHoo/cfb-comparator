@@ -1,0 +1,52 @@
+{{Navbox
+| name = Wake Forest Demon Deacons football coach navbox
+| title = [[List of Wake Forest Demon Deacons head football coaches|{{white|Wake Forest Demon Deacons head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Wake Forest Demon Deacons|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[W. C. Dowd]] & [[W. C. Riddick]] (1888)
+* [[W. C. Riddick]] (1889)
+* ''No team'' (1890)
+* [[E. Walter Sikes]] (1891–1893)
+* ''No team'' (1894)
+* ''No coach'' (1895)
+* ''No team'' (1896–1907)
+* [[A. P. Hall Jr.]] (1908)
+* [[A. T. Myers]] (1909)
+* [[Reddy Rowe]] (1910)
+* [[Frank Thompson (coach)|Frank Thompson]] (1911–1913)
+* [[Wilbur C. Smith]] (1914–1915)
+* [[G. M. Billings]] (1916)
+* [[E. T. MacDonnell]] (1917)
+* [[Harry Rabenhorst]] (1918–1919)
+* [[James L. White (coach)|James L. White]] (1920–1921)
+* [[George Levene]] (1922)
+* [[Hank Garrity (coach)|Hank Garrity]] (1923–1925)
+* [[James A. Baldwin]] (1926–1927)
+* [[Stan Cofall]] (1928)
+* [[Pat Miller (coach)|Pat Miller]] (1929–1932)
+* [[Jim Weaver (sportsperson)|Jim Weaver]] (1933–1936)
+* [[Peahead Walker]] (1937–1950)
+* [[Tom Rogers (American football, born 1910)|Tom Rogers]] (1951–1955)
+* [[Paul Amen]] (1956–1959)
+* [[Bill Hildebrand]] (1960–1963)
+* [[Bill Tate (American football)|Bill Tate]] (1964–1968)
+* [[Cal Stoll]] (1969–1971)
+* [[Tom Harper (American football)|Tom Harper]] (1972)
+* [[Chuck Mills]] (1973–1977)
+* [[John Mackovic]] (1978–1980)
+* [[Al Groh]] (1981–1986)
+* [[Bill Dooley]] (1987–1992)
+* [[Jim Caldwell (American football)|Jim Caldwell]] (1993–2000)
+* [[Jim Grobe]] (2001–2013)
+* [[Dave Clawson]] (2014–2024)
+* [[Jake Dickert]] (2025– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Wake Forest Demon Deacons football navigational boxes|Coach]]
+</noinclude>

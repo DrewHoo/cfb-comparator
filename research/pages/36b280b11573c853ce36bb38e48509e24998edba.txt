@@ -1,0 +1,51 @@
+{{Navbox
+| name = Minnesota Golden Gophers football coach navbox
+| title = [[Minnesota Golden Gophers football|{{white|Minnesota Golden Gophers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Minnesota Golden Gophers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1882)
+* [[Thomas Peebles (American football)|Thomas Peebles]] (1883)
+* ''No team'' (1884–1885)
+* [[Frederick S. Jones]] (1886–1888)
+* McCords, et al (1889)
+* [[Tom Eck]] (1890)
+* [[Edward Moulton]] (1891)
+* ''No coach'' (1892)
+* [[Wallace Winter]] (1893)
+* [[Thomas Cochran (banker)|Thomas Cochran]] (1894)
+* [[Pudge Heffelfinger]] (1895)
+* [[Alexander Jerrems]] (1896–1897)
+* [[John Minds]] (1898)
+* [[Jack Harrison (American football)|Jack Harrison]] & [[William C. Leary (American football)|William C. Leary]] (1899)
+* [[Henry L. Williams]] (1900–1921)
+* [[William H. Spaulding]] (1922–1924)
+* [[Clarence Spears]] (1925–1929)
+* [[Fritz Crisler]] (1930–1931)
+* [[Bernie Bierman]] (1932–1941)
+* [[George Hauser]] (1942–1944)
+* [[Bernie Bierman]] (1945–1950)
+* [[Wes Fesler]] (1951–1953)
+* [[Murray Warmath]] (1954–1971)
+* [[Cal Stoll]] (1972–1978)
+* [[Joe Salem (American football)|Joe Salem]] (1979–1983)
+* [[Lou Holtz]] (1984–1985)
+* [[John Gutekunst]] (1985–1991)
+* [[Jim Wacker]] (1992–1996)
+* [[Glen Mason]] (1997–2006)
+* [[Tim Brewster]] (2007–2010)
+* [[Jeff Horton]] # (2010)
+* [[Jerry Kill]] (2011–2015)
+* [[Tracy Claeys]] (2015–2016)
+* [[P. J. Fleck]] (2017– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Minnesota Golden Gophers football navigational boxes|Coach]]
+</noinclude>

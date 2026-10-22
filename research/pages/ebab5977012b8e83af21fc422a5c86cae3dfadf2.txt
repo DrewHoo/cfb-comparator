@@ -1,0 +1,60 @@
+{{Navbox
+| name = West Virginia Mountaineers football coach navbox
+| title = [[List of West Virginia Mountaineers head football coaches|{{white|West Virginia Mountaineers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|West Virginia Mountaineers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Frederick Lincoln Emory]] (1891)
+* ''No team'' (1892)
+* [[F. William Rane]] (1893–1894)
+* [[Harry McCrory]] (1895)
+* [[Thomas Trenchard]] (1896)
+* [[George Krebs]] (1897)
+* [[Harry Anderson (coach)|Harry Anderson]] (1898)
+* [[Lewis Yeager]] (1899)
+* [[John Ethan Hill]] (1900)
+* [[Lewis Yeager]] (1901)
+* [[Harold J. Davall]] (1902)
+* [[Harry E. Trout]] (1903)
+* [[Anthony Chez]] (1904)
+* [[Carl Forkum]] (1905–1906)
+* [[Clarence W. Russell]] (1907)
+* [[Charles Augustus Lueder]] (1908–1911)
+* [[William P. Edmunds]] (1912)
+* [[Edwin Sweetland]] (1913)
+* [[Sol Metzger]] (1914–1915)
+* [[Mont McIntire]] (1916–1917)
+* ''No team'' (1918)
+* [[Mont McIntire]] (1919–1920)
+* [[Clarence Spears]] (1921–1924)
+* [[Ira Rodgers]] (1925–1930)
+* [[Greasy Neale]] (1931–1933)
+* [[Charles Tallman]] (1934–1936)
+* [[Marshall Glenn]] (1937–1939)
+* [[Bill Kern]] (1940–1942)
+* [[Ira Rodgers]] (1943–1945)
+* [[Bill Kern]] (1946–1947)
+* [[Dudley DeGroot]] (1948–1949)
+* [[Art Lewis]] (1950–1959)
+* [[Gene Corum]] (1960–1965)
+* [[Jim Carlen]] (1966–1969)
+* [[Bobby Bowden]] (1970–1975)
+* [[Frank Cignetti Sr.]] (1976–1979)
+* [[Don Nehlen]] (1980–2000)
+* [[Rich Rodriguez]] (2001–2007)
+* [[Bill Stewart (gridiron football)|Bill Stewart]] (2007–2010)
+* [[Dana Holgorsen]] (2011–2018)
+* [[Neal Brown]] (2019–2024)
+* [[Chad Scott (American football coach)|Chad Scott]] # (2024)
+* [[Rich Rodriguez]] (2025– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:West Virginia Mountaineers football navigational boxes|Coach]]
+</noinclude>

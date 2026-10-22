@@ -1,0 +1,59 @@
+{{Navbox
+| name = Virginia Cavaliers football coach navbox
+| title = [[List of Virginia Cavaliers head football coaches|{{white|Virginia Cavaliers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Virginia Cavaliers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1887–1891)
+* [[William C. Spicer]] (1892)
+* [[Johnny Poe]] (1893–1894)
+* [[Harry Arista Mackey]] (1895)
+* [[Martin V. Bergen]] (1896–1897)
+* [[Joseph Massie (American football)|Joseph Massie]] (1898)
+* [[Archie Hoxton]] (1899–1900)
+* [[Westley Abbott]] (1901)
+* [[John de Saulles]] (1902)
+* [[Gresham Poe]] (1903)
+* [[George Sanford (American football)|George Sanford]] (1904)
+* [[William C. "King" Cole]] (1905–1906)
+* [[Hammond Johnson]] (1907)
+* [[Merritt Cooke Jr.]] (1908)
+* [[John Neff (American football)|John Neff]] (1909)
+* [[Charles B. Crawford]] (1910)
+* [[Kemper Yancey]] (1911)
+* [[John S. Elliott]] (1912)
+* [[W. Rice Warren]] (1913)
+* [[Joseph M. Wood]] (1914)
+* [[Harry Varner]] (1915)
+* [[Peyton Evans]] (1916)
+* [[Harris Coleman]] (1919)
+* [[W. Rice Warren]] (1920–1921)
+* [[Thomas J. Campbell (American football)|Thomas J. Campbell]] (1922)
+* [[Greasy Neale]] (1923–1928)
+* [[Earl Abell]] (1929–1930)
+* [[Fred Dawson]] (1931–1933)
+* [[Gus Tebell]] (1934–1936)
+* [[Frank Murray (coach)|Frank Murray]] (1937–1945)
+* [[Art Guepe]] (1946–1952)
+* [[Ned McDonald]] (1953–1955)
+* [[Ben Martin (American football)|Ben Martin]] (1956–1957)
+* [[Dick Voris]] (1958–1960)
+* [[Bill Elias]] (1961–1964)
+* [[George Blackburn (American football)|George Blackburn]] (1965–1970)
+* [[Don Lawrence (American football)|Don Lawrence]] (1971–1973)
+* [[Sonny Randle]] (1974–1975)
+* [[Dick Bestwick]] (1976–1981)
+* [[George Welsh (American football)|George Welsh]] (1982–2000)
+* [[Al Groh]] (2001–2009)
+* [[Mike London]] (2010–2015)
+* [[Bronco Mendenhall]] (2016–2021)
+* [[Tony Elliott (American football coach)|Tony Elliott]] (2022– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Virginia Cavaliers football navigational boxes|Coach]]
+</noinclude>

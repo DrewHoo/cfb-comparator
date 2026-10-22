@@ -1,0 +1,44 @@
+{{Navbox
+| name = Michigan Wolverines football coach navbox
+| title = [[List of Michigan Wolverines head football coaches|{{white|Michigan Wolverines head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Michigan Wolverines|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1879–1890)
+* [[Frank Crawford]] & [[Mike Murphy (trainer and coach)|Mike Murphy]] (1891)
+* [[Frank Barbour]] (1892–1893)
+* [[William McCauley (American football)|William McCauley]] (1894–1895)
+* [[William Ward (American football)|William Ward]] (1896)
+* [[Gustave Ferbert]] (1897–1899)
+* [[Langdon Lea]] (1900)
+* [[Fielding H. Yost]] (1901–1923)
+* [[George Little (American football coach)|George Little]] (1924)
+* [[Fielding H. Yost]] (1925–1926)
+* [[Tad Wieman]] (1927–1928)
+* [[Harry Kipke]] (1929–1937)
+* [[Fritz Crisler]] (1938–1947)
+* [[Bennie Oosterbaan]] (1948–1958)
+* [[Bump Elliott]] (1959–1968)
+* [[Bo Schembechler]] (1969–1989)
+* [[Gary Moeller]] (1990–1994)
+* [[Lloyd Carr]] (1995–2007)
+* [[Rich Rodriguez]] (2008–2010)
+* [[Brady Hoke]] (2011–2014)
+* [[Jim Harbaugh]] (2015–2023)
+* [[Jesse Minter]] # (2023)
+* [[Jay Harbaugh]] & [[Mike Hart (American football)|Mike Hart]] # (2023)
+* [[Sherrone Moore]] # (2023)
+* [[Sherrone Moore]] (2024–2025)
+* [[Biff Poggi]] # (2025)
+* [[Kyle Whittingham]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes|Michigan]]
+[[Category:Michigan Wolverines football navigational boxes|Coach]]
+</noinclude>

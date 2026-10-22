@@ -1,0 +1,60 @@
+{{Navbox  
+| name = Franklin & Marshall Diplomats football coach navbox  
+| title = [[List of Franklin & Marshall Diplomats head football coaches|{{white|Franklin & Marshall Diplomats head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Franklin & Marshall Diplomats|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Miles O. Noll]] (1887)
+* ''No team'' (1888)
+* [[William Mann Irvine]] (1889–1890)
+* [[Bruce Griffith]] (1891–1892)
+* [[Eugene P. Skyles]] (1893)
+* [[George W. Hartman]] (1894)
+* [[Ward W. Reese]] (1895)
+* [[Alfred E. Bull]] (1896–1897)
+* [[M. Delmar Ritchie]] (1898)
+* [[Harry Shindle Wingert]] (1899)
+* [[John H. Outland]] (1900)
+* [[John C. Hedges]] (1901)
+* [[John Chalmers (coach)|John Chalmers]] (1902)
+* [[D. R. Brown (American football)|D. R. Brown]] (1903)
+* [[William Penn Bates]] (1904–1905)
+* [[Samuel L. Moyer]] (1906)
+* [[Vere Triechler]] (1907) 
+* [[Jack Hollenback]] (1908–1909)
+* [[Frank Mount Pleasant]] (1910)
+* [[Dexter W. Draper]] (1911–1912)
+* [[Charles Mayser]] (1913–1914)
+* [[John M. Reed]] (1915)
+* [[O. Webster Saylor]] (1916)
+* [[Arthur S. Herman]] (1917)
+* [[Harry D. Weller]] (1918)
+* [[Byron W. Dickson]] (1919)
+* [[John B. Price]] (1920–1923)
+* [[Charles Mayser]] (1924–1925)
+* [[Ken Shroyer]] (1926–1927)
+* [[Jonathan K. Miller]] (1928–1930)
+* [[Alan M. Holman]] (1931–1941)
+* [[Dick Barker]] (1942–1943)
+* [[Charles Mayser]] (1944–1945)
+* [[Charles R. Soleau]] (1946–1947)
+* [[S. Woodrow Sponaugle]] (1948–1962)
+* [[George H. Storck]] (1963–1967)
+* [[David Pooley]] (1968–1970)
+* [[Bob Curtis (American football)|Bob Curtis]] (1971–1974)
+* [[Tom Gilburg]] (1975–2002)
+* [[Shawn Halloran]] (2003–2005)
+* [[John Troxell]] (2006–2019)
+* ''No team'' (2020)
+* [[John Troxell]] (2021)
+* [[Tom Blumenauer]] (2022–2024)
+* [[Michael Phelan (American football)|Michael Phelan]] (2025– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Franklin & Marshall Diplomats football navigational boxes|Coach]]
+</noinclude>

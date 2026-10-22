@@ -1,0 +1,42 @@
+{{Navbox
+| name = Oklahoma Sooners football coach navbox
+| title = [[List of Oklahoma Sooners head football coaches|{{color|white|Oklahoma Sooners head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Oklahoma Sooners|border=0|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[John A. Harts]] (1895)
+* ''No coach'' (1896)
+* [[Vernon Louis Parrington]] (1897–1900)
+* [[Fred Roberts (American football coach)|Fred Roberts]] (1901)
+* [[Mark McMahon (American football)|Mark McMahon]] (1902–1903)
+* [[Fred Ewing]] (1904)
+* [[Bennie Owen]] (1905–1926)
+* [[Adrian Lindsey]] (1927–1931)
+* [[Lewie Hardage]] (1932–1934)
+* [[Biff Jones]] (1935–1936)
+* [[Thomas E. Stidham]] (1937–1940)
+* [[Dewey Luster]] (1941–1945)
+* [[Jim Tatum]] (1946)
+* [[Bud Wilkinson]] (1947–1963)
+* [[Gomer Jones]] (1964–1965)
+* [[Jim Mackenzie (American football)|Jim Mackenzie]] (1966)
+* [[Chuck Fairbanks]] (1967–1972)
+* [[Barry Switzer]] (1973–1988)
+* [[Gary Gibbs]] (1989–1994)
+* [[Howard Schnellenberger]] (1995)
+* [[John Blake (American football)|John Blake]] (1996–1998)
+* [[Bob Stoops]] (1999–2016)
+* [[Lincoln Riley]] (2017–2021)
+* [[Bob Stoops]] # (2021)
+* [[Brent Venables]] (2022– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Oklahoma Sooners football navigational boxes|Coach]]
+</noinclude>

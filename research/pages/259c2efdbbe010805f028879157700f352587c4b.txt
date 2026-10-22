@@ -1,0 +1,37 @@
+{{Navbox
+| name = Penn State Nittany Lions football coach navbox
+| title = [[List of Penn State Nittany Lions head football coaches|{{white|Penn State Nittany Lions head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Penn State Nittany Lions|border=0}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[George W. Hoskins]] (1892–1895)
+* [[Samuel B. Newton]] (1896–1898)
+* [[Sam Boyle]] (1899)
+* [[Pop Golden]] (1900–1902)
+* [[Daniel A. Reed (politician)|Daniel A. Reed]] (1903)
+* [[Tom Fennell]] (1904–1908)
+* [[Bill Hollenback]] (1909)
+* [[Jack Hollenback]] (1910)
+* [[Bill Hollenback]] (1911–1914)
+* [[Dick Harlow]] (1915–1917)
+* [[Hugo Bezdek]] (1918–1929)
+* [[Bob Higgins (American football)|Bob Higgins]] (1930–1948)
+* [[Joe Bedenk]] (1949)
+* [[Rip Engle]] (1950–1965)
+* [[Joe Paterno]] (1966–2011)
+* [[Tom Bradley (American football)|Tom Bradley]] # (2011)
+* [[Bill O'Brien (American football)|Bill O'Brien]] (2012–2013)
+* [[James Franklin (American football coach)|James Franklin]] (2014–2025)
+* [[Terry Smith (American football, born 1969)|Terry Smith]] # (2025)
+* [[Matt Campbell (American football coach)|Matt Campbell]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Penn State Nittany Lions football navigational boxes|Coach]]
+</noinclude>

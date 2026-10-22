@@ -1,0 +1,62 @@
+{{Navbox
+| name = Washburn Ichabods football coach navbox
+| title = [[List of Washburn Ichabods head football coaches|{{white|Washburn Ichabods head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Washburn Ichabods}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1890–1893)
+* [[Moses W. Games]] (1894)
+* ''No team'' (1895)
+* [[Walter Griffiths (American football)|Walter Griffiths]] (1896)
+* [[Paul Coldren]] (1897–1898)
+* [[William Melford]] (1899)
+* [[Bennie Owen]] (1900)
+* [[Lawrence Banks]] (1901)
+* [[H. Ward Page]] (1902)
+* [[A. R. Kennedy]] (1903)
+* [[John H. Outland]] (1904–1905)
+* [[Garfield Weede]] (1906–1908)
+* [[Robert Stewart (American football coach)|Robert Stewart]] (1909–1910)
+* [[William L. Driver]] (1911–1912)
+* [[Glen Gray (American football)|Glen Gray]] (1913–1915)
+* [[A. R. Kennedy]] (1916–1917)
+* [[Ernest Bearg]] (1918–1919)
+* [[Dwight Ream]] (1920–1921)
+* [[Glenn D. Vosburg]] (1922)
+* [[George Woodward (American football)|George Woodward]] (1923–1926)
+* [[Roy Wynne]] (1927–1928)
+* [[Ernest Bearg]] (1929–1935)
+* [[Elmer Holm]] (1936–1941)
+* [[Bob Raugh]] (1942–1943)
+* [[Charles Errickson]] (1944)
+* [[Lew Lane]] (1945)
+* [[Dick Godlove]] (1946–1958)
+* [[Ralph Brown (American football, born 1926)|Ralph Brown]] (1959–1961)
+* [[Ellis Rainsberger]] (1962–1964)
+* [[Ed Linta]] (1965–1966)
+* [[Bill Schaake]] (1967–1968)
+* [[Harold Elliott (American football)|Harold Elliott]] (1969–1970)
+* [[Bob Noblitt]] (1971–1973)
+* [[Larry Elliott (American football)|Larry  Elliott]] (1974–1978)
+* [[Gary Hampton]] (1979–1980)
+* [[Glenn Jagodzinske]] (1981–1982)
+* [[George Tardiff]] (1983–1984)
+* [[Larry Elliott (American football)|Larry  Elliott]] (1984–1989)
+* [[Dennis Caryl]] (1990–1993)
+* [[Andy Williams (American football)|Andy Williams]] # (1993)
+* [[Tony DeMeo]] (1994–2001)
+* [[Craig Schurig]] (2002–2019)
+* ''No team'' (2020)
+* [[Craig Schurig]] (2021–2024)
+* [[Zach Watkins]] (2025– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division II football coach navigational boxes]]
+[[Category:Washburn Ichabods football navigational boxes|Coach]]
+</noinclude>

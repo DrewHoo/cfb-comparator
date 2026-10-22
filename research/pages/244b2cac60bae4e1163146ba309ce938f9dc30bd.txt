@@ -1,0 +1,47 @@
+{{Navbox
+| name = Georgia Bulldogs football coach navbox
+| title = [[List of Georgia Bulldogs head football coaches|{{white|Georgia Bulldogs head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Georgia Bulldogs|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Charles Herty]] (1891)
+* ''No team'' (1892)
+* [[Ernest Brown (coach)|Ernest Brown]] (1893)
+* [[Robert Winston (coach)|Robert Winston]] (1894)
+* [[Pop Warner]] (1895–1896)
+* [[Charles McCarthy (progressive)|Charles McCarthy]] (1897–1898)
+* [[Gordon Saussy]] (1899)
+* [[E. E. Jones]] (1900)
+* [[William Ayres Reynolds]] (1901–1902)
+* [[Marvin M. Dickinson]] (1903)
+* [[Charles A. Barnard (American football)|Charles A. Barnard]] (1904)
+* [[Marvin M. Dickinson]] (1905)
+* [[George S. Whitney]] (1906–1907)
+* [[Branch Bocock]] (1908)
+* [[Joseph Coulter (American football)|Joseph Coulter]] & [[Frank Dobson (American football)|Frank Dobson]] (1909)
+* [[W. A. Cunningham]] (1910–1916)
+* ''No team'' (1917–1918)
+* [[W. A. Cunningham]] (1919)
+* [[Herman Stegeman]] (1920–1922)
+* [[George Cecil Woodruff]] (1923–1927)
+* [[Harry Mehre]] (1928–1937)
+* [[Joel Hunt]] (1938)
+* [[Wally Butts]] (1939–1960)
+* [[Johnny Griffith (coach)|Johnny Griffith]] (1961–1963)
+* [[Vince Dooley]] (1964–1988)
+* [[Ray Goff]] (1989–1995)
+* [[Jim Donnan]] (1996–2000)
+* [[Mark Richt]] (2001–2015)
+* [[Bryan McClendon]] # (2015)
+* [[Kirby Smart]] (2016– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Georgia Bulldogs football navigational boxes|Coach]]
+</noinclude>

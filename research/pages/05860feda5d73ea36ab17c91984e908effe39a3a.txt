@@ -1,0 +1,55 @@
+{{Navbox
+| name = Arkansas Razorbacks football coach navbox
+| title = [[List of Arkansas Razorbacks head football coaches|{{white|Arkansas Razorbacks head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Arkansas Razorbacks|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[John C. Futrall]] (1894–1896)
+* [[B. N. Wilson]] (1897–1898)
+* [[Colbert Searles]] (1899–1900)
+* [[Charles Thomas (American football)|Charles Thomas]] (1901–1902)
+* [[D. A. McDaniel]] (1903)
+* [[Ancil D. Brown]] (1904–1905)
+* [[Frank Longman]] (1906–1907)
+* [[Hugo Bezdek]] (1908–1912)
+* [[Earle T. Pickering]] (1913–1914)
+* [[T. T. McConnell]] (1915–1916)
+* [[Norman C. Paine]] (1917–1918)
+* [[James B. Craig]] (1919)
+* [[George McLaren (American football)|George McLaren]] (1920–1921)
+* [[Francis Schmidt]] (1922–1928)
+* [[Fred Thomsen]] (1929–1941)
+* [[George Cole (American football)|George Cole]] (1942)
+* [[John Tomlin (American football)|John Tomlin]] (1943)
+* [[Glen Rose]] (1944–1945)
+* [[John Barnhill (American football)|John Barnhill]] (1946–1949)
+* [[Otis Douglas]] (1950–1952)
+* [[Bowden Wyatt]] (1953–1954)
+* [[Jack Mitchell (American football)|Jack Mitchell]] (1955–1957)
+* [[Frank Broyles]] (1958–1976)
+* [[Lou Holtz]] (1977–1983)
+* [[Ken Hatfield]] (1984–1989)
+* [[Jack Crowe]] (1990–1992)
+* [[Joe Kines]] # (1992)
+* [[Danny Ford]] (1993–1997)
+* [[Houston Nutt]] (1998–2007)
+* [[Reggie Herring]] # (2007)
+* [[Bobby Petrino]] (2008–2011)
+* [[John L. Smith]] (2012)
+* [[Bret Bielema]] (2013–2017)
+* [[Chad Morris]] (2018–2019)
+* [[Barry Lunney Jr.]] # (2019)
+* [[Sam Pittman]] (2020–2025)
+* [[Bobby Petrino]] # (2025)
+* [[Ryan Silverfield]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Arkansas Razorbacks football navigational boxes|Coach]]
+</noinclude>

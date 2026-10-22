@@ -1,0 +1,42 @@
+{{Navbox
+| name = UCLA Bruins football coach navbox
+| title = [[List of UCLA Bruins head football coaches|{{white|UCLA Bruins head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|UCLA Bruins|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Fred Cozens]] (1919)
+* [[Harry Trotter]] (1920–1922)
+* [[James J. Cline]] (1923–1924)
+* [[William H. Spaulding]] (1925–1938)
+* [[Edwin C. Horrell]] (1939–1944)
+* [[Bert LaBrucherie]] (1945–1948)
+* [[Red Sanders]] (1949–1957)
+* [[George W. Dickerson]] (1958)
+* [[Bill Barnes (American football)|Bill Barnes]] (1958–1964)
+* [[Tommy Prothro]] (1965–1970)
+* [[Pepper Rodgers]] (1971–1973)
+* [[Dick Vermeil]] (1974–1975)
+* [[Terry Donahue]] (1976–1995)
+* [[Bob Toledo]] (1996–2002)
+* [[Ed Kezirian]] # (2002)
+* [[Karl Dorrell]] (2003–2007)
+* [[DeWayne Walker]] # (2007)
+* [[Rick Neuheisel]] (2008–2011)
+* [[Mike Johnson (American football coach)|Mike Johnson]] # (2011)
+* [[Jim L. Mora|Jim Mora]] (2012–2017)
+* [[Jedd Fisch]] # (2017)
+* [[Chip Kelly]] (2018–2023)
+* [[DeShaun Foster]] (2024–2025)
+* [[Tim Skipper (American football)|Tim Skipper]] # (2025)
+* [[Bob Chesney]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:UCLA Bruins football navigational boxes|Coach]]
+</noinclude>

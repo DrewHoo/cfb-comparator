@@ -1,0 +1,55 @@
+{{Navbox
+| name = Montana State Bobcats football coach navbox
+| title = [[Montana State Bobcats football|{{white|Montana State Bobcats head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Montana State Bobcats|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Charles Lisle]] (1897)
+* [[George Ahern]] (1898)
+* [[William J. Adams (coach)|William J. Adams]] (1899)
+* [[Eugene C. Woodruff]] (1900)
+* [[A. G. Harbaugh]] (1901)
+* [[John E. Flynn(coach)|John E. Flynn]] (1902–1903)
+* [[Fred Ervin]] (1904)
+* [[A. G. Harbaugh]] (1905)
+* ''No team'' (1906–1907)
+* [[John H. McIntosh]] (1908–1910)
+* [[Earnest A. Dockstader]] (1911–1912)
+* [[Eugene F. Bunker]] (1913)
+* [[Fred Bennion]] (1914–1917)
+* ''No team'' (1918)
+* [[Walter D. Powell]] (1919)
+* [[D. V. Graves]] (1920–1921)
+* [[G. Ott Romney]] (1922–1927)
+* [[Schubert R. Dyche]] (1928–1935)
+* [[Jack Croft (American football)|Jack Croft]] (1936–1937)
+* [[Schubert R. Dyche]] (1938–1941)
+* ''No team'' (1942–1945)
+* [[Clyde Carpenter]] (1946–1949)
+* [[John Mason (American football)|John Mason]] (1950–1951)
+* [[Tony Storti]] (1952–1954)
+* [[Wally Lemm]] (1955)
+* [[Tony Storti]] (1956–1957)
+* [[Herb Agocs]] (1958–1962)
+* [[Jim Sweeney (American football, born 1929)|Jim Sweeney]] (1963–1967)
+* [[Tom Parac]] (1968–1970)
+* [[Sonny Holland]] (1971–1977)
+* [[Sonny Lubick]] (1978–1981)
+* [[Doug Graber]] (1982)
+* [[Dave Arnold (American football)|Dave Arnold]] (1983–1986)
+* [[Earle Solomonson]] (1987–1991)
+* [[Cliff Hysell]] (1992–1999)
+* [[Mike Kramer]] (2000–2006)
+* [[Rob Ash]] (2007–2015)
+* [[Jeff Choate]] (2016–2019)
+* ''No team'' (2020)
+* [[Brent Vigen]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Montana State Bobcats football navigational boxes|Coach]]
+</noinclude>

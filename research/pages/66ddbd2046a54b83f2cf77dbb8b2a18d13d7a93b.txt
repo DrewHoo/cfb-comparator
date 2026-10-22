@@ -1,0 +1,58 @@
+{{Navbox
+| name = Georgetown Hoyas football coach navbox
+| title = [[Georgetown Hoyas football|{{white|Georgetown Hoyas head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Georgetown Hoyas|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1881)
+* ''No team'' (1882)
+* ''Unknown'' (1883)
+* ''No team'' (1884)
+* ''Unknown'' (1885)
+* ''No team'' (1886)
+* [[Dick Hennessy]] (1887)
+* [[Dan O'Day]] (1888)
+* [[Bill Gleason (American football)|Bill Gleason]] (1889)
+* [[Pat O'Donnell (American football)|Pat O'Donnell]] (1890)
+* [[Tommy Dowd (baseball)|Tommy Dowd]] (1891–1892)
+* [[Dick Harley]] (1893)
+* [[Bob Carmody (American football)|Bob Carmody]] (1894)
+* ''No team'' (1895–1897)
+* [[William Fitz Donovan]] (1898)
+* [[William W. Church]] (1899)
+* [[Alfred E. Bull]] (1900)
+* [[William W. Church]] (1901)
+* [[Billy Suter]] (1902)
+* [[Philip King (American football)|Philip King]] (1903)
+* [[Joe Reilly (American football)|Joe Reilly]] (1904–1907)
+* [[William Newman (American football)|William Newman]] (1908–1909)
+* [[Fred K. Nielsen]] (1910–1911)
+* [[Frank Gargan]] (1912–1913)
+* [[Albert Exendine]] (1914–1922)
+* [[Jackie Maloney]] (1923)
+* [[Lou Little]] (1924–1929)
+* [[Tommy Mills]] (1930–1932)
+* [[Jack Hagerty]] (1932–1942)
+* ''No team'' (1943–1945)
+* [[Jack Hagerty]] (1946–1948)
+* [[Bob Margarita]] (1949–1950)
+* ''No team'' (1951–1963)
+* [[J. Murray (American football)|John Murray]] & [[Bill Nash (American football)|Bill Nash]] (1964)
+* [[Bill Nash (American football)|Bill Nash]] (1965)
+* [[Mike Agee]] (1966–1967)
+* [[Maurice Dubofsky]] (1968–1969)
+* [[Scotty Glacken]] (1970–1992)
+* [[Bob Benson (American football)|Bob Benson]] (1993–2005)
+* [[Kevin Kelly (American football coach)|Kevin Kelly]] (2006–2013)
+* [[Rob Sgarlata]] (2014–2019)
+* ''No team'' (2020)
+* [[Rob Sgarlata]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Georgetown Hoyas football navigational boxes|Coach]]
+</noinclude>

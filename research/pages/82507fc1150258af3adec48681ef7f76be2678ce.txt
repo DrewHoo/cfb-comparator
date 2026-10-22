@@ -1,0 +1,32 @@
+{{Navbox
+| name = Haverford Fords football coach navbox
+| title = [[Haverford Fords football|{{white|Haverford Fords head football coaches}}]]
+| basestyle = color:white; background:#A21B21; {{box-shadow border|a|black|2px}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[C. D. Bliss]] (1894)
+* [[Thomas Branson (American football)|Thomas Branson]] (1895)
+* ''Unknown'' (1896–1902)
+* [[Norman Thorn]] (1903–1906)
+* [[Wilbur H. Haines]] (1907–1908)
+* [[Charles Lichty Miller]] (1909)
+* [[Alfred L. Atwood]] (1910)
+* [[John Guirney]] (1911)
+* [[Jack Keogh]] (1912–1913)
+* [[M. S. Bennett]] (1914–1921)
+* [[Harvey Harman]] (1922–1929)
+* [[Elwood Geiges]] (1930–1932)
+* [[Roy Randall]] (1933–1942)
+* ''No team'' (1943–1945)
+* [[Roy Randall]] (1946–1962)
+* [[Bill Docherty]] (1963–1966)
+* [[Dana Swan]] (1967–1971)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Haverford Fords football navigational boxes|Coach]]
+</noinclude>

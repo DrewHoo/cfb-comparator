@@ -1,0 +1,37 @@
+{{Navbox
+| name = WPI Engineers football coach navbox
+| title = [[List of WPI Engineers head football coaches|{{white|WPI Engineers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|WPI Engineers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1887–1888)
+* ''No team'' (1889–1890)
+* ''No coach'' (1891–1908)
+* [[James C. Donnelly]] (1909)
+* Orr (1910)
+* [[James C. Donnelly]] (1911)
+* [[William F. Carrey]] (1912)
+* [[Charley Donnelly]] (1913)
+* [[Jiggy Jones]] (1914)
+* [[James C. Donnelly]] (1915)
+* [[Fordyce T. Blake]] (1916–1922)
+* [[Ivan Bigler]] (1923–1940)
+* [[Paul Stagg]] (1941–1946)
+* [[Robert W. Pritchard (American football)|Robert W. Pritchard]] (1947–1966)
+* [[Mel Massucco]] (1967–1977)
+* [[Bob Weiss (American football)|Bob Weiss]] (1978–1987)
+* [[Jack Siedlecki]] (1988–1992)
+* [[Kevin Morris (American football)|Kevin Morris]] (1993–1998)
+* [[Ed Zaloom]] (1999–2009)
+* [[Chris Robertson (American football)|Chris Robertson]] (2010–2019)
+* ''No team'' (2020)
+* [[Chris Robertson (American football)|Chris Robertson]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:WPI Engineers football navigational boxes|coach]]
+</noinclude>

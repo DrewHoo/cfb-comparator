@@ -1,0 +1,60 @@
+{{Navbox
+| name = South Carolina Gamecocks football coach navbox
+| title = [[List of South Carolina Gamecocks head football coaches|{{white|South Carolina Gamecocks head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|South Carolina Gamecocks|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1892)
+* ''No team'' (1893)
+* ''No coach'' (1894–1895)
+* [[Richard S. Whaley]] (1896)
+* [[Frederick M. Murphy]] (1897)
+* [[Bill Wertenbaker]] (1898)
+* [[Irving O. Hunt]] (1899–1900)
+* [[Byron W. Dickson]] (1901)
+* [[Bob Williams (coach, born 1877)|Bob Williams]] (1902–1903)
+* [[Christie Benet]] (1904–1905)
+* ''No team'' (1906)
+* [[Douglas McKay (coach)|Douglas McKay]] (1907)
+* [[Christie Benet]] (1908–1909)
+* [[John Neff (American football)|John Neff]] (1910–1911)
+* [[Norman B. Edgerton]] (1912–1915)
+* [[W. Rice Warren]] (1916)
+* [[Dixon Foster]] (1917)
+* [[Frank Dobson (American football)|Frank Dobson]] (1918)
+* [[Dixon Foster]] (1919)
+* [[Sol Metzger]] (1920–1924)
+* [[Branch Bocock]] (1925–1926)
+* [[Harry Lightsey]] (1927)
+* [[Billy Laval]] (1928–1934)
+* [[Don McCallister]] (1935–1937)
+* [[Rex Enright]] (1938–1942)
+* [[James Moran Sr.]] (1943)
+* [[Williams Newton]] (1944)
+* [[John D. McMillan]] (1945)
+* [[Rex Enright]] (1946–1955)
+* [[Warren Giese]] (1956–1960)
+* [[Marvin Bass]] (1961–1965)
+* [[Paul Dietzel]] (1966–1974)
+* [[Jim Carlen]] (1975–1981)
+* [[Richard Bell (American football coach)|Richard Bell]] (1982)
+* [[Joe Morrison]] (1983–1988)
+* [[Sparky Woods]] (1989–1993)
+* [[Brad Scott (American football)|Brad Scott]] (1994–1998)
+* [[Lou Holtz]] (1999–2004)
+* [[Steve Spurrier]] (2005–2015)
+* [[Shawn Elliott (American football)|Shawn Elliott]] # (2015)
+* [[Will Muschamp]] (2016–2020)
+* [[Mike Bobo]] # (2020)
+* [[Shane Beamer]] (2021– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:South Carolina Gamecocks football navigational boxes|Coach]]
+</noinclude>

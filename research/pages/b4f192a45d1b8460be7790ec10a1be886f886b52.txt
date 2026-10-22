@@ -1,0 +1,53 @@
+{{Navbox
+| name = William & Mary Tribe football coach navbox
+| title = [[List of William & Mary Tribe head football coaches|{{white|William & Mary Tribe head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|William & Mary Tribe|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1893)
+* [[John W. Wright]] (1894)
+* ''No team'' (1895)
+* [[Bill Armstrong (American football coach)|Bill Armstrong]] (1896)
+* [[W. J. King]] (1897–1898)
+* [[William H. Burke]] (1899)
+* [[W. J. King]] (1900)
+* ''No coach'' (1901–1902)
+* [[Harold J. Davall]] (1903)
+* [[J. Merrill Blanchard]] (1904–1905)
+* [[H. W. Withers]] (1906)
+* [[James E. Barry]] (1907)
+* [[George E. O'Hearn]] (1908–1909)
+* [[J. Merrill Blanchard]] (1910)
+* [[William J. Young (coach)|William J. Young]] (1911–1912)
+* [[Dexter W. Draper]] (1913–1915)
+* [[Samuel H. Hubbard]] (1916)
+* [[Harry Young (American football)|Harry Young]] (1917)
+* [[Vernon Geddy]] (1918)
+* [[James G. Driver]] (1919–1920)
+* [[Bill Fincher]] (1921)
+* [[Bill Ingram]] (1922)
+* [[J. Wilder Tasker]] (1923–1927)
+* [[Branch Bocock]] (1928–1930)
+* [[John Kellison]] (1931–1934)
+* [[Thomas Dowler]] (1935)
+* [[Branch Bocock]] (1936–1938)
+* [[Carl M. Voyles]] (1939–1942)
+* ''No team'' (1943)
+* [[Rube McCray]] (1944–1950)
+* [[Marvin Bass]] (1951)
+* [[Jack Freeman (American football)|Jack Freeman]] (1952–1956)
+* [[Milt Drewer]] (1957–1963)
+* [[Marv Levy]] (1964–1968)
+* [[Lou Holtz]] (1969–1971)
+* [[Jim Root (gridiron football)|Jim Root]] (1972–1979)
+* [[Jimmye Laycock]] (1980–2018)
+* [[Mike London]] (2019– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:William & Mary Tribe football navigational boxes|Coach]]
+</noinclude>

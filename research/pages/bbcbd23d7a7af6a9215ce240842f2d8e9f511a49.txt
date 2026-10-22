@@ -1,0 +1,34 @@
+{{Navbox
+| name = Centenary Gentlemen football coach navbox
+| title = [[Centenary Gentlemen football|{{white|Centenary Gentlemen head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Centenary Gentlemen|color=white}}
+| state = {{{state|autocollapse}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1894–1896)
+* ''No team'' (1897–1907)
+* ''Unknown'' (1908)
+* [[James Hinton (American football)|James Hinton]] (1909)
+* [[David B. Boddie]] (1910)
+* Ramey (1911)
+* [[Simon W. Tudor]] (1912)
+* [[Brooks Garrett]] (1913–1914)
+* ''No team'' (1915–1918)
+* [[Homer Norton]] (1919–1921)
+* [[Bo McMillin]] (1922–1924)
+* [[Earl A. Davis]] (1925)
+* [[Homer Norton]] (1926–1933)
+* [[Curtis Parker]] (1934–1939)
+* [[Jake Hanna (American football)|Jake Hanna]] (1940–1941)
+* ''No team'' (1942–1946)
+* [[Jess Thompson]] (1947)
+* ''No team'' (1948–2023)
+* [[Byron Dawson]] (2024– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Centenary Gentlemen football navigational boxes|Coach]]
+</noinclude>

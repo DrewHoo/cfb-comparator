@@ -1,0 +1,63 @@
+{{Navbox
+| name = North Carolina Tar Heels football coach navbox
+| title = [[List of North Carolina Tar Heels head football coaches|{{color|#13294B|North Carolina Tar Heels head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|North Carolina Tar Heels|color=#13294B}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Hector Cowan]] (1888)
+* ''No coach'' (1889)
+* ''No team'' (1890)
+* [[William P. Graves]] (1891)
+* ''No coach'' (1892–1893)
+* [[Vernon K. Irvine]] (1894)
+* [[Thomas Trenchard]] (1895)
+* [[Gordon Johnston (soldier)|Gordon Johnston]] (1896)
+* [[William Ayres Reynolds]] (1897–1900)
+* [[Charles O. Jenkins]] (1901)
+* [[Herman Olcott]] (1902–1903)
+* [[R. R. Brown]] (1904)
+* [[Bill Warner (American football)|Bill Warner]] (1905)
+* [[Willis Kienholz]] (1906)
+* [[Otis Lamson]] (1907)
+* [[Edward L. Greene]] (1908)
+* [[Arthur Brides]] (1909–1910)
+* [[Branch Bocock]] (1911)
+* [[C. W. Martin]] (1912)
+* [[Thomas Trenchard]] (1913–1915)
+* [[Thomas J. Campbell (American football)|Thomas J. Campbell]] (1916)
+* ''No team'' (1917–1918)
+* [[Thomas J. Campbell (American football)|Thomas J. Campbell]] (1919)
+* [[Myron Fuller]] (1920)
+* [[Bill Fetzer]] & [[Bob Fetzer]] (1921–1925)
+* [[Chuck Collins (American football)|Chuck Collins]] (1926–1933)
+* [[Carl Snavely]] (1934–1935)
+* [[Raymond Wolf]] (1936–1941)
+* [[Jim Tatum]] (1942)
+* [[Tom Young (American football)|Tom Young]] (1943)
+* [[Gene McEver]] (1944)
+* [[Carl Snavely]] (1945–1952)
+* [[George T. Barclay]] (1953–1955)
+* [[Jim Tatum]] (1956–1958)
+* [[Jim Hickey (American football)|Jim Hickey]] (1959–1966)
+* [[Bill Dooley]] (1967–1977)
+* [[Dick Crum (American football)|Dick Crum]] (1978–1987)
+* [[Mack Brown]] (1988–1997)
+* [[Carl Torbush]] (1998–2000)
+* [[John Bunting (American football)|John Bunting]] (2001–2006)
+* [[Butch Davis]] (2007–2010)
+* [[Everett Withers]] # (2011)
+* [[Larry Fedora]] (2012–2018)
+* [[Mack Brown]] (2019–2024)
+* [[Freddie Kitchens]] # (2024)
+* [[Bill Belichick]] (2025– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:North Carolina Tar Heels football navigational boxes|Coach]]
+</noinclude>

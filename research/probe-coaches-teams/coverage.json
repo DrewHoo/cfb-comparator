@@ -1,0 +1,1268 @@
+{
+ "generated": "2026-10-22",
+ "sources": {
+  "games": "James Howell team pages (data/raw/jhowell in cfb-streak-king, updated 2026-01-27), every season block, mirror-deduped",
+  "coaches_pre1936": "Wikipedia \"<Program> football coach navbox\" templates, 997 fetched, 186 of 193 pre-1936 major teams mapped",
+  "coaches_1936on": "CFBD /coaches 1936-2026 pull in cfb-streak-king; Streak King payload stints",
+  "cfbd_1869_1935": "NOT FETCHED: HTTP 429 {\"message\":\"Monthly call quota exceeded.\"} on 2026-10-21"
+ },
+ "gamesPerSeason1869to1935": {
+  "1869": {
+   "games": 2,
+   "gamesBothMajor": 2,
+   "gamesVsNonMajor": 0,
+   "shareVsNonMajor": 0,
+   "teamsWithPage": 2,
+   "teamsInByconf": 2,
+   "ties": 0,
+   "verifiedGreen": 2,
+   "unverifiedRed": 0
+  },
+  "1870": {
+   "games": 2,
+   "gamesBothMajor": 2,
+   "gamesVsNonMajor": 0,
+   "shareVsNonMajor": 0,
+   "teamsWithPage": 3,
+   "teamsInByconf": 3,
+   "ties": 0,
+   "verifiedGreen": 0,
+   "unverifiedRed": 2
+  },
+  "1871": {
+   "games": 0,
+   "gamesBothMajor": 0,
+   "gamesVsNonMajor": 0,
+   "shareVsNonMajor": null,
+   "teamsWithPage": 0,
+   "teamsInByconf": 0,
+   "ties": 0,
+   "verifiedGreen": 0,
+   "unverifiedRed": 0
+  },
+  "1872": {
+   "games": 5,
+   "gamesBothMajor": 5,
+   "gamesVsNonMajor": 0,
+   "shareVsNonMajor": 0,
+   "teamsWithPage": 5,
+   "teamsInByconf": 5,
+   "ties": 1,
+   "verifiedGreen": 2,
+   "unverifiedRed": 3
+  },
+  "1873": {
+   "games": 8,
+   "gamesBothMajor": 5,
+   "gamesVsNonMajor": 3,
+   "shareVsNonMajor": 0.375,
+   "teamsWithPage": 5,
+   "teamsInByconf": 5,
+   "ties": 0,
+   "verifiedGreen": 5,
+   "unverifiedRed": 2
+  },
+  "1874": {
+   "games": 10,
+   "gamesBothMajor": 9,
+   "gamesVsNonMajor": 1,
+   "shareVsNonMajor": 0.1,
+   "teamsWithPage": 5,
+   "teamsInByconf": 5,
+   "ties": 0,
+   "verifiedGreen": 8,
+   "unverifiedRed": 2
+  },
+  "1875": {
+   "games": 17,
+   "gamesBothMajor": 8,
+   "gamesVsNonMajor": 9,
+   "shareVsNonMajor": 0.529,
+   "teamsWithPage": 6,
+   "teamsInByconf": 6,
+   "ties": 1,
+   "verifiedGreen": 8,
+   "unverifiedRed": 9
+  },
+  "1876": {
+   "games": 14,
+   "gamesBothMajor": 10,
+   "gamesVsNonMajor": 4,
+   "shareVsNonMajor": 0.286,
+   "teamsWithPage": 7,
+   "teamsInByconf": 7,
+   "ties": 0,
+   "verifiedGreen": 9,
+   "unverifiedRed": 5
+  },
+  "1877": {
+   "games": 14,
+   "gamesBothMajor": 12,
+   "gamesVsNonMajor": 2,
+   "shareVsNonMajor": 0.143,
+   "teamsWithPage": 8,
+   "teamsInByconf": 8,
+   "ties": 1,
+   "verifiedGreen": 8,
+   "unverifiedRed": 6
+  },
+  "1878": {
+   "games": 19,
+   "gamesBothMajor": 15,
+   "gamesVsNonMajor": 4,
+   "shareVsNonMajor": 0.211,
+   "teamsWithPage": 9,
+   "teamsInByconf": 9,
+   "ties": 3,
+   "verifiedGreen": 16,
+   "unverifiedRed": 3
+  },
+  "1879": {
+   "games": 22,
+   "gamesBothMajor": 16,
+   "gamesVsNonMajor": 6,
+   "shareVsNonMajor": 0.273,
+   "teamsWithPage": 7,
+   "teamsInByconf": 7,
+   "ties": 9,
+   "verifiedGreen": 17,
+   "unverifiedRed": 5
+  },
+  "1880": {
+   "games": 20,
+   "gamesBothMajor": 15,
+   "gamesVsNonMajor": 5,
+   "shareVsNonMajor": 0.25,
+   "teamsWithPage": 8,
+   "teamsInByconf": 8,
+   "ties": 3,
+   "verifiedGreen": 15,
+   "unverifiedRed": 5
+  },
+  "1881": {
+   "games": 30,
+   "gamesBothMajor": 25,
+   "gamesVsNonMajor": 5,
+   "shareVsNonMajor": 0.167,
+   "teamsWithPage": 10,
+   "teamsInByconf": 10,
+   "ties": 5,
+   "verifiedGreen": 22,
+   "unverifiedRed": 8
+  },
+  "1882": {
+   "games": 37,
+   "gamesBothMajor": 30,
+   "gamesVsNonMajor": 7,
+   "shareVsNonMajor": 0.189,
+   "teamsWithPage": 13,
+   "teamsInByconf": 13,
+   "ties": 1,
+   "verifiedGreen": 21,
+   "unverifiedRed": 15
+  },
+  "1883": {
+   "games": 45,
+   "gamesBothMajor": 32,
+   "gamesVsNonMajor": 13,
+   "shareVsNonMajor": 0.289,
+   "teamsWithPage": 10,
+   "teamsInByconf": 10,
+   "ties": 1,
+   "verifiedGreen": 36,
+   "unverifiedRed": 8
+  },
+  "1884": {
+   "games": 44,
+   "gamesBothMajor": 28,
+   "gamesVsNonMajor": 16,
+   "shareVsNonMajor": 0.364,
+   "teamsWithPage": 9,
+   "teamsInByconf": 9,
+   "ties": 2,
+   "verifiedGreen": 31,
+   "unverifiedRed": 13
+  },
+  "1885": {
+   "games": 36,
+   "gamesBothMajor": 23,
+   "gamesVsNonMajor": 13,
+   "shareVsNonMajor": 0.361,
+   "teamsWithPage": 7,
+   "teamsInByconf": 7,
+   "ties": 2,
+   "verifiedGreen": 27,
+   "unverifiedRed": 7
+  },
+  "1886": {
+   "games": 73,
+   "gamesBothMajor": 52,
+   "gamesVsNonMajor": 21,
+   "shareVsNonMajor": 0.288,
+   "teamsWithPage": 14,
+   "teamsInByconf": 14,
+   "ties": 4,
+   "verifiedGreen": 41,
+   "unverifiedRed": 31
+  },
+  "1887": {
+   "games": 75,
+   "gamesBothMajor": 50,
+   "gamesVsNonMajor": 25,
+   "shareVsNonMajor": 0.333,
+   "teamsWithPage": 15,
+   "teamsInByconf": 15,
+   "ties": 2,
+   "verifiedGreen": 39,
+   "unverifiedRed": 36
+  },
+  "1888": {
+   "games": 94,
+   "gamesBothMajor": 69,
+   "gamesVsNonMajor": 25,
+   "shareVsNonMajor": 0.266,
+   "teamsWithPage": 18,
+   "teamsInByconf": 17,
+   "ties": 2,
+   "verifiedGreen": 47,
+   "unverifiedRed": 46
+  },
+  "1889": {
+   "games": 115,
+   "gamesBothMajor": 80,
+   "gamesVsNonMajor": 35,
+   "shareVsNonMajor": 0.304,
+   "teamsWithPage": 21,
+   "teamsInByconf": 21,
+   "ties": 8,
+   "verifiedGreen": 57,
+   "unverifiedRed": 57
+  },
+  "1890": {
+   "games": 118,
+   "gamesBothMajor": 63,
+   "gamesVsNonMajor": 55,
+   "shareVsNonMajor": 0.466,
+   "teamsWithPage": 18,
+   "teamsInByconf": 18,
+   "ties": 4,
+   "verifiedGreen": 61,
+   "unverifiedRed": 53
+  },
+  "1891": {
+   "games": 160,
+   "gamesBothMajor": 94,
+   "gamesVsNonMajor": 66,
+   "shareVsNonMajor": 0.412,
+   "teamsWithPage": 26,
+   "teamsInByconf": 26,
+   "ties": 6,
+   "verifiedGreen": 85,
+   "unverifiedRed": 75
+  },
+  "1892": {
+   "games": 189,
+   "gamesBothMajor": 84,
+   "gamesVsNonMajor": 105,
+   "shareVsNonMajor": 0.556,
+   "teamsWithPage": 27,
+   "teamsInByconf": 27,
+   "ties": 7,
+   "verifiedGreen": 107,
+   "unverifiedRed": 79
+  },
+  "1893": {
+   "games": 163,
+   "gamesBothMajor": 85,
+   "gamesVsNonMajor": 78,
+   "shareVsNonMajor": 0.479,
+   "teamsWithPage": 26,
+   "teamsInByconf": 26,
+   "ties": 10,
+   "verifiedGreen": 96,
+   "unverifiedRed": 67
+  },
+  "1894": {
+   "games": 187,
+   "gamesBothMajor": 79,
+   "gamesVsNonMajor": 108,
+   "shareVsNonMajor": 0.578,
+   "teamsWithPage": 27,
+   "teamsInByconf": 27,
+   "ties": 4,
+   "verifiedGreen": 112,
+   "unverifiedRed": 74
+  },
+  "1895": {
+   "games": 180,
+   "gamesBothMajor": 81,
+   "gamesVsNonMajor": 99,
+   "shareVsNonMajor": 0.55,
+   "teamsWithPage": 27,
+   "teamsInByconf": 27,
+   "ties": 7,
+   "verifiedGreen": 107,
+   "unverifiedRed": 72
+  },
+  "1896": {
+   "games": 201,
+   "gamesBothMajor": 90,
+   "gamesVsNonMajor": 111,
+   "shareVsNonMajor": 0.552,
+   "teamsWithPage": 30,
+   "teamsInByconf": 30,
+   "ties": 14,
+   "verifiedGreen": 125,
+   "unverifiedRed": 74
+  },
+  "1897": {
+   "games": 194,
+   "gamesBothMajor": 85,
+   "gamesVsNonMajor": 109,
+   "shareVsNonMajor": 0.562,
+   "teamsWithPage": 28,
+   "teamsInByconf": 28,
+   "ties": 13,
+   "verifiedGreen": 116,
+   "unverifiedRed": 75
+  },
+  "1898": {
+   "games": 227,
+   "gamesBothMajor": 91,
+   "gamesVsNonMajor": 136,
+   "shareVsNonMajor": 0.599,
+   "teamsWithPage": 31,
+   "teamsInByconf": 31,
+   "ties": 12,
+   "verifiedGreen": 133,
+   "unverifiedRed": 92
+  },
+  "1899": {
+   "games": 294,
+   "gamesBothMajor": 136,
+   "gamesVsNonMajor": 158,
+   "shareVsNonMajor": 0.537,
+   "teamsWithPage": 41,
+   "teamsInByconf": 41,
+   "ties": 15,
+   "verifiedGreen": 193,
+   "unverifiedRed": 100
+  },
+  "1900": {
+   "games": 290,
+   "gamesBothMajor": 131,
+   "gamesVsNonMajor": 159,
+   "shareVsNonMajor": 0.548,
+   "teamsWithPage": 41,
+   "teamsInByconf": 41,
+   "ties": 22,
+   "verifiedGreen": 193,
+   "unverifiedRed": 97
+  },
+  "1901": {
+   "games": 322,
+   "gamesBothMajor": 146,
+   "gamesVsNonMajor": 176,
+   "shareVsNonMajor": 0.547,
+   "teamsWithPage": 45,
+   "teamsInByconf": 45,
+   "ties": 19,
+   "verifiedGreen": 222,
+   "unverifiedRed": 98
+  },
+  "1902": {
+   "games": 446,
+   "gamesBothMajor": 221,
+   "gamesVsNonMajor": 225,
+   "shareVsNonMajor": 0.504,
+   "teamsWithPage": 72,
+   "teamsInByconf": 72,
+   "ties": 34,
+   "verifiedGreen": 314,
+   "unverifiedRed": 124
+  },
+  "1903": {
+   "games": 468,
+   "gamesBothMajor": 210,
+   "gamesVsNonMajor": 258,
+   "shareVsNonMajor": 0.551,
+   "teamsWithPage": 70,
+   "teamsInByconf": 71,
+   "ties": 17,
+   "verifiedGreen": 303,
+   "unverifiedRed": 150
+  },
+  "1904": {
+   "games": 480,
+   "gamesBothMajor": 243,
+   "gamesVsNonMajor": 237,
+   "shareVsNonMajor": 0.494,
+   "teamsWithPage": 81,
+   "teamsInByconf": 81,
+   "ties": 20,
+   "verifiedGreen": 317,
+   "unverifiedRed": 150
+  },
+  "1905": {
+   "games": 521,
+   "gamesBothMajor": 247,
+   "gamesVsNonMajor": 274,
+   "shareVsNonMajor": 0.526,
+   "teamsWithPage": 82,
+   "teamsInByconf": 82,
+   "ties": 23,
+   "verifiedGreen": 332,
+   "unverifiedRed": 183
+  },
+  "1906": {
+   "games": 355,
+   "gamesBothMajor": 162,
+   "gamesVsNonMajor": 193,
+   "shareVsNonMajor": 0.544,
+   "teamsWithPage": 64,
+   "teamsInByconf": 64,
+   "ties": 37,
+   "verifiedGreen": 232,
+   "unverifiedRed": 114
+  },
+  "1907": {
+   "games": 376,
+   "gamesBothMajor": 177,
+   "gamesVsNonMajor": 199,
+   "shareVsNonMajor": 0.529,
+   "teamsWithPage": 68,
+   "teamsInByconf": 68,
+   "ties": 18,
+   "verifiedGreen": 253,
+   "unverifiedRed": 110
+  },
+  "1908": {
+   "games": 395,
+   "gamesBothMajor": 171,
+   "gamesVsNonMajor": 224,
+   "shareVsNonMajor": 0.567,
+   "teamsWithPage": 67,
+   "teamsInByconf": 67,
+   "ties": 24,
+   "verifiedGreen": 275,
+   "unverifiedRed": 114
+  },
+  "1909": {
+   "games": 411,
+   "gamesBothMajor": 179,
+   "gamesVsNonMajor": 232,
+   "shareVsNonMajor": 0.564,
+   "teamsWithPage": 74,
+   "teamsInByconf": 74,
+   "ties": 32,
+   "verifiedGreen": 289,
+   "unverifiedRed": 113
+  },
+  "1910": {
+   "games": 402,
+   "gamesBothMajor": 184,
+   "gamesVsNonMajor": 218,
+   "shareVsNonMajor": 0.542,
+   "teamsWithPage": 74,
+   "teamsInByconf": 74,
+   "ties": 25,
+   "verifiedGreen": 285,
+   "unverifiedRed": 114
+  },
+  "1911": {
+   "games": 407,
+   "gamesBothMajor": 186,
+   "gamesVsNonMajor": 221,
+   "shareVsNonMajor": 0.543,
+   "teamsWithPage": 71,
+   "teamsInByconf": 71,
+   "ties": 39,
+   "verifiedGreen": 262,
+   "unverifiedRed": 123
+  },
+  "1912": {
+   "games": 425,
+   "gamesBothMajor": 207,
+   "gamesVsNonMajor": 218,
+   "shareVsNonMajor": 0.513,
+   "teamsWithPage": 76,
+   "teamsInByconf": 76,
+   "ties": 14,
+   "verifiedGreen": 276,
+   "unverifiedRed": 131
+  },
+  "1913": {
+   "games": 421,
+   "gamesBothMajor": 197,
+   "gamesVsNonMajor": 224,
+   "shareVsNonMajor": 0.532,
+   "teamsWithPage": 76,
+   "teamsInByconf": 76,
+   "ties": 25,
+   "verifiedGreen": 294,
+   "unverifiedRed": 117
+  },
+  "1914": {
+   "games": 468,
+   "gamesBothMajor": 225,
+   "gamesVsNonMajor": 243,
+   "shareVsNonMajor": 0.519,
+   "teamsWithPage": 83,
+   "teamsInByconf": 83,
+   "ties": 32,
+   "verifiedGreen": 325,
+   "unverifiedRed": 128
+  },
+  "1915": {
+   "games": 471,
+   "gamesBothMajor": 235,
+   "gamesVsNonMajor": 236,
+   "shareVsNonMajor": 0.501,
+   "teamsWithPage": 86,
+   "teamsInByconf": 86,
+   "ties": 29,
+   "verifiedGreen": 320,
+   "unverifiedRed": 132
+  },
+  "1916": {
+   "games": 506,
+   "gamesBothMajor": 250,
+   "gamesVsNonMajor": 256,
+   "shareVsNonMajor": 0.506,
+   "teamsWithPage": 91,
+   "teamsInByconf": 91,
+   "ties": 29,
+   "verifiedGreen": 348,
+   "unverifiedRed": 147
+  },
+  "1917": {
+   "games": 476,
+   "gamesBothMajor": 227,
+   "gamesVsNonMajor": 249,
+   "shareVsNonMajor": 0.523,
+   "teamsWithPage": 88,
+   "teamsInByconf": 88,
+   "ties": 25,
+   "verifiedGreen": 329,
+   "unverifiedRed": 144
+  },
+  "1918": {
+   "games": 292,
+   "gamesBothMajor": 104,
+   "gamesVsNonMajor": 188,
+   "shareVsNonMajor": 0.644,
+   "teamsWithPage": 72,
+   "teamsInByconf": 72,
+   "ties": 12,
+   "verifiedGreen": 201,
+   "unverifiedRed": 82
+  },
+  "1919": {
+   "games": 536,
+   "gamesBothMajor": 279,
+   "gamesVsNonMajor": 257,
+   "shareVsNonMajor": 0.479,
+   "teamsWithPage": 99,
+   "teamsInByconf": 99,
+   "ties": 39,
+   "verifiedGreen": 380,
+   "unverifiedRed": 152
+  },
+  "1920": {
+   "games": 521,
+   "gamesBothMajor": 279,
+   "gamesVsNonMajor": 242,
+   "shareVsNonMajor": 0.464,
+   "teamsWithPage": 96,
+   "teamsInByconf": 96,
+   "ties": 36,
+   "verifiedGreen": 374,
+   "unverifiedRed": 135
+  },
+  "1921": {
+   "games": 562,
+   "gamesBothMajor": 304,
+   "gamesVsNonMajor": 258,
+   "shareVsNonMajor": 0.459,
+   "teamsWithPage": 102,
+   "teamsInByconf": 102,
+   "ties": 42,
+   "verifiedGreen": 399,
+   "unverifiedRed": 157
+  },
+  "1922": {
+   "games": 616,
+   "gamesBothMajor": 339,
+   "gamesVsNonMajor": 277,
+   "shareVsNonMajor": 0.45,
+   "teamsWithPage": 109,
+   "teamsInByconf": 109,
+   "ties": 34,
+   "verifiedGreen": 440,
+   "unverifiedRed": 173
+  },
+  "1923": {
+   "games": 615,
+   "gamesBothMajor": 328,
+   "gamesVsNonMajor": 287,
+   "shareVsNonMajor": 0.467,
+   "teamsWithPage": 109,
+   "teamsInByconf": 110,
+   "ties": 49,
+   "verifiedGreen": 420,
+   "unverifiedRed": 183
+  },
+  "1924": {
+   "games": 606,
+   "gamesBothMajor": 352,
+   "gamesVsNonMajor": 254,
+   "shareVsNonMajor": 0.419,
+   "teamsWithPage": 111,
+   "teamsInByconf": 111,
+   "ties": 52,
+   "verifiedGreen": 407,
+   "unverifiedRed": 185
+  },
+  "1925": {
+   "games": 593,
+   "gamesBothMajor": 328,
+   "gamesVsNonMajor": 265,
+   "shareVsNonMajor": 0.447,
+   "teamsWithPage": 104,
+   "teamsInByconf": 104,
+   "ties": 36,
+   "verifiedGreen": 407,
+   "unverifiedRed": 180
+  },
+  "1926": {
+   "games": 543,
+   "gamesBothMajor": 296,
+   "gamesVsNonMajor": 247,
+   "shareVsNonMajor": 0.455,
+   "teamsWithPage": 96,
+   "teamsInByconf": 96,
+   "ties": 30,
+   "verifiedGreen": 398,
+   "unverifiedRed": 140
+  },
+  "1927": {
+   "games": 557,
+   "gamesBothMajor": 314,
+   "gamesVsNonMajor": 243,
+   "shareVsNonMajor": 0.436,
+   "teamsWithPage": 99,
+   "teamsInByconf": 99,
+   "ties": 42,
+   "verifiedGreen": 435,
+   "unverifiedRed": 115
+  },
+  "1928": {
+   "games": 577,
+   "gamesBothMajor": 317,
+   "gamesVsNonMajor": 260,
+   "shareVsNonMajor": 0.451,
+   "teamsWithPage": 100,
+   "teamsInByconf": 100,
+   "ties": 35,
+   "verifiedGreen": 432,
+   "unverifiedRed": 131
+  },
+  "1929": {
+   "games": 576,
+   "gamesBothMajor": 317,
+   "gamesVsNonMajor": 259,
+   "shareVsNonMajor": 0.45,
+   "teamsWithPage": 100,
+   "teamsInByconf": 100,
+   "ties": 36,
+   "verifiedGreen": 448,
+   "unverifiedRed": 123
+  },
+  "1930": {
+   "games": 621,
+   "gamesBothMajor": 355,
+   "gamesVsNonMajor": 266,
+   "shareVsNonMajor": 0.428,
+   "teamsWithPage": 106,
+   "teamsInByconf": 106,
+   "ties": 38,
+   "verifiedGreen": 470,
+   "unverifiedRed": 147
+  },
+  "1931": {
+   "games": 648,
+   "gamesBothMajor": 373,
+   "gamesVsNonMajor": 275,
+   "shareVsNonMajor": 0.424,
+   "teamsWithPage": 110,
+   "teamsInByconf": 110,
+   "ties": 44,
+   "verifiedGreen": 474,
+   "unverifiedRed": 164
+  },
+  "1932": {
+   "games": 662,
+   "gamesBothMajor": 404,
+   "gamesVsNonMajor": 258,
+   "shareVsNonMajor": 0.39,
+   "teamsWithPage": 120,
+   "teamsInByconf": 120,
+   "ties": 51,
+   "verifiedGreen": 463,
+   "unverifiedRed": 196
+  },
+  "1933": {
+   "games": 687,
+   "gamesBothMajor": 445,
+   "gamesVsNonMajor": 242,
+   "shareVsNonMajor": 0.352,
+   "teamsWithPage": 126,
+   "teamsInByconf": 126,
+   "ties": 57,
+   "verifiedGreen": 486,
+   "unverifiedRed": 192
+  },
+  "1934": {
+   "games": 688,
+   "gamesBothMajor": 444,
+   "gamesVsNonMajor": 244,
+   "shareVsNonMajor": 0.355,
+   "teamsWithPage": 124,
+   "teamsInByconf": 124,
+   "ties": 38,
+   "verifiedGreen": 521,
+   "unverifiedRed": 162
+  },
+  "1935": {
+   "games": 714,
+   "gamesBothMajor": 459,
+   "gamesVsNonMajor": 255,
+   "shareVsNonMajor": 0.357,
+   "teamsWithPage": 128,
+   "teamsInByconf": 128,
+   "ties": 44,
+   "verifiedGreen": 539,
+   "unverifiedRed": 171
+  }
+ },
+ "gamesPerDecade1869to1935": {
+  "1860s": {
+   "seasons": 1,
+   "games": 2,
+   "gamesVsNonMajor": 0,
+   "gamesBothMajor": 2,
+   "green": 2,
+   "yellow": 0,
+   "red": 0,
+   "white": 0,
+   "ties": 0,
+   "maxTeams": 2,
+   "shareVsNonMajor": 0
+  },
+  "1870s": {
+   "seasons": 10,
+   "games": 111,
+   "gamesVsNonMajor": 29,
+   "gamesBothMajor": 82,
+   "green": 73,
+   "yellow": 1,
+   "red": 37,
+   "white": 0,
+   "ties": 15,
+   "maxTeams": 9,
+   "shareVsNonMajor": 0.261
+  },
+  "1880s": {
+   "seasons": 10,
+   "games": 569,
+   "gamesVsNonMajor": 165,
+   "gamesBothMajor": 404,
+   "green": 336,
+   "yellow": 7,
+   "red": 226,
+   "white": 0,
+   "ties": 30,
+   "maxTeams": 21,
+   "shareVsNonMajor": 0.29
+  },
+  "1890s": {
+   "seasons": 10,
+   "games": 1913,
+   "gamesVsNonMajor": 1025,
+   "gamesBothMajor": 888,
+   "green": 1135,
+   "yellow": 17,
+   "red": 761,
+   "white": 0,
+   "ties": 92,
+   "maxTeams": 41,
+   "shareVsNonMajor": 0.536
+  },
+  "1900s": {
+   "seasons": 10,
+   "games": 4064,
+   "gamesVsNonMajor": 2177,
+   "gamesBothMajor": 1887,
+   "green": 2730,
+   "yellow": 81,
+   "red": 1253,
+   "white": 0,
+   "ties": 246,
+   "maxTeams": 82,
+   "shareVsNonMajor": 0.536
+  },
+  "1910s": {
+   "seasons": 10,
+   "games": 4404,
+   "gamesVsNonMajor": 2310,
+   "gamesBothMajor": 2094,
+   "green": 3020,
+   "yellow": 114,
+   "red": 1270,
+   "white": 0,
+   "ties": 269,
+   "maxTeams": 99,
+   "shareVsNonMajor": 0.525
+  },
+  "1920s": {
+   "seasons": 10,
+   "games": 5766,
+   "gamesVsNonMajor": 2592,
+   "gamesBothMajor": 3174,
+   "green": 4160,
+   "yellow": 84,
+   "red": 1522,
+   "white": 0,
+   "ties": 392,
+   "maxTeams": 111,
+   "shareVsNonMajor": 0.45
+  },
+  "1930s": {
+   "seasons": 6,
+   "games": 4020,
+   "gamesVsNonMajor": 1540,
+   "gamesBothMajor": 2480,
+   "green": 2953,
+   "yellow": 35,
+   "red": 1032,
+   "white": 0,
+   "ties": 272,
+   "maxTeams": 128,
+   "shareVsNonMajor": 0.383
+  }
+ },
+ "totals1869to1935": {
+  "teamRows": 31860,
+  "games": 20849,
+  "vsNonMajor": 9838
+ },
+ "mirrorCheck": {
+  "pairs": 11011,
+  "singles": 0,
+  "triples": 0,
+  "scoreDisagree": 0,
+  "resultDisagree": 0,
+  "siteDisagree": 0,
+  "oppFileHasNoSeason": 0
+ },
+ "majorTeamsByYear": {
+  "1869": 2,
+  "1875": 6,
+  "1880": 8,
+  "1890": 18,
+  "1900": 41,
+  "1910": 74,
+  "1920": 96,
+  "1930": 106,
+  "1935": 128,
+  "1936": 131,
+  "1950": 120
+ },
+ "coachHolesPerDecade": {
+  "1860s": {
+   "majorTeamSeasons": 2,
+   "teamGameRows": 4,
+   "navboxNamed": 0,
+   "navboxNoCoach": 2,
+   "navboxHole": 0,
+   "navboxMissing": 0,
+   "navboxTwoPlusEntries": 0,
+   "navboxCoCoachEntry": 0,
+   "cfbdRow": null,
+   "cfbdHole": null,
+   "payloadGameSidesNoCoach": null,
+   "payloadMajorGameSides": null,
+   "pre1936TeamGameRowsByNavboxKind": {
+    "one": 0,
+    "co": 0,
+    "multi": 0,
+    "noCoach": 4,
+    "hole": 0,
+    "noNavbox": 0
+   }
+  },
+  "1870s": {
+   "majorTeamSeasons": 55,
+   "teamGameRows": 193,
+   "navboxNamed": 1,
+   "navboxNoCoach": 54,
+   "navboxHole": 0,
+   "navboxMissing": 0,
+   "navboxTwoPlusEntries": 1,
+   "navboxCoCoachEntry": 0,
+   "cfbdRow": null,
+   "cfbdHole": null,
+   "payloadGameSidesNoCoach": null,
+   "payloadMajorGameSides": null,
+   "pre1936TeamGameRowsByNavboxKind": {
+    "one": 39,
+    "co": 0,
+    "multi": 3,
+    "noCoach": 151,
+    "hole": 0,
+    "noNavbox": 0
+   }
+  },
+  "1880s": {
+   "majorTeamSeasons": 125,
+   "teamGameRows": 973,
+   "navboxNamed": 15,
+   "navboxNoCoach": 100,
+   "navboxHole": 5,
+   "navboxMissing": 5,
+   "navboxTwoPlusEntries": 0,
+   "navboxCoCoachEntry": 0,
+   "cfbdRow": null,
+   "cfbdHole": null,
+   "payloadGameSidesNoCoach": null,
+   "payloadMajorGameSides": null,
+   "pre1936TeamGameRowsByNavboxKind": {
+    "one": 294,
+    "co": 0,
+    "multi": 0,
+    "noCoach": 613,
+    "hole": 35,
+    "noNavbox": 31
+   }
+  },
+  "1890s": {
+   "majorTeamSeasons": 281,
+   "teamGameRows": 2801,
+   "navboxNamed": 207,
+   "navboxNoCoach": 56,
+   "navboxHole": 11,
+   "navboxMissing": 7,
+   "navboxTwoPlusEntries": 4,
+   "navboxCoCoachEntry": 10,
+   "cfbdRow": null,
+   "cfbdHole": null,
+   "payloadGameSidesNoCoach": null,
+   "payloadMajorGameSides": null,
+   "pre1936TeamGameRowsByNavboxKind": {
+    "one": 2048,
+    "co": 109,
+    "multi": 41,
+    "noCoach": 450,
+    "hole": 107,
+    "noNavbox": 46
+   }
+  },
+  "1900s": {
+   "majorTeamSeasons": 664,
+   "teamGameRows": 5951,
+   "navboxNamed": 656,
+   "navboxNoCoach": 4,
+   "navboxHole": 3,
+   "navboxMissing": 1,
+   "navboxTwoPlusEntries": 5,
+   "navboxCoCoachEntry": 5,
+   "cfbdRow": null,
+   "cfbdHole": null,
+   "payloadGameSidesNoCoach": null,
+   "payloadMajorGameSides": null,
+   "pre1936TeamGameRowsByNavboxKind": {
+    "one": 5823,
+    "co": 42,
+    "multi": 46,
+    "noCoach": 11,
+    "hole": 23,
+    "noNavbox": 6
+   }
+  },
+  "1910s": {
+   "majorTeamSeasons": 816,
+   "teamGameRows": 6498,
+   "navboxNamed": 813,
+   "navboxNoCoach": 1,
+   "navboxHole": 0,
+   "navboxMissing": 2,
+   "navboxTwoPlusEntries": 6,
+   "navboxCoCoachEntry": 4,
+   "cfbdRow": null,
+   "cfbdHole": null,
+   "payloadGameSidesNoCoach": null,
+   "payloadMajorGameSides": null,
+   "pre1936TeamGameRowsByNavboxKind": {
+    "one": 6398,
+    "co": 28,
+    "multi": 53,
+    "noCoach": 0,
+    "hole": 0,
+    "noNavbox": 19
+   }
+  },
+  "1920s": {
+   "majorTeamSeasons": 1026,
+   "teamGameRows": 8940,
+   "navboxNamed": 1020,
+   "navboxNoCoach": 0,
+   "navboxHole": 0,
+   "navboxMissing": 6,
+   "navboxTwoPlusEntries": 6,
+   "navboxCoCoachEntry": 8,
+   "cfbdRow": null,
+   "cfbdHole": null,
+   "payloadGameSidesNoCoach": null,
+   "payloadMajorGameSides": null,
+   "pre1936TeamGameRowsByNavboxKind": {
+    "one": 8769,
+    "co": 72,
+    "multi": 52,
+    "noCoach": 0,
+    "hole": 0,
+    "noNavbox": 47
+   }
+  },
+  "1930s": {
+   "majorTeamSeasons": 1217,
+   "teamGameRows": 11141,
+   "navboxNamed": 1206,
+   "navboxNoCoach": 0,
+   "navboxHole": 0,
+   "navboxMissing": 11,
+   "navboxTwoPlusEntries": 2,
+   "navboxCoCoachEntry": 2,
+   "cfbdRow": 389,
+   "cfbdHole": 114,
+   "payloadGameSidesNoCoach": 907,
+   "payloadMajorGameSides": 4641,
+   "pre1936TeamGameRowsByNavboxKind": {
+    "one": 6458,
+    "co": 15,
+    "multi": 18,
+    "noCoach": 0,
+    "hole": 0,
+    "noNavbox": 9
+   }
+  },
+  "1940s": {
+   "majorTeamSeasons": 1109,
+   "teamGameRows": 10380,
+   "navboxNamed": 1038,
+   "navboxNoCoach": 0,
+   "navboxHole": 0,
+   "navboxMissing": 71,
+   "navboxTwoPlusEntries": 2,
+   "navboxCoCoachEntry": 2,
+   "cfbdRow": 871,
+   "cfbdHole": 238,
+   "payloadGameSidesNoCoach": 959,
+   "payloadMajorGameSides": 10419,
+   "pre1936TeamGameRowsByNavboxKind": null
+  },
+  "1950s": {
+   "majorTeamSeasons": 1127,
+   "teamGameRows": 10989,
+   "navboxNamed": 1028,
+   "navboxNoCoach": 0,
+   "navboxHole": 0,
+   "navboxMissing": 99,
+   "navboxTwoPlusEntries": 3,
+   "navboxCoCoachEntry": 0,
+   "cfbdRow": 943,
+   "cfbdHole": 184,
+   "payloadGameSidesNoCoach": 192,
+   "payloadMajorGameSides": 10989,
+   "pre1936TeamGameRowsByNavboxKind": null
+  },
+  "1960s": {
+   "majorTeamSeasons": 1182,
+   "teamGameRows": 11749,
+   "navboxNamed": 964,
+   "navboxNoCoach": 0,
+   "navboxHole": 0,
+   "navboxMissing": 218,
+   "navboxTwoPlusEntries": 0,
+   "navboxCoCoachEntry": 0,
+   "cfbdRow": 1051,
+   "cfbdHole": 131,
+   "payloadGameSidesNoCoach": 185,
+   "payloadMajorGameSides": 11749,
+   "pre1936TeamGameRowsByNavboxKind": null
+  },
+  "1970s": {
+   "majorTeamSeasons": 1333,
+   "teamGameRows": 14640,
+   "navboxNamed": 950,
+   "navboxNoCoach": 0,
+   "navboxHole": 0,
+   "navboxMissing": 383,
+   "navboxTwoPlusEntries": 8,
+   "navboxCoCoachEntry": 0,
+   "cfbdRow": 1142,
+   "cfbdHole": 191,
+   "payloadGameSidesNoCoach": 685,
+   "payloadMajorGameSides": 14640,
+   "pre1936TeamGameRowsByNavboxKind": null
+  },
+  "1980s": {
+   "majorTeamSeasons": 1140,
+   "teamGameRows": 12948,
+   "navboxNamed": 801,
+   "navboxNoCoach": 0,
+   "navboxHole": 0,
+   "navboxMissing": 339,
+   "navboxTwoPlusEntries": 9,
+   "navboxCoCoachEntry": 0,
+   "cfbdRow": 1076,
+   "cfbdHole": 64,
+   "payloadGameSidesNoCoach": 176,
+   "payloadMajorGameSides": 12948,
+   "pre1936TeamGameRowsByNavboxKind": null
+  },
+  "1990s": {
+   "majorTeamSeasons": 1091,
+   "teamGameRows": 12548,
+   "navboxNamed": 764,
+   "navboxNoCoach": 0,
+   "navboxHole": 0,
+   "navboxMissing": 327,
+   "navboxTwoPlusEntries": 13,
+   "navboxCoCoachEntry": 0,
+   "cfbdRow": 1089,
+   "cfbdHole": 2,
+   "payloadGameSidesNoCoach": 0,
+   "payloadMajorGameSides": 12516,
+   "pre1936TeamGameRowsByNavboxKind": null
+  },
+  "2000s": {
+   "majorTeamSeasons": 1185,
+   "teamGameRows": 14496,
+   "navboxNamed": 770,
+   "navboxNoCoach": 0,
+   "navboxHole": 0,
+   "navboxMissing": 415,
+   "navboxTwoPlusEntries": 23,
+   "navboxCoCoachEntry": 0,
+   "cfbdRow": 1177,
+   "cfbdHole": 8,
+   "payloadGameSidesNoCoach": 6,
+   "payloadMajorGameSides": 14485,
+   "pre1936TeamGameRowsByNavboxKind": null
+  },
+  "2010s": {
+   "majorTeamSeasons": 1264,
+   "teamGameRows": 16086,
+   "navboxNamed": 776,
+   "navboxNoCoach": 0,
+   "navboxHole": 0,
+   "navboxMissing": 488,
+   "navboxTwoPlusEntries": 52,
+   "navboxCoCoachEntry": 0,
+   "cfbdRow": 1260,
+   "cfbdHole": 4,
+   "payloadGameSidesNoCoach": 0,
+   "payloadMajorGameSides": 16079,
+   "pre1936TeamGameRowsByNavboxKind": null
+  },
+  "2020s": {
+   "majorTeamSeasons": 791,
+   "teamGameRows": 9592,
+   "navboxNamed": 461,
+   "navboxNoCoach": 0,
+   "navboxHole": 0,
+   "navboxMissing": 330,
+   "navboxTwoPlusEntries": 56,
+   "navboxCoCoachEntry": 1,
+   "cfbdRow": 791,
+   "cfbdHole": 0,
+   "payloadGameSidesNoCoach": 0,
+   "payloadMajorGameSides": 9594,
+   "pre1936TeamGameRowsByNavboxKind": null
+  }
+ },
+ "coachHolesNote": "1930s CFBD/payload columns cover 1936-1939 only. navboxMissing after 1935 is mostly teams the navbox map never tried (it maps pre-1936 teams only). payloadGameSidesNoCoach counts game sides of major team-seasons whose payload team has no stint covering the game.",
+ "navboxVsCfbd1936on": {
+  "agree": 7328,
+  "disagree": 19
+ },
+ "apRankEras": [
+  {
+   "from": 1936,
+   "to": 1960,
+   "maxRank": 20
+  },
+  {
+   "from": 1961,
+   "to": 1967,
+   "maxRank": 10
+  },
+  {
+   "from": 1968,
+   "to": 1988,
+   "maxRank": 20
+  },
+  {
+   "from": 1989,
+   "to": 2026,
+   "maxRank": 25
+  }
+ ],
+ "apRankUnknownByDecade": {
+  "1930s": {
+   "sides": 5468,
+   "unknown": 2322
+  },
+  "1940s": {
+   "sides": 11962,
+   "unknown": 3552
+  },
+  "1950s": {
+   "sides": 11934,
+   "unknown": 0
+  },
+  "1960s": {
+   "sides": 12594,
+   "unknown": 0
+  },
+  "1970s": {
+   "sides": 15684,
+   "unknown": 0
+  },
+  "1980s": {
+   "sides": 13780,
+   "unknown": 0
+  },
+  "1990s": {
+   "sides": 12972,
+   "unknown": 0
+  },
+  "2000s": {
+   "sides": 15174,
+   "unknown": 0
+  },
+  "2010s": {
+   "sides": 17130,
+   "unknown": 0
+  },
+  "2020s": {
+   "sides": 11252,
+   "unknown": 0
+  }
+ },
+ "wikipediaVsHowell1890to1935": {
+  "match": 221,
+  "mismatch": 15,
+  "offSpine": 35
+ }
+}

@@ -1,0 +1,8513 @@
+{
+ "seasons": {
+  "2004": {
+   "pb_rows": 23981,
+   "pb_games": 699,
+   "pb_postseason_games": 28,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 655,
+    "fbs_fcs": 52
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fcs": 66,
+    "fbs_fbs": 627
+   },
+   "cfbd_sched_season_types": {
+    "regular": 693
+   },
+   "espn_final_fbs_games_missing_from_pb": {
+    "fbs_fbs": 8
+   },
+   "cfbd_completed_fbs_games_missing_from_pb": {
+    "fbs_fbs": 8,
+    "fbs_fcs": 14
+   },
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1362,
+   "fbs_team_games_with_rows": 1346,
+   "fbs_team_game_coverage": 0.9883,
+   "worst_teams_missing": [
+    [
+     "2084",
+     2
+    ],
+    [
+     "2199",
+     1
+    ],
+    [
+     "5",
+     1
+    ],
+    [
+     "235",
+     1
+    ],
+    [
+     "195",
+     1
+    ]
+   ],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "9",
+      12,
+      12,
+      11
+     ],
+     [
+      "52",
+      12,
+      12,
+      12
+     ],
+     [
+      "61",
+      12,
+      12,
+      12
+     ],
+     [
+      "96",
+      11,
+      10,
+      10
+     ],
+     [
+      "103",
+      12,
+      12,
+      12
+     ],
+     [
+      "130",
+      12,
+      12,
+      12
+     ],
+     [
+      "158",
+      11,
+      11,
+      11
+     ],
+     [
+      "183",
+      12,
+      11,
+      11
+     ],
+     [
+      "193",
+      13,
+      13,
+      13
+     ],
+     [
+      "194",
+      12,
+      12,
+      12
+     ],
+     [
+      "201",
+      13,
+      13,
+      13
+     ],
+     [
+      "235",
+      12,
+      11,
+      11
+     ],
+     [
+      "252",
+      11,
+      11,
+      11
+     ],
+     [
+      "254",
+      12,
+      12,
+      12
+     ],
+     [
+      "264",
+      11,
+      11,
+      11
+     ],
+     [
+      "2390",
+      12,
+      12,
+      12
+     ],
+     [
+      "2439",
+      11,
+      11,
+      11
+     ],
+     [
+      "2638",
+      12,
+      12,
+      12
+     ],
+     [
+      "2641",
+      12,
+      12,
+      12
+     ],
+     [
+      "2751",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 237,
+     "with_any_row": 234,
+     "with_passing_row": 233
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1294,
+    "fbs_fcs|fbs|present": 52,
+    "fbs_fcs|nonfbs|present": 52
+   },
+   "categories_rows": {
+    "passing": 2140,
+    "rushing": 6942,
+    "receiving": 9173,
+    "interceptions": 1267,
+    "puntReturns": 1611,
+    "kicking": 1417,
+    "punting": 1431
+   },
+   "category_game_coverage": {
+    "passing": 699,
+    "rushing": 699,
+    "receiving": 699,
+    "interceptions": 580,
+    "puntReturns": 691,
+    "kicking": 697,
+    "punting": 695
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     75
+    ]
+   ],
+   "team_rows_by_category": {},
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 170,
+    "fbs_sides": 1346,
+    "fbs_rec_short_share": 0.1263,
+    "nonfbs_rec_short_share": 0.3462,
+    "fbs_sides_carries_short_of_team_box_gt5": 117
+   },
+   "team_box_reconcile_match_share": {
+    "rush_eq_team_rush": 0.5207,
+    "rush_excl_teamrows_eq_team_rush": 0.5207,
+    "car_eq_team_att": 0.4979,
+    "att_eq_team_att": 0.8705,
+    "rec_eq_pass": 0.7289,
+    "pass_eq_netPassing": 0.1753
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 699,
+     "home_id": 699,
+     "away_id": 699,
+     "home_score": 699,
+     "away_score": 699,
+     "neutral_site": 699
+    },
+    "utc_date_ne_et_date_games": 153,
+    "neutral_site_true_share": 0.0029
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 1.0,
+    "share_athletes_with_roster_row_any_team": 1.0,
+    "fill_among_matched": {
+     "position_abbreviation": 0.0,
+     "date_of_birth": 0.956,
+     "height": 0.9994,
+     "weight": 0.9997,
+     "experience_display_value": 0.8426,
+     "birth_place_city": 0.9173,
+     "cfbd_recruit_ids": 1.0
+    },
+    "experience_values": [
+     [
+      "Senior",
+      2568
+     ],
+     [
+      "",
+      569
+     ],
+     [
+      "Junior",
+      338
+     ],
+     [
+      "Sophomore",
+      94
+     ],
+     [
+      "Freshman",
+      47
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 18,
+    "gz_only_by_cat": {
+     "receiving": 16,
+     "rushing": 1,
+     "passing": 1
+    },
+    "gz_only_athletes": 3,
+    "gz_only_yards_lost": {
+     "rushingYards": 0.0,
+     "receivingYards": 607.0,
+     "passingYards": 42.0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 23999,
+    "games": 699,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 115
+    },
+    "fresh_csv_rows": 23981,
+    "fresh_csv_games": 699
+   },
+   "bytes": {
+    "csv": 2246419,
+    "csv.gz": 467370,
+    "parquet": 287179,
+    "rds": 382801
+   },
+   "bytes_gzip6_fresh_csv": 477231
+  },
+  "2005": {
+   "pb_rows": 24809,
+   "pb_games": 708,
+   "pb_postseason_games": 28,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 664,
+    "fbs_fcs": 54
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fcs": 54,
+    "fbs_fbs": 636
+   },
+   "cfbd_sched_season_types": {
+    "regular": 690
+   },
+   "espn_final_fbs_games_missing_from_pb": {
+    "fbs_fbs": 10
+   },
+   "cfbd_completed_fbs_games_missing_from_pb": {
+    "fbs_fbs": 10
+   },
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1382,
+   "fbs_team_games_with_rows": 1362,
+   "fbs_team_game_coverage": 0.9855,
+   "worst_teams_missing": [
+    [
+     "2483",
+     2
+    ],
+    [
+     "265",
+     2
+    ],
+    [
+     "52",
+     2
+    ],
+    [
+     "278",
+     1
+    ],
+    [
+     "2",
+     1
+    ]
+   ],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "12",
+      11,
+      11,
+      6
+     ],
+     [
+      "41",
+      11,
+      11,
+      11
+     ],
+     [
+      "59",
+      12,
+      12,
+      12
+     ],
+     [
+      "99",
+      13,
+      13,
+      13
+     ],
+     [
+      "103",
+      12,
+      12,
+      12
+     ],
+     [
+      "151",
+      11,
+      11,
+      11
+     ],
+     [
+      "154",
+      11,
+      11,
+      11
+     ],
+     [
+      "164",
+      12,
+      12,
+      12
+     ],
+     [
+      "166",
+      12,
+      12,
+      12
+     ],
+     [
+      "201",
+      12,
+      12,
+      12
+     ],
+     [
+      "239",
+      11,
+      11,
+      11
+     ],
+     [
+      "242",
+      11,
+      11,
+      11
+     ],
+     [
+      "248",
+      12,
+      11,
+      11
+     ],
+     [
+      "265",
+      11,
+      9,
+      9
+     ],
+     [
+      "2050",
+      11,
+      10,
+      10
+     ],
+     [
+      "2116",
+      13,
+      13,
+      13
+     ],
+     [
+      "2294",
+      12,
+      12,
+      12
+     ],
+     [
+      "2433",
+      11,
+      11,
+      11
+     ],
+     [
+      "2440",
+      12,
+      12,
+      12
+     ],
+     [
+      "2579",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 233,
+     "with_any_row": 229,
+     "with_passing_row": 224
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1308,
+    "fbs_fcs|fbs|present": 54,
+    "fbs_fcs|nonfbs|present": 54
+   },
+   "categories_rows": {
+    "passing": 2132,
+    "rushing": 7056,
+    "receiving": 9620,
+    "interceptions": 1371,
+    "puntReturns": 1681,
+    "kicking": 1459,
+    "punting": 1412,
+    "kickReturns": 78
+   },
+   "category_game_coverage": {
+    "passing": 708,
+    "rushing": 708,
+    "receiving": 708,
+    "interceptions": 620,
+    "puntReturns": 701,
+    "kicking": 706,
+    "punting": 708,
+    "kickReturns": 39
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "kickReturns": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "kickReturns": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     129
+    ]
+   ],
+   "team_rows_by_category": {},
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 89,
+    "fbs_sides": 1362,
+    "fbs_rec_short_share": 0.0653,
+    "nonfbs_rec_short_share": 0.1481,
+    "fbs_sides_carries_short_of_team_box_gt5": 80
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.1723,
+    "att_eq_team_att": 0.8976,
+    "rec_eq_pass": 0.839,
+    "rush_eq_team_rush": 0.5791,
+    "rush_excl_teamrows_eq_team_rush": 0.5791,
+    "car_eq_team_att": 0.553
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 708,
+     "home_id": 708,
+     "away_id": 708,
+     "home_score": 708,
+     "away_score": 708,
+     "neutral_site": 708
+    },
+    "utc_date_ne_et_date_games": 139,
+    "neutral_site_true_share": 0.0
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 1.0,
+    "share_athletes_with_roster_row_any_team": 1.0,
+    "fill_among_matched": {
+     "position_abbreviation": 0.0,
+     "date_of_birth": 0.9325,
+     "height": 0.9992,
+     "weight": 0.9995,
+     "experience_display_value": 0.8143,
+     "birth_place_city": 0.9025,
+     "cfbd_recruit_ids": 0.998
+    },
+    "experience_values": [
+     [
+      "Senior",
+      2703
+     ],
+     [
+      "",
+      737
+     ],
+     [
+      "Junior",
+      380
+     ],
+     [
+      "Sophomore",
+      106
+     ],
+     [
+      "Freshman",
+      43
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 9,
+    "gz_only_by_cat": {
+     "receiving": 9
+    },
+    "gz_only_athletes": 1,
+    "gz_only_yards_lost": {
+     "rushingYards": 0.0,
+     "receivingYards": 309.0,
+     "passingYards": 0.0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 24818,
+    "games": 708,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 59
+    },
+    "fresh_csv_rows": 24809,
+    "fresh_csv_games": 708
+   },
+   "bytes": {
+    "csv": 2447360,
+    "csv.gz": 483649,
+    "parquet": 299430,
+    "rds": 395490
+   },
+   "bytes_gzip6_fresh_csv": 496848
+  },
+  "2006": {
+   "pb_rows": 27032,
+   "pb_games": 787,
+   "pb_postseason_games": 32,
+   "espn_sched_final_by_class": {
+    "fbs_fcs": 77,
+    "fbs_fbs": 711
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fbs": 682,
+    "fbs_fcs": 78
+   },
+   "cfbd_sched_season_types": {
+    "regular": 760
+   },
+   "espn_final_fbs_games_missing_from_pb": {
+    "fbs_fbs": 1
+   },
+   "cfbd_completed_fbs_games_missing_from_pb": {
+    "fbs_fbs": 4,
+    "fbs_fcs": 1
+   },
+   "games_espn_never_had": 4,
+   "games_espn_never_had_examples": [
+    [
+     "63843",
+     "2006-09-16",
+     "UNLV",
+     "Hawai'i"
+    ],
+    [
+     "63844",
+     "2006-09-30",
+     "Eastern Illinois",
+     "Hawai'i"
+    ],
+    [
+     "63845",
+     "2006-10-07",
+     "Nevada",
+     "Hawai'i"
+    ],
+    [
+     "63846",
+     "2006-10-28",
+     "Idaho",
+     "Hawai'i"
+    ]
+   ],
+   "fbs_team_games_universe": 1506,
+   "fbs_team_games_with_rows": 1497,
+   "fbs_team_game_coverage": 0.994,
+   "worst_teams_missing": [
+    [
+     "62",
+     4
+    ],
+    [
+     "218",
+     1
+    ],
+    [
+     "228",
+     1
+    ],
+    [
+     "2439",
+     1
+    ],
+    [
+     "2440",
+     1
+    ]
+   ],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "38",
+      12,
+      12,
+      12
+     ],
+     [
+      "57",
+      14,
+      14,
+      14
+     ],
+     [
+      "96",
+      13,
+      13,
+      13
+     ],
+     [
+      "142",
+      13,
+      13,
+      13
+     ],
+     [
+      "150",
+      12,
+      12,
+      12
+     ],
+     [
+      "151",
+      13,
+      13,
+      13
+     ],
+     [
+      "202",
+      13,
+      13,
+      13
+     ],
+     [
+      "218",
+      12,
+      11,
+      11
+     ],
+     [
+      "235",
+      12,
+      12,
+      12
+     ],
+     [
+      "238",
+      12,
+      12,
+      12
+     ],
+     [
+      "265",
+      12,
+      12,
+      12
+     ],
+     [
+      "2005",
+      12,
+      12,
+      12
+     ],
+     [
+      "2006",
+      12,
+      12,
+      12
+     ],
+     [
+      "2084",
+      12,
+      12,
+      12
+     ],
+     [
+      "2226",
+      12,
+      12,
+      12
+     ],
+     [
+      "2229",
+      12,
+      12,
+      12
+     ],
+     [
+      "2426",
+      13,
+      13,
+      13
+     ],
+     [
+      "2572",
+      14,
+      14,
+      14
+     ],
+     [
+      "2653",
+      13,
+      13,
+      13
+     ],
+     [
+      "2751",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 250,
+     "with_any_row": 249,
+     "with_passing_row": 249
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1420,
+    "fbs_fcs|fbs|present": 77,
+    "fbs_fcs|nonfbs|present": 77
+   },
+   "categories_rows": {
+    "passing": 2422,
+    "rushing": 7734,
+    "receiving": 10253,
+    "interceptions": 1448,
+    "kickReturns": 110,
+    "puntReturns": 1817,
+    "kicking": 1615,
+    "punting": 1633
+   },
+   "category_game_coverage": {
+    "passing": 787,
+    "rushing": 787,
+    "receiving": 787,
+    "interceptions": 685,
+    "kickReturns": 51,
+    "puntReturns": 785,
+    "kicking": 787,
+    "punting": 783
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     158
+    ]
+   ],
+   "team_rows_by_category": {},
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 82,
+    "fbs_sides": 1497,
+    "fbs_rec_short_share": 0.0548,
+    "nonfbs_rec_short_share": 0.013,
+    "fbs_sides_carries_short_of_team_box_gt5": 36
+   },
+   "team_box_reconcile_match_share": {
+    "rush_eq_team_rush": 0.7109,
+    "rush_excl_teamrows_eq_team_rush": 0.7109,
+    "car_eq_team_att": 0.6963,
+    "att_eq_team_att": 0.9244,
+    "rec_eq_pass": 0.8958,
+    "pass_eq_netPassing": 0.1728
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 787,
+     "home_id": 787,
+     "away_id": 787,
+     "home_score": 787,
+     "away_score": 787,
+     "neutral_site": 787
+    },
+    "utc_date_ne_et_date_games": 172,
+    "neutral_site_true_share": 0.0
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 1.0,
+    "share_athletes_with_roster_row_any_team": 1.0,
+    "fill_among_matched": {
+     "position_abbreviation": 0.0,
+     "date_of_birth": 0.9143,
+     "height": 0.9974,
+     "weight": 0.9981,
+     "experience_display_value": 0.7806,
+     "birth_place_city": 0.8797,
+     "cfbd_recruit_ids": 0.9964
+    },
+    "experience_values": [
+     [
+      "Senior",
+      2669
+     ],
+     [
+      "",
+      914
+     ],
+     [
+      "Junior",
+      364
+     ],
+     [
+      "Sophomore",
+      148
+     ],
+     [
+      "Freshman",
+      71
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 27032,
+    "games": 787,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 8
+    },
+    "fresh_csv_rows": 27032,
+    "fresh_csv_games": 787
+   },
+   "bytes": {
+    "csv": 2667926,
+    "csv.gz": 527210,
+    "parquet": 326977,
+    "rds": 435149
+   },
+   "bytes_gzip6_fresh_csv": 542081
+  },
+  "2007": {
+   "pb_rows": 28762,
+   "pb_games": 793,
+   "pb_postseason_games": 32,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 718,
+    "fbs_fcs": 80
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fbs": 686,
+    "fbs_fcs": 80
+   },
+   "cfbd_sched_season_types": {
+    "regular": 766
+   },
+   "espn_final_fbs_games_missing_from_pb": {
+    "fbs_fcs": 2,
+    "fbs_fbs": 3
+   },
+   "cfbd_completed_fbs_games_missing_from_pb": {
+    "fbs_fcs": 2,
+    "fbs_fbs": 3
+   },
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1516,
+   "fbs_team_games_with_rows": 1503,
+   "fbs_team_game_coverage": 0.9914,
+   "worst_teams_missing": [
+    [
+     "98",
+     5
+    ],
+    [
+     "84",
+     1
+    ],
+    [
+     "242",
+     1
+    ],
+    [
+     "2641",
+     1
+    ],
+    [
+     "2638",
+     1
+    ]
+   ],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "2",
+      13,
+      13,
+      13
+     ],
+     [
+      "9",
+      13,
+      13,
+      13
+     ],
+     [
+      "23",
+      12,
+      11,
+      11
+     ],
+     [
+      "30",
+      13,
+      13,
+      13
+     ],
+     [
+      "38",
+      13,
+      13,
+      13
+     ],
+     [
+      "61",
+      13,
+      13,
+      13
+     ],
+     [
+      "68",
+      13,
+      13,
+      13
+     ],
+     [
+      "70",
+      12,
+      12,
+      12
+     ],
+     [
+      "84",
+      13,
+      12,
+      12
+     ],
+     [
+      "99",
+      14,
+      14,
+      14
+     ],
+     [
+      "145",
+      12,
+      12,
+      12
+     ],
+     [
+      "150",
+      12,
+      12,
+      12
+     ],
+     [
+      "195",
+      12,
+      12,
+      12
+     ],
+     [
+      "277",
+      13,
+      13,
+      13
+     ],
+     [
+      "349",
+      12,
+      12,
+      12
+     ],
+     [
+      "2006",
+      12,
+      12,
+      12
+     ],
+     [
+      "2393",
+      12,
+      12,
+      12
+     ],
+     [
+      "2567",
+      12,
+      12,
+      12
+     ],
+     [
+      "2638",
+      12,
+      11,
+      11
+     ],
+     [
+      "2655",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 250,
+     "with_any_row": 247,
+     "with_passing_row": 247
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1430,
+    "fbs_fcs|fbs|missing": 5,
+    "fbs_fcs|fbs|present": 73,
+    "fbs_fcs|nonfbs|present": 78
+   },
+   "categories_rows": {
+    "passing": 2513,
+    "rushing": 8201,
+    "receiving": 11098,
+    "interceptions": 1573,
+    "puntReturns": 1883,
+    "kicking": 1616,
+    "punting": 1690,
+    "kickReturns": 188
+   },
+   "category_game_coverage": {
+    "passing": 793,
+    "rushing": 793,
+    "receiving": 793,
+    "interceptions": 693,
+    "puntReturns": 781,
+    "kicking": 792,
+    "punting": 790,
+    "kickReturns": 74
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "kickReturns": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "kickReturns": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     164
+    ]
+   ],
+   "team_rows_by_category": {},
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 42,
+    "fbs_sides": 1503,
+    "fbs_rec_short_share": 0.0279,
+    "nonfbs_rec_short_share": 0.0256,
+    "fbs_sides_carries_short_of_team_box_gt5": 23
+   },
+   "team_box_reconcile_match_share": {
+    "rush_eq_team_rush": 0.6072,
+    "rush_excl_teamrows_eq_team_rush": 0.6072,
+    "car_eq_team_att": 0.5952,
+    "att_eq_team_att": 0.9146,
+    "rec_eq_pass": 0.926,
+    "pass_eq_netPassing": 0.1992
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 793,
+     "home_id": 793,
+     "away_id": 793,
+     "home_score": 793,
+     "away_score": 793,
+     "neutral_site": 793
+    },
+    "utc_date_ne_et_date_games": 175,
+    "neutral_site_true_share": 0.0
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 1.0,
+    "share_athletes_with_roster_row_any_team": 1.0,
+    "fill_among_matched": {
+     "position_abbreviation": 0.0,
+     "date_of_birth": 0.8775,
+     "height": 0.9953,
+     "weight": 0.996,
+     "experience_display_value": 0.8253,
+     "birth_place_city": 0.8626,
+     "cfbd_recruit_ids": 0.9989
+    },
+    "experience_values": [
+     [
+      "Senior",
+      3040
+     ],
+     [
+      "",
+      782
+     ],
+     [
+      "Junior",
+      394
+     ],
+     [
+      "Sophomore",
+      175
+     ],
+     [
+      "Freshman",
+      84
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 28762,
+    "games": 793,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 11
+    },
+    "fresh_csv_rows": 28762,
+    "fresh_csv_games": 793
+   },
+   "bytes": {
+    "csv": 2842463,
+    "csv.gz": 562119,
+    "parquet": 347902,
+    "rds": 463200
+   },
+   "bytes_gzip6_fresh_csv": 577824
+  },
+  "2008": {
+   "pb_rows": 29130,
+   "pb_games": 806,
+   "pb_postseason_games": 34,
+   "espn_sched_final_by_class": {
+    "other": 2,
+    "fbs_fbs": 719,
+    "fbs_fcs": 88
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fcs": 88,
+    "fbs_fbs": 683
+   },
+   "cfbd_sched_season_types": {
+    "regular": 771
+   },
+   "espn_final_fbs_games_missing_from_pb": {
+    "fbs_fcs": 1,
+    "fbs_fbs": 2
+   },
+   "cfbd_completed_fbs_games_missing_from_pb": {
+    "fbs_fcs": 1
+   },
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1526,
+   "fbs_team_games_with_rows": 1519,
+   "fbs_team_game_coverage": 0.9954,
+   "worst_teams_missing": [
+    [
+     "98",
+     2
+    ],
+    [
+     "99",
+     1
+    ],
+    [
+     "25",
+     1
+    ],
+    [
+     "9",
+     1
+    ],
+    [
+     "278",
+     1
+    ]
+   ],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "9",
+      13,
+      12,
+      12
+     ],
+     [
+      "41",
+      13,
+      13,
+      13
+     ],
+     [
+      "52",
+      13,
+      13,
+      13
+     ],
+     [
+      "77",
+      13,
+      13,
+      13
+     ],
+     [
+      "84",
+      12,
+      12,
+      12
+     ],
+     [
+      "96",
+      13,
+      13,
+      13
+     ],
+     [
+      "142",
+      14,
+      14,
+      14
+     ],
+     [
+      "164",
+      13,
+      13,
+      13
+     ],
+     [
+      "189",
+      12,
+      12,
+      12
+     ],
+     [
+      "193",
+      12,
+      12,
+      12
+     ],
+     [
+      "204",
+      13,
+      13,
+      13
+     ],
+     [
+      "228",
+      13,
+      13,
+      13
+     ],
+     [
+      "235",
+      13,
+      13,
+      13
+     ],
+     [
+      "238",
+      13,
+      13,
+      13
+     ],
+     [
+      "254",
+      13,
+      13,
+      13
+     ],
+     [
+      "344",
+      12,
+      12,
+      12
+     ],
+     [
+      "356",
+      12,
+      12,
+      12
+     ],
+     [
+      "2032",
+      12,
+      12,
+      12
+     ],
+     [
+      "2309",
+      12,
+      12,
+      12
+     ],
+     [
+      "2439",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 253,
+     "with_any_row": 252,
+     "with_passing_row": 252
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1434,
+    "fbs_fcs|fbs|missing": 2,
+    "fbs_fcs|fbs|present": 85,
+    "fbs_fcs|nonfbs|missing": 1,
+    "fbs_fcs|nonfbs|present": 86
+   },
+   "categories_rows": {
+    "passing": 2577,
+    "rushing": 8448,
+    "receiving": 10995,
+    "interceptions": 1485,
+    "kickReturns": 226,
+    "puntReturns": 1979,
+    "kicking": 1701,
+    "punting": 1719
+   },
+   "category_game_coverage": {
+    "passing": 806,
+    "rushing": 806,
+    "receiving": 806,
+    "interceptions": 698,
+    "kickReturns": 92,
+    "puntReturns": 803,
+    "kicking": 806,
+    "punting": 805
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     169
+    ]
+   ],
+   "team_rows_by_category": {},
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 4,
+    "fbs_sides": 1519,
+    "fbs_rec_short_share": 0.0026,
+    "nonfbs_rec_short_share": 0.0,
+    "fbs_sides_carries_short_of_team_box_gt5": 3
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.2063,
+    "rush_eq_team_rush": 0.619,
+    "rush_excl_teamrows_eq_team_rush": 0.619,
+    "car_eq_team_att": 0.6085,
+    "att_eq_team_att": 0.9273,
+    "rec_eq_pass": 0.9869
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 806,
+     "home_id": 806,
+     "away_id": 806,
+     "home_score": 806,
+     "away_score": 806,
+     "neutral_site": 806
+    },
+    "utc_date_ne_et_date_games": 201,
+    "neutral_site_true_share": 0.0608
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 1.0,
+    "share_athletes_with_roster_row_any_team": 1.0,
+    "fill_among_matched": {
+     "position_abbreviation": 0.0002,
+     "date_of_birth": 0.8022,
+     "height": 0.9963,
+     "weight": 0.9969,
+     "experience_display_value": 0.8788,
+     "birth_place_city": 0.9813,
+     "cfbd_recruit_ids": 0.998
+    },
+    "experience_values": [
+     [
+      "Senior",
+      3284
+     ],
+     [
+      "",
+      552
+     ],
+     [
+      "Junior",
+      436
+     ],
+     [
+      "Sophomore",
+      185
+     ],
+     [
+      "Freshman",
+      97
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 29130,
+    "games": 806,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 17
+    },
+    "fresh_csv_rows": 29130,
+    "fresh_csv_games": 806
+   },
+   "bytes": {
+    "csv": 2878063,
+    "csv.gz": 571396,
+    "parquet": 352957,
+    "rds": 470303
+   },
+   "bytes_gzip6_fresh_csv": 589467
+  },
+  "2009": {
+   "pb_rows": 32099,
+   "pb_games": 810,
+   "pb_postseason_games": 34,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 714,
+    "fbs_fcs": 94,
+    "other": 2
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fbs": 680,
+    "fbs_fcs": 94
+   },
+   "cfbd_sched_season_types": {
+    "regular": 774
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1522,
+   "fbs_team_games_with_rows": 1522,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "30",
+      13,
+      13,
+      13
+     ],
+     [
+      "58",
+      13,
+      13,
+      13
+     ],
+     [
+      "87",
+      12,
+      12,
+      12
+     ],
+     [
+      "145",
+      13,
+      13,
+      13
+     ],
+     [
+      "164",
+      13,
+      13,
+      13
+     ],
+     [
+      "193",
+      12,
+      12,
+      12
+     ],
+     [
+      "194",
+      13,
+      13,
+      13
+     ],
+     [
+      "197",
+      13,
+      13,
+      13
+     ],
+     [
+      "201",
+      13,
+      13,
+      13
+     ],
+     [
+      "204",
+      13,
+      13,
+      13
+     ],
+     [
+      "213",
+      13,
+      13,
+      13
+     ],
+     [
+      "264",
+      12,
+      12,
+      12
+     ],
+     [
+      "275",
+      13,
+      13,
+      13
+     ],
+     [
+      "277",
+      13,
+      13,
+      13
+     ],
+     [
+      "349",
+      12,
+      12,
+      12
+     ],
+     [
+      "2117",
+      14,
+      14,
+      14
+     ],
+     [
+      "2294",
+      13,
+      13,
+      13
+     ],
+     [
+      "2390",
+      13,
+      13,
+      13
+     ],
+     [
+      "2641",
+      13,
+      13,
+      13
+     ],
+     [
+      "2655",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 256,
+     "with_any_row": 256,
+     "with_passing_row": 256
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1428,
+    "fbs_fcs|fbs|present": 94,
+    "fbs_fcs|nonfbs|present": 94
+   },
+   "categories_rows": {
+    "passing": 2500,
+    "rushing": 8564,
+    "receiving": 11088,
+    "kickReturns": 3176,
+    "puntReturns": 1943,
+    "punting": 1721,
+    "interceptions": 1436,
+    "kicking": 1671
+   },
+   "category_game_coverage": {
+    "passing": 810,
+    "rushing": 810,
+    "receiving": 810,
+    "kickReturns": 810,
+    "puntReturns": 798,
+    "punting": 808,
+    "interceptions": 692,
+    "kicking": 810
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0,
+    "kicking": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0,
+    "kicking": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     167
+    ]
+   ],
+   "team_rows_by_category": {},
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 1,
+    "fbs_sides": 1522,
+    "fbs_rec_short_share": 0.0007,
+    "nonfbs_rec_short_share": 0.0,
+    "fbs_sides_carries_short_of_team_box_gt5": 3
+   },
+   "team_box_reconcile_match_share": {
+    "rush_eq_team_rush": 0.5753,
+    "rush_excl_teamrows_eq_team_rush": 0.5753,
+    "car_eq_team_att": 0.5636,
+    "att_eq_team_att": 0.9142,
+    "rec_eq_pass": 0.9951,
+    "pass_eq_netPassing": 0.1994
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 810,
+     "home_id": 810,
+     "away_id": 810,
+     "home_score": 810,
+     "away_score": 810,
+     "neutral_site": 810
+    },
+    "utc_date_ne_et_date_games": 184,
+    "neutral_site_true_share": 0.0605
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 1.0,
+    "share_athletes_with_roster_row_any_team": 1.0,
+    "fill_among_matched": {
+     "position_abbreviation": 0.0,
+     "date_of_birth": 0.6183,
+     "height": 0.9973,
+     "weight": 0.9977,
+     "experience_display_value": 0.8945,
+     "birth_place_city": 0.9841,
+     "cfbd_recruit_ids": 0.9971
+    },
+    "experience_values": [
+     [
+      "Senior",
+      3521
+     ],
+     [
+      "",
+      505
+     ],
+     [
+      "Junior",
+      461
+     ],
+     [
+      "Sophomore",
+      214
+     ],
+     [
+      "Freshman",
+      86
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 32099,
+    "games": 810,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 14
+    },
+    "fresh_csv_rows": 32099,
+    "fresh_csv_games": 810
+   },
+   "bytes": {
+    "csv": 3179891,
+    "csv.gz": 623630,
+    "parquet": 383288,
+    "rds": 521654
+   },
+   "bytes_gzip6_fresh_csv": 641916
+  },
+  "2010": {
+   "pb_rows": 32438,
+   "pb_games": 808,
+   "pb_postseason_games": 35,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 718,
+    "fbs_fcs": 90,
+    "other": 2
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fcs": 90,
+    "fbs_fbs": 683
+   },
+   "cfbd_sched_season_types": {
+    "regular": 773
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1526,
+   "fbs_team_games_with_rows": 1526,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "8",
+      13,
+      13,
+      13
+     ],
+     [
+      "21",
+      13,
+      13,
+      13
+     ],
+     [
+      "25",
+      12,
+      12,
+      12
+     ],
+     [
+      "68",
+      13,
+      13,
+      13
+     ],
+     [
+      "70",
+      13,
+      13,
+      13
+     ],
+     [
+      "87",
+      13,
+      13,
+      13
+     ],
+     [
+      "183",
+      13,
+      13,
+      13
+     ],
+     [
+      "202",
+      13,
+      13,
+      13
+     ],
+     [
+      "204",
+      12,
+      12,
+      12
+     ],
+     [
+      "248",
+      12,
+      12,
+      12
+     ],
+     [
+      "254",
+      13,
+      13,
+      13
+     ],
+     [
+      "349",
+      13,
+      13,
+      13
+     ],
+     [
+      "2005",
+      13,
+      13,
+      13
+     ],
+     [
+      "2084",
+      12,
+      12,
+      12
+     ],
+     [
+      "2117",
+      12,
+      12,
+      12
+     ],
+     [
+      "2426",
+      13,
+      13,
+      13
+     ],
+     [
+      "2433",
+      12,
+      12,
+      12
+     ],
+     [
+      "2439",
+      13,
+      13,
+      13
+     ],
+     [
+      "2633",
+      13,
+      13,
+      13
+     ],
+     [
+      "2649",
+      13,
+      13,
+      13
+     ]
+    ],
+    "totals": {
+     "sched_games": 254,
+     "with_any_row": 254,
+     "with_passing_row": 254
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1436,
+    "fbs_fcs|fbs|present": 90,
+    "fbs_fcs|nonfbs|present": 90
+   },
+   "categories_rows": {
+    "passing": 2554,
+    "rushing": 8690,
+    "receiving": 11217,
+    "kickReturns": 3133,
+    "puntReturns": 1926,
+    "kicking": 1687,
+    "punting": 1744,
+    "interceptions": 1487
+   },
+   "category_game_coverage": {
+    "passing": 808,
+    "rushing": 808,
+    "receiving": 808,
+    "kickReturns": 807,
+    "puntReturns": 799,
+    "kicking": 808,
+    "punting": 808,
+    "interceptions": 695
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     166
+    ]
+   ],
+   "team_rows_by_category": {},
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 0,
+    "fbs_sides": 1526,
+    "fbs_rec_short_share": 0.0,
+    "nonfbs_rec_short_share": 0.0,
+    "fbs_sides_carries_short_of_team_box_gt5": 0
+   },
+   "team_box_reconcile_match_share": {
+    "rush_eq_team_rush": 0.5996,
+    "rush_excl_teamrows_eq_team_rush": 0.5996,
+    "car_eq_team_att": 0.5854,
+    "att_eq_team_att": 0.9431,
+    "rec_eq_pass": 1.0,
+    "pass_eq_netPassing": 0.1943
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 808,
+     "home_id": 808,
+     "away_id": 808,
+     "home_score": 808,
+     "away_score": 808,
+     "neutral_site": 808
+    },
+    "utc_date_ne_et_date_games": 195,
+    "neutral_site_true_share": 0.0705
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 1.0,
+    "share_athletes_with_roster_row_any_team": 1.0,
+    "fill_among_matched": {
+     "position_abbreviation": 0.0,
+     "date_of_birth": 0.4176,
+     "height": 0.9965,
+     "weight": 0.9981,
+     "experience_display_value": 0.9219,
+     "birth_place_city": 0.9845,
+     "cfbd_recruit_ids": 1.0
+    },
+    "experience_values": [
+     [
+      "Senior",
+      3681
+     ],
+     [
+      "Junior",
+      530
+     ],
+     [
+      "",
+      378
+     ],
+     [
+      "Sophomore",
+      177
+     ],
+     [
+      "Freshman",
+      73
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 1
+   },
+   "stale_csv_gz_layout": {
+    "rows": 32438,
+    "games": 808,
+    "has_statN_cols": false,
+    "categories_with_data_in_statN": {},
+    "fresh_csv_rows": 32438,
+    "fresh_csv_games": 808
+   },
+   "bytes": {
+    "csv": 3212264,
+    "csv.gz": 624714,
+    "parquet": 388316,
+    "rds": 525658
+   },
+   "bytes_gzip6_fresh_csv": 644710
+  },
+  "2011": {
+   "pb_rows": 31999,
+   "pb_games": 805,
+   "pb_postseason_games": 35,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 715,
+    "fbs_fcs": 97,
+    "other": 4
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fcs": 97,
+    "fbs_fbs": 680
+   },
+   "cfbd_sched_season_types": {
+    "regular": 777
+   },
+   "espn_final_fbs_games_missing_from_pb": {
+    "fbs_fbs": 7
+   },
+   "cfbd_completed_fbs_games_missing_from_pb": {
+    "fbs_fbs": 7
+   },
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1527,
+   "fbs_team_games_with_rows": 1513,
+   "fbs_team_game_coverage": 0.9908,
+   "worst_teams_missing": [
+    [
+     "130",
+     1
+    ],
+    [
+     "2711",
+     1
+    ],
+    [
+     "2459",
+     1
+    ],
+    [
+     "2199",
+     1
+    ],
+    [
+     "218",
+     1
+    ]
+   ],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "57",
+      13,
+      13,
+      13
+     ],
+     [
+      "62",
+      13,
+      13,
+      13
+     ],
+     [
+      "96",
+      12,
+      12,
+      12
+     ],
+     [
+      "120",
+      12,
+      12,
+      12
+     ],
+     [
+      "130",
+      13,
+      12,
+      12
+     ],
+     [
+      "142",
+      13,
+      13,
+      13
+     ],
+     [
+      "145",
+      12,
+      12,
+      12
+     ],
+     [
+      "195",
+      14,
+      14,
+      14
+     ],
+     [
+      "197",
+      13,
+      13,
+      13
+     ],
+     [
+      "202",
+      13,
+      13,
+      13
+     ],
+     [
+      "218",
+      13,
+      12,
+      12
+     ],
+     [
+      "221",
+      13,
+      13,
+      13
+     ],
+     [
+      "254",
+      13,
+      13,
+      13
+     ],
+     [
+      "276",
+      13,
+      13,
+      13
+     ],
+     [
+      "2032",
+      13,
+      12,
+      12
+     ],
+     [
+      "2084",
+      12,
+      12,
+      12
+     ],
+     [
+      "2306",
+      13,
+      13,
+      13
+     ],
+     [
+      "2509",
+      13,
+      13,
+      13
+     ],
+     [
+      "2641",
+      12,
+      12,
+      12
+     ],
+     [
+      "2653",
+      12,
+      11,
+      11
+     ]
+    ],
+    "totals": {
+     "sched_games": 255,
+     "with_any_row": 251,
+     "with_passing_row": 251
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1416,
+    "fbs_fcs|fbs|present": 97,
+    "fbs_fcs|nonfbs|present": 97
+   },
+   "categories_rows": {
+    "passing": 2557,
+    "rushing": 8343,
+    "receiving": 11350,
+    "interceptions": 1393,
+    "kickReturns": 2994,
+    "puntReturns": 1933,
+    "kicking": 1681,
+    "punting": 1748
+   },
+   "category_game_coverage": {
+    "passing": 805,
+    "rushing": 805,
+    "receiving": 805,
+    "interceptions": 688,
+    "kickReturns": 805,
+    "puntReturns": 797,
+    "kicking": 805,
+    "punting": 805
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     188
+    ]
+   ],
+   "team_rows_by_category": {},
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 3,
+    "fbs_sides": 1513,
+    "fbs_rec_short_share": 0.002,
+    "nonfbs_rec_short_share": 0.0,
+    "fbs_sides_carries_short_of_team_box_gt5": 0
+   },
+   "team_box_reconcile_match_share": {
+    "rush_eq_team_rush": 0.6323,
+    "rush_excl_teamrows_eq_team_rush": 0.6323,
+    "car_eq_team_att": 0.6255,
+    "att_eq_team_att": 0.9435,
+    "rec_eq_pass": 0.9969,
+    "pass_eq_netPassing": 0.2143
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 805,
+     "home_id": 805,
+     "away_id": 805,
+     "home_score": 805,
+     "away_score": 805,
+     "neutral_site": 805
+    },
+    "utc_date_ne_et_date_games": 193,
+    "neutral_site_true_share": 0.0671
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 1.0,
+    "share_athletes_with_roster_row_any_team": 1.0,
+    "fill_among_matched": {
+     "position_abbreviation": 0.0,
+     "date_of_birth": 0.2512,
+     "height": 0.9981,
+     "weight": 0.9985,
+     "experience_display_value": 0.9571,
+     "birth_place_city": 0.982,
+     "cfbd_recruit_ids": 1.0
+    },
+    "experience_values": [
+     [
+      "Senior",
+      3868
+     ],
+     [
+      "Junior",
+      489
+     ],
+     [
+      "",
+      205
+     ],
+     [
+      "Sophomore",
+      149
+     ],
+     [
+      "Freshman",
+      67
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 1,
+    "fresh_only_by_cat": {
+     "kicking": 1
+    },
+    "shared_rows_with_yards_diff": 7
+   },
+   "stale_csv_gz_layout": {
+    "rows": 31998,
+    "games": 805,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 4
+    },
+    "fresh_csv_rows": 31999,
+    "fresh_csv_games": 805
+   },
+   "bytes": {
+    "csv": 3169533,
+    "csv.gz": 618330,
+    "parquet": 384217,
+    "rds": 521561
+   },
+   "bytes_gzip6_fresh_csv": 637847
+  },
+  "2012": {
+   "pb_rows": 32681,
+   "pb_games": 841,
+   "pb_postseason_games": 35,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 739,
+    "fbs_fcs": 108,
+    "other": 3
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fbs": 697,
+    "fbs_fcs": 108
+   },
+   "cfbd_sched_season_types": {
+    "regular": 805
+   },
+   "espn_final_fbs_games_missing_from_pb": {
+    "fbs_fbs": 6
+   },
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1586,
+   "fbs_team_games_with_rows": 1574,
+   "fbs_team_game_coverage": 0.9924,
+   "worst_teams_missing": [
+    [
+     "2309",
+     1
+    ],
+    [
+     "2459",
+     1
+    ],
+    [
+     "24",
+     1
+    ],
+    [
+     "26",
+     1
+    ],
+    [
+     "202",
+     1
+    ]
+   ],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "2",
+      12,
+      12,
+      12
+     ],
+     [
+      "58",
+      12,
+      12,
+      12
+     ],
+     [
+      "68",
+      13,
+      13,
+      13
+     ],
+     [
+      "77",
+      13,
+      13,
+      13
+     ],
+     [
+      "87",
+      13,
+      13,
+      13
+     ],
+     [
+      "99",
+      13,
+      13,
+      13
+     ],
+     [
+      "113",
+      12,
+      12,
+      12
+     ],
+     [
+      "153",
+      12,
+      12,
+      12
+     ],
+     [
+      "154",
+      12,
+      12,
+      12
+     ],
+     [
+      "249",
+      12,
+      12,
+      12
+     ],
+     [
+      "258",
+      12,
+      12,
+      12
+     ],
+     [
+      "2006",
+      12,
+      12,
+      12
+     ],
+     [
+      "2117",
+      13,
+      13,
+      13
+     ],
+     [
+      "2199",
+      12,
+      12,
+      12
+     ],
+     [
+      "2226",
+      12,
+      12,
+      12
+     ],
+     [
+      "2229",
+      12,
+      12,
+      12
+     ],
+     [
+      "2305",
+      12,
+      12,
+      12
+     ],
+     [
+      "2390",
+      12,
+      12,
+      12
+     ],
+     [
+      "2440",
+      13,
+      13,
+      13
+     ],
+     [
+      "2636",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 246,
+     "with_any_row": 246,
+     "with_passing_row": 246
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1466,
+    "fbs_fcs|fbs|present": 108,
+    "fbs_fcs|nonfbs|missing": 3,
+    "fbs_fcs|nonfbs|present": 105
+   },
+   "categories_rows": {
+    "passing": 2628,
+    "rushing": 8790,
+    "receiving": 11988,
+    "interceptions": 1448,
+    "kickReturns": 2700,
+    "puntReturns": 1557,
+    "kicking": 1746,
+    "punting": 1824
+   },
+   "category_game_coverage": {
+    "passing": 841,
+    "rushing": 841,
+    "receiving": 841,
+    "interceptions": 707,
+    "kickReturns": 839,
+    "puntReturns": 797,
+    "kicking": 839,
+    "punting": 841
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     201
+    ]
+   ],
+   "team_rows_by_category": {},
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 9,
+    "fbs_sides": 1574,
+    "fbs_rec_short_share": 0.0057,
+    "nonfbs_rec_short_share": 0.0,
+    "fbs_sides_carries_short_of_team_box_gt5": 0
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.9994,
+    "att_eq_team_att": 0.9386,
+    "rec_eq_pass": 0.9928,
+    "rush_eq_team_rush": 0.6029,
+    "rush_excl_teamrows_eq_team_rush": 0.6029,
+    "car_eq_team_att": 0.5939
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 841,
+     "home_id": 841,
+     "away_id": 841,
+     "home_score": 841,
+     "away_score": 841,
+     "neutral_site": 841
+    },
+    "utc_date_ne_et_date_games": 189,
+    "neutral_site_true_share": 0.0642
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 1.0,
+    "share_athletes_with_roster_row_any_team": 1.0,
+    "fill_among_matched": {
+     "position_abbreviation": 0.0,
+     "date_of_birth": 0.14,
+     "height": 0.9978,
+     "weight": 0.998,
+     "experience_display_value": 0.9913,
+     "birth_place_city": 0.9816,
+     "cfbd_recruit_ids": 0.9998
+    },
+    "experience_values": [
+     [
+      "Senior",
+      4136
+     ],
+     [
+      "Junior",
+      554
+     ],
+     [
+      "Sophomore",
+      150
+     ],
+     [
+      "Freshman",
+      59
+     ],
+     [
+      "",
+      43
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 2,
+    "gz_only_by_cat": {
+     "receiving": 2
+    },
+    "gz_only_athletes": 1,
+    "gz_only_yards_lost": {
+     "rushingYards": 0.0,
+     "receivingYards": 43.0,
+     "passingYards": 0.0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 32683,
+    "games": 841,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 4
+    },
+    "fresh_csv_rows": 32681,
+    "fresh_csv_games": 841
+   },
+   "bytes": {
+    "csv": 3239502,
+    "csv.gz": 638521,
+    "parquet": 394931,
+    "rds": 535902
+   },
+   "bytes_gzip6_fresh_csv": 657325
+  },
+  "2013": {
+   "pb_rows": 33609,
+   "pb_games": 855,
+   "pb_postseason_games": 35,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 739,
+    "fbs_fcs": 111,
+    "other": 10
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fbs": 702,
+    "fbs_fcs": 111
+   },
+   "cfbd_sched_season_types": {
+    "regular": 813
+   },
+   "espn_final_fbs_games_missing_from_pb": {
+    "fbs_fbs": 2
+   },
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1589,
+   "fbs_team_games_with_rows": 1585,
+   "fbs_team_game_coverage": 0.9975,
+   "worst_teams_missing": [
+    [
+     "2655",
+     1
+    ],
+    [
+     "309",
+     1
+    ],
+    [
+     "61",
+     1
+    ],
+    [
+     "158",
+     1
+    ]
+   ],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "38",
+      12,
+      12,
+      12
+     ],
+     [
+      "52",
+      14,
+      14,
+      14
+     ],
+     [
+      "57",
+      12,
+      12,
+      12
+     ],
+     [
+      "59",
+      13,
+      13,
+      13
+     ],
+     [
+      "70",
+      12,
+      12,
+      12
+     ],
+     [
+      "96",
+      12,
+      12,
+      12
+     ],
+     [
+      "135",
+      13,
+      13,
+      13
+     ],
+     [
+      "235",
+      12,
+      12,
+      12
+     ],
+     [
+      "238",
+      13,
+      13,
+      13
+     ],
+     [
+      "242",
+      14,
+      14,
+      14
+     ],
+     [
+      "252",
+      13,
+      13,
+      13
+     ],
+     [
+      "309",
+      14,
+      13,
+      13
+     ],
+     [
+      "326",
+      12,
+      12,
+      12
+     ],
+     [
+      "333",
+      13,
+      13,
+      13
+     ],
+     [
+      "2247",
+      12,
+      12,
+      12
+     ],
+     [
+      "2309",
+      12,
+      12,
+      12
+     ],
+     [
+      "2390",
+      13,
+      13,
+      13
+     ],
+     [
+      "2483",
+      13,
+      13,
+      13
+     ],
+     [
+      "2567",
+      12,
+      12,
+      12
+     ],
+     [
+      "2572",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 253,
+     "with_any_row": 252,
+     "with_passing_row": 252
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1474,
+    "fbs_fcs|fbs|present": 111,
+    "fbs_fcs|nonfbs|present": 111
+   },
+   "categories_rows": {
+    "passing": 2740,
+    "rushing": 9129,
+    "receiving": 12142,
+    "interceptions": 1545,
+    "kickReturns": 2818,
+    "kicking": 1794,
+    "punting": 1873,
+    "puntReturns": 1568
+   },
+   "category_game_coverage": {
+    "passing": 855,
+    "rushing": 855,
+    "receiving": 855,
+    "interceptions": 725,
+    "kickReturns": 852,
+    "kicking": 855,
+    "punting": 854,
+    "puntReturns": 808
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "puntReturns": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "puntReturns": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     198
+    ]
+   ],
+   "team_rows_by_category": {
+    "passing": 4,
+    "rushing": 3
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 2,
+    "fbs_sides": 1585,
+    "fbs_rec_short_share": 0.0013,
+    "nonfbs_rec_short_share": 0.0,
+    "fbs_sides_carries_short_of_team_box_gt5": 0
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.9994,
+    "rush_eq_team_rush": 0.5865,
+    "rush_excl_teamrows_eq_team_rush": 0.5865,
+    "car_eq_team_att": 0.5749,
+    "att_eq_team_att": 0.9316,
+    "rec_eq_pass": 0.9965
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 855,
+     "home_id": 855,
+     "away_id": 855,
+     "home_score": 855,
+     "away_score": 855,
+     "neutral_site": 855
+    },
+    "utc_date_ne_et_date_games": 210,
+    "neutral_site_true_share": 0.0608
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 1.0,
+    "share_athletes_with_roster_row_any_team": 1.0,
+    "fill_among_matched": {
+     "position_abbreviation": 0.0,
+     "date_of_birth": 0.1055,
+     "height": 0.9983,
+     "weight": 0.9988,
+     "experience_display_value": 0.9944,
+     "birth_place_city": 0.9861,
+     "cfbd_recruit_ids": 0.9998
+    },
+    "experience_values": [
+     [
+      "Senior",
+      4291
+     ],
+     [
+      "Junior",
+      636
+     ],
+     [
+      "Sophomore",
+      152
+     ],
+     [
+      "Freshman",
+      76
+     ],
+     [
+      "",
+      29
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 4,
+    "gz_only_by_cat": {
+     "receiving": 4
+    },
+    "gz_only_athletes": 1,
+    "gz_only_yards_lost": {
+     "rushingYards": 0.0,
+     "receivingYards": 65.0,
+     "passingYards": 0.0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 33613,
+    "games": 855,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 9
+    },
+    "fresh_csv_rows": 33609,
+    "fresh_csv_games": 855
+   },
+   "bytes": {
+    "csv": 3334013,
+    "csv.gz": 656938,
+    "parquet": 405611,
+    "rds": 554511
+   },
+   "bytes_gzip6_fresh_csv": 676023
+  },
+  "2014": {
+   "pb_rows": 34091,
+   "pb_games": 870,
+   "pb_postseason_games": 39,
+   "espn_sched_final_by_class": {
+    "fbs_fcs": 107,
+    "fbs_fbs": 760,
+    "other": 3
+   },
+   "cfbd_sched_completed_by_class": {
+    "other": 713,
+    "fbs_fcs": 108,
+    "fbs_fbs": 721
+   },
+   "cfbd_sched_season_types": {
+    "regular": 1542
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {
+    "fbs_fcs": 1
+   },
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1627,
+   "fbs_team_games_with_rows": 1627,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "6",
+      13,
+      13,
+      13
+     ],
+     [
+      "8",
+      13,
+      13,
+      13
+     ],
+     [
+      "52",
+      14,
+      14,
+      14
+     ],
+     [
+      "58",
+      12,
+      12,
+      12
+     ],
+     [
+      "98",
+      13,
+      13,
+      13
+     ],
+     [
+      "130",
+      12,
+      12,
+      12
+     ],
+     [
+      "142",
+      14,
+      14,
+      14
+     ],
+     [
+      "197",
+      13,
+      13,
+      13
+     ],
+     [
+      "228",
+      13,
+      13,
+      13
+     ],
+     [
+      "235",
+      13,
+      13,
+      13
+     ],
+     [
+      "242",
+      13,
+      13,
+      13
+     ],
+     [
+      "344",
+      13,
+      13,
+      13
+     ],
+     [
+      "2050",
+      12,
+      12,
+      12
+     ],
+     [
+      "2116",
+      13,
+      13,
+      13
+     ],
+     [
+      "2305",
+      12,
+      12,
+      12
+     ],
+     [
+      "2440",
+      13,
+      13,
+      13
+     ],
+     [
+      "2483",
+      15,
+      15,
+      15
+     ],
+     [
+      "2633",
+      13,
+      13,
+      13
+     ],
+     [
+      "2649",
+      13,
+      13,
+      13
+     ],
+     [
+      "2751",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 259,
+     "with_any_row": 259,
+     "with_passing_row": 259
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1520,
+    "fbs_fcs|fbs|present": 107,
+    "fbs_fcs|nonfbs|present": 107
+   },
+   "categories_rows": {
+    "passing": 2668,
+    "rushing": 9338,
+    "receiving": 12407,
+    "interceptions": 1506,
+    "kickReturns": 2788,
+    "kicking": 1811,
+    "punting": 1951,
+    "puntReturns": 1622
+   },
+   "category_game_coverage": {
+    "passing": 870,
+    "rushing": 870,
+    "receiving": 870,
+    "interceptions": 737,
+    "kickReturns": 868,
+    "kicking": 866,
+    "punting": 869,
+    "puntReturns": 829
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "puntReturns": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "puntReturns": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     206
+    ]
+   ],
+   "team_rows_by_category": {
+    "rushing": 91,
+    "passing": 15,
+    "punting": 25,
+    "puntReturns": 3
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 7,
+    "fbs_sides": 1627,
+    "fbs_rec_short_share": 0.0043,
+    "nonfbs_rec_short_share": 0.0088,
+    "fbs_sides_carries_short_of_team_box_gt5": 1
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.996,
+    "rush_eq_team_rush": 0.6293,
+    "car_eq_team_att": 0.6241,
+    "att_eq_team_att": 0.9437,
+    "rec_eq_pass": 0.9793,
+    "rush_excl_teamrows_eq_team_rush": 0.5897
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 870,
+     "home_id": 870,
+     "away_id": 870,
+     "home_score": 870,
+     "away_score": 870,
+     "neutral_site": 870
+    },
+    "utc_date_ne_et_date_games": 210,
+    "neutral_site_true_share": 0.0736
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9812,
+    "share_athletes_with_roster_row_any_team": 0.9815,
+    "fill_among_matched": {
+     "position_abbreviation": 0.998,
+     "date_of_birth": 0.133,
+     "height": 0.9959,
+     "weight": 0.9957,
+     "experience_display_value": 0.9955,
+     "birth_place_city": 0.9835,
+     "cfbd_recruit_ids": 0.9951
+    },
+    "experience_values": [
+     [
+      "Senior",
+      4221
+     ],
+     [
+      "Junior",
+      611
+     ],
+     [
+      "Sophomore",
+      170
+     ],
+     [
+      "Freshman",
+      65
+     ],
+     [
+      "",
+      23
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 5,
+    "gz_only_by_cat": {
+     "receiving": 5
+    },
+    "gz_only_athletes": 1,
+    "gz_only_yards_lost": {
+     "rushingYards": 0.0,
+     "receivingYards": 72.0,
+     "passingYards": 0.0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 34096,
+    "games": 870,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 19
+    },
+    "fresh_csv_rows": 34091,
+    "fresh_csv_games": 870
+   },
+   "bytes": {
+    "csv": 3433896,
+    "csv.gz": 697729,
+    "parquet": 436077,
+    "rds": 597671
+   },
+   "bytes_gzip6_fresh_csv": 715619
+  },
+  "2015": {
+   "pb_rows": 33938,
+   "pb_games": 873,
+   "pb_postseason_games": 41,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 765,
+    "fbs_fcs": 105,
+    "other": 3
+   },
+   "cfbd_sched_completed_by_class": {
+    "other": 662,
+    "fbs_fbs": 724,
+    "fbs_fcs": 105
+   },
+   "cfbd_sched_season_types": {
+    "regular": 1491
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1635,
+   "fbs_team_games_with_rows": 1635,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "21",
+      14,
+      14,
+      14
+     ],
+     [
+      "38",
+      13,
+      13,
+      13
+     ],
+     [
+      "57",
+      14,
+      14,
+      14
+     ],
+     [
+      "68",
+      13,
+      13,
+      13
+     ],
+     [
+      "120",
+      12,
+      12,
+      12
+     ],
+     [
+      "145",
+      13,
+      13,
+      13
+     ],
+     [
+      "151",
+      12,
+      12,
+      12
+     ],
+     [
+      "189",
+      14,
+      14,
+      14
+     ],
+     [
+      "195",
+      13,
+      13,
+      13
+     ],
+     [
+      "204",
+      12,
+      12,
+      12
+     ],
+     [
+      "254",
+      13,
+      13,
+      13
+     ],
+     [
+      "326",
+      12,
+      12,
+      12
+     ],
+     [
+      "328",
+      13,
+      13,
+      13
+     ],
+     [
+      "2026",
+      13,
+      13,
+      13
+     ],
+     [
+      "2032",
+      13,
+      13,
+      13
+     ],
+     [
+      "2084",
+      12,
+      12,
+      12
+     ],
+     [
+      "2132",
+      13,
+      13,
+      13
+     ],
+     [
+      "2433",
+      13,
+      13,
+      13
+     ],
+     [
+      "2572",
+      14,
+      14,
+      14
+     ],
+     [
+      "2655",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 258,
+     "with_any_row": 258,
+     "with_passing_row": 258
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1530,
+    "fbs_fcs|fbs|present": 105,
+    "fbs_fcs|nonfbs|present": 105
+   },
+   "categories_rows": {
+    "passing": 2801,
+    "rushing": 9426,
+    "receiving": 12188,
+    "interceptions": 1496,
+    "kickReturns": 2706,
+    "puntReturns": 1562,
+    "kicking": 1808,
+    "punting": 1951
+   },
+   "category_game_coverage": {
+    "passing": 873,
+    "rushing": 873,
+    "receiving": 873,
+    "interceptions": 742,
+    "kickReturns": 868,
+    "puntReturns": 823,
+    "kicking": 872,
+    "punting": 873
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     198
+    ]
+   ],
+   "team_rows_by_category": {
+    "passing": 13,
+    "rushing": 56,
+    "punting": 16,
+    "kickReturns": 1
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 7,
+    "fbs_sides": 1635,
+    "fbs_rec_short_share": 0.0043,
+    "nonfbs_rec_short_share": 0.009,
+    "fbs_sides_carries_short_of_team_box_gt5": 20
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.9908,
+    "att_eq_team_att": 0.9376,
+    "rec_eq_pass": 0.9576,
+    "rush_eq_team_rush": 0.5939,
+    "rush_excl_teamrows_eq_team_rush": 0.5641,
+    "car_eq_team_att": 0.5853
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 873,
+     "home_id": 873,
+     "away_id": 873,
+     "home_score": 873,
+     "away_score": 873,
+     "neutral_site": 873
+    },
+    "utc_date_ne_et_date_games": 223,
+    "neutral_site_true_share": 0.0733
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.991,
+    "share_athletes_with_roster_row_any_team": 0.9909,
+    "fill_among_matched": {
+     "position_abbreviation": 0.9977,
+     "date_of_birth": 0.1568,
+     "height": 0.9986,
+     "weight": 0.9988,
+     "experience_display_value": 0.9986,
+     "birth_place_city": 0.9886,
+     "cfbd_recruit_ids": 0.9986
+    },
+    "experience_values": [
+     [
+      "Senior",
+      4170
+     ],
+     [
+      "Junior",
+      685
+     ],
+     [
+      "Sophomore",
+      163
+     ],
+     [
+      "Freshman",
+      83
+     ],
+     [
+      "",
+      7
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 2,
+    "gz_only_by_cat": {
+     "receiving": 2
+    },
+    "gz_only_athletes": 1,
+    "gz_only_yards_lost": {
+     "rushingYards": 0.0,
+     "receivingYards": 72.0,
+     "passingYards": 0.0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 33940,
+    "games": 873,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 22
+    },
+    "fresh_csv_rows": 33938,
+    "fresh_csv_games": 873
+   },
+   "bytes": {
+    "csv": 3435582,
+    "csv.gz": 704965,
+    "parquet": 440489,
+    "rds": 603424
+   },
+   "bytes_gzip6_fresh_csv": 723742
+  },
+  "2016": {
+   "pb_rows": 40719,
+   "pb_games": 875,
+   "pb_postseason_games": 41,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 760,
+    "fbs_fcs": 113,
+    "other": 3
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fbs": 719,
+    "other": 670,
+    "fbs_fcs": 113
+   },
+   "cfbd_sched_season_types": {
+    "regular": 1502
+   },
+   "espn_final_fbs_games_missing_from_pb": {
+    "fbs_fbs": 1
+   },
+   "cfbd_completed_fbs_games_missing_from_pb": {
+    "fbs_fbs": 1
+   },
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1633,
+   "fbs_team_games_with_rows": 1631,
+   "fbs_team_game_coverage": 0.9988,
+   "worst_teams_missing": [
+    [
+     "150",
+     1
+    ],
+    [
+     "349",
+     1
+    ]
+   ],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "2",
+      13,
+      13,
+      13
+     ],
+     [
+      "21",
+      14,
+      14,
+      14
+     ],
+     [
+      "61",
+      13,
+      13,
+      13
+     ],
+     [
+      "62",
+      14,
+      14,
+      14
+     ],
+     [
+      "84",
+      13,
+      13,
+      13
+     ],
+     [
+      "96",
+      13,
+      13,
+      13
+     ],
+     [
+      "98",
+      14,
+      14,
+      14
+     ],
+     [
+      "183",
+      12,
+      12,
+      12
+     ],
+     [
+      "193",
+      13,
+      13,
+      13
+     ],
+     [
+      "218",
+      14,
+      14,
+      14
+     ],
+     [
+      "238",
+      13,
+      13,
+      13
+     ],
+     [
+      "2050",
+      12,
+      12,
+      12
+     ],
+     [
+      "2229",
+      12,
+      12,
+      12
+     ],
+     [
+      "2433",
+      12,
+      12,
+      12
+     ],
+     [
+      "2459",
+      12,
+      12,
+      12
+     ],
+     [
+      "2572",
+      13,
+      13,
+      13
+     ],
+     [
+      "2579",
+      13,
+      13,
+      13
+     ],
+     [
+      "2628",
+      13,
+      13,
+      13
+     ],
+     [
+      "2636",
+      13,
+      13,
+      13
+     ],
+     [
+      "2655",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 258,
+     "with_any_row": 258,
+     "with_passing_row": 258
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1518,
+    "fbs_fcs|fbs|present": 113,
+    "fbs_fcs|nonfbs|present": 113
+   },
+   "categories_rows": {
+    "passing": 2830,
+    "rushing": 10113,
+    "receiving": 12163,
+    "fumbles": 3266,
+    "interceptions": 1432,
+    "kickReturns": 2682,
+    "puntReturns": 1564,
+    "kicking": 1837,
+    "punting": 1934,
+    "defensive": 2898
+   },
+   "category_game_coverage": {
+    "passing": 875,
+    "rushing": 875,
+    "receiving": 875,
+    "fumbles": 812,
+    "interceptions": 717,
+    "kickReturns": 870,
+    "puntReturns": 817,
+    "kicking": 873,
+    "punting": 875,
+    "defensive": 69
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "defensive": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "defensive": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     311
+    ]
+   ],
+   "team_rows_by_category": {
+    "rushing": 715,
+    "passing": 104,
+    "fumbles": 147,
+    "punting": 22,
+    "defensive": 8,
+    "puntReturns": 1,
+    "kicking": 1
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 2,
+    "fbs_sides": 1631,
+    "fbs_rec_short_share": 0.0012,
+    "nonfbs_rec_short_share": 0.0084,
+    "fbs_sides_carries_short_of_team_box_gt5": 7
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.9943,
+    "rush_eq_team_rush": 0.9754,
+    "rush_excl_teamrows_eq_team_rush": 0.5949,
+    "car_eq_team_att": 0.9743,
+    "att_eq_team_att": 0.9949,
+    "rec_eq_pass": 0.9783
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 875,
+     "home_id": 875,
+     "away_id": 875,
+     "home_score": 875,
+     "away_score": 875,
+     "neutral_site": 875
+    },
+    "utc_date_ne_et_date_games": 220,
+    "neutral_site_true_share": 0.0766
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9927,
+    "share_athletes_with_roster_row_any_team": 0.9926,
+    "fill_among_matched": {
+     "position_abbreviation": 0.9994,
+     "date_of_birth": 0.178,
+     "height": 0.999,
+     "weight": 0.9988,
+     "experience_display_value": 0.9997,
+     "birth_place_city": 0.9928,
+     "cfbd_recruit_ids": 0.9981
+    },
+    "experience_values": [
+     [
+      "Senior",
+      5600
+     ],
+     [
+      "Junior",
+      888
+     ],
+     [
+      "Sophomore",
+      230
+     ],
+     [
+      "Freshman",
+      83
+     ],
+     [
+      "",
+      2
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 40719,
+    "games": 875,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 17
+    },
+    "fresh_csv_rows": 40719,
+    "fresh_csv_games": 875
+   },
+   "bytes": {
+    "csv": 4498079,
+    "csv.gz": 818957,
+    "parquet": 513160,
+    "rds": 704740
+   },
+   "bytes_gzip6_fresh_csv": 840205
+  },
+  "2017": {
+   "pb_rows": 40016,
+   "pb_games": 877,
+   "pb_postseason_games": 40,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 776,
+    "fbs_fcs": 98,
+    "other": 3
+   },
+   "cfbd_sched_completed_by_class": {
+    "other": 671,
+    "fbs_fbs": 736,
+    "fbs_fcs": 98
+   },
+   "cfbd_sched_season_types": {
+    "regular": 1505
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1650,
+   "fbs_team_games_with_rows": 1650,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "58",
+      12,
+      12,
+      12
+     ],
+     [
+      "62",
+      12,
+      12,
+      12
+     ],
+     [
+      "98",
+      13,
+      13,
+      13
+     ],
+     [
+      "113",
+      12,
+      12,
+      12
+     ],
+     [
+      "167",
+      12,
+      12,
+      12
+     ],
+     [
+      "193",
+      12,
+      12,
+      12
+     ],
+     [
+      "238",
+      12,
+      12,
+      12
+     ],
+     [
+      "249",
+      14,
+      14,
+      14
+     ],
+     [
+      "265",
+      13,
+      13,
+      13
+     ],
+     [
+      "324",
+      12,
+      12,
+      12
+     ],
+     [
+      "2026",
+      13,
+      13,
+      13
+     ],
+     [
+      "2116",
+      13,
+      13,
+      13
+     ],
+     [
+      "2117",
+      13,
+      13,
+      13
+     ],
+     [
+      "2306",
+      13,
+      13,
+      13
+     ],
+     [
+      "2309",
+      12,
+      12,
+      12
+     ],
+     [
+      "2426",
+      13,
+      13,
+      13
+     ],
+     [
+      "2433",
+      12,
+      12,
+      12
+     ],
+     [
+      "2439",
+      12,
+      12,
+      12
+     ],
+     [
+      "2509",
+      13,
+      13,
+      13
+     ],
+     [
+      "2636",
+      11,
+      11,
+      11
+     ]
+    ],
+    "totals": {
+     "sched_games": 249,
+     "with_any_row": 249,
+     "with_passing_row": 249
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1552,
+    "fbs_fcs|fbs|present": 98,
+    "fbs_fcs|nonfbs|present": 98
+   },
+   "categories_rows": {
+    "passing": 2790,
+    "rushing": 10249,
+    "receiving": 12267,
+    "fumbles": 3091,
+    "interceptions": 1426,
+    "puntReturns": 1466,
+    "kicking": 1852,
+    "punting": 1962,
+    "kickReturns": 2578,
+    "defensive": 2335
+   },
+   "category_game_coverage": {
+    "passing": 877,
+    "rushing": 877,
+    "receiving": 877,
+    "fumbles": 813,
+    "interceptions": 722,
+    "puntReturns": 803,
+    "kicking": 877,
+    "punting": 877,
+    "kickReturns": 869,
+    "defensive": 55
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "interceptions": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "kickReturns": 0.0,
+    "defensive": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "interceptions": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "kickReturns": 0.0,
+    "defensive": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     260
+    ]
+   ],
+   "team_rows_by_category": {
+    "rushing": 729,
+    "fumbles": 148,
+    "passing": 84,
+    "punting": 18,
+    "defensive": 6,
+    "kicking": 1,
+    "puntReturns": 2
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 7,
+    "fbs_sides": 1650,
+    "fbs_rec_short_share": 0.0042,
+    "nonfbs_rec_short_share": 0.0,
+    "fbs_sides_carries_short_of_team_box_gt5": 0
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.996,
+    "rush_eq_team_rush": 0.9863,
+    "car_eq_team_att": 0.9857,
+    "att_eq_team_att": 0.9983,
+    "rec_eq_pass": 0.9857,
+    "rush_excl_teamrows_eq_team_rush": 0.5884
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 877,
+     "home_id": 877,
+     "away_id": 877,
+     "home_score": 877,
+     "away_score": 877,
+     "neutral_site": 877
+    },
+    "utc_date_ne_et_date_games": 220,
+    "neutral_site_true_share": 0.073
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9892,
+    "share_athletes_with_roster_row_any_team": 0.9892,
+    "fill_among_matched": {
+     "position_abbreviation": 0.9982,
+     "date_of_birth": 0.2193,
+     "height": 0.9985,
+     "weight": 0.9985,
+     "experience_display_value": 0.9983,
+     "birth_place_city": 0.9943,
+     "cfbd_recruit_ids": 0.998
+    },
+    "experience_values": [
+     [
+      "Senior",
+      5309
+     ],
+     [
+      "Junior",
+      863
+     ],
+     [
+      "Sophomore",
+      230
+     ],
+     [
+      "Freshman",
+      85
+     ],
+     [
+      "",
+      11
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 40016,
+    "games": 877,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 18
+    },
+    "fresh_csv_rows": 40016,
+    "fresh_csv_games": 877
+   },
+   "bytes": {
+    "csv": 4429965,
+    "csv.gz": 809202,
+    "parquet": 506141,
+    "rds": 695569
+   },
+   "bytes_gzip6_fresh_csv": 829291
+  },
+  "2018": {
+   "pb_rows": 40131,
+   "pb_games": 887,
+   "pb_postseason_games": 39,
+   "espn_sched_final_by_class": {
+    "fbs_fcs": 112,
+    "fbs_fbs": 772,
+    "other": 3
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fcs": 112,
+    "other": 666,
+    "fbs_fbs": 733
+   },
+   "cfbd_sched_season_types": {
+    "regular": 1511
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1656,
+   "fbs_team_games_with_rows": 1656,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "5",
+      14,
+      14,
+      14
+     ],
+     [
+      "41",
+      12,
+      12,
+      12
+     ],
+     [
+      "61",
+      14,
+      14,
+      14
+     ],
+     [
+      "99",
+      13,
+      13,
+      13
+     ],
+     [
+      "130",
+      13,
+      13,
+      13
+     ],
+     [
+      "142",
+      13,
+      13,
+      13
+     ],
+     [
+      "145",
+      12,
+      12,
+      12
+     ],
+     [
+      "151",
+      12,
+      12,
+      12
+     ],
+     [
+      "166",
+      12,
+      12,
+      12
+     ],
+     [
+      "193",
+      12,
+      12,
+      12
+     ],
+     [
+      "328",
+      13,
+      13,
+      13
+     ],
+     [
+      "2032",
+      13,
+      13,
+      13
+     ],
+     [
+      "2050",
+      12,
+      12,
+      12
+     ],
+     [
+      "2226",
+      12,
+      12,
+      12
+     ],
+     [
+      "2306",
+      12,
+      12,
+      12
+     ],
+     [
+      "2335",
+      12,
+      12,
+      12
+     ],
+     [
+      "2393",
+      14,
+      14,
+      14
+     ],
+     [
+      "2426",
+      13,
+      13,
+      13
+     ],
+     [
+      "2572",
+      11,
+      11,
+      11
+     ],
+     [
+      "2641",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 251,
+     "with_any_row": 251,
+     "with_passing_row": 251
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1544,
+    "fbs_fcs|fbs|present": 112,
+    "fbs_fcs|nonfbs|present": 112
+   },
+   "categories_rows": {
+    "passing": 2935,
+    "rushing": 10443,
+    "receiving": 12607,
+    "fumbles": 3242,
+    "kickReturns": 2444,
+    "puntReturns": 1603,
+    "kicking": 1862,
+    "punting": 1990,
+    "interceptions": 1429,
+    "defensive": 1576
+   },
+   "category_game_coverage": {
+    "passing": 887,
+    "rushing": 887,
+    "receiving": 887,
+    "fumbles": 815,
+    "kickReturns": 874,
+    "puntReturns": 838,
+    "kicking": 886,
+    "punting": 887,
+    "interceptions": 730,
+    "defensive": 36
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0,
+    "defensive": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0,
+    "defensive": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     316
+    ]
+   ],
+   "team_rows_by_category": {
+    "rushing": 735,
+    "fumbles": 150,
+    "passing": 106,
+    "punting": 20,
+    "defensive": 3,
+    "puntReturns": 1
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 8,
+    "fbs_sides": 1656,
+    "fbs_rec_short_share": 0.0048,
+    "nonfbs_rec_short_share": 0.0,
+    "fbs_sides_carries_short_of_team_box_gt5": 0
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.9938,
+    "rush_eq_team_rush": 0.9887,
+    "car_eq_team_att": 0.9876,
+    "att_eq_team_att": 0.9949,
+    "rec_eq_pass": 0.9842,
+    "rush_excl_teamrows_eq_team_rush": 0.5913
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 887,
+     "home_id": 887,
+     "away_id": 887,
+     "home_score": 887,
+     "away_score": 887,
+     "neutral_site": 887
+    },
+    "utc_date_ne_et_date_games": 193,
+    "neutral_site_true_share": 0.0722
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9895,
+    "share_athletes_with_roster_row_any_team": 0.9893,
+    "fill_among_matched": {
+     "position_abbreviation": 0.9982,
+     "date_of_birth": 0.2294,
+     "height": 0.9979,
+     "weight": 0.9985,
+     "experience_display_value": 0.9975,
+     "birth_place_city": 0.9975,
+     "cfbd_recruit_ids": 0.9913
+    },
+    "experience_values": [
+     [
+      "Senior",
+      5337
+     ],
+     [
+      "Junior",
+      988
+     ],
+     [
+      "Sophomore",
+      253
+     ],
+     [
+      "Freshman",
+      87
+     ],
+     [
+      "",
+      17
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 435,
+    "fresh_only_by_cat": {
+     "defensive": 434,
+     "interceptions": 1
+    },
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 39696,
+    "games": 887,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 20
+    },
+    "fresh_csv_rows": 40131,
+    "fresh_csv_games": 887
+   },
+   "bytes": {
+    "csv": 4451111,
+    "csv.gz": 809178,
+    "parquet": 507167,
+    "rds": 698502
+   },
+   "bytes_gzip6_fresh_csv": 838021
+  },
+  "2019": {
+   "pb_rows": 39436,
+   "pb_games": 891,
+   "pb_postseason_games": 40,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 774,
+    "fbs_fcs": 114,
+    "other": 3
+   },
+   "cfbd_sched_completed_by_class": {
+    "other": 729,
+    "fbs_fbs": 734,
+    "fbs_fcs": 114
+   },
+   "cfbd_sched_season_types": {
+    "regular": 1577
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1662,
+   "fbs_team_games_with_rows": 1662,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "61",
+      14,
+      14,
+      14
+     ],
+     [
+      "84",
+      13,
+      13,
+      13
+     ],
+     [
+      "97",
+      13,
+      13,
+      13
+     ],
+     [
+      "145",
+      12,
+      12,
+      12
+     ],
+     [
+      "183",
+      12,
+      12,
+      12
+     ],
+     [
+      "201",
+      14,
+      14,
+      14
+     ],
+     [
+      "218",
+      13,
+      13,
+      13
+     ],
+     [
+      "221",
+      13,
+      13,
+      13
+     ],
+     [
+      "249",
+      12,
+      12,
+      12
+     ],
+     [
+      "254",
+      14,
+      14,
+      14
+     ],
+     [
+      "277",
+      12,
+      12,
+      12
+     ],
+     [
+      "344",
+      13,
+      13,
+      13
+     ],
+     [
+      "356",
+      13,
+      13,
+      13
+     ],
+     [
+      "2348",
+      13,
+      13,
+      13
+     ],
+     [
+      "2429",
+      13,
+      13,
+      13
+     ],
+     [
+      "2433",
+      12,
+      12,
+      12
+     ],
+     [
+      "2439",
+      12,
+      12,
+      12
+     ],
+     [
+      "2628",
+      12,
+      12,
+      12
+     ],
+     [
+      "2633",
+      13,
+      13,
+      13
+     ],
+     [
+      "2641",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 255,
+     "with_any_row": 255,
+     "with_passing_row": 255
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1548,
+    "fbs_fcs|fbs|present": 114,
+    "fbs_fcs|nonfbs|present": 114
+   },
+   "categories_rows": {
+    "passing": 2925,
+    "rushing": 10183,
+    "receiving": 12614,
+    "fumbles": 3047,
+    "interceptions": 1322,
+    "kickReturns": 2398,
+    "puntReturns": 1497,
+    "kicking": 1890,
+    "punting": 1966,
+    "defensive": 1594
+   },
+   "category_game_coverage": {
+    "passing": 891,
+    "rushing": 891,
+    "receiving": 891,
+    "fumbles": 806,
+    "interceptions": 716,
+    "kickReturns": 870,
+    "puntReturns": 804,
+    "kicking": 891,
+    "punting": 890,
+    "defensive": 36
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "defensive": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "defensive": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     312
+    ]
+   ],
+   "team_rows_by_category": {
+    "rushing": 757,
+    "punting": 25,
+    "passing": 99,
+    "fumbles": 128,
+    "kicking": 3,
+    "puntReturns": 1,
+    "kickReturns": 1,
+    "defensive": 1
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 9,
+    "fbs_sides": 1662,
+    "fbs_rec_short_share": 0.0054,
+    "nonfbs_rec_short_share": 0.0083,
+    "fbs_sides_carries_short_of_team_box_gt5": 7
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.9983,
+    "rush_eq_team_rush": 0.9893,
+    "rush_excl_teamrows_eq_team_rush": 0.5791,
+    "car_eq_team_att": 0.9893,
+    "att_eq_team_att": 0.9989,
+    "rec_eq_pass": 0.9865
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 891,
+     "home_id": 891,
+     "away_id": 891,
+     "home_score": 891,
+     "away_score": 891,
+     "neutral_site": 891
+    },
+    "utc_date_ne_et_date_games": 208,
+    "neutral_site_true_share": 0.0685
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9914,
+    "share_athletes_with_roster_row_any_team": 0.9964,
+    "fill_among_matched": {
+     "position_abbreviation": 0.9983,
+     "date_of_birth": 0.2448,
+     "height": 0.9974,
+     "weight": 0.9988,
+     "experience_display_value": 0.9967,
+     "birth_place_city": 0.9988,
+     "cfbd_recruit_ids": 0.9967
+    },
+    "experience_values": [
+     [
+      "Senior",
+      5181
+     ],
+     [
+      "Junior",
+      1037
+     ],
+     [
+      "Sophomore",
+      315
+     ],
+     [
+      "Freshman",
+      95
+     ],
+     [
+      "",
+      22
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 1,
+    "gz_only_by_cat": {
+     "fumbles": 1
+    },
+    "gz_only_athletes": 1,
+    "gz_only_yards_lost": {
+     "rushingYards": 0.0,
+     "receivingYards": 0.0,
+     "passingYards": 0.0
+    },
+    "fresh_only_rows": 566,
+    "fresh_only_by_cat": {
+     "defensive": 566
+    },
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 38871,
+    "games": 891,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 17
+    },
+    "fresh_csv_rows": 39436,
+    "fresh_csv_games": 891
+   },
+   "bytes": {
+    "csv": 4376308,
+    "csv.gz": 796385,
+    "parquet": 502654,
+    "rds": 691664
+   },
+   "bytes_gzip6_fresh_csv": 826350
+  },
+  "2020": {
+   "pb_rows": 25715,
+   "pb_games": 571,
+   "pb_postseason_games": 26,
+   "espn_sched_final_by_class": {
+    "fbs_fcs": 34,
+    "fbs_fbs": 534,
+    "other": 3
+   },
+   "cfbd_sched_completed_by_class": {
+    "other": 21,
+    "fbs_fcs": 34,
+    "fbs_fbs": 508
+   },
+   "cfbd_sched_season_types": {
+    "regular": 563
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1102,
+   "fbs_team_games_with_rows": 1102,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "8",
+      10,
+      10,
+      10
+     ],
+     [
+      "25",
+      4,
+      4,
+      4
+     ],
+     [
+      "26",
+      7,
+      7,
+      7
+     ],
+     [
+      "68",
+      7,
+      7,
+      7
+     ],
+     [
+      "87",
+      12,
+      12,
+      12
+     ],
+     [
+      "152",
+      12,
+      12,
+      12
+     ],
+     [
+      "194",
+      8,
+      8,
+      8
+     ],
+     [
+      "197",
+      11,
+      11,
+      11
+     ],
+     [
+      "201",
+      11,
+      11,
+      11
+     ],
+     [
+      "204",
+      7,
+      7,
+      7
+     ],
+     [
+      "235",
+      11,
+      11,
+      11
+     ],
+     [
+      "238",
+      9,
+      9,
+      9
+     ],
+     [
+      "242",
+      5,
+      5,
+      5
+     ],
+     [
+      "309",
+      11,
+      11,
+      11
+     ],
+     [
+      "333",
+      13,
+      13,
+      13
+     ],
+     [
+      "2305",
+      9,
+      9,
+      9
+     ],
+     [
+      "2393",
+      9,
+      9,
+      9
+     ],
+     [
+      "2426",
+      10,
+      10,
+      10
+     ],
+     [
+      "2429",
+      6,
+      6,
+      6
+     ],
+     [
+      "2641",
+      10,
+      10,
+      10
+     ]
+    ],
+    "totals": {
+     "sched_games": 182,
+     "with_any_row": 182,
+     "with_passing_row": 182
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1068,
+    "fbs_fcs|fbs|present": 34,
+    "fbs_fcs|nonfbs|present": 34
+   },
+   "categories_rows": {
+    "passing": 1833,
+    "rushing": 6382,
+    "receiving": 8045,
+    "fumbles": 2037,
+    "interceptions": 903,
+    "kickReturns": 1545,
+    "puntReturns": 913,
+    "kicking": 1202,
+    "punting": 1257,
+    "defensive": 1598
+   },
+   "category_game_coverage": {
+    "passing": 571,
+    "rushing": 571,
+    "receiving": 571,
+    "fumbles": 520,
+    "interceptions": 465,
+    "kickReturns": 560,
+    "puntReturns": 516,
+    "kicking": 571,
+    "punting": 571,
+    "defensive": 37
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "defensive": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "defensive": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     137
+    ]
+   ],
+   "team_rows_by_category": {
+    "rushing": 446,
+    "fumbles": 94,
+    "passing": 70,
+    "punting": 13,
+    "kicking": 2
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 9,
+    "fbs_sides": 1102,
+    "fbs_rec_short_share": 0.0082,
+    "nonfbs_rec_short_share": 0.0,
+    "fbs_sides_carries_short_of_team_box_gt5": 6
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 1.0,
+    "rush_eq_team_rush": 0.9912,
+    "rush_excl_teamrows_eq_team_rush": 0.606,
+    "car_eq_team_att": 0.9912,
+    "att_eq_team_att": 0.9991,
+    "rec_eq_pass": 0.9834
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 571,
+     "home_id": 571,
+     "away_id": 571,
+     "home_score": 571,
+     "away_score": 571,
+     "neutral_site": 571
+    },
+    "utc_date_ne_et_date_games": 149,
+    "neutral_site_true_share": 0.0718
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9976,
+    "share_athletes_with_roster_row_any_team": 0.9978,
+    "fill_among_matched": {
+     "position_abbreviation": 0.9954,
+     "date_of_birth": 0.2947,
+     "height": 0.9988,
+     "weight": 0.9996,
+     "experience_display_value": 0.999,
+     "birth_place_city": 0.9998,
+     "cfbd_recruit_ids": 0.9745
+    },
+    "experience_values": [
+     [
+      "Senior",
+      3843
+     ],
+     [
+      "Junior",
+      793
+     ],
+     [
+      "Sophomore",
+      243
+     ],
+     [
+      "Freshman",
+      104
+     ],
+     [
+      "",
+      5
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 1,
+    "gz_only_by_cat": {
+     "kicking": 1
+    },
+    "gz_only_athletes": 1,
+    "gz_only_yards_lost": {
+     "rushingYards": 0.0,
+     "receivingYards": 0.0,
+     "passingYards": 0.0
+    },
+    "fresh_only_rows": 344,
+    "fresh_only_by_cat": {
+     "defensive": 342,
+     "punting": 2
+    },
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 25372,
+    "games": 571,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 10
+    },
+    "fresh_csv_rows": 25715,
+    "fresh_csv_games": 571
+   },
+   "bytes": {
+    "csv": 2850434,
+    "csv.gz": 517838,
+    "parquet": 345304,
+    "rds": 441162
+   },
+   "bytes_gzip6_fresh_csv": 536514
+  },
+  "2021": {
+   "pb_rows": 44043,
+   "pb_games": 891,
+   "pb_postseason_games": 38,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 770,
+    "fbs_fcs": 117,
+    "other": 4
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fbs": 732,
+    "other": 1559,
+    "fbs_fcs": 117
+   },
+   "cfbd_sched_season_types": {
+    "regular": 2408
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1657,
+   "fbs_team_games_with_rows": 1657,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "25",
+      12,
+      12,
+      12
+     ],
+     [
+      "26",
+      12,
+      12,
+      12
+     ],
+     [
+      "52",
+      12,
+      12,
+      12
+     ],
+     [
+      "57",
+      13,
+      13,
+      13
+     ],
+     [
+      "66",
+      13,
+      13,
+      13
+     ],
+     [
+      "77",
+      12,
+      12,
+      12
+     ],
+     [
+      "145",
+      13,
+      13,
+      13
+     ],
+     [
+      "154",
+      14,
+      14,
+      14
+     ],
+     [
+      "166",
+      12,
+      12,
+      12
+     ],
+     [
+      "189",
+      12,
+      12,
+      12
+     ],
+     [
+      "221",
+      14,
+      14,
+      14
+     ],
+     [
+      "249",
+      13,
+      13,
+      13
+     ],
+     [
+      "328",
+      14,
+      14,
+      13
+     ],
+     [
+      "2006",
+      12,
+      12,
+      12
+     ],
+     [
+      "2026",
+      14,
+      14,
+      14
+     ],
+     [
+      "2226",
+      12,
+      12,
+      12
+     ],
+     [
+      "2335",
+      13,
+      13,
+      13
+     ],
+     [
+      "2439",
+      12,
+      12,
+      12
+     ],
+     [
+      "2509",
+      13,
+      13,
+      13
+     ],
+     [
+      "2567",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 254,
+     "with_any_row": 254,
+     "with_passing_row": 253
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1540,
+    "fbs_fcs|fbs|present": 117,
+    "fbs_fcs|nonfbs|present": 117
+   },
+   "categories_rows": {
+    "passing": 2868,
+    "rushing": 10119,
+    "receiving": 12802,
+    "fumbles": 2868,
+    "kickReturns": 2207,
+    "puntReturns": 1471,
+    "kicking": 1876,
+    "punting": 1922,
+    "interceptions": 1370,
+    "defensive": 6540
+   },
+   "category_game_coverage": {
+    "passing": 891,
+    "rushing": 891,
+    "receiving": 890,
+    "fumbles": 800,
+    "kickReturns": 856,
+    "puntReturns": 807,
+    "kicking": 891,
+    "punting": 889,
+    "interceptions": 734,
+    "defensive": 154
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0,
+    "defensive": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0,
+    "defensive": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     299
+    ]
+   ],
+   "team_rows_by_category": {
+    "rushing": 720,
+    "fumbles": 175,
+    "punting": 39,
+    "passing": 102,
+    "puntReturns": 3,
+    "defensive": 16,
+    "kicking": 1,
+    "receiving": 1
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 2,
+    "fbs_sides": 1656,
+    "fbs_rec_short_share": 0.0012,
+    "nonfbs_rec_short_share": 0.016,
+    "fbs_sides_carries_short_of_team_box_gt5": 10
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.9916,
+    "rush_eq_team_rush": 0.9871,
+    "car_eq_team_att": 0.9888,
+    "att_eq_team_att": 0.9938,
+    "rec_eq_pass": 0.9865,
+    "rush_excl_teamrows_eq_team_rush": 0.5946
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 891,
+     "home_id": 891,
+     "away_id": 891,
+     "home_score": 891,
+     "away_score": 891,
+     "neutral_site": 891
+    },
+    "utc_date_ne_et_date_games": 187,
+    "neutral_site_true_share": 0.073
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9981,
+    "share_athletes_with_roster_row_any_team": 0.9982,
+    "fill_among_matched": {
+     "position_abbreviation": 0.9927,
+     "date_of_birth": 0.2301,
+     "height": 0.9976,
+     "weight": 0.9989,
+     "experience_display_value": 0.9982,
+     "birth_place_city": 0.9984,
+     "cfbd_recruit_ids": 0.9951
+    },
+    "experience_values": [
+     [
+      "Senior",
+      6522
+     ],
+     [
+      "Junior",
+      1183
+     ],
+     [
+      "Sophomore",
+      437
+     ],
+     [
+      "Freshman",
+      164
+     ],
+     [
+      "",
+      15
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 44043,
+    "games": 891,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 25
+    },
+    "fresh_csv_rows": 44043,
+    "fresh_csv_games": 891
+   },
+   "bytes": {
+    "csv": 4883055,
+    "csv.gz": 896848,
+    "parquet": 565542,
+    "rds": 764839
+   },
+   "bytes_gzip6_fresh_csv": 918915
+  },
+  "2022": {
+   "pb_rows": 40598,
+   "pb_games": 900,
+   "pb_postseason_games": 42,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 776,
+    "fbs_fcs": 120,
+    "other": 4
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fcs": 120,
+    "fbs_fbs": 734,
+    "other": 2803
+   },
+   "cfbd_sched_season_types": {
+    "regular": 3657
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1672,
+   "fbs_team_games_with_rows": 1672,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "8",
+      13,
+      13,
+      13
+     ],
+     [
+      "24",
+      12,
+      12,
+      12
+     ],
+     [
+      "38",
+      12,
+      12,
+      12
+     ],
+     [
+      "52",
+      13,
+      13,
+      13
+     ],
+     [
+      "59",
+      12,
+      12,
+      12
+     ],
+     [
+      "120",
+      13,
+      13,
+      13
+     ],
+     [
+      "150",
+      13,
+      13,
+      13
+     ],
+     [
+      "151",
+      13,
+      13,
+      13
+     ],
+     [
+      "154",
+      13,
+      13,
+      13
+     ],
+     [
+      "164",
+      12,
+      12,
+      12
+     ],
+     [
+      "167",
+      12,
+      12,
+      12
+     ],
+     [
+      "248",
+      13,
+      13,
+      13
+     ],
+     [
+      "252",
+      13,
+      13,
+      13
+     ],
+     [
+      "258",
+      10,
+      10,
+      10
+     ],
+     [
+      "259",
+      11,
+      11,
+      11
+     ],
+     [
+      "326",
+      12,
+      12,
+      12
+     ],
+     [
+      "333",
+      13,
+      13,
+      13
+     ],
+     [
+      "344",
+      13,
+      13,
+      13
+     ],
+     [
+      "2226",
+      12,
+      12,
+      12
+     ],
+     [
+      "2751",
+      13,
+      13,
+      13
+     ]
+    ],
+    "totals": {
+     "sched_games": 248,
+     "with_any_row": 248,
+     "with_passing_row": 248
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1552,
+    "fbs_fcs|fbs|present": 120,
+    "fbs_fcs|nonfbs|present": 120
+   },
+   "categories_rows": {
+    "passing": 2825,
+    "rushing": 10037,
+    "receiving": 13013,
+    "fumbles": 3024,
+    "interceptions": 1400,
+    "kickReturns": 2133,
+    "puntReturns": 1444,
+    "kicking": 1872,
+    "punting": 1952,
+    "defensive": 2898
+   },
+   "category_game_coverage": {
+    "passing": 900,
+    "rushing": 900,
+    "receiving": 900,
+    "fumbles": 809,
+    "interceptions": 732,
+    "kickReturns": 864,
+    "puntReturns": 816,
+    "kicking": 900,
+    "punting": 900,
+    "defensive": 70
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "defensive": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "defensive": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     320
+    ]
+   ],
+   "team_rows_by_category": {
+    "rushing": 795,
+    "fumbles": 179,
+    "passing": 106,
+    "punting": 35,
+    "puntReturns": 1,
+    "defensive": 9,
+    "receiving": 1,
+    "kicking": 1
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 4,
+    "fbs_sides": 1672,
+    "fbs_rec_short_share": 0.0024,
+    "nonfbs_rec_short_share": 0.0312,
+    "fbs_sides_carries_short_of_team_box_gt5": 0
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.995,
+    "rush_eq_team_rush": 0.9928,
+    "car_eq_team_att": 0.9933,
+    "att_eq_team_att": 0.9989,
+    "rec_eq_pass": 0.9883,
+    "rush_excl_teamrows_eq_team_rush": 0.5689
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 900,
+     "home_id": 900,
+     "away_id": 900,
+     "home_score": 900,
+     "away_score": 900,
+     "neutral_site": 900
+    },
+    "utc_date_ne_et_date_games": 193,
+    "neutral_site_true_share": 0.0722
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9931,
+    "share_athletes_with_roster_row_any_team": 0.9978,
+    "fill_among_matched": {
+     "position_abbreviation": 0.9981,
+     "date_of_birth": 0.223,
+     "height": 0.9984,
+     "weight": 0.9999,
+     "experience_display_value": 0.9985,
+     "birth_place_city": 1.0,
+     "cfbd_recruit_ids": 0.9965
+    },
+    "experience_values": [
+     [
+      "Senior",
+      5851
+     ],
+     [
+      "Junior",
+      1065
+     ],
+     [
+      "Sophomore",
+      334
+     ],
+     [
+      "Freshman",
+      99
+     ],
+     [
+      "",
+      11
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 6
+   },
+   "stale_csv_gz_layout": {
+    "rows": 40598,
+    "games": 900,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 23
+    },
+    "fresh_csv_rows": 40598,
+    "fresh_csv_games": 900
+   },
+   "bytes": {
+    "csv": 4502016,
+    "csv.gz": 843213,
+    "parquet": 521759,
+    "rds": 715014
+   },
+   "bytes_gzip6_fresh_csv": 862237
+  },
+  "2023": {
+   "pb_rows": 57239,
+   "pb_games": 911,
+   "pb_postseason_games": 43,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 792,
+    "fbs_fcs": 118,
+    "other": 1
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fbs": 792,
+    "other": 2814,
+    "fbs_fcs": 118
+   },
+   "cfbd_sched_season_types": {
+    "regular": 3585,
+    "postseason": 139
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1702,
+   "fbs_team_games_with_rows": 1702,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "52",
+      14,
+      14,
+      14
+     ],
+     [
+      "66",
+      13,
+      13,
+      13
+     ],
+     [
+      "127",
+      12,
+      12,
+      12
+     ],
+     [
+      "150",
+      13,
+      13,
+      13
+     ],
+     [
+      "167",
+      12,
+      12,
+      12
+     ],
+     [
+      "204",
+      13,
+      13,
+      13
+     ],
+     [
+      "218",
+      12,
+      12,
+      12
+     ],
+     [
+      "228",
+      13,
+      13,
+      13
+     ],
+     [
+      "235",
+      13,
+      13,
+      13
+     ],
+     [
+      "242",
+      13,
+      13,
+      13
+     ],
+     [
+      "259",
+      13,
+      13,
+      13
+     ],
+     [
+      "264",
+      15,
+      15,
+      15
+     ],
+     [
+      "278",
+      13,
+      13,
+      13
+     ],
+     [
+      "290",
+      13,
+      13,
+      13
+     ],
+     [
+      "2005",
+      13,
+      13,
+      13
+     ],
+     [
+      "2050",
+      12,
+      12,
+      12
+     ],
+     [
+      "2335",
+      14,
+      14,
+      14
+     ],
+     [
+      "2567",
+      14,
+      14,
+      14
+     ],
+     [
+      "2638",
+      12,
+      12,
+      12
+     ],
+     [
+      "2655",
+      14,
+      14,
+      14
+     ]
+    ],
+    "totals": {
+     "sched_games": 261,
+     "with_any_row": 261,
+     "with_passing_row": 261
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1584,
+    "fbs_fcs|fbs|present": 118,
+    "fbs_fcs|nonfbs|present": 118
+   },
+   "categories_rows": {
+    "passing": 2868,
+    "rushing": 10190,
+    "receiving": 13173,
+    "fumbles": 2856,
+    "kickReturns": 2082,
+    "kicking": 1905,
+    "punting": 1943,
+    "puntReturns": 1373,
+    "interceptions": 1433,
+    "defensive": 19416
+   },
+   "category_game_coverage": {
+    "passing": 911,
+    "rushing": 911,
+    "receiving": 911,
+    "fumbles": 803,
+    "kickReturns": 866,
+    "kicking": 911,
+    "punting": 911,
+    "puntReturns": 804,
+    "interceptions": 742,
+    "defensive": 473
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "kickReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "puntReturns": 0.0,
+    "interceptions": 0.0,
+    "defensive": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "kickReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "puntReturns": 0.0,
+    "interceptions": 0.0,
+    "defensive": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     297
+    ]
+   ],
+   "team_rows_by_category": {
+    "passing": 90,
+    "rushing": 741,
+    "fumbles": 113,
+    "punting": 18,
+    "defensive": 3
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 0,
+    "fbs_sides": 1702,
+    "fbs_rec_short_share": 0.0,
+    "nonfbs_rec_short_share": 0.0167,
+    "fbs_sides_carries_short_of_team_box_gt5": 0
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 1.0,
+    "rush_eq_team_rush": 0.9984,
+    "rush_excl_teamrows_eq_team_rush": 0.6015,
+    "car_eq_team_att": 0.9989,
+    "att_eq_team_att": 0.9995,
+    "rec_eq_pass": 0.9962
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 911,
+     "home_id": 911,
+     "away_id": 911,
+     "home_score": 911,
+     "away_score": 911,
+     "neutral_site": 911
+    },
+    "utc_date_ne_et_date_games": 195,
+    "neutral_site_true_share": 0.0692
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9979,
+    "share_athletes_with_roster_row_any_team": 0.9979,
+    "fill_among_matched": {
+     "position_abbreviation": 0.9987,
+     "date_of_birth": 0.1634,
+     "height": 0.9981,
+     "weight": 0.9997,
+     "experience_display_value": 0.999,
+     "birth_place_city": 0.9995,
+     "cfbd_recruit_ids": 0.9985
+    },
+    "experience_values": [
+     [
+      "Senior",
+      6880
+     ],
+     [
+      "Junior",
+      1814
+     ],
+     [
+      "Sophomore",
+      531
+     ],
+     [
+      "Freshman",
+      129
+     ],
+     [
+      "",
+      9
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 57239,
+    "games": 911,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 2
+    },
+    "fresh_csv_rows": 57239,
+    "fresh_csv_games": 911
+   },
+   "bytes": {
+    "csv": 6339777,
+    "csv.gz": 1147496,
+    "parquet": 663976,
+    "rds": 962539
+   },
+   "bytes_gzip6_fresh_csv": 1173930
+  },
+  "2024": {
+   "pb_rows": 78993,
+   "pb_games": 965,
+   "pb_postseason_games": 48,
+   "espn_sched_final_by_class": {
+    "other": 46,
+    "fbs_fbs": 798,
+    "fbs_fcs": 121
+   },
+   "cfbd_sched_completed_by_class": {
+    "other": 2880,
+    "fbs_fbs": 798,
+    "fbs_fcs": 121
+   },
+   "cfbd_sched_season_types": {
+    "regular": 3745,
+    "postseason": 54
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1717,
+   "fbs_team_games_with_rows": 1717,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "6",
+      13,
+      13,
+      13
+     ],
+     [
+      "59",
+      13,
+      13,
+      13
+     ],
+     [
+      "84",
+      13,
+      13,
+      13
+     ],
+     [
+      "98",
+      14,
+      14,
+      14
+     ],
+     [
+      "189",
+      13,
+      13,
+      13
+     ],
+     [
+      "213",
+      16,
+      16,
+      16
+     ],
+     [
+      "238",
+      13,
+      13,
+      13
+     ],
+     [
+      "239",
+      13,
+      13,
+      13
+     ],
+     [
+      "248",
+      12,
+      12,
+      12
+     ],
+     [
+      "265",
+      13,
+      13,
+      13
+     ],
+     [
+      "326",
+      13,
+      13,
+      13
+     ],
+     [
+      "328",
+      12,
+      12,
+      12
+     ],
+     [
+      "333",
+      13,
+      13,
+      13
+     ],
+     [
+      "2294",
+      13,
+      13,
+      13
+     ],
+     [
+      "2335",
+      12,
+      12,
+      12
+     ],
+     [
+      "2348",
+      13,
+      13,
+      13
+     ],
+     [
+      "2433",
+      12,
+      12,
+      12
+     ],
+     [
+      "2567",
+      14,
+      14,
+      14
+     ],
+     [
+      "2579",
+      13,
+      13,
+      13
+     ],
+     [
+      "2633",
+      13,
+      13,
+      13
+     ]
+    ],
+    "totals": {
+     "sched_games": 261,
+     "with_any_row": 261,
+     "with_passing_row": 261
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1596,
+    "fbs_fcs|fbs|present": 121,
+    "fbs_fcs|nonfbs|present": 121
+   },
+   "categories_rows": {
+    "passing": 3023,
+    "rushing": 10953,
+    "receiving": 13977,
+    "fumbles": 3020,
+    "kickReturns": 2089,
+    "kicking": 2055,
+    "punting": 2073,
+    "interceptions": 1510,
+    "puntReturns": 1506,
+    "defensive": 38787
+   },
+   "category_game_coverage": {
+    "passing": 965,
+    "rushing": 965,
+    "receiving": 965,
+    "fumbles": 851,
+    "kickReturns": 913,
+    "kicking": 965,
+    "punting": 964,
+    "interceptions": 787,
+    "puntReturns": 877,
+    "defensive": 918
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "kickReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0,
+    "puntReturns": 0.0,
+    "defensive": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "kickReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0,
+    "puntReturns": 0.0,
+    "defensive": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     333
+    ]
+   ],
+   "team_rows_by_category": {
+    "rushing": 830,
+    "punting": 25,
+    "passing": 109,
+    "fumbles": 148,
+    "defensive": 13
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 1,
+    "fbs_sides": 1717,
+    "fbs_rec_short_share": 0.0006,
+    "nonfbs_rec_short_share": 0.0047,
+    "fbs_sides_carries_short_of_team_box_gt5": 0
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 1.0,
+    "rush_eq_team_rush": 0.9933,
+    "rush_excl_teamrows_eq_team_rush": 0.5756,
+    "car_eq_team_att": 0.9927,
+    "att_eq_team_att": 1.0,
+    "rec_eq_pass": 0.9927
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 965,
+     "home_id": 965,
+     "away_id": 965,
+     "home_score": 965,
+     "away_score": 965,
+     "neutral_site": 965
+    },
+    "utc_date_ne_et_date_games": 230,
+    "neutral_site_true_share": 0.0642
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9992,
+    "share_athletes_with_roster_row_any_team": 0.9992,
+    "fill_among_matched": {
+     "position_abbreviation": 0.9998,
+     "date_of_birth": 0.0923,
+     "height": 0.9976,
+     "weight": 0.9993,
+     "experience_display_value": 0.9991,
+     "birth_place_city": 0.9994,
+     "cfbd_recruit_ids": 0.9993
+    },
+    "experience_values": [
+     [
+      "Senior",
+      7380
+     ],
+     [
+      "Junior",
+      2840
+     ],
+     [
+      "Sophomore",
+      1585
+     ],
+     [
+      "Freshman",
+      446
+     ],
+     [
+      "",
+      11
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 0,
+    "fresh_only_by_cat": {},
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 78993,
+    "games": 965,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 147
+    },
+    "fresh_csv_rows": 78993,
+    "fresh_csv_games": 965
+   },
+   "bytes": {
+    "csv": 8739614,
+    "csv.gz": 1548085,
+    "parquet": 829103,
+    "rds": 1263145
+   },
+   "bytes_gzip6_fresh_csv": 1578402
+  },
+  "2025": {
+   "pb_rows": 80498,
+   "pb_games": 958,
+   "pb_postseason_games": 46,
+   "espn_sched_final_by_class": {
+    "other": 24,
+    "fbs_fbs": 808,
+    "fbs_fcs": 126
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fbs": 808,
+    "other": 2897,
+    "fbs_fcs": 126
+   },
+   "cfbd_sched_season_types": {
+    "regular": 3745,
+    "postseason": 86
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 1742,
+   "fbs_team_games_with_rows": 1742,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "6",
+      12,
+      12,
+      12
+     ],
+     [
+      "30",
+      13,
+      13,
+      13
+     ],
+     [
+      "87",
+      12,
+      12,
+      12
+     ],
+     [
+      "99",
+      13,
+      13,
+      13
+     ],
+     [
+      "103",
+      12,
+      12,
+      12
+     ],
+     [
+      "142",
+      13,
+      13,
+      13
+     ],
+     [
+      "152",
+      13,
+      13,
+      13
+     ],
+     [
+      "153",
+      12,
+      12,
+      12
+     ],
+     [
+      "166",
+      12,
+      12,
+      12
+     ],
+     [
+      "167",
+      13,
+      13,
+      13
+     ],
+     [
+      "194",
+      14,
+      14,
+      14
+     ],
+     [
+      "238",
+      13,
+      13,
+      13
+     ],
+     [
+      "242",
+      13,
+      13,
+      13
+     ],
+     [
+      "275",
+      12,
+      12,
+      12
+     ],
+     [
+      "276",
+      12,
+      12,
+      12
+     ],
+     [
+      "326",
+      13,
+      13,
+      13
+     ],
+     [
+      "2005",
+      12,
+      12,
+      12
+     ],
+     [
+      "2032",
+      13,
+      13,
+      13
+     ],
+     [
+      "2247",
+      12,
+      12,
+      12
+     ],
+     [
+      "2751",
+      12,
+      12,
+      12
+     ]
+    ],
+    "totals": {
+     "sched_games": 251,
+     "with_any_row": 251,
+     "with_passing_row": 251
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 1616,
+    "fbs_fcs|fbs|present": 126,
+    "fbs_fcs|nonfbs|present": 126
+   },
+   "categories_rows": {
+    "passing": 3123,
+    "rushing": 11060,
+    "receiving": 14238,
+    "fumbles": 2894,
+    "kickReturns": 1959,
+    "puntReturns": 1473,
+    "kicking": 2043,
+    "punting": 2012,
+    "interceptions": 1399,
+    "defensive": 40297
+   },
+   "category_game_coverage": {
+    "passing": 957,
+    "rushing": 957,
+    "receiving": 957,
+    "fumbles": 837,
+    "kickReturns": 901,
+    "puntReturns": 865,
+    "kicking": 958,
+    "punting": 955,
+    "interceptions": 752,
+    "defensive": 935
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0,
+    "defensive": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "fumbles": 0.0,
+    "kickReturns": 0.0,
+    "puntReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "interceptions": 0.0,
+    "defensive": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     375
+    ]
+   ],
+   "team_rows_by_category": {
+    "punting": 30,
+    "rushing": 808,
+    "fumbles": 191,
+    "passing": 130,
+    "kickReturns": 1,
+    "defensive": 13,
+    "puntReturns": 1
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 0,
+    "fbs_sides": 1740,
+    "fbs_rec_short_share": 0.0,
+    "nonfbs_rec_short_share": 0.0,
+    "fbs_sides_carries_short_of_team_box_gt5": 0
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.999,
+    "rush_eq_team_rush": 1.0,
+    "rush_excl_teamrows_eq_team_rush": 0.592,
+    "car_eq_team_att": 0.9995,
+    "att_eq_team_att": 1.0,
+    "rec_eq_pass": 0.9984
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 958,
+     "home_id": 958,
+     "away_id": 958,
+     "home_score": 958,
+     "away_score": 958,
+     "neutral_site": 958
+    },
+    "utc_date_ne_et_date_games": 218,
+    "neutral_site_true_share": 0.0574
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9935,
+    "share_athletes_with_roster_row_any_team": 0.9935,
+    "fill_among_matched": {
+     "position_abbreviation": 0.999,
+     "date_of_birth": 0.0428,
+     "height": 0.9969,
+     "weight": 0.9968,
+     "experience_display_value": 0.9997,
+     "birth_place_city": 0.9989,
+     "cfbd_recruit_ids": 0.9996
+    },
+    "experience_values": [
+     [
+      "Senior",
+      4978
+     ],
+     [
+      "Junior",
+      3033
+     ],
+     [
+      "Sophomore",
+      2625
+     ],
+     [
+      "Freshman",
+      1828
+     ],
+     [
+      "",
+      4
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": {
+    "gz_only_rows": 0,
+    "gz_only_by_cat": {},
+    "gz_only_athletes": 0,
+    "gz_only_yards_lost": {
+     "rushingYards": 0,
+     "receivingYards": 0,
+     "passingYards": 0
+    },
+    "fresh_only_rows": 2,
+    "fresh_only_by_cat": {
+     "punting": 1,
+     "puntReturns": 1
+    },
+    "shared_rows_with_yards_diff": 0
+   },
+   "stale_csv_gz_layout": {
+    "rows": 80496,
+    "games": 958,
+    "has_statN_cols": true,
+    "categories_with_data_in_statN": {
+     "passing": 80
+    },
+    "fresh_csv_rows": 80498,
+    "fresh_csv_games": 958
+   },
+   "bytes": {
+    "csv": 8910074,
+    "csv.gz": 1581335,
+    "parquet": 842965,
+    "rds": 1287680
+   },
+   "bytes_gzip6_fresh_csv": 1614309
+  },
+  "2026": {
+   "pb_rows": 44427,
+   "pb_games": 510,
+   "pb_postseason_games": 0,
+   "espn_sched_final_by_class": {
+    "fbs_fbs": 388,
+    "fbs_fcs": 122
+   },
+   "cfbd_sched_completed_by_class": {
+    "fbs_fbs": 388,
+    "fbs_fcs": 122
+   },
+   "cfbd_sched_season_types": {
+    "regular": 510
+   },
+   "espn_final_fbs_games_missing_from_pb": {},
+   "cfbd_completed_fbs_games_missing_from_pb": {},
+   "games_espn_never_had": 0,
+   "games_espn_never_had_examples": [],
+   "fbs_team_games_universe": 898,
+   "fbs_team_games_with_rows": 898,
+   "fbs_team_game_coverage": 1.0,
+   "worst_teams_missing": [],
+   "sample20_fbs_teams": {
+    "rows_[team_id, sched_games, games_with_any_row, games_with_passing_row]": [
+     [
+      "2",
+      6,
+      6,
+      6
+     ],
+     [
+      "12",
+      6,
+      6,
+      6
+     ],
+     [
+      "38",
+      6,
+      6,
+      6
+     ],
+     [
+      "61",
+      7,
+      7,
+      7
+     ],
+     [
+      "68",
+      6,
+      6,
+      6
+     ],
+     [
+      "84",
+      7,
+      7,
+      7
+     ],
+     [
+      "103",
+      6,
+      6,
+      6
+     ],
+     [
+      "189",
+      7,
+      7,
+      7
+     ],
+     [
+      "201",
+      6,
+      6,
+      6
+     ],
+     [
+      "278",
+      7,
+      7,
+      7
+     ],
+     [
+      "326",
+      6,
+      6,
+      6
+     ],
+     [
+      "349",
+      6,
+      6,
+      6
+     ],
+     [
+      "2005",
+      6,
+      6,
+      6
+     ],
+     [
+      "2026",
+      6,
+      6,
+      6
+     ],
+     [
+      "2348",
+      6,
+      6,
+      6
+     ],
+     [
+      "2390",
+      6,
+      6,
+      6
+     ],
+     [
+      "2426",
+      6,
+      6,
+      6
+     ],
+     [
+      "2509",
+      7,
+      7,
+      7
+     ],
+     [
+      "2572",
+      6,
+      6,
+      6
+     ],
+     [
+      "2579",
+      6,
+      6,
+      6
+     ]
+    ],
+    "totals": {
+     "sched_games": 125,
+     "with_any_row": 125,
+     "with_passing_row": 125
+    }
+   },
+   "side_presence_in_present_games": {
+    "fbs_fbs|fbs|present": 776,
+    "fbs_fcs|fbs|present": 122,
+    "fbs_fcs|nonfbs|present": 122
+   },
+   "categories_rows": {
+    "passing": 1707,
+    "rushing": 6150,
+    "receiving": 7710,
+    "defensive": 22734,
+    "interceptions": 685,
+    "kickReturns": 948,
+    "kicking": 1069,
+    "punting": 1108,
+    "puntReturns": 772,
+    "fumbles": 1544
+   },
+   "category_game_coverage": {
+    "passing": 510,
+    "rushing": 510,
+    "receiving": 510,
+    "defensive": 510,
+    "interceptions": 392,
+    "kickReturns": 466,
+    "kicking": 510,
+    "punting": 510,
+    "puntReturns": 458,
+    "fumbles": 458
+   },
+   "category_blank_primary_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "defensive": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "puntReturns": 0.0,
+    "fumbles": 0.0
+   },
+   "category_all_blank_rate": {
+    "passing": 0.0,
+    "rushing": 0.0,
+    "receiving": 0.0,
+    "defensive": 0.0,
+    "interceptions": 0.0,
+    "kickReturns": 0.0,
+    "kicking": 0.0,
+    "punting": 0.0,
+    "puntReturns": 0.0,
+    "fumbles": 0.0
+   },
+   "nonnumeric_values_top": [
+    [
+     "passing",
+     "adjQBR",
+     "--",
+     426
+    ]
+   ],
+   "team_rows_by_category": {
+    "rushing": 421,
+    "fumbles": 122,
+    "punting": 55,
+    "passing": 58,
+    "puntReturns": 4,
+    "defensive": 2,
+    "kickReturns": 2
+   },
+   "dup_rows_same_game_team_athlete_category": 0,
+   "inside_game": {
+    "fbs_sides_receiving_short_of_passing_gt20": 1,
+    "fbs_sides": 898,
+    "fbs_rec_short_share": 0.0011,
+    "nonfbs_rec_short_share": 0.0082,
+    "fbs_sides_carries_short_of_team_box_gt5": 0
+   },
+   "team_box_reconcile_match_share": {
+    "pass_eq_netPassing": 0.9961,
+    "rush_eq_team_rush": 0.9961,
+    "rush_excl_teamrows_eq_team_rush": 0.598,
+    "car_eq_team_att": 0.9961,
+    "att_eq_team_att": 0.9971,
+    "rec_eq_pass": 0.9892
+   },
+   "schedule_join": {
+    "pb_games_not_in_espn_sched": 0,
+    "fields_filled": {
+     "game_date": 510,
+     "home_id": 510,
+     "away_id": 510,
+     "home_score": 510,
+     "away_score": 510,
+     "neutral_site": 510
+    },
+    "utc_date_ne_et_date_games": 100,
+    "neutral_site_true_share": 0.0137
+   },
+   "rosters": {
+    "share_pairs_with_roster_row_same_team": 0.9964,
+    "share_athletes_with_roster_row_any_team": 0.9964,
+    "fill_among_matched": {
+     "position_abbreviation": 0.9992,
+     "date_of_birth": 0.0001,
+     "height": 0.9972,
+     "weight": 0.9936,
+     "experience_display_value": 0.9997,
+     "birth_place_city": 0.9992,
+     "cfbd_recruit_ids": 0.9453
+    },
+    "experience_values": [
+     [
+      "Senior",
+      4214
+     ],
+     [
+      "Junior",
+      3059
+     ],
+     [
+      "Sophomore",
+      2583
+     ],
+     [
+      "Freshman",
+      1992
+     ],
+     [
+      "",
+      4
+     ]
+    ]
+   },
+   "stale_csv_gz_diff": null,
+   "stale_csv_gz_layout": null,
+   "bytes": {
+    "csv": 4914141,
+    "parquet": 527684,
+    "rds": 720054
+   },
+   "bytes_gzip6_fresh_csv": 905919,
+   "running_season": {
+    "final_games_by_utc_date_last12": {
+     "2026-10-04": [
+      7,
+      7
+     ],
+     "2026-10-07": [
+      2,
+      2
+     ],
+     "2026-10-08": [
+      5,
+      5
+     ],
+     "2026-10-09": [
+      1,
+      1
+     ],
+     "2026-10-10": [
+      45,
+      45
+     ],
+     "2026-10-11": [
+      5,
+      5
+     ],
+     "2026-10-13": [
+      1,
+      1
+     ],
+     "2026-10-14": [
+      2,
+      2
+     ],
+     "2026-10-15": [
+      3,
+      3
+     ],
+     "2026-10-16": [
+      2,
+      2
+     ],
+     "2026-10-17": [
+      45,
+      45
+     ],
+     "2026-10-18": [
+      9,
+      9
+     ]
+    },
+    "pb_max_game_date": "2026-10-18T03:00Z",
+    "sched_scheduled_not_final": 0
+   }
+  }
+ },
+ "totals_bytes": {
+  "espn_cfb_player_box": {
+   "csv": 94981486,
+   "csv.gz": 16945108,
+   "parquet": 10772829
+  },
+  "espn_cfb_schedules": {
+   "csv": 3075050,
+   "csv.gz": 628170,
+   "parquet": 633543
+  },
+  "espn_cfb_rosters": {
+   "csv": 5403013,
+   "csv.gz": 43981778,
+   "parquet": 38939299
+  },
+  "espn_cfb_game_rosters": {
+   "csv": 3112739247,
+   "csv.gz": 286495177,
+   "parquet": 129473542
+  },
+  "espn_cfb_team_box": {
+   "csv": 4045585,
+   "csv.gz": 1154987,
+   "parquet": 1127836
+  },
+  "player_box_fresh_csv_gzip6_local": 18304726
+ },
+ "known_answers": [
+  {
+   "label": "Matt Leinart 2004 passing yards",
+   "file_value": 3322.0,
+   "published": 3322,
+   "diff_file_minus_published": 0.0,
+   "games": 13,
+   "postseason_part": 332.0,
+   "athlete_ids": {
+    "120511": 13
+   },
+   "team_ids": {
+    "30": 13
+   },
+   "names_matched": [
+    "Matt Leinart"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2004": 3322.0
+   }
+  },
+  {
+   "label": "Matt Leinart 2004 passing TDs",
+   "file_value": 33.0,
+   "published": 33,
+   "diff_file_minus_published": 0.0,
+   "games": 13,
+   "postseason_part": 5.0,
+   "athlete_ids": {
+    "120511": 13
+   },
+   "team_ids": {
+    "30": 13
+   },
+   "names_matched": [
+    "Matt Leinart"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2004": 33.0
+   }
+  },
+  {
+   "label": "Reggie Bush 2005 rushing yards",
+   "file_value": 1643.0,
+   "published": 1740,
+   "diff_file_minus_published": -97.0,
+   "games": 12,
+   "postseason_part": 82.0,
+   "athlete_ids": {
+    "145158": 12
+   },
+   "team_ids": {
+    "30": 12
+   },
+   "names_matched": [
+    "Reggie Bush"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2005": 1643.0
+   }
+  },
+  {
+   "label": "Colt Brennan 2006 passing TDs",
+   "file_value": 42.0,
+   "published": 58,
+   "diff_file_minus_published": -16.0,
+   "games": 10,
+   "postseason_part": 5.0,
+   "athlete_ids": {
+    "145275": 10
+   },
+   "team_ids": {
+    "62": 10
+   },
+   "names_matched": [
+    "Colt Brennan"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2006": 42.0
+   }
+  },
+  {
+   "label": "Tim Tebow 2007 rushing TDs",
+   "file_value": 23.0,
+   "published": 23,
+   "diff_file_minus_published": 0.0,
+   "games": 13,
+   "postseason_part": 1.0,
+   "athlete_ids": {
+    "183484": 13
+   },
+   "team_ids": {
+    "57": 13
+   },
+   "names_matched": [
+    "Tim Tebow"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2007": 23.0
+   }
+  },
+  {
+   "label": "Tim Tebow 2007 passing TDs",
+   "file_value": 32.0,
+   "published": 32,
+   "diff_file_minus_published": 0.0,
+   "games": 13,
+   "postseason_part": 3.0,
+   "athlete_ids": {
+    "183484": 13
+   },
+   "team_ids": {
+    "57": 13
+   },
+   "names_matched": [
+    "Tim Tebow"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2007": 32.0
+   }
+  },
+  {
+   "label": "Joe Burrow 2019 passing yards",
+   "file_value": 5671.0,
+   "published": 5671,
+   "diff_file_minus_published": 0.0,
+   "games": 15,
+   "postseason_part": 956.0,
+   "athlete_ids": {
+    "3915511": 15
+   },
+   "team_ids": {
+    "99": 15
+   },
+   "names_matched": [
+    "Joe Burrow"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2019": 5671.0
+   }
+  },
+  {
+   "label": "Joe Burrow 2019 passing TDs",
+   "file_value": 60.0,
+   "published": 60,
+   "diff_file_minus_published": 0.0,
+   "games": 15,
+   "postseason_part": 12.0,
+   "athlete_ids": {
+    "3915511": 15
+   },
+   "team_ids": {
+    "99": 15
+   },
+   "names_matched": [
+    "Joe Burrow"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2019": 60.0
+   }
+  },
+  {
+   "label": "Melvin Gordon 2014 rushing yards",
+   "file_value": 2587.0,
+   "published": 2587,
+   "diff_file_minus_published": 0.0,
+   "games": 14,
+   "postseason_part": 251.0,
+   "athlete_ids": {
+    "514218": 14
+   },
+   "team_ids": {
+    "275": 14
+   },
+   "names_matched": [
+    "Melvin Gordon III"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2014": 2587.0
+   }
+  },
+  {
+   "label": "Melvin Gordon 2014 best game rushing",
+   "file_value": 408.0,
+   "published": 408,
+   "diff_file_minus_published": 0.0,
+   "games": 14,
+   "postseason_part": 251.0,
+   "athlete_ids": {
+    "514218": 14
+   },
+   "team_ids": {
+    "275": 14
+   },
+   "names_matched": [
+    "Melvin Gordon III"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2014": 2587.0
+   },
+   "best_game": [
+    "400547974",
+    "2014-11-15T20:30Z",
+    "Nebraska Cornhuskers",
+    "Wisconsin Badgers"
+   ]
+  },
+  {
+   "label": "Samaje Perine 2014 best game rushing",
+   "file_value": 427.0,
+   "published": 427,
+   "diff_file_minus_published": 0.0,
+   "games": 13,
+   "postseason_part": 134.0,
+   "athlete_ids": {
+    "3116389": 13
+   },
+   "team_ids": {
+    "201": 13
+   },
+   "names_matched": [
+    "Samaje Perine"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2014": 1713.0
+   },
+   "best_game": [
+    "400547894",
+    "2014-11-22T18:30Z",
+    "Kansas Jayhawks",
+    "Oklahoma Sooners"
+   ]
+  },
+  {
+   "label": "Ja'Marr Chase 2019 receiving yards",
+   "file_value": 1780.0,
+   "published": 1780,
+   "diff_file_minus_published": 0.0,
+   "games": 14,
+   "postseason_part": 282.0,
+   "athlete_ids": {
+    "4362628": 14
+   },
+   "team_ids": {
+    "99": 14
+   },
+   "names_matched": [
+    "Ja'Marr Chase"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2019": 1780.0
+   }
+  },
+  {
+   "label": "Ashton Jeanty 2024 rushing yards",
+   "file_value": 2601.0,
+   "published": 2601,
+   "diff_file_minus_published": 0.0,
+   "games": 14,
+   "postseason_part": 104.0,
+   "athlete_ids": {
+    "4890973": 14
+   },
+   "team_ids": {
+    "68": 14
+   },
+   "names_matched": [
+    "Ashton Jeanty"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2024": 2601.0
+   }
+  },
+  {
+   "label": "Case Keenum career passing yards 2007-2011",
+   "file_value": 19217.0,
+   "published": 19217,
+   "diff_file_minus_published": 0.0,
+   "games": 57,
+   "postseason_part": 1341.0,
+   "athlete_ids": {
+    "191981": 57
+   },
+   "team_ids": {
+    "248": 57
+   },
+   "names_matched": [
+    "Case Keenum"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2007": 2259.0,
+    "2008": 5020.0,
+    "2009": 5671.0,
+    "2010": 636.0,
+    "2011": 5631.0
+   }
+  },
+  {
+   "label": "DeVonta Smith 2020 receiving yards",
+   "file_value": 1856.0,
+   "published": 1856,
+   "diff_file_minus_published": 0.0,
+   "games": 13,
+   "postseason_part": 345.0,
+   "athlete_ids": {
+    "4241478": 13
+   },
+   "team_ids": {
+    "333": 13
+   },
+   "names_matched": [
+    "DeVonta Smith"
+   ],
+   "games_with_duplicate_rows": 0,
+   "by_season": {
+    "2020": 1856.0
+   }
+  }
+ ],
+ "id_stability": {
+  "Case Keenum": {
+   "2007": {
+    "ids": [
+     "191981"
+    ],
+    "teams": [
+     "248"
+    ],
+    "rows": 26
+   },
+   "2008": {
+    "ids": [
+     "191981"
+    ],
+    "teams": [
+     "248"
+    ],
+    "rows": 26
+   },
+   "2009": {
+    "ids": [
+     "191981"
+    ],
+    "teams": [
+     "248"
+    ],
+    "rows": 30
+   },
+   "2010": {
+    "ids": [
+     "191981"
+    ],
+    "teams": [
+     "248"
+    ],
+    "rows": 7
+   },
+   "2011": {
+    "ids": [
+     "191981"
+    ],
+    "teams": [
+     "248"
+    ],
+    "rows": 28
+   }
+  },
+  "Joe Burrow": {
+   "2015": {
+    "ids": [],
+    "teams": [],
+    "rows": 0
+   },
+   "2016": {
+    "ids": [
+     "3915511"
+    ],
+    "teams": [
+     "194"
+    ],
+    "rows": 10
+   },
+   "2017": {
+    "ids": [
+     "3915511"
+    ],
+    "teams": [
+     "194"
+    ],
+    "rows": 7
+   },
+   "2018": {
+    "ids": [
+     "3915511"
+    ],
+    "teams": [
+     "99"
+    ],
+    "rows": 30
+   },
+   "2019": {
+    "ids": [
+     "3915511"
+    ],
+    "teams": [
+     "99"
+    ],
+    "rows": 35
+   }
+  }
+ },
+ "dup_ids_same_name_team": {
+  "2004": {
+   "name_team_pairs": 3616,
+   "pairs_with_multiple_ids": 1,
+   "examples": [
+    [
+     "153",
+     "connorbarth",
+     [
+      "162664",
+      "387947"
+     ]
+    ]
+   ]
+  },
+  "2005": {
+   "name_team_pairs": 3969,
+   "pairs_with_multiple_ids": 1,
+   "examples": [
+    [
+     "153",
+     "connorbarth",
+     [
+      "162664",
+      "387947"
+     ]
+    ]
+   ]
+  },
+  "2006": {
+   "name_team_pairs": 4166,
+   "pairs_with_multiple_ids": 1,
+   "examples": [
+    [
+     "2440",
+     "deangelowilson",
+     [
+      "161511",
+      "242302"
+     ]
+    ]
+   ]
+  },
+  "2007": {
+   "name_team_pairs": 4471,
+   "pairs_with_multiple_ids": 5,
+   "examples": [
+    [
+     "166",
+     "jjmcdermott",
+     [
+      "238790",
+      "246022"
+     ]
+    ],
+    [
+     "239",
+     "kylemitchell",
+     [
+      "115294",
+      "238539"
+     ]
+    ],
+    [
+     "153",
+     "connorbarth",
+     [
+      "162664",
+      "387947"
+     ]
+    ],
+    [
+     "160",
+     "jtwright",
+     [
+      "234294",
+      "245220"
+     ]
+    ]
+   ]
+  },
+  "2008": {
+   "name_team_pairs": 4607,
+   "pairs_with_multiple_ids": 5,
+   "examples": [
+    [
+     "235",
+     "willhudgens",
+     [
+      "162068",
+      "489437"
+     ]
+    ],
+    [
+     "2439",
+     "michaeljohnson",
+     [
+      "27200",
+      "381393"
+     ]
+    ],
+    [
+     "36",
+     "ryangardner",
+     [
+      "144349",
+      "381162"
+     ]
+    ],
+    [
+     "2426",
+     "blakecarter",
+     [
+      "173468",
+      "196250"
+     ]
+    ]
+   ]
+  },
+  "2009": {
+   "name_team_pairs": 4850,
+   "pairs_with_multiple_ids": 6,
+   "examples": [
+    [
+     "251",
+     "aaronwilliams",
+     [
+      "378933",
+      "380121"
+     ]
+    ],
+    [
+     "252",
+     "manasetonga",
+     [
+      "134674",
+      "487664"
+     ]
+    ],
+    [
+     "2294",
+     "pakiomeara",
+     [
+      "231932",
+      "480444"
+     ]
+    ],
+    [
+     "235",
+     "willhudgens",
+     [
+      "162068",
+      "489437"
+     ]
+    ]
+   ]
+  },
+  "2010": {
+   "name_team_pairs": 4838,
+   "pairs_with_multiple_ids": 1,
+   "examples": [
+    [
+     "2084",
+     "jeffvongill",
+     [
+      "482257",
+      "503740"
+     ]
+    ]
+   ]
+  },
+  "2011": {
+   "name_team_pairs": 4778,
+   "pairs_with_multiple_ids": 0,
+   "examples": []
+  },
+  "2012": {
+   "name_team_pairs": 4942,
+   "pairs_with_multiple_ids": 1,
+   "examples": [
+    [
+     "194",
+     "coreybrown",
+     [
+      "487791",
+      "534284"
+     ]
+    ]
+   ]
+  },
+  "2013": {
+   "name_team_pairs": 5184,
+   "pairs_with_multiple_ids": 1,
+   "examples": [
+    [
+     "194",
+     "coreybrown",
+     [
+      "487791",
+      "534284"
+     ]
+    ]
+   ]
+  },
+  "2014": {
+   "name_team_pairs": 5248,
+   "pairs_with_multiple_ids": 22,
+   "examples": [
+    [
+     "135",
+     "team",
+     [
+      "2991632",
+      "3060775"
+     ]
+    ],
+    [
+     "258",
+     "donidowling",
+     [
+      "3124028",
+      "3136357"
+     ]
+    ],
+    [
+     "84",
+     "jshunharrisii",
+     [
+      "3128260",
+      "3140669"
+     ]
+    ],
+    [
+     "2460",
+     "darrianmiller",
+     [
+      "3140642",
+      "513316"
+     ]
+    ]
+   ]
+  },
+  "2015": {
+   "name_team_pairs": 5226,
+   "pairs_with_multiple_ids": 19,
+   "examples": [
+    [
+     "152",
+     "ajcole",
+     [
+      "3686689",
+      "3945597"
+     ]
+    ],
+    [
+     "130",
+     "kennyallen",
+     [
+      "3933597",
+      "546732"
+     ]
+    ],
+    [
+     "2633",
+     "trevordaniel",
+     [
+      "3137665",
+      "546545"
+     ]
+    ],
+    [
+     "204",
+     "stormbarrswoods",
+     [
+      "3930303",
+      "517269"
+     ]
+    ]
+   ]
+  },
+  "2016": {
+   "name_team_pairs": 6917,
+   "pairs_with_multiple_ids": 26,
+   "examples": [
+    [
+     "218",
+     "davidhood",
+     [
+      "3138737",
+      "505616"
+     ]
+    ],
+    [
+     "195",
+     "masonmorgan",
+     [
+      "4059369",
+      "550696"
+     ]
+    ],
+    [
+     "277",
+     "daikielshorts",
+     [
+      "4065931",
+      "546045"
+     ]
+    ],
+    [
+     "2006",
+     "jojonatson",
+     [
+      "3125355",
+      "531268"
+     ]
+    ]
+   ]
+  },
+  "2017": {
+   "name_team_pairs": 6649,
+   "pairs_with_multiple_ids": 13,
+   "examples": [
+    [
+     "2046",
+     "darylrollinsdavis",
+     [
+      "3123716",
+      "4259876"
+     ]
+    ],
+    [
+     "2309",
+     "quanrobinsonjr",
+     [
+      "3125857",
+      "4394570"
+     ]
+    ],
+    [
+     "265",
+     "jamirecalvin",
+     [
+      "4245147",
+      "4277735"
+     ]
+    ],
+    [
+     "2320",
+     "rodneyrandlejr",
+     [
+      "3910120",
+      "4262548"
+     ]
+    ]
+   ]
+  },
+  "2018": {
+   "name_team_pairs": 6822,
+   "pairs_with_multiple_ids": 25,
+   "examples": [
+    [
+     "295",
+     "jeremycox",
+     [
+      "3914534",
+      "4385965"
+     ]
+    ],
+    [
+     "295",
+     "brandonsimmons",
+     [
+      "3139530",
+      "4386180"
+     ]
+    ],
+    [
+     "103",
+     "hampcheevers",
+     [
+      "4035311",
+      "4035339"
+     ]
+    ],
+    [
+     "228",
+     "jddavis",
+     [
+      "3728245",
+      "4410590",
+      "4420758"
+     ]
+    ]
+   ]
+  },
+  "2019": {
+   "name_team_pairs": 6758,
+   "pairs_with_multiple_ids": 15,
+   "examples": [
+    [
+     "50",
+     "cortezreid",
+     [
+      "4574541",
+      "4578263"
+     ]
+    ],
+    [
+     "2116",
+     "marlonwilliams",
+     [
+      "4253122",
+      "4568980"
+     ]
+    ],
+    [
+     "2681",
+     "ikechukwuogwuegbu",
+     [
+      "4046518",
+      "4578975"
+     ]
+    ],
+    [
+     "59",
+     "jaquongriffin",
+     [
+      "4360579",
+      "4579215"
+     ]
+    ]
+   ]
+  },
+  "2020": {
+   "name_team_pairs": 5025,
+   "pairs_with_multiple_ids": 4,
+   "examples": [
+    [
+     "326",
+     "anthonysmith",
+     [
+      "2134192",
+      "4253126"
+     ]
+    ],
+    [
+     "2393",
+     "dqthomas",
+     [
+      "4243960",
+      "4374358"
+     ]
+    ],
+    [
+     "218",
+     "mattduncan",
+     [
+      "385291",
+      "4691125"
+     ]
+    ],
+    [
+     "61",
+     "jordandavis",
+     [
+      "4381558",
+      "546327"
+     ]
+    ]
+   ]
+  },
+  "2021": {
+   "name_team_pairs": 8430,
+   "pairs_with_multiple_ids": 4,
+   "examples": [
+    [
+     "2230",
+     "antoniocortezferia",
+     [
+      "4367811",
+      "4876684"
+     ]
+    ],
+    [
+     "2393",
+     "dqthomas",
+     [
+      "4243960",
+      "4374358"
+     ]
+    ],
+    [
+     "2309",
+     "mattharmon",
+     [
+      "19014",
+      "4362889"
+     ]
+    ],
+    [
+     "61",
+     "jordandavis",
+     [
+      "4381558",
+      "546327"
+     ]
+    ]
+   ]
+  },
+  "2022": {
+   "name_team_pairs": 7487,
+   "pairs_with_multiple_ids": 0,
+   "examples": []
+  },
+  "2023": {
+   "name_team_pairs": 9383,
+   "pairs_with_multiple_ids": 2,
+   "examples": [
+    [
+     "130",
+     "willjohnson",
+     [
+      "160900",
+      "4685408"
+     ]
+    ],
+    [
+     "236",
+     "kameronbrown",
+     [
+      "4567227",
+      "4572715"
+     ]
+    ]
+   ]
+  },
+  "2024": {
+   "name_team_pairs": 12274,
+   "pairs_with_multiple_ids": 3,
+   "examples": [
+    [
+     "38",
+     "bjgreenii",
+     [
+      "4875266",
+      "5231504"
+     ]
+    ],
+    [
+     "295",
+     "aaronyoung",
+     [
+      "4574732",
+      "553074"
+     ]
+    ],
+    [
+     "252",
+     "sionemoa",
+     [
+      "4710802",
+      "5219689"
+     ]
+    ]
+   ]
+  },
+  "2025": {
+   "name_team_pairs": 12550,
+   "pairs_with_multiple_ids": 1,
+   "examples": [
+    [
+     "311",
+     "jakekucera",
+     [
+      "5153837",
+      "5300799"
+     ]
+    ]
+   ]
+  },
+  "2026": {
+   "name_team_pairs": 11909,
+   "pairs_with_multiple_ids": 1,
+   "examples": [
+    [
+     "2006",
+     "marcelwilliams",
+     [
+      "4244849",
+      "5193341"
+     ]
+    ]
+   ]
+  }
+ },
+ "game_rosters_sample": {
+  "2004": {
+   "rows": 43037,
+   "starter_values": {
+    "false": 43037
+   },
+   "did_not_play_values": {
+    "false": 43037
+   },
+   "position_href_not_unknown_share": 0.0
+  },
+  "2019": {
+   "rows": 200436,
+   "starter_values": {
+    "false": 200436
+   },
+   "did_not_play_values": {
+    "false": 200436
+   },
+   "position_href_not_unknown_share": 0.9992
+  }
+ }
+}

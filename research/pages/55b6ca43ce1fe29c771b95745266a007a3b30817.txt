@@ -1,0 +1,60 @@
+{{Navbox
+| name = Navy Midshipmen football coach navbox
+| title = [[List of Navy Midshipmen head football coaches|{{white|Navy Midshipmen head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Navy Midshipmen|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1879)
+* ''No team'' (1880–1881)
+* [[Vaulx Carter]] (1882)
+* ''No coach'' (1883–1891)
+* [[Ben Crosby]] (1892)
+* [[John A. Hartwell]] (1893)
+* [[William Wurtenburg]] (1894)
+* [[Matthew McClung]] (1895)
+* [[Johnny Poe]] (1896)
+* [[Bill Armstrong (American football coach)|Bill Armstrong]] (1897–1899)
+* [[Garrett Cochran]] (1900)
+* [[Art Hillebrand]] (1901–1902)
+* [[Burr Chamberlain]] (1903)
+* [[Paul Dashiell]] (1904–1906)
+* [[Joseph M. Reeves]] (1907)
+* [[Frank Berrien]] (1908–1910)
+* [[Douglas Legate Howard]] (1911–1914)
+* [[Jonas H. Ingram]] (1915–1916)
+* [[Gil Dobie]] (1917–1919)
+* [[Bob Folwell]] (1920–1924)
+* [[Jack Owsley]] (1925)
+* [[Bill Ingram]] (1926–1930)
+* [[Edgar Miller (American football)|Edgar Miller]] (1931–1933)
+* [[Tom Hamilton (American football)|Tom Hamilton]] (1934–1936)
+* [[Hank Hardwick]] (1937–1938)
+* [[Swede Larson]] (1939–1941)
+* [[John Whelchel]] (1942–1943)
+* [[Oscar Hagberg]] (1944–1945)
+* [[Tom Hamilton (American football)|Tom Hamilton]] (1946–1947)
+* [[George Sauer]] (1948–1949)
+* [[Eddie Erdelatz]] (1950–1958)
+* [[Wayne Hardin]] (1959–1964)
+* [[Bill Elias]] (1965–1968)
+* [[Rick Forzano]] (1969–1972)
+* [[George Welsh (American football)|George Welsh]] (1973–1981)
+* [[Gary Tranquill]] (1982–1986)
+* [[Elliot Uzelac]] (1987–1989)
+* [[George Chaump]] (1990–1994)
+* [[Charlie Weatherbie]] (1995–2001)
+* [[Rick Lantz]] # (2001)
+* [[Paul Johnson (American football coach, born 1957)|Paul Johnson]] (2002–2007)
+* [[Ken Niumatalolo]] (2007–2022)
+* [[Brian Newberry (American football)|Brian Newberry]] (2023– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Navy Midshipmen football navigational boxes|Coach]]
+</noinclude>

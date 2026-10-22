@@ -1,0 +1,1965 @@
+{
+  "version": 1,
+  "updated": "2026-10-21",
+  "note": "Known-answer gate corpus for College Football Comparator (FBS players, 2004 season onward). A row gets in only when a publisher's exact number for a player-season, career, game or window is quoted verbatim from a saved copy of a page (research/factoids-players/pages, keyed by sha1(url)) and scripts/check-receipts.mjs finds every quote. The build recomputes each row's value from ESPN per-game box scores under the row's window and scope and fails on a mismatch; where the publisher's definition differs from what box scores can express (sacks in rushing, vacated stats, FCS seasons, starts, class year, position), the row's notes say so and the gate should word the difference in Method rather than patch data. NCAA rows cite the current FBS record book (records through the 2025 season); per the book, all postseason games are included in season and career totals since 2002.",
+  "rows": [
+    {
+      "id": "burrow-2019-pass-td",
+      "player": "Joe Burrow",
+      "team": "LSU",
+      "season": 2019,
+      "stat": "passing touchdowns",
+      "value": 60,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Joe Burrow threw 60 touchdown passes in 15 games in 2019, then the FBS season record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "TD passes thrown; season includes SEC title game and two CFP games (15 G).",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Joe Burrow, LSU †2019 15 60",
+          "note": "Season Touchdown Passes table: Year G TD Passes.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Beginning with the 2002 season, all postseason games were included in NCAA final football statistics and records.",
+          "note": "Scope statement on page 2 of the record book: season totals since 2002 include bowls, conference title games and CFP games.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Record since broken by Bailey Zappe's 62 (2021). Wikipedia: 'surpassing the single-season FBS record previously set by Colt Brennan's 58 in 2006'."
+    },
+    {
+      "id": "burrow-2019-pass-yds",
+      "player": "Joe Burrow",
+      "team": "LSU",
+      "season": 2019,
+      "stat": "passing yards",
+      "value": 5671,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Joe Burrow passed for 5,671 yards in 2019 (527 attempts, 402 completions, 6 interceptions).",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Passing yards, all 15 games.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Joe Burrow, LSU †2019 15 527 402 6 .763 5,671 60 378.1",
+          "note": "Season Yards table: G Att Cmp Int Pct Yards TD Yds/G.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Ties Case Keenum 2009 (5,671, 14 G) on the all-time list; a gate on rank must handle the tie."
+    },
+    {
+      "id": "burrow-2019-td-responsible",
+      "player": "Joe Burrow",
+      "team": "LSU",
+      "season": 2019,
+      "stat": "touchdowns responsible for",
+      "value": 65,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Joe Burrow was responsible for 65 touchdowns in 2019 (60 passing, 5 scored), the FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "NCAA: 'Touchdowns-responsible-for are player's TDs scored and passed for.' Two-point conversions not counted.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "65—Joe Burrow, LSU, 2019 (scored 5, passed for 60)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "http://fs.ncaa.org/Docs/stats/football_records/2022/FBS.pdf",
+          "quote": "65—Joe Burrow, LSU, 2019 (scored 5, passed for 60)",
+          "note": "2022 edition, published after Zappe's 2021 season: Burrow still listed alone.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Touchdowns-responsible-for are player’s",
+          "note": "Footnote under the Total Offense leaders heading; continues 'TDs scored and passed for.'",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joe_Burrow",
+          "quote": "Burrow also set a FBS single-season record with 65 total touchdowns (tied by Bailey Zappe in 2021).",
+          "note": "Wikipedia says Zappe tied it; NCAA book lists Burrow alone.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "DISPUTE: Wikipedia says Bailey Zappe tied 65 in 2021 (62 pass + 3 rush per Wikipedia's stat table). The NCAA book lists only Burrow at 65, both in the 2022 edition and the current one. The engine computing pass TD + rush TD + rec TD from box scores will likely produce 65 for Zappe too; the gate should assert Burrow = 65 and record Zappe's computed value, not assert uniqueness."
+    },
+    {
+      "id": "burrow-2019-total-offense",
+      "player": "Joe Burrow",
+      "team": "LSU",
+      "season": 2019,
+      "stat": "total offense yards",
+      "value": 6039,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Joe Burrow gained 6,039 yards of total offense in 2019 (368 rushing, 5,671 passing), the FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Total offense = rushing + passing yards. NCAA rushing nets out sack yardage, so rushing here is net of sacks.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "6,039—Joe Burrow, LSU, 2019 (368 rushing, 5,671 passing)",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Rushing 368 is NCAA-net (sacks are negative rushing in college stats). If the box-score source keeps sacks separate, the engine's rushing and total offense will differ; gate on passing 5,671 first."
+    },
+    {
+      "id": "zappe-2021-pass-yds",
+      "player": "Bailey Zappe",
+      "team": "Western Kentucky",
+      "season": 2021,
+      "stat": "passing yards",
+      "value": 5967,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Bailey Zappe passed for 5,967 yards in 14 games in 2021, the FBS single-season record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Passing yards incl. C-USA title game and Boca Raton Bowl.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Bailey Zappe, Western Ky. †2021 14 687 475 11 .691 5,967 62 426.2",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bailey_Zappe",
+          "quote": "2021 Western Kentucky 14 14 9–5 476 687 69.3 5,967 8.7 62 11 167.5 51 17 0.3 3",
+          "note": "Wikipedia stat table row: 476 completions, 3 rushing TD.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "DISPUTE (small): NCAA has 475 completions; Wikipedia's table has 476. Yards (5,967) and TD (62) agree. Per Wikipedia, he entered the Boca Raton Bowl short of B.J. Symons' 2003 yardage record, so the record depends on counting the bowl."
+    },
+    {
+      "id": "zappe-2021-pass-td",
+      "player": "Bailey Zappe",
+      "team": "Western Kentucky",
+      "season": 2021,
+      "stat": "passing touchdowns",
+      "value": 62,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Bailey Zappe threw 62 touchdown passes in 2021, the FBS single-season record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "TD passes, 14 games.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "62—Bailey Zappe, Western Ky., 2021 (14 games)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Bailey Zappe, Western Ky. †2021 14 62",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Career totals for Zappe in NCAA FBS lists exclude his Houston Baptist (FCS) seasons: 'Career records of players include only those years in which they competed in the FBS.'"
+    },
+    {
+      "id": "brennan-2006-pass-td",
+      "player": "Colt Brennan",
+      "team": "Hawaii",
+      "season": 2006,
+      "stat": "passing touchdowns",
+      "value": 58,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Colt Brennan threw 58 touchdown passes in 2006, five of them in the Hawaii Bowl.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Season incl. bowl game (14 G).",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Colt Brennan, Hawaii †2006 14 559 406 12 .726 5,549 58 396.4",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Colt_Brennan",
+          "quote": "During the regular season, Brennan passed for 53 touchdowns, falling one touchdown pass short of the NCAA Division I-A single-season record of 54 set by David Klingler of Houston in 1990.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Colt_Brennan",
+          "quote": "On December 24, 2006, at the Hawaii Bowl, Brennan threw for five touchdowns to bring his season total to a record-breaking 58 to break Klinger's record.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "SCOPE: regular season 53, with bowl 58. A 'regular season only' engine view must produce 53; the default all-games view must produce 58. Good gate for the bowls switch."
+    },
+    {
+      "id": "harrell-2007-completions",
+      "player": "Graham Harrell",
+      "team": "Texas Tech",
+      "season": 2007,
+      "stat": "pass completions",
+      "value": 512,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Graham Harrell completed 512 passes in 13 games in 2007, the FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Completions incl. Gator Bowl.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "512—Graham Harrell, Texas Tech, 2007 (13 games, attempted 713)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Graham Harrell, Texas Tech †2007 13 713 512 14 .718 5,705 48 438.8",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Same table row gives 5,705 yards and 48 TD."
+    },
+    {
+      "id": "harrell-2007-negative-rushing",
+      "player": "Graham Harrell",
+      "team": "Texas Tech",
+      "season": 2007,
+      "stat": "rushing yards (net, NCAA)",
+      "value": -91,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Graham Harrell's 2007 total offense was 5,614: 5,705 passing minus 91 rushing.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "NCAA rushing for a QB is net of sack yardage, so a pocket passer's rushing can be negative.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Graham Harrell, Texas Tech †2007 13 751 -91 5,705 5,614 431.8",
+          "note": "Total Offense Season Yards table: G Plays Rush Pass Total Yds/G.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "DEFINITION GATE: this is the sack-yardage test. If the engine's rushing is ESPN box rushing and ESPN also counts sacks as rushes in college, it should reproduce -91; if not, the Method must say so."
+    },
+    {
+      "id": "keenum-career-pass-yds",
+      "player": "Case Keenum",
+      "team": "Houston",
+      "season": null,
+      "stat": "passing yards",
+      "value": 19217,
+      "window": "career",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Case Keenum passed for 19,217 career yards at Houston (2007-11), the FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "FBS career, 57 games, incl. bowls.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "19,217—Case Keenum, Houston, 2007-11 (completed 1,546 of 2,229)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Case Keenum, Houston 2007-11 57 2,229 1,546 46 .694 19,217 155",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Season splits from the 5,000-yard record: '3—Case Keenum, Houston, 2008-09, 2011 (5,020—5,671—5,631)'. 2010 was a medical-hardship season (3 games)."
+    },
+    {
+      "id": "keenum-career-pass-td",
+      "player": "Case Keenum",
+      "team": "Houston",
+      "season": null,
+      "stat": "passing touchdowns",
+      "value": 155,
+      "window": "career",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Case Keenum threw 155 career touchdown passes, tied for the FBS record with Dillon Gabriel.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "FBS career TD passes.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "155—Case Keenum, Houston, 2007-11 (57 games)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Case Keenum, Houston 2007-11 57 155",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "gabriel-career-pass-td",
+      "player": "Dillon Gabriel",
+      "team": "UCF/Oklahoma/Oregon",
+      "season": null,
+      "stat": "passing touchdowns",
+      "value": 155,
+      "window": "career",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Dillon Gabriel threw 155 career touchdown passes across UCF, Oklahoma and Oregon, tying Case Keenum's FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "FBS career across three schools, 64 games.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "155—Dillon Gabriel, UCF/Oklahoma/Oregon, 2019-21/2022-23/2024 (64",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dillon_Gabriel",
+          "quote": "Gabriel concluded his college career with 155 touchdown passes, tying the FBS record held by Case Keenum.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Multi-school career: the engine must join a player's identity across team changes. Career yards 18,722 (second to Keenum) are in the same table."
+    },
+    {
+      "id": "gabriel-career-pass-yds",
+      "player": "Dillon Gabriel",
+      "team": "UCF/Oklahoma/Oregon",
+      "season": null,
+      "stat": "passing yards",
+      "value": 18722,
+      "window": "career",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Dillon Gabriel passed for 18,722 career yards, second in FBS history to Case Keenum.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "FBS career, 64 games, three schools.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Dillon Gabriel, UCF/Oklahoma/Oregon 2019-21/22-23/24 64 2,111 1,376 32 .652 18,722 155",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "gabriel-career-starts",
+      "player": "Dillon Gabriel",
+      "team": "UCF/Oklahoma/Oregon",
+      "season": null,
+      "stat": "games started",
+      "value": 63,
+      "window": "career",
+      "n": null,
+      "scope": "all games",
+      "claim": "Dillon Gabriel started 63 games, the most by a quarterback in the NCAA record book's games-started list.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "NCAA 'Most Games Started' (all positions); 65 is the record (a WR and an OL).",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "63—Dillon Gabriel, QB, UCF/Oklahoma/Oregon, 2019-21/2022-23/2024",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "65—Thomas Hennigan, WR, App State, 2017-21; Alex Palczewski, OL,",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bo_Nix",
+          "quote": "He started 61 games between Auburn and Oregon, the most in NCAA history for a quarterback.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "DISPUTE/STALENESS: Wikipedia's Bo Nix page still calls 61 starts the QB record; NCAA lists Gabriel at 63 and does not list Nix (61) at all. STARTS ARE PROBABLY NOT DERIVABLE from ESPN box scores (no starter flag for QBs is guaranteed); treat as a gate only if the spine carries a starter field."
+    },
+    {
+      "id": "keenum-career-td-responsible",
+      "player": "Case Keenum",
+      "team": "Houston",
+      "season": null,
+      "stat": "touchdowns responsible for",
+      "value": 178,
+      "window": "career",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Case Keenum was responsible for 178 career touchdowns (155 passing, 23 scored), the FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "TDs scored + TDs passed for.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "178—Case Keenum, Houston, 2007-11 (scored 23, passed for 155)",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bryce-young-2021",
+      "player": "Bryce Young",
+      "team": "Alabama",
+      "season": 2021,
+      "stat": "passing yards",
+      "value": 4872,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Bryce Young passed for 4,872 yards and 47 touchdowns in 15 games in 2021.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Incl. SEC title game and two CFP games.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Bryce Young, Alabama 2021 15 547 366 7 .669 4,872 47 324.8",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Bryce Young, Alabama 2021 15 47",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Seed confirmed exactly (4,872 / 47)."
+    },
+    {
+      "id": "caleb-williams-2022",
+      "player": "Caleb Williams",
+      "team": "USC",
+      "season": 2022,
+      "stat": "passing yards",
+      "value": 4537,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. bowl (Wikipedia stat table, 14 G)",
+      "claim": "Caleb Williams passed for 4,537 yards and 42 touchdowns with 5 interceptions in 14 games in 2022.",
+      "publisher": "Wikipedia",
+      "definition_note": "Wikipedia college stats table: GP GS Record Cmp Att Pct Yds Avg TD Int Rtg / rush Att Yds Avg TD.",
+      "grade": "wikipedia",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Caleb_Williams",
+          "quote": "2022 USC 14 14 11–3 333 500 66.6 4,537 9.1 42 5 168.5 113 382 3.4 10",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Not in the NCAA book's top lists. 14 games = 12 regular + Pac-12 title game + Cotton Bowl. Rushing 382 / 10 TD is net of sacks."
+    },
+    {
+      "id": "daniels-2023-efficiency",
+      "player": "Jayden Daniels",
+      "team": "LSU",
+      "season": 2023,
+      "stat": "passing efficiency rating",
+      "value": 208.0,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Jayden Daniels posted a 208.0 passing efficiency rating in 2023, the FBS record (327 attempts, 236 completions, 3,812 yards, 40 TD, 4 INT).",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "NCAA efficiency = (8.4*yds + 100*cmp + 330*TD - 200*INT)/att; minimum 15 attempts per game; he played 12 games (sat the bowl).",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Jayden Daniels, LSU †2023 12 327 236 4 .722 3,812 40 208.0",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jayden_Daniels",
+          "quote": "He also set the FBS single-season record for passer rating with 208.0.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "A ratio gate: engine must reproduce 208.0 from the components (8.4*3812 + 100*236 + 330*40 - 200*4)/327 = 208.0. 12 games: Daniels did not play LSU's ReliaQuest Bowl."
+    },
+    {
+      "id": "daniels-2023-rush",
+      "player": "Jayden Daniels",
+      "team": "LSU",
+      "season": 2023,
+      "stat": "rushing yards",
+      "value": 1134,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Jayden Daniels ran for 1,134 yards and passed for 3,812 in 2023.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "NCAA list 'Gaining 1,000 Yards Rushing and 2,000 Yards Passing in a Season'; rushing net of sacks.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Jayden Daniels, LSU 2023 Sr. 1,134 3,812",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "kyler-murray-2018",
+      "player": "Kyler Murray",
+      "team": "Oklahoma",
+      "season": 2018,
+      "stat": "rushing + passing yards",
+      "value": 5362,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Kyler Murray ran for 1,001 yards and passed for 4,361 in 2018: 5,362 yards on 517 plays, an FBS-record 10.37 per play.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Total offense per play, min. 3,000 yards; rushing net of sacks.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Kyler Murray, Oklahoma 2018 Jr. 1,001 4,361",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "(Min. 3,000 yards) 10.37—Kyler Murray, Oklahoma, 2018 (517 for 5,362)",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "1,001 rushing is one yard over the 1,000 threshold: a sack-yardage definition difference flips 'did Murray have 1,000/4,000' entirely. Strong gate for the rushing definition."
+    },
+    {
+      "id": "mac-jones-2020-cmp-pct",
+      "player": "Mac Jones",
+      "team": "Alabama",
+      "season": 2020,
+      "stat": "completion percentage",
+      "value": 77.4,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Mac Jones completed 77.4% of his passes in 2020 (311 of 402), tied in the NCAA book with Bo Nix (2023) for the FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Min. 150 attempts; percentage shown to one decimal.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "(Min. 150 atts.) 77.4%— Bo Nix, Oregon, 2023 (364 of 470); Mac Jones,",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Mac Jones, Alabama †2020 13 402 311 4 .774 4,500 41 203.1",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "ROUNDING: 311/402 = 77.36%, 364/470 = 77.45%. At one decimal they tie; at two, Nix leads (Wikipedia's Bo Nix page says 77.45%). Gate on counts (311/402), not on the rounded percentage, and decide in Method whether the board shows a tie."
+    },
+    {
+      "id": "bo-nix-2023-cmp-pct",
+      "player": "Bo Nix",
+      "team": "Oregon",
+      "season": 2023,
+      "stat": "completion percentage",
+      "value": 77.4,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Bo Nix completed 364 of 470 passes (77.4%) in 2023 for 4,508 yards and 45 TD.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Min. 150 attempts.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Bo Nix, Oregon 2023 14 470 364 3 .774 4,508 45 188.3",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bo_Nix",
+          "quote": "completion percentage at 77.45%.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "See mac-jones-2020-cmp-pct for the rounding tie."
+    },
+    {
+      "id": "kellen-moore-2009-int-pct",
+      "player": "Kellen Moore",
+      "team": "Boise State",
+      "season": 2009,
+      "stat": "interception percentage",
+      "value": 0.7,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Kellen Moore threw 3 interceptions in 431 attempts in 2009 (0.70%), the FBS low for a 350-attempt season.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Lowest percentage of passes had intercepted, min. 350 attempts.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "(Min. 350 atts.) 0.70%—Kellen Moore, Boise St., 2009 (3 of 431)",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "kellen-moore-career-wins",
+      "player": "Kellen Moore",
+      "team": "Boise State",
+      "season": null,
+      "stat": "wins (team record in games played)",
+      "value": 50,
+      "window": "career",
+      "n": null,
+      "scope": "all games incl. bowls",
+      "claim": "Kellen Moore went 50-3 at Boise State (2008-11), the most wins by an FBS quarterback.",
+      "publisher": "Wikipedia",
+      "definition_note": "Wikipedia stat table totals row: GP 53, GS 52, Record 50–3.",
+      "grade": "wikipedia",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kellen_Moore",
+          "quote": "53 52 50–3 1,157 1,658 14,667",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kellen_Moore",
+          "quote": "On November 5, the Broncos defeated UNLV and Moore broke the record to become the FBS leader in career wins for a starting quarterback at 46.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "DEFINITION: 50–3 is printed against 52 starts and 53 games played, so the 'record' column is not strictly starts. A box-score engine has no reliable QB-starter flag; it can compute team W-L in games where the player recorded a pass attempt. Gate only if the spine defines 'started'. Not found in the NCAA FBS record book's individual sections."
+    },
+    {
+      "id": "pickett-2021",
+      "player": "Kenny Pickett",
+      "team": "Pittsburgh",
+      "season": 2021,
+      "stat": "passing yards",
+      "value": 4319,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. bowl? (Wikipedia, unspecified)",
+      "claim": "Kenny Pickett passed for 4,319 yards and 42 touchdowns in 2021, both Pitt records.",
+      "publisher": "Wikipedia",
+      "definition_note": "Wikipedia prose; scope not stated.",
+      "grade": "wikipedia",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kenny_Pickett",
+          "quote": "Pickett recorded 4,319 yards and 42 touchdowns setting school records for single season yards and touchdowns as well as career yards and touchdowns.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Pickett opted out of the Peach Bowl, so 13 games (12 + ACC title) is likely the full count; not verified against a box score list."
+    },
+    {
+      "id": "cam-ward-career-fbs-pass-td",
+      "player": "Cam Ward",
+      "team": "Washington State/Miami",
+      "season": null,
+      "stat": "passing touchdowns (FBS only)",
+      "value": 87,
+      "window": "career",
+      "n": null,
+      "scope": "FBS games only",
+      "claim": "Cam Ward threw 87 FBS touchdown passes (and 71 at FCS Incarnate Word) for a combined college record of 158.",
+      "publisher": "Wikipedia",
+      "definition_note": "Combined FCS + FBS, split as stated by the publisher.",
+      "grade": "wikipedia",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cam_Ward_(American_football)",
+          "quote": "setting the career combined FCS (71) and FBS (87) record with 158.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "SCOPE: NCAA FBS career lists 'include only those years in which they competed in the FBS', so Ward is absent from the FBS career tables. The engine (FBS box scores) should produce 87 at the end of the Pop-Tarts Bowl; 158 is out of scope unless FCS box scores are in the spine. Wikipedia's career table shows 158 under 'Career', mixing both."
+    },
+    {
+      "id": "tebow-2007-20-20",
+      "player": "Tim Tebow",
+      "team": "Florida",
+      "season": 2007,
+      "stat": "rushing TD and passing TD",
+      "value": 23,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Tim Tebow ran for 23 touchdowns and threw for 32 in 2007, the first entry in the NCAA's 20-20 list.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "NCAA: 'Scoring 20 Touchdowns by Rushing and Receiving, and Passing for 20 Touchdowns in a Season'. value = rushing TD; passing TD 32.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Tim Tebow, Florida, 2007 (23 rushing, 32 passing)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Dan LeFevour, Central Mich., 2007 (19 rushing, 1 receiving, 27 passing)",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "'FIRST' IS CONTESTED: Dan LeFevour also did it in 2007 (19 rush + 1 rec). The NCAA criterion is rushing+receiving TD >= 20, so LeFevour qualifies the same season. 'First 20/20' claims usually mean pure rushing; say which in Method. Also: '13—Tim Tebow, Florida, 2007 (13 games)' consecutive games scoring by rushing and passing."
+    },
+    {
+      "id": "newton-2010-20-20",
+      "player": "Cam Newton",
+      "team": "Auburn",
+      "season": 2010,
+      "stat": "rushing yards",
+      "value": 1473,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Cam Newton ran for 1,473 yards and 20 touchdowns and threw for 2,854 yards and 30 touchdowns in 2010.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Rushing net of sacks; 14 games incl. SEC title and BCS title game.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Cam Newton, Auburn 2010 Jr. 1,473 2,854",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Cam Newton, Auburn, 2010 (20 rushing, 1 receiving, 30 passing)",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Also in the efficiency table: 'Cam Newton, Auburn 2010 14 280 185 7 .661 2,854 30 182.1'."
+    },
+    {
+      "id": "lamar-jackson-2016",
+      "player": "Lamar Jackson",
+      "team": "Louisville",
+      "season": 2016,
+      "stat": "rushing yards",
+      "value": 1571,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Lamar Jackson ran for 1,571 yards and 21 touchdowns and threw for 3,543 yards and 30 touchdowns in 2016.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Rushing net of sacks.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Lamar Jackson, Louisville 2016 So. 1,571 3,543",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Lamar Jackson, Louisville, 2016 (21 rushing, 30 passing)",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Total offense 2016: 'Lamar Jackson, Louisville 2016 13 669 1,571 3,543 5,114 393.4'."
+    },
+    {
+      "id": "vince-young-2005",
+      "player": "Vince Young",
+      "team": "Texas",
+      "season": 2005,
+      "stat": "rushing yards",
+      "value": 1050,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Vince Young ran for 1,050 yards and passed for 3,036 in 2005.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Rushing net of sacks; incl. Rose Bowl (BCS title).",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Vince Young, Texas 2005 Jr. 1,050 3,036",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "lynch-2013-qb-rush",
+      "player": "Jordan Lynch",
+      "team": "NIU",
+      "season": 2013,
+      "stat": "rushing yards",
+      "value": 1920,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Jordan Lynch ran for 1,920 yards in 2013, then the FBS record for a quarterback.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "QB records require playing at least half his games at QB.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Jordan Lynch, NIU 2013 Sr. 1,920 2,892",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jordan_Lynch",
+          "quote": "He finished the season with 1,920 rushing yards, which broke his record from the previous season.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "2,017—Malcolm Perry, Navy, 2019 (295 rushes)",
+          "note": "Current QB season record, under 'Most Yards Gained by a Quarterback'.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Seed number right, record wrong: Malcolm Perry (Navy, 2019) holds the QB record at 2,017. Lynch also had '12—Jordan Lynch, NIU, 2012' 100-yard games by a QB (record) and set QB single-game marks of 316 (vs Central Mich., Oct 19, 2013) and 321 (Nov 26, 2013 vs Western Mich. per Wikipedia), since passed by Khalil Tate's 327."
+    },
+    {
+      "id": "tate-2017-qb-rush-game",
+      "player": "Khalil Tate",
+      "team": "Arizona",
+      "season": 2017,
+      "stat": "rushing yards",
+      "value": 327,
+      "window": "single game",
+      "n": null,
+      "scope": "single game",
+      "claim": "Khalil Tate ran for 327 yards on 14 carries against Colorado on Oct. 7, 2017, the FBS record for a quarterback.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Most yards gained by a quarterback, game.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "327—Khalil Tate, Arizona vs. Colorado, Oct. 7, 2017 (14 rushes)",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "perry-2019-qb-rush",
+      "player": "Malcolm Perry",
+      "team": "Navy",
+      "season": 2019,
+      "stat": "rushing yards",
+      "value": 2017,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Malcolm Perry ran for 2,017 yards in 13 games in 2019, the FBS record for a quarterback.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "QB-position record (half his games at QB).",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "2,017—Malcolm Perry, Navy, 2019 (295 rushes)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Malcolm Perry, Navy (QB) 2019 13 295 2,017 155.2",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Position is not in a box score; a QB-only board needs a position source."
+    },
+    {
+      "id": "jeanty-2024-rush-yds",
+      "player": "Ashton Jeanty",
+      "team": "Boise State",
+      "season": 2024,
+      "stat": "rushing yards",
+      "value": 2601,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Ashton Jeanty ran for 2,601 yards in 14 games in 2024, 27 short of Barry Sanders' FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Incl. Mountain West title game and CFP quarterfinal (Fiesta Bowl).",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Ashton Jeanty, Boise St. †2024 14 374 2,601 185.8",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.si.com/college/oklahomastate/football/ashton-jeanty-falls-short-of-barry-sanders-single-season-rushing-record",
+          "quote": "Needing 131 yards to hit Barry Sanders’ record of 2,628 rushing yards, Jeanty only managed 104.",
+          "note": "SI: Fiesta Bowl (CFP) game; implies 2,497 entering the CFP.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.si.com/college/oklahomastate/football/ashton-jeanty-falls-short-of-barry-sanders-single-season-rushing-record",
+          "quote": "Oklahoma State also counts Sanders’ bowl game in 1988, which pushes his total to 2,850 yards across 12 games.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "SCOPE: 2,497 through the Mountain West title game, 2,601 with the CFP game (SI arithmetic: 2,628 - 131 = 2,497; +104 = 2,601). Sanders' NCAA 2,628 excludes his 1988 bowl (pre-2002 rule); Oklahoma State counts 2,850. Sanders is pre-2004 so not a gate, but 'second all-time' phrasing depends on it."
+    },
+    {
+      "id": "jeanty-2024-first-6-games",
+      "player": "Ashton Jeanty",
+      "team": "Boise State",
+      "season": 2024,
+      "stat": "rushing yards",
+      "value": 1248,
+      "window": "first N games of season",
+      "n": 6,
+      "scope": "regular season, first 6 games",
+      "claim": "Through six games of 2024, Ashton Jeanty had 1,248 rushing yards and 17 touchdowns.",
+      "publisher": "ESPN",
+      "definition_note": "ESPN feature published mid-October 2024 after Boise State's sixth game.",
+      "grade": "article",
+      "receipts": [
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/41962943/boise-state-ashton-jeanty-dominant-running-back-heisman-2024",
+          "quote": "On his way to a nation-leading 1,248 yards and 17 touchdowns, he has outrun some of the fastest defensive backs in the sport and rumbled his way through entire defenses.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://www.espn.com/college-football/story/_/id/41962943/boise-state-ashton-jeanty-dominant-running-back-heisman-2024",
+          "quote": "Through six games, he's on pace to break Barry Sanders' single-season records for rushing yards (2,628) and touchdowns (37).",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "The 17 is ESPN's 'touchdowns' without a type; Jeanty's 2024 season had 29 rushing + 1 receiving TD, so check whether 17 is rushing only. Gate on yards."
+    },
+    {
+      "id": "jeanty-2024-fastest-1000",
+      "player": "Ashton Jeanty",
+      "team": "Boise State",
+      "season": 2024,
+      "stat": "rushing yards",
+      "value": 1031,
+      "window": "fastest to M in season",
+      "n": 5,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Ashton Jeanty reached 1,000 rushing yards in his 5th game of 2024 (1,031), tying the FBS record for the earliest game.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "NCAA 'Earliest Game Reaching 1,000 Yards, Season': 5th game; value = yards after game 5.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Stanford, 2017 (1,088); Jaret Patterson, Buffalo, 2020 (1,025); Ashton",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Earliest Game Reaching 1,000 Yards",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Same list, post-2004 co-holders: Garrett Wolfe (NIU, 2006, 1,181), Bryce Love (Stanford, 2017, 1,088), Jaret Patterson (Buffalo, 2020, 1,025). 'Game' is the player's game count, not team weeks (Patterson's 2020 season was 6 games). Good 'fastest to M' gate set."
+    },
+    {
+      "id": "jeanty-2024-100yd-games",
+      "player": "Ashton Jeanty",
+      "team": "Boise State",
+      "season": 2024,
+      "stat": "100-yard rushing games",
+      "value": 14,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Ashton Jeanty ran for 100 or more yards in all 14 games of 2024, the FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Games with 100+ rushing yards.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "14—Ashton Jeanty, Boise St., 2024",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "13—Kevin Smith, UCF, 2007; Shonn Green, Iowa, 2008",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Book lists 'Shonn Green' (Shonn Greene). Name-matching gate."
+    },
+    {
+      "id": "gordon-2014-rush-yds",
+      "player": "Melvin Gordon",
+      "team": "Wisconsin",
+      "season": 2014,
+      "stat": "rushing yards",
+      "value": 2587,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Melvin Gordon ran for 2,587 yards in 14 games in 2014.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Incl. Big Ten title game and Outback Bowl.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Melvin Gordon, Wisconsin †2014 14 343 2,587 184.8",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Melvin_Gordon",
+          "quote": "For the season, he gained 2,587 yards.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Seed confirmed exactly."
+    },
+    {
+      "id": "gordon-2014-408-game",
+      "player": "Melvin Gordon",
+      "team": "Wisconsin",
+      "season": 2014,
+      "stat": "rushing yards",
+      "value": 408,
+      "window": "single game",
+      "n": null,
+      "scope": "single game",
+      "claim": "Melvin Gordon ran for 408 yards on 25 carries against Nebraska on Nov. 15, 2014, an FBS record that lasted one week.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Single game; Gordon played three quarters.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "408 Melvin Gordon, Wisconsin (Nebraska) Nov. 15, 2014",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "(Min. 25 rushes) 16.32—Melvin Gordon, Wisconsin vs. Nebraska, Nov. 15,",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Melvin_Gordon",
+          "quote": "The record stood for only a week before Samaje Perine of Oklahoma rushed for 427 yards against Kansas.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Wikipedia: 'set playing in three quarters'."
+    },
+    {
+      "id": "perine-2014-427-game",
+      "player": "Samaje Perine",
+      "team": "Oklahoma",
+      "season": 2014,
+      "stat": "rushing yards",
+      "value": 427,
+      "window": "single game",
+      "n": null,
+      "scope": "single game",
+      "claim": "Samaje Perine ran for 427 yards on 34 carries against Kansas on Nov. 22, 2014, the FBS single-game record (as a freshman).",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Single game; also the freshman record.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "427—Samaje Perine, Oklahoma vs. Kansas, Nov. 22, 2014 (34 rushes)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Samaje_Perine",
+          "quote": "Perine currently holds the NCAA FBS record for most rushing yards in a single game, which he set as a true freshman in 2014 by rushing for 427 yards against Kansas.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Quarter splits in the book: 61, 161, 156, 49."
+    },
+    {
+      "id": "henry-2015-rush",
+      "player": "Derrick Henry",
+      "team": "Alabama",
+      "season": 2015,
+      "stat": "rushing yards",
+      "value": 2219,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Derrick Henry ran for 2,219 yards and 28 touchdowns in 15 games in 2015, and scored in all 15.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Incl. SEC title and two CFP games.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Derrick Henry, Alabama †2015 15 395 2,219 147.9",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Derrick Henry, Alabama †2015 28 0 0 168",
+          "note": "Season Points table: TD Xpts FG Pts.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "15—Derrick Henry, Alabama, 2015 (15 games)",
+          "note": "Under 'Most Games Scoring a Touchdown, Season'.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "kevin-smith-2007-rushes",
+      "player": "Kevin Smith",
+      "team": "UCF",
+      "season": 2007,
+      "stat": "rushing attempts",
+      "value": 450,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Kevin Smith carried 450 times for 2,567 yards in 2007, the FBS record for rushes.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Rushes incl. bowl (14 G).",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "450—Kevin Smith, UCF, 2007 (2,567 yards)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Kevin Smith, UCF †2007 14 450 2,567 183.4",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "taylor-career-rush",
+      "player": "Jonathan Taylor",
+      "team": "Wisconsin",
+      "season": null,
+      "stat": "rushing yards",
+      "value": 6174,
+      "window": "career",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Jonathan Taylor ran for 6,174 yards in three seasons at Wisconsin (2017-19), with an FBS-record 12 200-yard games.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "FBS career, 41 games, incl. bowls.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Jonathan Taylor, Wisconsin 2017-19 41 926 6,174 150.6 88",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "12—Jonathan Taylor, Wisconsin 2017-19",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jonathan_Taylor_(American_football)",
+          "quote": "Career 41 40 926 6,174 6.7 50 42 407 9.7 5",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Seed confirmed exactly. Season splits per Wikipedia table: 1,977 / 2,194 / 2,003."
+    },
+    {
+      "id": "taylor-2017-freshman",
+      "player": "Jonathan Taylor",
+      "team": "Wisconsin",
+      "season": 2017,
+      "stat": "rushing yards",
+      "value": 1977,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Jonathan Taylor ran for 1,977 yards as a freshman in 2017, the FBS freshman record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Freshman = class year in the NCAA book (redshirt freshmen count).",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "1,977—Jonathan Taylor, Wisconsin, 2017 (299 rushes)",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Class year is not in box scores; freshman boards need a roster source."
+    },
+    {
+      "id": "pumphrey-career-rush",
+      "player": "Donnel Pumphrey",
+      "team": "San Diego State",
+      "season": null,
+      "stat": "rushing yards",
+      "value": 6405,
+      "window": "career",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Donnel Pumphrey ran for 6,405 career yards (2013-16), the FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "FBS career incl. bowls (post-2002 rule).",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "6,405—Donnel Pumphrey, San Diego St., 2013-16 (1,059 rushes)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Donnel_Pumphrey",
+          "quote": "If bowl statistics are taken into account for all players, Pumphrey's rushing yards would rank fourth in NCAA Division I FBS history, behind Ron Dayne, Ricky Williams, and Tony Dorsett.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "SCOPE DISPUTE: the record exists because pre-2002 careers exclude bowls. Ron Dayne is 8 yards behind (6,397) in NCAA counting. Not an engine problem (all post-2004) but the Method must say 'NCAA counting' when calling this a record."
+    },
+    {
+      "id": "patterson-2020-two-games",
+      "player": "Jaret Patterson",
+      "team": "Buffalo",
+      "season": 2020,
+      "stat": "rushing yards",
+      "value": 710,
+      "window": "consecutive games window",
+      "n": 2,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Jaret Patterson ran for 710 yards in two straight games in 2020 (301 vs Bowling Green, 409 vs Kent State), the FBS record for two games.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Most yards gained in two consecutive games.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "710—Jaret Patterson, Buffalo, 2020 (301 vs. Bowling Green, Nov. 17; 409",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Buffalo vs. Kent St., Nov. 28, 2020 (3, 31, 42, 49, 1, 7, 11, 58)",
+          "note": "His 8 rushing TDs vs Kent St.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Rolling-window gate (2 games)."
+    },
+    {
+      "id": "peterson-2004-freshman",
+      "player": "Adrian Peterson",
+      "team": "Oklahoma",
+      "season": 2004,
+      "stat": "rushing attempts",
+      "value": 339,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Adrian Peterson carried 339 times for 1,925 yards as a freshman in 2004, the FBS freshman record for rushes.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Freshman records; 2004 incl. Orange Bowl (BCS title).",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "339—Adrian Peterson, Oklahoma, 2004 (1,925 yards)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Peterson, Oklahoma, 2004 (1,023 vs. Kansas, Oct. 23); Jamario Thomas,",
+          "note": "Reached 1,000 yards in his 7th game (freshman record list).",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "First season of the data spine: a good 'does 2004 load' gate."
+    },
+    {
+      "id": "reynolds-career-rush-td",
+      "player": "Keenan Reynolds",
+      "team": "Navy",
+      "season": null,
+      "stat": "rushing touchdowns",
+      "value": 88,
+      "window": "career",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Keenan Reynolds, a quarterback, scored 88 rushing touchdowns at Navy (2012-15), the FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "FBS career, 50 games.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "88—Keenan Reynolds, Navy, 2012-15 (50 games)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Keenan Reynolds, Navy (QB) 2012-15 50 88",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Also career QB rushing: '4,559—Keenan Reynolds, Navy, 2012-15 (977 rushes)'."
+    },
+    {
+      "id": "ball-2011-touchdowns",
+      "player": "Montee Ball",
+      "team": "Wisconsin",
+      "season": 2011,
+      "stat": "touchdowns scored",
+      "value": 39,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Montee Ball scored 39 touchdowns and 236 points in 14 games in 2011, the FBS records.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Points incl. 1 two-point conversion.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "236—Montee Ball, Wisconsin, 2011 (39 TDs, 1 two-point conversion in 14",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Montee Ball, Wisconsin †2011 39 2 0 236",
+          "note": "Season Points table: TD Xpts FG Pts.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Two-point conversions are rarely in box scores; gate on TD (39), not points."
+    },
+    {
+      "id": "chase-2019-rec-yds",
+      "player": "Ja'Marr Chase",
+      "team": "LSU",
+      "season": 2019,
+      "stat": "receiving yards",
+      "value": 1780,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Ja'Marr Chase caught 84 passes for 1,780 yards and 20 touchdowns in 14 games in 2019.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Incl. SEC title and CFP; he played 14 of LSU's 15.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Ja’Marr Chase, LSU †2019 14 84 1,780 127.1 20",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Ja’Marr Chase, LSU †2019 14 20",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Seed confirmed exactly. Apostrophe is curly in the book (Ja’Marr): a name-normalization gate."
+    },
+    {
+      "id": "jefferson-2019-rec",
+      "player": "Justin Jefferson",
+      "team": "LSU",
+      "season": 2019,
+      "stat": "receptions",
+      "value": 111,
+      "window": "season",
+      "n": null,
+      "scope": "all games (Wikipedia, 15 G)",
+      "claim": "Justin Jefferson caught 111 passes in 2019, tied for the national lead.",
+      "publisher": "Wikipedia",
+      "definition_note": "Receptions; 'co-led the country'.",
+      "grade": "wikipedia",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Justin_Jefferson",
+          "quote": "In his junior season, Jefferson co-led the country with 111 receptions.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Not in the NCAA book's top lists (cut at 115). Wikipedia also gives 1,540 yards and 18 TD (third / second nationally)."
+    },
+    {
+      "id": "cooper-2014-rec",
+      "player": "Amari Cooper",
+      "team": "Alabama",
+      "season": 2014,
+      "stat": "receptions",
+      "value": 124,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Amari Cooper caught 124 passes for 1,727 yards and 16 touchdowns in 14 games in 2014.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Incl. SEC title and CFP semifinal.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Amari Cooper, Alabama 2014 14 124 1,727 16",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Amari Cooper, Alabama 2014 14 124 1,727 123.4 16",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Seed confirmed exactly."
+    },
+    {
+      "id": "crabtree-2007-rec",
+      "player": "Michael Crabtree",
+      "team": "Texas Tech",
+      "season": 2007,
+      "stat": "receptions",
+      "value": 134,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Michael Crabtree caught 134 passes for 1,962 yards and 22 touchdowns as a freshman in 2007, all FBS freshman records.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "13 games incl. Gator Bowl; redshirt freshman counted as freshman.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "134—Michael Crabtree, Texas Tech, 2007 (1,962 yards)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "1,962—Michael Crabtree, Texas Tech, 2007 (caught 134, 13 games)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Michael Crabtree, Texas Tech †2007 13 134 1,962 150.9 22",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "davis-career-rec-yds",
+      "player": "Corey Davis",
+      "team": "Western Michigan",
+      "season": null,
+      "stat": "receiving yards",
+      "value": 5285,
+      "window": "career",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Corey Davis caught 332 passes for 5,285 yards (2013-16), the FBS career record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "FBS career, 50 games.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "5,285—Corey Davis, Western Mich., 2013-16 (caught 332)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Corey Davis, Western Mich. 2013-16 50 332 5,285 105.7 52",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Seed confirmed exactly."
+    },
+    {
+      "id": "devonta-smith-2020",
+      "player": "DeVonta Smith",
+      "team": "Alabama",
+      "season": 2020,
+      "stat": "receiving yards",
+      "value": 1856,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "DeVonta Smith caught 117 passes for 1,856 yards and 23 touchdowns in 13 games in 2020.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Incl. SEC title and two CFP games.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "DeVonta Smith, Alabama 2020 13 117 1,856 142.8 23",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "DeVonta Smith, Alabama †2020 13 23",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Seed confirmed exactly."
+    },
+    {
+      "id": "zay-jones-2016-rec",
+      "player": "Zay Jones",
+      "team": "East Carolina",
+      "season": 2016,
+      "stat": "receptions",
+      "value": 158,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Zay Jones caught 158 passes in 12 games in 2016, the FBS season record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Receptions.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "158—Zay Jones, East Carolina, 2016 (1,746 yards)",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Zay Jones, East Carolina †2016 12 158 1,746 8",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Career record too: '399—Zay Jones, East Carolina, 2013-16 (4,279 yards)'."
+    },
+    {
+      "id": "hunter-2024-rec",
+      "player": "Travis Hunter",
+      "team": "Colorado",
+      "season": 2024,
+      "stat": "receiving yards",
+      "value": 1258,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. bowl (Wikipedia stat table, 13 G)",
+      "claim": "Travis Hunter caught 96 passes for 1,258 yards and 15 touchdowns in 2024 while also intercepting 4 passes on defense.",
+      "publisher": "Wikipedia",
+      "definition_note": "Wikipedia college stats table: GP GS Rec Yds Avg TD ... defensive Int.",
+      "grade": "wikipedia",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Travis_Hunter",
+          "quote": "2024 Colorado 13 13 96 1,258 13.1 15",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Two-way gate: same player must appear in receiving and interceptions tables. The 4 INT is further along the same table row (interceptions column), check against the spine's interception data. 13 games incl. Alamo Bowl."
+    },
+    {
+      "id": "jeremiah-smith-2024",
+      "player": "Jeremiah Smith",
+      "team": "Ohio State",
+      "season": 2024,
+      "stat": "receiving yards",
+      "value": 1315,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. 4 CFP games (Wikipedia stat table, 16 G)",
+      "claim": "Jeremiah Smith caught 76 passes for 1,315 yards and 15 touchdowns in 16 games as a freshman in 2024.",
+      "publisher": "Wikipedia",
+      "definition_note": "Wikipedia college stats table: GP GS Rec Yds Avg TD.",
+      "grade": "wikipedia",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeremiah_Smith_(American_football)",
+          "quote": "2024 Ohio State 16 15 76 1,315 17.3 15",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "16 games = 12 regular-season + 4 CFP games (Ohio State did not play in the Big Ten title game). A 16-game season is the 12-team-CFP stress test. Wikipedia's 'FBS freshman receiving record' claim is rejected (see rejections)."
+    },
+    {
+      "id": "mcmillan-2024-304-game",
+      "player": "Tetairoa McMillan",
+      "team": "Arizona",
+      "season": 2024,
+      "stat": "receiving yards",
+      "value": 304,
+      "window": "single game",
+      "n": null,
+      "scope": "single game",
+      "claim": "Tetairoa McMillan caught 10 passes for 304 yards against New Mexico in Arizona's 2024 opener.",
+      "publisher": "Wikipedia",
+      "definition_note": "Single game, Aug. 31, 2024.",
+      "grade": "wikipedia",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tetairoa_McMillan",
+          "quote": "In the Wildcats' opening game of the 2024 season against New Mexico, McMillan caught ten passes for a school-record 304 yards and tied the school record with four touchdown catches in a 61–39 victory.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Also 2023: 90 receptions, 1,402 yards, 10 TD in 13 games (same page)."
+    },
+    {
+      "id": "mccaffrey-2015-all-purpose",
+      "player": "Christian McCaffrey",
+      "team": "Stanford",
+      "season": 2015,
+      "stat": "all-purpose yards",
+      "value": 3864,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Christian McCaffrey gained 3,864 all-purpose yards in 2015 (2,019 rushing, 645 receiving, 130 punt return, 1,070 kickoff return), the FBS record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "All-purpose = rush + rec + interception return + punt return + kickoff return.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Christian McCaffrey, Stanford †2015 14 2,019 645 0 130 1,070 3,864 276.0",
+          "note": "Season Yards table: G Rush Rec Int PR KOR Yards Yds/G.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Needs return data in the spine; checks the all-purpose definition (includes INT returns, excludes passing)."
+    },
+    {
+      "id": "bush-2005-all-purpose-vacated",
+      "player": "Reggie Bush",
+      "team": "USC",
+      "season": 2005,
+      "stat": "all-purpose yards",
+      "value": 2890,
+      "window": "season",
+      "n": null,
+      "scope": "all games; statistics vacated by NCAA",
+      "claim": "Reggie Bush gained 2,890 all-purpose yards in 2005, but the NCAA vacated his 2005 statistics.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "NCAA prints the line with '#' and a vacated footnote.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "#Reggie Bush, Southern California Jr. 1,740 478 0 179 493 2,890 222.3",
+          "note": "Annual all-purpose champions table.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "#Bush’s 2005 statistics (and statistical championship) vacated by NCAA Committee on Infractions.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Reggie_Bush",
+          "quote": "He set the Pac-10 record for all-purpose yards in a game, with 513 (294 rushing, 68 receiving, 151 return) against the Fresno State Bulldogs on November 19, 2005.",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "VACATED-STATS GATE: box scores still contain the games, so the engine will compute ~2,890 and rank Bush where the NCAA does not. Decide in Method whether vacated seasons are shown (with a mark) or dropped. Also absent from the NCAA season all-purpose leader table (2,890 would rank between 2,910 and 2,833)."
+    },
+    {
+      "id": "switzer-owens-punt-return-td",
+      "player": "Ryan Switzer",
+      "team": "North Carolina",
+      "season": 2013,
+      "stat": "punt return touchdowns",
+      "value": 5,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Ryan Switzer (North Carolina, 2013) and Chad Owens (Hawaii, 2004) each returned 5 punts for touchdowns, the FBS season record.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Punt returns for TD, season.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "5—Chad Owens, Hawaii, 2004; Ryan Switzer, North Carolina, 2013",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Two-holder gate. Owens 2004 is in the first season of the spine."
+    },
+    {
+      "id": "araiza-2021-punting",
+      "player": "Matt Araiza",
+      "team": "San Diego State",
+      "season": 2021,
+      "stat": "punting average",
+      "value": 51.2,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Matt Araiza averaged 51.2 yards on 79 punts (4,044 yards) in 2021, the FBS record for 75+ punts.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Gross punting average, min. 75 punts.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "(Min. 75 punts) 51.2—Matt Araiza, San Diego St., 2021 (79 for 4,044)",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "holliman-2014-int",
+      "player": "Gerod Holliman",
+      "team": "Louisville",
+      "season": 2014,
+      "stat": "interceptions",
+      "value": 14,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Gerod Holliman intercepted 14 passes in 13 games in 2014, the most since 1968 and second in the NCAA all-time table.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "Defensive interceptions, season.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Gerod Holliman, Louisville †2014 Jr. 13 14 1.08 245",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": "Book table lists Harry Agganis (Boston U., 1949) at 15, then Al Worley (1968) and Holliman at 14. Popular coverage says Holliman 'tied the FBS record' (Worley); that framing was not receipted. Gate on 14."
+    },
+    {
+      "id": "aguayo-2013-pat",
+      "player": "Roberto Aguayo",
+      "team": "Florida State",
+      "season": 2013,
+      "stat": "extra points made",
+      "value": 94,
+      "window": "season",
+      "n": null,
+      "scope": "all games incl. postseason (NCAA rule since 2002)",
+      "claim": "Roberto Aguayo made all 94 extra-point attempts in 2013, the FBS record for a perfect season.",
+      "publisher": "NCAA FBS record book",
+      "definition_note": "PATs made, 100%.",
+      "grade": "record-book",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "94 of 94—Roberto Aguayo, Florida St., 2013",
+          "retrieved": "2026-10-21"
+        }
+      ],
+      "notes": ""
+    }
+  ],
+  "rejections": [
+    {
+      "claim": "Jeremiah Smith (Ohio State) broke the FBS freshman receiving record in 2024.",
+      "reason": "Wikipedia's lead says so, but the NCAA FBS record book's freshman receiving-yards record is Michael Crabtree's 1,962 (2007) and Smith had 1,315; freshman receptions record is Crabtree's 134 (Smith 76). The Wikipedia claim is either a true-freshman or school/conference record mislabeled. Not a gate.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeremiah_Smith_(American_football)",
+          "quote": "As a college freshman in 2024, Smith broke the NCAA Division I Football Bowl Subdivision (FBS) freshman receiving record, and won a national championship with the Buckeyes.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "1,962—Michael Crabtree, Texas Tech, 2007 (caught 134, 13 games)",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "claim": "Bo Nix holds the record for most career starts (61).",
+      "reason": "Superseded: NCAA's Most Games Started list has Dillon Gabriel (QB) at 63 and two non-QBs at 65; Nix's 61 is not in the list. Also starts are not derivable from box scores.",
+      "receipts": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bo_Nix",
+          "quote": "He started 61 games between Auburn and Oregon, the most in NCAA history for a quarterback.",
+          "retrieved": "2026-10-21"
+        },
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "63—Dillon Gabriel, QB, UCF/Oklahoma/Oregon, 2019-21/2022-23/2024",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "claim": "Jordan Lynch's 1,920 rushing yards (2013) is the FBS season record for a quarterback.",
+      "reason": "True when set; now Malcolm Perry's 2,017 (Navy, 2019). Kept as a row with the corrected framing (lynch-2013-qb-rush), rejected as worded.",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "2,017—Malcolm Perry, Navy, 2019 (295 rushes)",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "claim": "Melvin Gordon's 408 yards vs Nebraska is the FBS single-game rushing record.",
+      "reason": "Stood one week; Samaje Perine's 427 (Nov. 22, 2014) is the record. Kept as a row with correct framing.",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "427—Samaje Perine, Oklahoma vs. Kansas, Nov. 22, 2014 (34 rushes)",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "claim": "Tim Tebow (2007) was the first FBS player with 20 rushing and 20 passing touchdowns in a season (as a clean 'first').",
+      "reason": "Rejected as an unqualified 'first': the NCAA list's criterion is rushing+receiving TD, and Dan LeFevour also qualified in 2007 (19 rush + 1 rec + 27 pass). Tebow is first if the criterion is 20 rushing TD only. Row kept (tebow-2007-20-20) with that note.",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "Dan LeFevour, Central Mich., 2007 (19 rushing, 1 receiving, 27 passing)",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "claim": "Case Keenum career passing TDs is the sole FBS record (seed implied).",
+      "reason": "Tied: Dillon Gabriel 155 (2024). Both kept as rows.",
+      "receipts": [
+        {
+          "url": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+          "quote": "155—Dillon Gabriel, UCF/Oklahoma/Oregon, 2019-21/2022-23/2024 (64",
+          "retrieved": "2026-10-21"
+        }
+      ]
+    }
+  ],
+  "tried": [
+    {
+      "source": "https://fs.ncaa.org/Docs/stats/football_records/2025/FBS.pdf (https)",
+      "outcome": "Connection reset; the http host serves only some years (2022, 2019, 2017 = 200; 2023-2025 = 404)."
+    },
+    {
+      "source": "http://fs.ncaa.org/Docs/stats/football_records/2022/FBS.pdf",
+      "outcome": "200, 7.8 MB, records through the 2021 season. Text extracted with macOS PDFKit and saved as a receipt page; used to confirm Burrow 65 was listed alone after Zappe's 2021 season."
+    },
+    {
+      "source": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/FBS.pdf",
+      "outcome": "200, 1.6 MB, current edition including the 2025 season (Mendoza 2025, CFP games Jan. 2026). Primary receipt for ~45 rows. Link found via cfbtrack.com's source citation; ncaa.org's football records page has no direct PDF link in its static HTML."
+    },
+    {
+      "source": "https://s3.amazonaws.com/fs.ncaa.org/Docs/stats/football_records/{2023,2024,2025}/FBS.pdf",
+      "outcome": "403 (S3 AccessDenied)."
+    },
+    {
+      "source": "ncaa.org/championships/statistics-and-records/football/",
+      "outcome": "200 but only pre-2000 archive PDFs and a policies PDF in static HTML."
+    },
+    {
+      "source": "Wikipedia player pages (35 fetched at 1.6 s)",
+      "outcome": "Used for players outside the record book's top lists and for scope sentences (Brennan regular season 53, Pumphrey bowl caveat, Burrow/Zappe 65 dispute). Citation markers render as '[ 21]' after tag stripping, so quotes avoid crossing them."
+    },
+    {
+      "source": "SI (si.com) Jeanty/Sanders article",
+      "outcome": "200; gives the Fiesta Bowl split (needed 131, got 104) and Oklahoma State's 2,850 Sanders figure."
+    },
+    {
+      "source": "ESPN feature on Jeanty (story id 41962943)",
+      "outcome": "200; server-rendered text includes a 'through six games' line, the only first-N-games receipt found from a major outlet."
+    },
+    {
+      "source": "KTVB Jeanty 2,000-yard article",
+      "outcome": "403 to curl; not used. Search snippet said Jeanty passed 2,000 in his 11th game; unverified."
+    },
+    {
+      "source": "Sports-Reference / Wayback",
+      "outcome": "Not needed; the NCAA book covered every season-level seed it would have."
+    },
+    {
+      "source": "WebSearch for ESPN Stats & Info 'through N games' passing claims",
+      "outcome": "Nothing usable; NCAA.com live leader pages only."
+    }
+  ],
+  "leads": [
+    {
+      "note": "Barry Sanders 1988: NCAA 2,628 rushing in 11 games; Oklahoma State counts 2,850 with the Holiday Bowl. Also NCAA 3/4/5-game window records (937, 1,152, 1,472).",
+      "why_out_of_scope": "Pre-2004 season; pre-2002 bowls excluded by NCAA rule."
+    },
+    {
+      "note": "B.J. Symons 2003: 5,833 passing, 52 TD; 2,328 total offense in 4 consecutive games; 9 straight 400-yard games.",
+      "why_out_of_scope": "2003 season, one year before the spine."
+    },
+    {
+      "note": "Timmy Chang 2000-04: 17,072 career passing yards (prior record), 80 career interceptions (FBS record).",
+      "why_out_of_scope": "Career is 80% pre-2004; the engine would see only his 2004 season."
+    },
+    {
+      "note": "Ron Dayne 1996-99: 6,397 NCAA career rushing (bowls excluded); with bowls he leads Pumphrey (per Wikipedia's Pumphrey page).",
+      "why_out_of_scope": "Pre-2004."
+    },
+    {
+      "note": "David Klingler 1990: 11 TD passes in a game, 54 in a season; John Eckman 1966 34 interceptions (season record for futility).",
+      "why_out_of_scope": "Pre-2004."
+    },
+    {
+      "note": "DeAngelo Williams 2002-05: 34 career 100-yard games (record); 2004 and 2005 seasons are in-spine but the career is not.",
+      "why_out_of_scope": "Career starts 2002; a partial-career gate would be misleading."
+    }
+  ],
+  "unverified": [
+    {
+      "claim": "Most interceptions thrown in a season since 2004; most fumbles; most sacks taken; worst completion % among qualifiers.",
+      "what_i_tried": "NCAA book's futility records are all pre-2004 (Eckman 34 INT in 1966, Chang 80 career). No publisher list scoped 'since 2004' found. These are better computed by the engine and then spot-checked against one Sports-Reference season page each."
+    },
+    {
+      "claim": "Kellen Moore 50 wins as a starting quarterback.",
+      "what_i_tried": "Wikipedia table shows 50–3 against 52 starts / 53 games; NCAA FBS individual records do not carry a QB-wins record. Kept as a wikipedia-grade row with the starter caveat; needs Boise State's record book for a better receipt."
+    },
+    {
+      "claim": "Travis Hunter 2024: 4 interceptions plus 96/1,258/15 receiving.",
+      "what_i_tried": "Only the Wikipedia table row; the interception figure sits in the same row but I quoted only the receiving prefix. Colorado's stats page not fetched."
+    },
+    {
+      "claim": "Jeanty reached 2,000 rushing yards in his 11th game (vs Wyoming).",
+      "what_i_tried": "Search snippet from KTVB; page 403s to curl. Not a gate until a receipt is saved."
+    },
+    {
+      "claim": "Matt Leinart 2004 / Alex Smith 2004 season lines; Hendon Hooker 2022; Max Duggan 2022; Will Howard 2024; Cam Rising; Quinn Ewers; Chase Brown; Rashod Bateman; Marvin Harrison Jr. 2023.",
+      "what_i_tried": "None appear in the NCAA book's all-time lists (other than Hooker's 2021 efficiency line), and their Wikipedia pages carry no record-type sentence I could quote. Leinart's 2004-05 USC seasons may also be touched by the USC vacation (book vacates Bush's 2005 stats specifically). Left for a season-page receipt pass."
+    },
+    {
+      "claim": "Mac Jones 77.4% as a sole record.",
+      "what_i_tried": "NCAA lists a tie with Bo Nix at 77.4%; at two decimals Nix leads. Logged as rows, not as a sole-record claim."
+    }
+  ]
+}

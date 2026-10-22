@@ -1,0 +1,52 @@
+{{Navbox
+| name = Beloit Buccaneers football coach navbox
+| title = [[Beloit Buccaneers football|{{white|Beloit Buccaneers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Beloit Buccaneers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1889–1891)
+* ''Unknown'' (1892)
+* [[Herb Alward]] (1893)
+* [[John W. Hollister]] (1894–1895)
+* [[Charles M.  Hollister]] (1896–1897)
+* [[John W. Hollister]] (1898–1903)
+* [[Boss Weeks]] (1904)
+* [[John Page (American football)|John Page]] (1905)
+* [[Charles A. Fairweather]] (1906–1907)
+* [[Graham Foster (American football)|Graham Foster]] (1908)
+* [[Joseph Connor (American football)|Joseph Connor]] (1909)
+* [[Dana Evans (athletic director)|Dana Evans]] (1910–1914)
+* [[Herman Stegeman]] (1915)
+* [[Dana Evans (athletic director)|Dana Evans]] (1916)
+* [[Orville B. Littrick]] (1917–1919)
+* [[Tommy Mills]] (1920–1925)
+* [[Roy Bohler]] (1926–1927)
+* [[Campbell Dickson]] (1928)
+* [[Robert K. Jaggard]] (1929–1935)
+* [[Charles Butler (American football)|Charles Butler]] (1936–1940)
+* [[Louis E. Means]] (1941–1942)
+* ''No team'' (1943–1944)
+* [[Dolph Stanley]] (1945)
+* [[James C. Easterbrook]] (1946–1947)
+* [[Ollie Olson]] (1948–1949)
+* [[Carl T. Nelson]] (1950–1961)
+* [[Norm Amundsen]] (1962–1967)
+* [[Dick Teteak]] (1968–1969)
+* [[Charles Ross (American football)|Charles Ross]] (1970–1975)
+* [[Bob Nicholls (American football)|Bob Nicholls]] (1976)
+* [[Ed DeGeorge]] (1977–2005)
+* [[Chris Brann (American football)|Chris Brann]] (2006–2013)
+* [[Seth Duerr]] (2014–2018)
+* [[Ted Soenksen]] (2019)
+* ''No team'' (2020)
+* [[Ted Soenksen]] (2021–2024)
+* [[Kyle Langhoff]] (2025– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Beloit Buccaneers football navigational boxes|Coach]]
+</noinclude>

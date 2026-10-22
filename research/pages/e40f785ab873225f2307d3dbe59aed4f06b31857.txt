@@ -1,0 +1,52 @@
+{{Navbox
+| name = Temple Owls football coach navbox
+| title = [[Temple Owls football|{{white|Temple Owls head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Temple Owls|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Charles M. Williams (coach)|Charles M. Williams]] (1894–1898)
+* [[John T. Rogers (coach)|John T. Rogers]] (1899–1900)
+* [[Harry Shindle Wingert]] (1901–1905)
+* ''No team'' (1906)
+* [[Horace Butterworth]] (1907)
+* [[Frank W. White]] (1908)
+* [[William J. Schatz]] (1909–1913)
+* [[William Nicolai]] (1914–1916)
+* [[Elwood Geiges]] (1917)
+* ''No team'' (1918–1921)
+* [[M. Francois D'Eliscu]] (1922–1923)
+* [[Albert Barron]] (1924)
+* [[Heinie Miller]] (1925–1932)
+* [[Pop Warner]] (1933–1938)
+* [[Fred H. Swan]] (1939)
+* [[Ray Morrison]] (1940–1948)
+* [[Albert Kawal]] (1949–1954)
+* [[Josh Cody]] (1955)
+* [[Peter P. Stevens]] (1956–1959)
+* [[George Makris]] (1960–1969)
+* [[Wayne Hardin]] (1970–1982)
+* [[Bruce Arians]] (1983–1988)
+* [[Jerry Berndt]] (1989–1992)
+* [[Ron Dickerson]] (1993–1997)
+* [[Bobby Wallace (American football)|Bobby Wallace]] (1998–2005)
+* [[Al Golden]] (2006–2010)
+* [[Steve Addazio]] (2011–2012)
+* [[Matt Rhule]] (2013–2016)
+* [[Ed Foley]] # (2016)
+* [[Geoff Collins (American football)|Geoff Collins]] (2017–2018)
+* [[Ed Foley]] # (2018)
+* [[Rod Carey]] (2019–2021)
+* [[Stan Drayton]] (2022–2024)
+* [[Everett Withers]] # (2024)
+* [[K. C. Keeler]] (2025– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Temple Owls football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,50 @@
+{{Navbox
+| name = Vanderbilt Commodores football coach navbox
+| title = [[List of Vanderbilt Commodores head football coaches|{{white|Vanderbilt Commodores head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Vanderbilt Commodores|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 =
+* [[Elliott Jones]] (1890–1892)
+* [[W. J. Keller]] (1893)
+* [[Henry Worth Thornton]] (1894)
+* [[Charles L. Upton]] (1895)
+* [[R. G. Acton]] (1896–1898)
+* [[James L. Crane]] (1899–1900)
+* [[Walter H. Watkins]] (1901–1902)
+* [[James R. Henry (American football)|James R. Henry]] (1903)
+* [[Dan McGugin]] (1904–1917)
+* [[Ray Morrison]] (1918)
+* [[Dan McGugin]] (1919–1934)
+* [[Ray Morrison]] (1935–1939)
+* [[Red Sanders]] (1940–1942)
+* [[Ernest Alley]] (1943)
+* [[Doby Bartling]] (1944–1945)
+* [[Red Sanders]] (1946–1948)
+* [[Bill Edwards (American football coach)|Bill Edwards]] (1949–1952)
+* [[Art Guepe]] (1953–1962)
+* [[John Green (guard)|John Green]] (1963–1966)
+* [[Bill Pace]] (1967–1972)
+* [[Steve Sloan]] (1973–1974)
+* [[Fred Pancoast]] (1975–1978)
+* [[George MacIntyre]] (1979–1985)
+* [[Watson Brown (American football)|Watson Brown]] (1986–1990)
+* [[Gerry DiNardo]] (1991–1994)
+* [[Rod Dowhower]] (1995–1996)
+* [[Woody Widenhofer]] (1997–2001)
+* [[Bobby Johnson]] (2002–2009)
+* [[Robbie Caldwell]] (2010)
+* [[James Franklin (American football coach)|James Franklin]] (2011–2013)
+* [[Derek Mason]] (2014–2020)
+* [[Todd Fitch]] # (2020)
+* [[Clark Lea]] (2021– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Vanderbilt Commodores football navigational boxes|Coach]]
+</noinclude>

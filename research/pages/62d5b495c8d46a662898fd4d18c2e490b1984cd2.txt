@@ -1,0 +1,50 @@
+{{Navbox
+| name = Duquesne Dukes football coach navbox
+| title = [[Duquesne Dukes football|{{white|Duquesne Dukes head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Duquesne Dukes|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Dan Barr]] (1891–1892)
+* ''Unknown'' (1893)
+* [[George S. Proctor]] (1894)
+* ''No team'' (1895)
+* [[Ernest Brown (coach)|Ernest Brown]] (1896)
+* [[J. P. Wolfe]] (1897)
+* [[John Van Cleve]] (1898)
+* [[Will O. Walker]] (1899)
+* ''Unknown'' (1900–1901)
+* [[Thomas A. Giblin]] (1903)
+* ''No team'' (1904–1912)
+* [[Norman "Bill" Budd]] (1913–1914)
+* ''No team'' (1915–1919)
+* [[Jake Stahl (American football)|Jake Stahl]] (1920–1921)
+* [[Harold Ballin]] (1922–1923)
+* [[Mike Shortley]] (1924)
+* [[Frank McDermott (American football)|Frank McDermott]] (1925–1926)
+* [[Elmer Layden]] (1927–1933)
+* [[Joe Bach]] (1934)
+* [[Christie Flanagan]] (1935)
+* [[Clipper Smith (American football, born 1904)|Clipper Smith]] (1936–1938)
+* [[Aldo Donelli]] (1939–1942)
+* ''No team'' (1943–1946)
+* [[Kass Kovalcheck]] (1947–1948)
+* [[Phil Ahwesh]] (1949)
+* [[Doc Skender]] # (1950)
+* ''No team'' (1951–1968)
+* [[Joe Nicoletti (American football)|Joe Nicoletti]] (1969)
+* [[Dan McCann (American football)|Dan McCann]] (1970–1983)
+* [[Terry Russell]] (1984–1987)
+* [[Dan McCann (American football)|Dan McCann]] (1988–1992)
+* [[Greg Gattuso]] (1993–2004)
+* [[Jerry Schmitt]] (2005– )
+
+''# denotes acting head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Duquesne Dukes football navigational boxes|Coaches]]
+</noinclude>

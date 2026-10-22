@@ -1,0 +1,60 @@
+{{Navbox
+| name = Boston College Eagles football coach navbox
+| title = [[List of Boston College Eagles head football coaches|{{white|Boston College Eagles head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Boston College Eagles|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Joseph Drum]] (1893)
+* [[William Nagle (American football)|William Nagle]] (1894)
+* [[Joseph Lawless]] (1895)
+* [[Frank Carney (American football)|Frank Carney]] (1896)
+* [[John Dunlop (American football)|John Dunlop]] (1897–1899)
+* ''No team'' (1900)
+* [[John Dunlop (American football)|John Dunlop]] (1901)
+* [[Arthur White (American football)|Arthur White]] (1902)
+* ''No team'' (1903–1907)
+* [[Joe Kenney]] & [[Joe Reilly (American football)|Joe Reilly]] (1908)
+* [[Thomas H. Maguire]] (1909)
+* [[Hub Hart]] (1910)
+* [[Joseph Courtney (American football)|Joseph Courtney]] (1911)
+* [[William Joy (American football)|William Joy]] (1912–1913)
+* [[Stephen Mahoney]] (1914–1915)
+* [[Charles Brickley]] (1916–1917)
+* [[Frank Morrissey]] (1918)
+* [[Frank Cavanaugh (American football)|Frank Cavanaugh]] (1919–1926)
+* [[D. Leo Daley]] (1927)
+* [[Joe McKenney]] (1928–1934)
+* [[Dinny McNamara]] (1935)
+* [[Harry Downes]] # (1935)
+* [[Gil Dobie]] (1936–1938)
+* [[Frank Leahy]] (1939–1940)
+* [[Denny Myers]] (1941–1942)
+* [[Moody Sarno]] # (1943–1945)
+* [[Denny Myers]] (1946–1950)
+* [[Mike Holovak]] (1951–1959)
+* [[Ernie Hefferle]] (1960–1961)
+* [[Jim Miller (American football coach)|Jim Miller]] (1962–1967)
+* [[Joe Yukica]] (1968–1977)
+* [[Ed Chlebek]] (1978–1980)
+* [[Jack Bicknell]] (1981–1990)
+* [[Tom Coughlin]] (1991–1993)
+* [[Dan Henning]] (1994–1996)
+* [[Tom O'Brien (American football)|Tom O'Brien]] (1997–2006)
+* [[Frank Spaziani]] # (2006)
+* [[Jeff Jagodzinski]] (2007–2008)
+* [[Frank Spaziani]] (2009–2012)
+* [[Steve Addazio]] (2013–2019)
+* [[Rich Gunnell]] # (2019)
+* [[Jeff Hafley]] (2020–2023)
+* [[Bill O'Brien (American football)|Bill O'Brien]] (2024– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Boston College Eagles football navigational boxes|Coach]]
+</noinclude>

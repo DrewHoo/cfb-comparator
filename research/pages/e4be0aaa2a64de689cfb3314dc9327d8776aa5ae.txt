@@ -1,0 +1,48 @@
+{{Navbox
+| name = Colorado State Rams football coach navbox
+| title = [[List of Colorado State Rams head football coaches|{{white|Colorado State Rams head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Colorado State Rams|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1892–1894)
+* ''No team'' (1895–1898)
+* [[W. J. Forbes]] (1899)
+* [[George Toomey]] (1900–1901)
+* [[C. J. Griffith]] (1901–1902)
+* [[Matt Rothwell]] (1903)
+* [[John H. McIntosh]] (1904–1905)
+* [[Claude Rothgeb]] (1906–1909)
+* [[George Cassidy (coach)|George Cassidy]] (1910)
+* [[Harry W. Hughes]] (1911–1941)
+* [[Julius Wagner]] (1942)
+* ''No team'' (1943–1944)
+* [[Julius Wagner]] (1945–1946)
+* [[Harry W. Hughes]] (1946)
+* [[Bob Davis (American football coach)|Bob Davis]] (1947–1955)
+* [[Don Mullison]] (1956–1961)
+* [[Mike Lude]] (1962–1969)
+* [[Jerry Wampfler]] (1970–1972)
+* [[Sark Arslanian]] (1973–1981)
+* [[Chester Caddas]] # (1981)
+* [[Leon Fuller]] (1982–1988)
+* [[Earle Bruce]] (1989–1992)
+* [[Sonny Lubick]] (1993–2007)
+* [[Steve Fairchild]] (2008–2011)
+* [[Jim McElwain]] (2012–2014)
+* [[Dave Baldwin (American football)|Dave Baldwin]] # (2014)
+* [[Mike Bobo]] (2015–2019)
+* [[Steve Addazio]] (2020–2021)
+* [[Jay Norvell]] (2022–2025)
+* [[Tyson Summers]] # (2025)
+* [[Jim L. Mora]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Colorado State Rams football navigational boxes|Coach]]
+</noinclude>

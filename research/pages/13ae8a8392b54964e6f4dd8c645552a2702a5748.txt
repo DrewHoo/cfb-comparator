@@ -1,0 +1,53 @@
+{{Navbox
+| name = Lawrence Vikings football coach navbox
+| title = [[Lawrence Vikings football|{{white|Lawrence Vikings head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Lawrence Vikings|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[David H. Walker]] (1893)
+* [[Joseph Raycroft]] (1894)
+* Young (1895)
+* [[John C. Karel]] (1896)
+* [[Arthur Jolliffe (American football)|Arthur Jolliffe]] (1897)
+* [[Kenneth Brewer (American football)|Kenneth Brewer]] (1898–1900)
+* [[Francis H. Brigham]] (1901)
+* [[Edward S. Merrill]] (1902)
+* [[Wynfred E. Allen]] (1903)
+* [[John P. Koehler]] (1904–1905)
+* [[Eliot Graves]] (1906–1908)
+* [[Mark Catlin Sr.]] (1909–1916)
+* ''No team'' (1917)
+* [[Mark Catlin Sr.]] (1918)
+* [[Charles A. Beyer]] (1919)
+* [[H. D. McChesney]] (1920–1922)
+* [[Cub Buck]] (1923)
+* [[Mark Catlin Sr.]] (1924–1927)
+* [[Clarence H. Rasmussen]] (1928–1929)
+* [[Eddie Kotal]] (1930)
+* [[Percy O. Clapp]] (1931–1934)
+* [[Paul H. Derr]] (1935–1937)
+* [[Bernie Heselton]] (1938–1964)
+* [[Ron Roberts (coach)|Ron Roberts]] (1965–1983)
+* [[Rich Agness]] (1984–1991)
+* [[Ron Roberts (coach)|Ron Roberts]] (1992)
+* [[Rick Coles]]  (1993–1998)
+* [[Dave Brown (American football, born 1961)|Dave Brown]] (1999–2004)
+* [[Chris Howard (American football coach)|Chris Howard]] (2005–2011)
+* [[Mike Barthelmess]] (2012–2014)
+* [[Chris Harris (American football coach)|Chris Harris]] # (2014)
+* [[Rob McCarthy]] (2015–2019)
+* ''No team'' (2020)
+* [[Tony Aker]] (2021–2024)
+* [[Adam Gonzaga]] (2025)
+* [[Daniel Galante]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Lawrence Vikings football navigational boxes|Coach]]
+</noinclude>

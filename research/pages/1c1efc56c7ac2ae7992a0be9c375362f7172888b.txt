@@ -1,0 +1,28 @@
+{{Navbox
+| name = Lombard Olive football coach navbox
+| title = [[Lombard Olive football|Lombard Olive head football coaches]]
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Willis Kienholz]] (1902–1903)
+* [[Charles O. Appleman]] (1904–1905)
+* [[R. Roy Burnside]] (1907–1908)
+* [[Edward Elmer Black]] (1911)
+* [[Thomas Andrew Gill]] (1912)
+* [[Floyd L. Brown]] (1913–1914)
+* [[Sylvester Derby]] (1915)
+* [[Samuel Gross (American football)|Samuel Gross]] (1916)
+* [[Francis L. Casey]] (1917)
+* [[Ray L. Jackson]] (1918)
+* [[Francis L. Casey]] (1919)
+* [[Carl Eggebrecht]] (1920)
+* [[Paul J. Schissler]] (1921–1923)
+* [[Harry M. Bell]] (1924–1929)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Lombard Olive football navigational boxes|Coach]]
+</noinclude>

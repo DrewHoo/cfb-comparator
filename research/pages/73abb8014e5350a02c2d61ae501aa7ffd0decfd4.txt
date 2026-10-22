@@ -1,0 +1,35 @@
+{{Navbox
+| name = Presbyterian Blue Hose football coach navbox
+| title = [[List of Presbyterian Blue Hose head football coaches|{{white|Presbyterian Blue Hose head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Presbyterian Blue Hose|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Everett Booe]] (1913)
+* [[Erling Theller]] (1914)
+* [[Walter A. Johnson]] (1915–1917)
+* [[Gifford Shaw]] (1918)
+* [[Walter A. Johnson]] (1919–1940)
+* [[Lonnie McMillian]] (1941–1953)
+* [[Bill Crutchfield]] (1954–1956)
+* [[Frank Jones (American football coach)|Frank Jones]] (1957–1961)
+* [[Clyde Ehrhardt]] (1962)
+* [[Cally Gault]] (1963–1984)
+* [[Elliott Poss]] (1985–1990)
+* [[John Perry (American football, born 1950)|John Perry]] (1991–1996)
+* [[Daryl Dickey]] (1997–2000)
+* [[Tommy Spangler]] (2001–2006)
+* [[Bobby Bentley]] (2007–2008)
+* [[Harold Nichols (American football)|Harold Nichols]] (2009–2016)
+* [[Tommy Spangler]] (2017–2020)
+* [[Kevin Kelley (American football)|Kevin Kelley]] (2021)
+* [[Steve Englehart (American football)|Steve Englehart]] (2022–2025)
+* [[Matt Rahl]] (2026– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Presbyterian Blue Hose football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,54 @@
+{{Navbox
+| name = Colorado Buffaloes football coach navbox
+| title = [[List of Colorado Buffaloes head football coaches|{{white|Colorado Buffaloes head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Colorado Buffaloes|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 =
+* ''No coach'' (1890–1893)
+* [[Harry Heller]] (1894)
+* [[Fred Folsom]] (1895–1899)
+* [[Theron W. Mortimer]] (1900)
+* [[Fred Folsom]] (1901–1902)
+* [[Dave Cropp]] (1903–1904)
+* [[Willis Kienholz]] (1905)
+* [[Frank Castleman]] (1906–1907)
+* [[Fred Folsom]] (1908–1915)
+* [[Bob Evans (coach)|Bob Evans]] (1916–1917)
+* [[Enoch J. Mills]] (1918–1919)
+* [[Myron E. Witham]] (1920–1931)
+* [[Bill Saunders]] (1932–1934)
+* [[Bunny Oakes]] (1935–1939)
+* [[Frank Potts (coach)|Frank Potts]] (1940)
+* [[James J. Yeager]] (1941–1943)
+* [[Frank Potts (coach)|Frank Potts]] (1944–1945)
+* [[James J. Yeager]] (1946–1947)
+* [[Dallas Ward]] (1948–1958)
+* [[Sonny Grandelius]] (1959–1961)
+* [[William E. Davis]] (1962)
+* [[Eddie Crowder]] (1963–1973)
+* [[Bill Mallory]] (1974–1978)
+* [[Chuck Fairbanks]] (1979–1981)
+* [[Bill McCartney]] (1982–1994)
+* [[Rick Neuheisel]] (1995–1998)
+* [[Gary Barnett]] (1999–2005)
+* [[Mike Hankwitz]] # (2005)
+* [[Dan Hawkins (gridiron football)|Dan Hawkins]] (2006–2010)
+* [[Brian Cabral]] # (2010)
+* [[Jon Embree]] (2011–2012)
+* [[Mike MacIntyre]] (2013–2018)
+* [[Kurt Roper]] # (2018)
+* [[Mel Tucker]] (2019)
+* [[Karl Dorrell]] (2020–2022)
+* [[Mike Sanford Jr.]] # (2022)
+* [[Deion Sanders]] (2023– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Colorado Buffaloes football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,28 @@
+{{Navbox
+| name = Xavier Musketeers football coach navbox
+| title = [[Xavier Musketeers football|{{white|Xavier Musketeers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Xavier Musketeers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1900–1917)
+* [[Albert B. Lambert (American football)|Albert B. Lambert]] (1918–1919)
+* [[Joseph A. Meyer]]  (1920–1935)
+* [[Clem Crowe]] (1935–1943)
+* ''No team'' (1944–1945)
+* [[Phil H. Bucklew]] (1946)
+* [[Ed Kluska]] (1947–1954)
+* [[Harry Connolly (American football)|Harry Connolly]] (1955–1958)
+* [[Ed Doherty (American football)|Ed Doherty]] (1959–1961)
+* [[Ed Biles]] (1962–1968)
+* [[Irvin A. Etler]] (1969)
+* [[Dick Selcer]] (1970–1971)
+* [[Tom Cecchini]] (1972–1973)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Xavier Musketeers football navigational boxes|Coach]]
+</noinclude>

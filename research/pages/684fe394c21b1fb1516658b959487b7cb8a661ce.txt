@@ -1,0 +1,47 @@
+{{Navbox
+| name = Brown Bears football coach navbox
+| title = [[Brown Bears football|{{white|Brown Bears head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Brown Bears|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1878)
+* ''No team'' (1879)
+* ''No coach'' (1880)
+* ''No team'' (1881–1885)
+* ''No coach'' (1886)
+* ''No team'' (1887–1888)
+* ''No coach'' (1889–1891)
+* [[Charles P. Howland]] (1892)
+* [[William Odlin]] (1893)
+* [[William G. Norton]] (1894)
+* [[Wallace Moyle]] (1895–1897)
+* [[Edward N. Robinson]] (1898–1901)
+* [[J. A. Gammons]] (1902)
+* [[Dave Fultz]] (1903)
+* [[Edward N. Robinson]] (1904–1907)
+* [[J. A. Gammons]] (1908–1909)
+* [[Edward N. Robinson]] (1910–1925)
+* [[Tuss McLaughry]] (1926–1940)
+* [[Skip Stahley]] (1941–1943)
+* [[Rip Engle]] (1944–1949)
+* [[Gus Zitrides]] (1950)
+* [[Alva Kelley]] (1951–1958)
+* [[John McLaughry]] (1959–1966)
+* [[Len Jardine]] (1967–1972)
+* [[John W. Anderson (American football)|John W. Anderson]] (1973–1983)
+* [[John Rosenberg (American football)|John Rosenberg]] (1984–1989)
+* [[Mickey Kwiatkowski]] (1990–1993)
+* [[Mark Whipple]] (1994–1997)
+* [[Phil Estes]] (1998–2018)
+* [[James Perry (American football)|James Perry]] (2019)
+* ''No team'' (2020)
+* [[James Perry (American football)|James Perry]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Brown Bears football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,56 @@
+{{Navbox
+| name = Maine Black Bears football coach navbox
+| title = [[List of Maine Black Bears head football coaches|{{white|Maine Black Bears head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Maine Black Bears|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Chesley Johnston]] (1892)
+* [[Wildes Veazie]] (1893)
+* ''No coach'' (1894)
+* [[P. Folsom]] (1895)
+* [[Jack Abbott (coach)|Jack Abbott]] (1896)
+* [[Harry Orman Robinson]] (1897)
+* [[Jim Coombs]] (1898)
+* [[W. B. Hopkins]] (1899)
+* [[Ernest Burton (American football)|Ernest Burton]] (1900)
+* [[John Wells Farley]] (1901)
+* [[Edward N. Robinson]] (1902)
+* [[John Wells Farley]] (1903)
+* [[Emmett O. King]] (1904)
+* [[Frank McCoy (American football)|Frank McCoy]] (1905–1908)
+* [[George Schildmiller]] (1909)
+* [[Edgar Wingard]] (1910–1911)
+* [[Thomas J. Riley]] (1912–1913)
+* [[Eddie Cochems]] (1914)
+* [[Tommy Hughitt]] (1915–1916)
+* [[Thomas A. McCann]] (1917)
+* [[Donald R. Aldworth]] (1918)
+* [[James A. Baldwin]] (1919–1920)
+* [[Fred Brice]] (1921–1940)
+* [[George E. Allen (coach)|George E. Allen]] (1941)
+* [[William C. Kenyon]] (1942)
+* [[Samuel Sezak]] (1943)
+* [[William C. Kenyon]] (1944–1945)
+* [[George E. Allen (coach)|George E. Allen]] (1946–1948)
+* [[David M. Nelson]] (1949–1950)
+* [[Harold Westerman]] (1951–1966)
+* [[Walter Abbott (American football)|Walter Abbott]] (1967–1975)
+* [[Jack Bicknell]] (1976–1980)
+* [[Ron Rogerson]] (1981–1984)
+* [[Buddy Teevens]] (1985–1986)
+* [[Tim Murphy (American football)|Tim Murphy]] (1987–1988)
+* [[Tom Lichtenberg]] (1989)
+* [[Kirk Ferentz]] (1990–1992)
+* [[Jack Cosgrove (American football)|Jack Cosgrove]] (1993–2015)
+* [[Joe Harasymiak]] (2016–2018)
+* [[Nick Charlton]] (2019–2021)
+* [[Jordan Stevens (American football)|Jordan Stevens]] (2022–present)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Maine Black Bears football navigational boxes|Coach]]
+</noinclude>

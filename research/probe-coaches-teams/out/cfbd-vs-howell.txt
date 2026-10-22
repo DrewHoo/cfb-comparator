@@ -1,0 +1,24 @@
+CFBD vs Howell, 1936-1959, Howell major team-seasons with a canonical id: 2739
+  multi:prefixFails: 1
+  multi:prefixTiles: 3
+  multi:sumDiffers: 1
+  multi:sumExact: 3
+  noCfbdRow: 536
+  single:sumDiffers: 2
+  single:sumExact: 2197
+  multi examples:
+    virginia-tech 1942: howell 7-2-1 cfbd 14-4-2 ['Henry McEver', 'S.D. Tilson']
+  single examples:
+    st-mary-s 1945: howell 7-2-0 cfbd 6-2-0 ['James Phelan']
+    ohio-state 1950: howell 6-3-0 cfbd 6-0-0 ['Wesley Fesler']
+CFBD fill rate per decade (rows; games, wins, losses, ties non-null):
+  1930s: rows 389, games 389, wins 389, losses 389, ties 389
+  1940s: rows 876, games 876, wins 876, losses 876, ties 876
+  1950s: rows 950, games 950, wins 950, losses 950, ties 950
+  1960s: rows 1051, games 1051, wins 1051, losses 1051, ties 1051
+  1970s: rows 1148, games 1148, wins 1148, losses 1148, ties 1148
+  1980s: rows 1082, games 1082, wins 1082, losses 1082, ties 1082
+  1990s: rows 1097, games 1097, wins 1097, losses 1097, ties 1097
+  2000s: rows 1193, games 1193, wins 1193, losses 1193, ties 1193
+  2010s: rows 1314, games 1314, wins 1314, losses 1314, ties 1314
+  2020s: rows 1030, games 1030, wins 1030, losses 1030, ties 1030

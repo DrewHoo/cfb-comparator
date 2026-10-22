@@ -1,0 +1,50 @@
+{{Navbox
+| name = Florida Gators football coach navbox
+| title = [[List of Florida Gators head football coaches|{{white|Florida Gators head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Florida Gators|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Jack Forsythe]] (1906–1908)
+* [[George E. Pyle]] (1909–1913)
+* [[C. J. McCoy]] (1914–1916)
+* [[Alfred L. Buser]] (1917–1919)
+* [[William G. Kline]] (1920–1922)
+* [[James Van Fleet]] (1923–1924)
+* [[Harold Sebring]] (1925–1927)
+* [[Charlie Bachman]] (1928–1932)
+* [[Dennis K. Stanley]] (1933–1935)
+* [[Josh Cody]] (1936–1939)
+* [[Tom Lieb]] (1940–1942)
+* ''No team'' (1943)
+* [[Tom Lieb]] (1944–1945)
+* [[Raymond Wolf]] (1946–1949)
+* [[Bob Woodruff (American football)|Bob Woodruff]] (1950–1959)
+* [[Ray Graves]] (1960–1969)
+* [[Doug Dickey]] (1970–1978)
+* [[Charley Pell]] (1979–1984)
+* [[Galen Hall]] (1984–1989)
+* [[Gary Darnell]] # (1989)
+* [[Steve Spurrier]] (1990–2001)
+* [[Ron Zook]] (2002–2004)
+* [[Charlie Strong]] # (2004)
+* [[Urban Meyer]] (2005–2010)
+* [[Will Muschamp]] (2011–2014)
+* [[D. J. Durkin]] # (2014)
+* [[Jim McElwain]] (2015–2017)
+* [[Randy Shannon]] # (2017)
+* [[Dan Mullen]] (2018–2021)
+* [[Greg Knox]] # (2021)
+* [[Billy Napier]] (2022–2025)
+* [[Billy Gonzales]] # (2025)
+* [[Jon Sumrall]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes|Florida]]
+[[Category:Florida Gators football navigational boxes|Coach]]
+</noinclude>

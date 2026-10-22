@@ -1,0 +1,56 @@
+{{Navbox
+| name = Grinnell Pioneers football coach navbox
+| title = [[Grinnell Pioneers football|{{white|Grinnell Pioneers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Grinnell Pioneers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Student coaches'' (1889–1890)
+* [[Theron Lyman]] (1891)
+* [[Frank F. Everest (American football)|Frank F. Everest]] (1892)
+* [[Hiland Orlando Stickney]] (1893)
+* [[Martin V. Bergen]] (1894–1895)
+* [[James Blake (American football)|James Blake]] (1896)
+* [[Clinton E. Harris (American football)|Clinton E. Harris]] (1897–1900)
+* [[Paul Tratt]] (1901)
+* [[Martin V. Bergen]] (1902–1903)
+* [[Clinton E. Harris (American football)|Clinton E. Harris]] (1904)
+* [[Martin V. Bergen]] & [[Tuffy Fisk]] (1905)
+* [[C. B. Hamilton]] (1906–1907)
+* [[Leon H. Andrews]] (1908)
+* [[Daniel Dougherty (coach)|Daniel Dougherty]] (1909)
+* [[Arthur M. Brown]] (1910–1912)
+* [[Foss Netherton]] (1913)
+* [[Maturin Fisher]] (1914)
+* [[William McAlmon]] (1915–1916)
+* [[Russell Tollefson]] (1917–1919)
+* [[Bud Saunders]] (1920–1921)
+* [[Mal Elward]] (1922–1923)
+* [[Mike Hyland]] (1924–1926)
+* [[Lester Watt]] (1927–1935)
+* [[Guy Lookabaugh]] (1936–1939)
+* [[Ben Douglas (American football)|Ben Douglas]] (1940–1941)
+* [[G. Lester Duke]] (1942)
+* ''No team'' (1943–1944)
+* [[Gerald Reed]] (1945)
+* [[Ben Douglas (American football)|Ben Douglas]] (1946)
+* [[Bunny Oakes]] (1947–1948)
+* [[Henry Brown (American football coach)|Henry Brown]] (1951)
+* [[John Pfitsch]] (1952–1954)
+* [[Robert Patterson (American football)|Robert Patterson]] (1955–1959)
+* [[Edd Bowers]] (1960–1978)
+* [[Ed Dombrowski]] (1979–1982)
+* [[John Martinek]] (1983–1987)
+* [[Greg Wallace]] (1988–2007)
+* [[Max Hawsey]] (2008–2009)
+* [[Jeff Pedersen]] (2010–2019)
+* ''No team'' (2020)
+* [[Brent Barnes]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Grinnell Pioneers football navigational boxes|Coach]]
+</noinclude>

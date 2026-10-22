@@ -1,0 +1,56 @@
+{{Navbox
+| name = Yale Bulldogs football coach navbox
+| title = [[Yale Bulldogs football#Head coaching history|{{white|Yale Bulldogs head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Yale Bulldogs|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1872–1887)
+* [[Walter Camp]] (1888–1892)
+* [[William Rhodes (American football)|William Rhodes]] (1893–1894)
+* [[John A. Hartwell]] (1895)
+* [[Sam Thorne]] (1896)
+* [[Frank Butterworth]] (1897–1898)
+* [[James O. Rodgers (American football)|James O. Rodgers]] (1899)
+* [[Malcolm McBride]] (1900)
+* [[George S. Stillman]] (1901)
+* [[Joseph Rockwell Swan (coach)|Joseph Rockwell Swan]] (1902)
+* [[George B. Chadwick]] (1903)
+* [[Charles D. Rafferty]] (1904)
+* [[Jack Owsley]] (1905)
+* [[Foster Rockwell]] (1906)
+* [[William F. Knox]] (1907)
+* [[Lucius Horatio Biglow]] (1908)
+* [[Howard Jones (American football coach)|Howard Jones]] (1909)
+* [[Ted Coy]] (1910)
+* [[John Field (American football)|John Field]] (1911)
+* [[Art Howe (American football)|Art Howe]] (1912)
+* [[Howard Jones (American football coach)|Howard Jones]] (1913)
+* [[Frank Hinkey]] (1914–1915)
+* [[Tad Jones (American football)|Tad Jones]] (1916–1917)
+* ''No team'' (1918)
+* [[Albert Sharpe (American football)|Albert Sharpe]] (1919)
+* [[Tad Jones (American football)|Tad Jones]] (1920–1927)
+* [[Mal Stevens]] (1928–1932)
+* [[Reginald D. Root]] (1933)
+* [[Ducky Pond]] (1934–1940)
+* [[Spike Nelson]] (1941)
+* [[Howie Odell]] (1942–1947)
+* [[Herman Hickman]] (1948–1951)
+* [[Jordan Olivar]] (1952–1962)
+* [[John Pont]] (1963–1964)
+* [[Carmen Cozza]] (1965–1996)
+* [[Jack Siedlecki]] (1997–2008)
+* [[Tom Williams (American football coach)|Tom Williams]] (2009–2011)
+* [[Tony Reno (American football)|Tony Reno]] (2012–2019)
+* ''No team'' (2020)
+* [[Tony Reno (American football)|Tony Reno]] (2021–2025)
+* [[Kevin Cahill (American football)| Kevin Cahill]] (2026– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Yale Bulldogs football navigational boxes|Coach]]
+</noinclude>

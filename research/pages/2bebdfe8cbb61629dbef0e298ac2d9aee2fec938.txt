@@ -1,0 +1,61 @@
+{{Navbox
+| name = Idaho Vandals football coach navbox
+| title = {{colored link|black|List of Idaho Vandals head football coaches|Idaho Vandals head football coaches}}
+| basestyle = {{CollegePrimaryStyle|Idaho Vandals|color=black}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1893)
+* [[G. E. Higgins]] (1894–1895)
+* ''No team'' (1896)
+* [[G. E. Higgins]] (1897)
+* ''No team'' (1898)
+* [[Newton M. S. Morse]] (1899)
+* [[Fred Herbold]] (1900–1901)
+* [[John G. Griffith]] (1902–1906)
+* [[John R. Middleton]] (1907–1908)
+* [[John S. Grogan]] (1909)
+* [[John G. Griffith]] (1910–1914)
+* [[Charles M. Rademacher]] (1915)
+* [[Wilfred C. Bleamaster]] (1916–1917)
+* ''No team'' (1918)
+* [[Ralph Hutchinson]] (1919)
+* [[Thomas Kelley (coach)|Thomas Kelley]] (1920–1921)
+* [[Robert L. Mathews]] (1922–1925)
+* [[Charles F. Erb]] (1926–1928)
+* [[Leo Calland]] (1929–1934)
+* [[Ted Bank]] (1935–1940)
+* [[Francis Schmidt]] (1941–1942)
+* ''No team'' (1943–1944)
+* [[James A. Brown]] (1945–1946)
+* [[Dixie Howell]] (1947–1950)
+* [[Raymond A. Curfman]] (1951–1953)
+* [[Skip Stahley]] (1954–1961)
+* [[Dee Andros]] (1962–1964)
+* [[Steve Musseau]] (1965–1967)
+* [[Y C McNease]] (1968–1969)
+* [[Don Robbins]] (1970–1973)
+* [[Ed Troxel]] (1974–1977)
+* [[Jerry Davitch]] (1978–1981)
+* [[Dennis Erickson]] (1982–1985)
+* [[Keith Gilbertson]] (1986–1988)
+* [[John L. Smith]] (1989–1994)
+* [[Chris Tormey]] (1995–1999)
+* [[Tom Cable]] (2000–2003)
+* [[Nick Holt]] (2004–2005)
+* [[Dennis Erickson]] (2006)
+* [[Robb Akey]] (2007–2012)
+* [[Jason Gesser]] # (2012)
+* [[Paul Petrino]] (2013–2021)
+* [[Jason Eck]] (2022–2024)
+* [[Thomas Ford (American football)|Thomas Ford]] (2025– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes|Idaho]]
+[[Category:Idaho Vandals football navigational boxes|Coach]]
+</noinclude>

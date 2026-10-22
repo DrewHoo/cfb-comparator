@@ -1,0 +1,57 @@
+{{Navbox
+| name = New Mexico Lobos football coach navbox
+| title = [[List of New Mexico Lobos head football coaches|{{white|New Mexico Lobos head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|New Mexico Lobos|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1892–1893)
+* [[William A. Zimmer]] (1894)
+* ''No team'' (1895–1898)
+* ''No coach'' (1899)
+* ''No team'' (1900)
+* [[Joe Napier]] (1901)
+* ''No team'' (1902)
+* [[Walter McEwan]] (1903–1904)
+* [[Martin F. Angell]] (1905–1907)
+* [[Hermon H. Conwell]] (1908)
+* [[Sam P. McBirney]] (1909)
+* [[Carl Hamilton (American football)|Carl Hamilton]] (1910)
+* [[Ralph Hutchinson]] (1911–1916)
+* [[Frank E. Wood]] (1917)
+* ''No team'' (1918)
+* [[John F. McGough]] (1919)
+* [[Roy W. Johnson (coach)|Roy W. Johnson]] (1920–1930)
+* [[Chuck Riley (American football)|Chuck Riley]] (1931–1933)
+* [[Gwinn Henry]] (1934–1936)
+* [[Ted Shipkey]] (1937–1941)
+* [[Willis Barnes]] (1942–1946)
+* [[Berl Huffman]] (1947–1949)
+* [[Dudley DeGroot]] (1950–1952)
+* [[Bob Titchenal]] (1953–1955)
+* [[Dick Clausen]] (1956–1957)
+* [[Marv Levy]] (1958–1959)
+* [[Bill Weeks]] (1960–1967)
+* [[Rudy Feldman]] (1968–1973)
+* [[Bill Mondt]] (1974–1979)
+* [[Joe Morrison]] (1980–1982)
+* [[Joe Lee Dunn]] (1983–1986)
+* [[Mike Sheppard (American football)|Mike Sheppard]] (1987–1991)
+* [[Dennis Franchione]] (1992–1997)
+* [[Rocky Long]] (1998–2008)
+* [[Mike Locksley]] (2009–2011)
+* [[George Barlow (American football)|George Barlow]] # (2011)
+* [[Bob Davie (American football)|Bob Davie]] (2012–2019)
+* [[Danny Gonzales]] (2020–2023)
+* [[Bronco Mendenhall]] (2024)
+* [[Jason Eck]] (2025– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:New Mexico Lobos football navigational boxes|Coach]]
+</noinclude>

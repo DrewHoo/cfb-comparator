@@ -1,0 +1,44 @@
+{{Navbox
+| name = Duke Blue Devils football coach navbox
+| title = [[List of Duke Blue Devils head football coaches|{{white|Duke Blue Devils head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Duke Blue Devils|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[John Franklin Crowell]] (1888–1889)
+* ''No coach'' (1890–1895)
+* ''No team'' (1896–1919)
+* [[Floyd J. Egan]] (1920)
+* [[James A. Baldwin]] (1921)
+* [[Herman G. Steiner]] (1922)
+* [[E. L. Alexander]] (1923)
+* [[Howard Jones (American football coach)|Howard Jones]] (1924)
+* [[James P. Herron]] (1925)
+* [[Jimmy DeHart]] (1926–1930)
+* [[Wallace Wade]] (1931–1941)
+* [[Eddie Cameron]] (1942–1945)
+* [[Wallace Wade]] (1946–1950)
+* [[Bill Murray (American football coach)|William D. Murray]] (1951–1965)
+* [[Tom Harp]] (1966–1970)
+* [[Mike McGee (American football)|Mike McGee]] (1971–1978)
+* [[Shirley Wilson]] (1979–1982)
+* [[Steve Sloan]] (1983–1986)
+* [[Steve Spurrier]] (1987–1989)
+* [[Barry Wilson (American football)|Barry Wilson]] (1990–1993)
+* [[Fred Goldsmith (American football)|Fred Goldsmith]] (1994–1998)
+* [[Carl Franks]] (1999–2003)
+* [[Ted Roof]] (2003–2007)
+* [[David Cutcliffe]] (2008–2021)
+* [[Mike Elko]] (2022–2023)
+* [[Trooper Taylor]] # (2023)
+* [[Manny Diaz (American football)|Manny Diaz]] (2024– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Duke Blue Devils football navigational boxes|Coach]]
+</noinclude>

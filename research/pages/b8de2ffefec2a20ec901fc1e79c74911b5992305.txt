@@ -1,0 +1,44 @@
+{{Navbox
+| name = Haskell Indian Nations Fighting Indians football coach navbox
+| title = [[List of Haskell Indian Nations Fighting Indians head football coaches|{{white|Haskell Indian Nations Fighting Indians head football coaches}}]]
+| basestyle = background:#68217A; color:white; {{box-shadow border|a|#F5D130|2px}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1896–1897)
+* [[Sal Walker (American football)|Sal Walker]] (1898)
+* [[Shorty Hamill]] & [[Wylie G. Woodruff]] (1899)
+* [[Alfred G. Ellick]] (1900–1901)
+* [[John H. Outland]] (1902)
+* [[Albert E. Herrnstein]] (1903–1904)
+* [[Boyd Hill]] (1905)
+* [[John H. Outland]] (1906)
+* [[Bemus Pierce]] (1907)
+* [[John R. Bender]] (1908–1909)
+* [[Bill Caldwell (American football)|Bill Caldwell]] (1910)
+* [[A. R. Kennedy]] (1911–1915)
+* [[Alfred M. Venne]] (1916)
+* [[Antonio Lubo]] (1917)
+* [[Bud Saunders]] (1918–1919)
+* [[Matty Bell]] (1920–1921)
+* [[Dick Hanley (American football)|Dick Hanley]] (1922–1926)
+* [[John Webster Thomas]] (1927–1928)
+* [[William Henry Dietz]] (1929–1932)
+* [[Gus Welch]] (1933–1934)
+* [[John Levi (American football)|John Levi]] (1935)
+* [[Jack Carmody (coach)|Jack Carmody]] (1936–1938)
+* ''No team'' (1939–1999)
+* [[Jerry Tuckwin]] (2000)
+* [[Graham Snelding]] (2001)
+* [[Eric Brock (American football coach)|Eric Brock]] (2002–2009)
+* [[Phil Homeratha]] (2010)
+* [[Jimmy Snyder (American football coach)|Jimmy Snyder]] (2011–2012)
+* [[Rich Brewer]] (2013–2014)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Haskell Indian Nations Fighting Indians football navigational boxes|Coach]]
+</noinclude>

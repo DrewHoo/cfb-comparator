@@ -1,0 +1,47 @@
+{{Navbox
+| name = Northwestern Wildcats football coach navbox
+| title = [[List of Northwestern Wildcats head football coaches|{{white|Northwestern Wildcats head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Northwestern Wildcats|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Knowlton Ames]] (1891–1892)
+* [[Paul Noyes]] (1893)
+* [[A. A. Ewing]] (1894)
+* [[Alvin H. Culver]] (1895–1896)
+* [[Jesse Van Doozer]] (1897)
+* [[W. H. Bannard]] (1898)
+* [[Charles M. Hollister]] (1899–1902)
+* [[Walter McCornack]] (1903–1905)
+* [[Alton Johnson]] (1908)
+* [[Bill Horr]] (1909)
+* [[Charles Hammett]] (1910–1912)
+* [[Dennis Grady]] (1913)
+* [[Fred J. Murphy]] (1914–1918)
+* [[Charlie Bachman]] (1919)
+* [[Elmer McDevitt]] (1920–1921)
+* [[Glenn Thistlethwaite]] (1922–1926)
+* [[Dick Hanley (American football)|Dick Hanley]] (1927–1934)
+* [[Pappy Waldorf]] (1935–1946)
+* [[Bob Voigts]] (1947–1954)
+* [[Lou Saban]] (1955)
+* [[Ara Parseghian]] (1956–1963)
+* [[Alex Agase]] (1964–1972)
+* [[John Pont]] (1973–1977)
+* [[Rick Venturi]] (1978–1980)
+* [[Dennis Green]] (1981–1985)
+* [[Francis Peay]] (1986–1991)
+* [[Gary Barnett]] (1992–1998)
+* [[Randy Walker (American football coach)|Randy Walker]] (1999–2005)
+* [[Pat Fitzgerald]] (2006–2022)
+* [[David Braun (American football)|David Braun]] (2023– )
+
+<!-- ''# denotes interim head coach'' -->
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Northwestern Wildcats football navigational boxes|Coach]]
+</noinclude>

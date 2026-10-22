@@ -1,0 +1,54 @@
+{{Navbox
+| name = NC State Wolfpack football coach navbox
+| title = [[List of NC State Wolfpack head football coaches|{{white|NC State Wolfpack head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|NC State Wolfpack|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Perrin Busbee]] (1892)
+* [[Bart Gatling]] (1893–1895)
+* [[Perrin Busbee]] (1896–1897)
+* [[W. C. Riddick]] (1898–1899)
+* [[John McKee (American football)|John McKee]] (1900–1901)
+* [[Art Devlin (baseball)|Art Devlin]] (1902–1903)
+* [[Willis Kienholz]] (1904)
+* [[George S. Whitney]] (1905)
+* [[Willie Heston]] (1906)
+* [[Mickey Whitehurst]] (1907–1908)
+* [[Edward L. Greene]] (1909–1913)
+* [[Jack Hegarty]] (1914–1915)
+* [[Britain Patterson]] (1916)
+* [[Harry Hartsell]] (1917)
+* [[Tal Stafford]] (1918)
+* [[Bill Fetzer]] (1919–1920)
+* [[Harry Hartsell]] (1921–1923)
+* [[Buck Shaw]] (1924)
+* [[Gus Tebell]] (1925–1929)
+* [[John Van Liew]] (1930)
+* [[Clipper Smith (American football, born 1904)|Clipper Smith]] (1931–1933)
+* [[Hunk Anderson]] (1934–1936)
+* [[Williams Newton]] (1937–1943)
+* [[Beattie Feathers]] (1944–1951)
+* [[Horace Hendrickson]] (1952–1953)
+* [[Earle Edwards]] (1954–1970)
+* [[Al Michaels (American football coach)|Al Michaels]] # (1971)
+* [[Lou Holtz]] (1972–1975)
+* [[Bo Rein]] (1976–1979)
+* [[Monte Kiffin]] (1980–1982)
+* [[Tom Reed (American football)|Tom Reed]] (1983–1985)
+* [[Dick Sheridan]] (1986–1992)
+* [[Mike O'Cain]] (1993–1999)
+* [[Chuck Amato]] (2000–2006)
+* [[Tom O'Brien (American football)|Tom O'Brien]] (2007–2012)
+* [[Dana Bible]] # (2012)
+* [[Dave Doeren]] (2013– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:NC State Wolfpack football navigational boxes|Coach]]
+</noinclude>

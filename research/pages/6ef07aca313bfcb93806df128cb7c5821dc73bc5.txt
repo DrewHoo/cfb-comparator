@@ -1,0 +1,68 @@
+{{Navbox
+| name = Fordham Rams football coach navbox
+| title = [[Fordham Rams football|{{white|Fordham Rams head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Fordham Rams|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1882)
+* [[John F. Condon]] (1883)
+* ''No team'' (1884)
+* [[George Wallace (American football)|George Wallace]] (1885)
+* ''Unknown'' (1886–1887)
+* [[Charles Livingston (American football)|Charles Livingston]] (1888)
+* [[Thomas Carmody (American football)|Thomas Carmody]] (1889)
+* [[James McNally (American football)|James McNally]] (1890)
+* [[John P. Lee]] (1891)
+* [[Harry Ely]] (1892)
+* [[John P. Lee]] (1893)
+* [[George G. Grainger]] (1894–1896)
+* [[Frederick Shaeffer]] & [[Bob Carmody (American football)|Bob Carmody]] (1897)
+* [[James Massterson]] & [[John Couch (American football)|John Couch]] (1898)
+* [[John J. Mullen (American football)|John J. Mullen]] (1899)
+* [[Maurice McCarthy (American football)|Maurice McCarthy]] (1900)
+* [[Maurice McCarthy (American football)|Maurice McCarthy]] & [[Fred L. Smith (coach)|Fred L. Smith]] (1901)
+* [[Yale Murphy]] (1902)
+* [[Harry Ely]] (1903)
+* [[Fred L. Smith (coach)|Fred L. Smith]] (1904)
+* [[Eugene F. McGee]] (1905)
+* [[Fred L. Smith (coach)|Fred L. Smith]] (1906–1907)
+* [[Howard Gargan]] (1908–1909)
+* ''No team'' (1910–1911)
+* [[Tom Thorp]] (1912–1913)
+* [[Skip Wymard]] (1914)
+* [[Harry Vaughan (American football)|Harry Vaughan]] (1915)
+* [[Frank Gargan]] (1916)
+* [[Frank Gargan]] & [[Frank McCaffrey]] (1917)
+* [[Edward Siskind]] (1918)
+* ''No team'' (1919)
+* [[Joseph DuMoe]] (1920–1921)
+* [[Frank Gargan]] (1922–1926)
+* [[Frank Cavanaugh (American football)|Frank Cavanaugh]] (1927–1932)
+* [[Jim Crowley]] (1933–1941)
+* [[Earl Walsh]] (1942)
+* ''No team'' (1943–1945)
+* [[Ed Danowski]] (1946–1954)
+* ''No team'' (1955–1963)
+* [[Jim Lansing]] (1964–1971)
+* [[Dean Loucks]] (1972–1974)
+* [[Dave Rice (American football)|Dave Rice]] (1975–1978)
+* [[Jack Stephans]] (1979–1980)
+* [[O'Neal Tutein]] (1981–1985)
+* [[Larry Glueck]] (1986–1993)
+* [[Nick Quartaro]] (1994–1997)
+* [[Ken O'Keefe]] (1998)
+* [[Dave Clawson]] (1999–2003)
+* [[Ed Foley]] (2004–2005)
+* [[Tom Masella]] (2006–2011)
+* [[Joe Moorhead]] (2012–2015)
+* [[Andrew Breiner]] (2016–2017)
+* [[Joe Conlin]] (2018– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Fordham Rams football navigational boxes|Coach]]
+</noinclude>

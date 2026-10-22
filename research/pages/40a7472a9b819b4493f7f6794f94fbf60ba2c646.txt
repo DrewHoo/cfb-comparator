@@ -1,0 +1,59 @@
+{{Navbox
+| name        = Tulsa Golden Hurricane football coach navbox
+| title       = [[Tulsa Golden Hurricane football|{{white|Tulsa Golden Hurricane head football coaches}}]]
+| basestyle   = {{CollegePrimaryStyle|Tulsa Golden Hurricane|color=white}}
+| state       = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass   = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Norman Leard]] (1895–1897)
+* [[Fred Taylor (American football coach, 1890s) |Fred Taylor]] (1898–1899)
+* [[F. M. Whitmore]] (1900)
+* ''Unknown'' (1901–1903)
+* [[Samuel L. Morley]] (1904)
+* [[F. R. Applegate]] (1905)
+* [[Ben McCurtain]] (1906)
+* ''No team'' (1907)
+* [[Sam P. McBirney]] (1908)
+* [[Harry Price (coach)|Harry Price]] (1909)
+* [[Sam P. McBirney]] (1910)
+* ''No team'' (1911)
+* [[Harvey Allen (coach)|Harvey L. Allen]] (1912)
+* [[George "Red" Evans]] (1913)
+* [[Sam P. McBirney]] (1914–1916)
+* [[Hal Mefford]] (1917)
+* [[Arthur F. Smith]] (1918)
+* [[Francis Schmidt]] (1919–1921)
+* [[Howard Acher]] (1922–1924)
+* [[Gus Henderson]] (1925–1935)
+* [[Vic Hurt]] (1936–1938)
+* [[Chet Benefiel]] (1939–1940)
+* [[Henry Frnka]] (1941–1945)
+* [[Buddy Brothers]] (1946–1952)
+* [[Bernie Witucki]] (1953–1954)
+* [[Bobby Dobbs]] (1955–1960)
+* [[Glenn Dobbs]] (1961–1968)
+* [[Vince Carillot]] (1969)
+* [[Claude "Hoot" Gibson]] (1970–1972)
+* [[F. A. Dry]] (1972–1976)
+* [[John Cooper (American football)|John Cooper]] (1977–1984)
+* [[Don Morton]] (1985–1986)
+* [[George Henshaw]] (1987)
+* [[David Rader]] (1988–1999)
+* [[Pat Henderson (American football)|Pat Henderson]] # (1999)
+* [[Keith Burns (American football coach)|Keith Burns]] (2000–2002)
+* [[Steve Kragthorpe]] (2003–2006)
+* [[Todd Graham]] (2007–2010)
+* [[Bill Blankenship]] (2011–2014)
+* [[Philip Montgomery]] (2015–2022)
+* [[Kevin Wilson (American football)|Kevin Wilson]] (2023–2024)
+* [[Ryan Switzer]] # (2024) 
+* [[Tre Lamb]] (2025– )
+
+''# denotes interim head coach''
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Tulsa Golden Hurricane football navigational boxes|Coach]]
+</noinclude>

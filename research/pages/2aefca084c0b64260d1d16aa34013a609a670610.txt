@@ -1,0 +1,43 @@
+{{Navbox
+| name = Detroit Titans football coach navbox
+| title = [[List of Detroit Titans head football coaches|{{white|Detroit Titans head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Detroit Titans|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1891)
+* ''No team'' (1892–1895)
+* [[William S. Robinson]] (1896–1899)
+* [[John C. Mackey]] (1900–1901)
+* [[Edward J. Ryan]] (1902)
+* [[W. Alfred Debo]] (1903–1904)
+* [[Jerry Girardin]] (1905)
+* [[Edward J. Ryan]] (1906)
+* [[George A. Kelly]] (1907)
+* ''No team'' (1908)
+* [[George A. Kelly]] (1909–1910)
+* [[Royal R. Campbell]] (1911–1912)
+* [[George M. Lawton]] (1913–1914)
+* [[Harry Costello]] (1915–1916)
+* [[James F. Duffy]] (1917)
+* ''Unknown'' (1918)
+* [[James F. Duffy]] (1919–1922)
+* [[Germany Schulz]] (1923)
+* [[James F. Duffy]] (1924)
+* [[Gus Dorais]] (1925–1942)
+* ''No team'' (1943–1944)
+* [[Chuck Baer]] (1945–1950)
+* [[Dutch Clark]] (1951–1953)
+* [[Wally Fromhart]] (1954–1958)
+* [[Jim Miller (American football coach)|Jim Miller]] (1959–1961)
+* [[John Idzik]] (1962–1964)
+* ''No team'' (1965–1966)
+* [[Jim Leary]] (1967–1968)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Detroit Titans football navigational boxes|Coach]]
+</noinclude>

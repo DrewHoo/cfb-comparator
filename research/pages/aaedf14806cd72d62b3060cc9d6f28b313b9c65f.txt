@@ -1,0 +1,55 @@
+{{Navbox
+| name = Nebraska Cornhuskers football coach navbox
+| title = [[List of Nebraska Cornhuskers head football coaches|{{white|Nebraska Cornhuskers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Nebraska Cornhuskers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 =
+* [[Langdon Frothingham]] # (1890)
+* [[Theron Lyman]] # (1891)
+* [[1892_Nebraska_Bugeaters_football_team#Coaching_staff|J. S. Williams]] # (1892)
+* [[Frank Crawford]] (1893–1894)
+* [[Charles Thomas (American football)|Charles Thomas]] (1895)
+* [[Edward N. Robinson]] (1896–1897)
+* [[Fielding H. Yost]] (1898)
+* [[Alonzo Edwin Branch]] (1899)
+* [[Walter C. Booth]] (1900–1905)
+* [[Amos Foster]] (1906)
+* [[William C. "King" Cole]] (1907–1910)
+* [[Ewald O. Stiehm]] (1911–1915)
+* [[E. J. Stewart]] (1916–1917)
+* [[William G. Kline]] (1918)
+* [[Henry Schulte]] (1919–1920)
+* [[Fred Dawson]] (1921–1924)
+* [[Ernest Bearg]] (1925–1928)
+* [[Dana X. Bible]] (1929–1936)
+* [[Biff Jones]] (1937–1941)
+* [[Glenn Presnell]] (1942)
+* [[Adolph J. Lewandowski]] (1943–1944)
+* [[George Clark (American football coach)|George Clark]] (1945)
+* [[Bernie Masterson]] (1946–1947)
+* [[George Clark (American football coach)|George Clark]] (1948)
+* [[Bill Glassford]] (1949–1955)
+* [[Pete Elliott]] (1956)
+* [[Bill Jennings (American football)|Bill Jennings]] (1957–1961)
+* [[Bob Devaney]] (1962–1972)
+* [[Tom Osborne]] (1973–1997)
+* [[Frank Solich]] (1998–2003)
+* [[Bo Pelini]] # (2003)
+* [[Bill Callahan (American football coach)|Bill Callahan]] (2004–2007)
+* [[Bo Pelini]] (2008–2014)
+* [[Barney Cotton]] # (2014)
+* [[Mike Riley (gridiron football)|Mike Riley]] (2015–2017)
+* [[Scott Frost]] (2018–2022)
+* [[Mickey Joseph]] # (2022)
+* [[Matt Rhule]] (2023– )
+
+''# denotes interim or unofficial head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Nebraska Cornhuskers football navigational boxes|Coach]]
+</noinclude>

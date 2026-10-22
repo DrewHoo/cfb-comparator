@@ -1,0 +1,58 @@
+{{Navbox
+| name = UMass Minutemen football coach navbox
+| title = [[UMass Minutemen football|{{white|UMass Minutemen head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|UMass Minutemen|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1879–1897)
+* [[David F. Weeks]] (1898)
+* [[Fred W. Murphy]] (1899–1900)
+* [[James Halligan (American football)|James Halligan]] (1901–1903)
+* [[Matthew W. Bullock]] (1904)
+* [[Walter Craig (American football)|Walter Craig]] (1905)
+* [[George E. O'Hearn]] (1906)
+* [[Matthew W. Bullock]] (1907–1908)
+* [[J. W. Gage]] (1909)
+* [[Willard Gildersleeve]] (1910)
+* [[Jack Hubbard (American football)|Jack Hubbard]] (1911)
+* [[Arthur Brides]] (1912–1915)
+* [[George Melican]] (1916)
+* ''No team'' (1917–1918)
+* [[Harold Gore]] (1919–1927)
+* [[Charles McGeoch]] (1928–1930)
+* [[Mel Taube]] (1931–1935)
+* [[Elbert Caraway]] (1936–1940)
+* [[Walter Hargesheimer]] (1941–1942)
+* ''No team'' (1943–1944)
+* [[Thomas Eck]] (1945)
+* [[Walter Hargesheimer]] (1946)
+* [[Thomas Eck]] (1947–1951)
+* [[Charlie O'Rourke]] (1952–1959)
+* [[Chuck Studley]] (1960)
+* [[Vic Fusia]] (1961–1970)
+* [[Dick MacPherson]] (1971–1977)
+* [[Bob Pickett]] (1978–1983)
+* [[Bob Stull]] (1984–1985)
+* [[Jim Reid (American football)|Jim Reid]] (1986–1991)
+* [[Mike Hodges (American football)|Mike Hodges]] (1992–1997)
+* [[Mark Whipple]] (1998–2003)
+* [[Don Brown (American football coach)|Don Brown]] (2004–2008)
+* [[Kevin Morris (American football)|Kevin Morris]] (2009–2011)
+* [[Charley Molnar]] (2012–2013)
+* [[Mark Whipple]] (2014–2018)
+* [[Walt Bell]] (2019–2021)
+* [[Alex Miller (American football coach)|Alex Miller]] # (2021)
+* [[Don Brown (American football coach)|Don Brown]] (2022–2024)
+* [[Shane Montgomery]] # (2024)
+* [[Joe Harasymiak]] (2025– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:UMass Minutemen football navigational boxes|Coach]]
+</noinclude>

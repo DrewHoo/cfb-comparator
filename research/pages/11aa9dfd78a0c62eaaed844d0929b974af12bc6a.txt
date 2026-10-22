@@ -1,0 +1,43 @@
+{{Navbox
+| name = SMU Mustangs football coach navbox
+| title = [[SMU Mustangs football|{{white|SMU Mustangs head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|SMU Mustangs|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Ray Morrison]] (1915–1916)
+* [[J. Burton Rix]] (1917–1921)
+* [[Bill Cunningham (sportswriter)|Bill Cunningham]] # (1921)
+* [[Ewing Y. Freeland]] & [[Ray Morrison]] (1922–1923)
+* [[Ray Morrison]] (1924–1934)
+* [[Matty Bell]] (1935–1941)
+* [[Jimmy Stewart (American football)|Jimmy Stewart]] (1942–1944)
+* [[Matty Bell]] (1945–1949)
+* [[Rusty Russell (American football coach)|Rusty Russell]] (1950–1952)
+* [[Woody Woodard]] (1953–1956)
+* [[Bill Meek]] (1957–1961)
+* [[Hayden Fry]] (1962–1972)
+* [[Dave Smith (American football coach)|Dave Smith]] (1973–1975)
+* [[Ron Meyer]] (1976–1981)
+* [[Bobby Collins (American football coach)|Bobby Collins]] (1982–1986)
+* ''No team'' (1987–1988)
+* [[Forrest Gregg]] (1989–1990)
+* [[Tom Rossley]] (1991–1996)
+* [[Mike Cavan]] (1997–2001)
+* [[Phil Bennett (American football)|Phil Bennett]] (2002–2007)
+* [[June Jones]] (2008–2014)
+* [[Tom Mason (American football)|Tom Mason]] # (2014)
+* [[Chad Morris]] (2015–2017)
+* [[Sonny Dykes]] (2017–2021)
+* [[Jim Leavitt]] # (2021)
+* [[Rhett Lashlee]] (2022– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:SMU Mustangs football navigational boxes|Coach]]
+</noinclude>

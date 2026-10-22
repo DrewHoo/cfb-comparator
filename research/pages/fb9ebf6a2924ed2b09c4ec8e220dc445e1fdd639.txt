@@ -1,0 +1,56 @@
+{{Navbox
+| name = Kentucky Wildcats football coach navbox
+| title = [[List of Kentucky Wildcats head football coaches|{{white|Kentucky Wildcats head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Kentucky Wildcats|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[A. M. Miller]] (1892)
+* [[John A. Thompson (American football)|John A. Thompson]] (1893)
+* [[W. P. Finney]] (1894)
+* [[Charles B. Mason]] (1895)
+* [[Dudley Short]] (1896)
+* [[Lyman Eaton]] (1897)
+* [[W. R. Bass]] (1898–1899)
+* [[William H. Kiler]] (1900–1901)
+* [[E. William McLeod]] (1902)
+* [[Jack Wright (American football)|Jack Wright]] (1903)
+* [[Fred Schacht]] (1904–1905)
+* [[J. White Guyn]] (1906–1908)
+* [[Edwin Sweetland]] (1909–1910)
+* [[Prentiss Douglass]] (1911)
+* [[Edwin Sweetland]] (1912)
+* [[Alpha Brumage]] (1913–1914)
+* [[John J. Tigert]] (1915–1916)
+* [[Stanley A. Boles]] (1917)
+* [[Thomas Andrew Gill]] (1918–1919)
+* [[William Juneau]] (1920–1922)
+* [[Jack Winn]] (1923)
+* [[Fred J. Murphy]] (1924–1926)
+* [[Harry Gamage]] (1927–1933)
+* [[Chet A. Wynne]] (1934–1937)
+* [[Albert D. Kirwan]] (1938–1942)
+* ''No team'' (1943)
+* [[Albert D. Kirwan]] (1944)
+* [[Bernie Shively]] (1945)
+* [[Bear Bryant]] (1946–1953)
+* [[Blanton Collier]] (1954–1961)
+* [[Charlie Bradshaw (American football coach)|Charlie Bradshaw]] (1962–1968)
+* [[John Ray (American football)|John Ray]] (1969–1972)
+* [[Fran Curci]] (1973–1981)
+* [[Jerry Claiborne]] (1982–1989)
+* [[Bill Curry]] (1990–1996)
+* [[Hal Mumme]] (1997–2000)
+* [[Guy Morriss]] (2001–2002)
+* [[Rich Brooks]] (2003–2009)
+* [[Joker Phillips]] (2010–2012)
+* [[Mark Stoops]] (2013–2025)
+* [[Will Stein]] (2026– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Kentucky Wildcats football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,53 @@
+{{Navbox
+| name = TCU Horned Frogs football coach navbox
+| title = [[List of TCU Horned Frogs head football coaches|{{white|TCU Horned Frogs head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|TCU Horned Frogs|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1896)
+* [[Joe J. Field]] (1897)
+* [[James Morrison (American football)|James Morrison]] (1898)
+* ''No coach'' (1899)
+* ''No team'' (1900)
+* ''No coach'' (1901)
+* [[H. E. Hildebrand]] (1902)
+* [[Cornelius E. Cronk]] (1903–1904)
+* [[Emory J. Hyde]] (1905–1907)
+* [[Jesse R. Langley]] (1908–1909)
+* [[Kemp Lewis]] (1910)
+* [[Henry W. Lever]] (1911)
+* [[Willis T. Stewart]] (1912)
+* [[Fred Cahoon]] (1913)
+* [[Stanley A. Boles]] (1914)
+* [[Ewing Y. Freeland]] (1915)
+* [[Milton Daniel]] (1916–1917)
+* [[Ernest M. Tipton]] (1918)
+* [[Ted D. Hackney]] (1919)
+* [[William L. Driver]] (1920–1921)
+* [[John McKnight (coach)|John McKnight]] (1922)
+* [[Matty Bell]] (1923–1928)
+* [[Francis Schmidt]] (1929–1933)
+* [[Dutch Meyer]] (1934–1952)
+* [[Abe Martin (Texas coach)|Abe Martin]] (1953–1966)
+* [[Fred Taylor (American football coach)|Fred Taylor]] (1967–1970)
+* [[Jim Pittman]] (1971)
+* [[Billy Tohill]] (1971–1973)
+* [[Jim Shofner]] (1974–1976)
+* [[F. A. Dry]] (1977–1982)
+* [[Jim Wacker]] (1983–1991)
+* [[Pat Sullivan (American football)|Pat Sullivan]] (1992–1997)
+* [[Dennis Franchione]] (1998–2000)
+* [[Gary Patterson]] (2000–2021)
+* [[Jerry Kill]] # (2021)
+* [[Sonny Dykes]] (2022– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:TCU Horned Frogs football navigational boxes|Coach]]
+</noinclude>

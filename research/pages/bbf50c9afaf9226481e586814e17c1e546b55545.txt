@@ -1,0 +1,26 @@
+{{Navbox
+| name = Drury Panthers football coach navbox
+| title = [[Drury Panthers football|{{white|Drury Panthers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Drury Panthers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Earl A. Childs]] (1902–1903)
+* [[C. A. Barnett]] (1904–1905)
+* [[George J. Van Buren]] (1906)
+* [[Charles F. Watson]] (1907–1908)
+* [[George Dole (coach)|George Dole]] (1909–1910)
+* [[Dick Wagstaff]] (1911)
+* [[Dan M. Nee]] (1912–1916)
+* [[George F. Baldwin]] (1917–1919)
+* [[George H. Pritchard]] (1920–1923)
+* [[Mysterious Walker]] (1924–1925)
+* [[E. Craig Davis]] (1926)
+* [[Albert L. Weiser]] (1927–1932)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+</noinclude>

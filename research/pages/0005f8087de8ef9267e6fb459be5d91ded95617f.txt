@@ -1,0 +1,54 @@
+{{Navbox
+| name = Wabash Little Giants football coach navbox
+| title = [[List of Wabash Little Giants head football coaches|{{white|Wabash Little Giants head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Wabash Little Giants|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Edwin R. Taber]] (1884)
+* ''No team'' (1885)
+* [[Evans Woollen]] (1886)
+* [[William K. Martin]] (1887)
+* ''No team'' (1888)
+* [[C. Sherman King]] (1889)
+* [[Robert A. King (American football)|Robert A. King]] (1890)
+* [[Mason B. Thomas]] (1891)
+* [[William C. Malley]] (1892)
+* [[Elmer G. Horton]] (1893)
+* [[A. Vernon Randall]] (1894)
+* [[Frank D. Arms]] (1895)
+* [[Frank M. Gould]] (1896)
+* ''No team'' (1897)
+* [[James B. Modesitt]] (1898–1899)
+* [[Anthony Chez]] (1900)
+* [[Frederick Feil]] (1901)
+* [[Ebin Wilson]] (1902–1903)
+* [[Frank Cayou]] (1904–1907)
+* [[Ralph Jones]] (1908)
+* [[Jesse Harper]] (1909–1912)
+* [[Clarence H. Thurber]] (1913–1914)
+* [[Paul Sheeks]] (1915–1916)
+* [[J. Russell Townsend]] (1917–1918)
+* [[Robert E. Vaughan]] (1919–1945)
+* [[Glen Harmeson]] (1946–1950)
+* [[Garland Frazier]] (1951–1960)
+* [[Kenneth W. Keuffel]] (1961–1966)
+* [[Max Urick]] (1967–1970)
+* [[Dick Bowman]] (1971–1973)
+* [[Frank Navarro]] (1974–1977)
+* [[Stan Parrish]] (1978–1982)
+* [[Greg Carlson]] (1983–2000)
+* [[Chris Creighton]] (2001–2007)
+* [[Erik Raeburn]] (2008–2015)
+* [[Don Morel]] (2016–2019)
+* ''No team'' (2020)
+* [[Don Morel]] (2021–2024)
+* [[Jake Gilbert]] (2024– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Wabash Little Giants football navigational boxes|Coach]]
+</noinclude>

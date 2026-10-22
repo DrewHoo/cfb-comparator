@@ -1,0 +1,35 @@
+{{Navbox
+| name = Saint Mary's Gaels football coach navbox
+| title = [[Saint Mary's Gaels football|{{white|Saint Mary's Gaels head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Saint Mary's Gaels|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1892–1898)
+* ''No team'' (1899–1914)
+* [[David C. MacAndrew]] (1915–1916)
+* [[Russell T. Wilson]] (1917–1919)
+* [[Bill Hollander]] (1920)
+* [[Slip Madigan]] (1921–1939)
+* [[Red Strader]] (1940–1941)
+* [[James Phelan (American football)|James Phelan]] (1942–1947)
+* [[Joe Verducci]] (1948–1949)
+* [[Joe Ruetz]] (1950)
+* ''No team'' (1951–1966)
+* [[George Galli]] (1967–1969)
+* [[Leo McKillip]] (1970–1973)
+* [[Jim McDonald (American football coach)|Jim McDonald]] (1974–1976)
+* [[Dick Mannini]] (1977–1983)
+* [[Joe DeLuca]] (1984–1985)
+* [[Craig Rundle]] (1986–1989)
+* [[Mike Rasmussen]] (1990–1999)
+* [[Tim Landis]] (2000–2002)
+* [[Vincent White (American football)|Vincent White]] (2003)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Saint Mary's Gaels football navigational boxes|Coach]]
+</noinclude>

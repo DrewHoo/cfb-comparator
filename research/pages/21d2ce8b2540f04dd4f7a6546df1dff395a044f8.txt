@@ -1,0 +1,44 @@
+{{Navbox
+| name = The Citadel Bulldogs football coach navbox
+| title = [[List of The Citadel Bulldogs head football coaches|{{white|The Citadel Bulldogs head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Citadel Bulldogs|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Syd Smith (baseball)|Syd Smith]] (1905)
+* [[Ralph Foster (American football coach)|Ralph Foster]] (1906–1908)
+* [[Sam Costen]] (1909–1910)
+* [[Louis LeTellier]] (1911–1912)
+* [[George C. Rogers]] (1913–1915)
+* [[Harry J. O'Brien]] (1916–1918)
+* [[George C. Rogers]] (1919)
+* [[Harry J. O'Brien]] (1920–1921)
+* [[Carl Prause]] (1922–1929)
+* [[Johnny Floyd]] (1930–1931)
+* [[Tatum Gressette]] (1932–1939)
+* [[Bo Rowland]] (1940–1942)
+* ''No team'' (1943–1945)
+* [[J. Quinn Decker]] (1946–1952)
+* [[John D. McMillan]] (1953–1954)
+* [[John Sauer]] (1955–1956)
+* [[Eddie Teague]] (1957–1965)
+* [[Red Parker]] (1966–1972)
+* [[Bobby Ross]] (1973–1977)
+* [[Art Baker (American football coach)|Art Baker]] (1978–1982)
+* [[Tom Moore (American football coach, born 1945)|Tom Moore]] (1983–1986)
+* [[Charlie Taaffe]] (1987–1995)
+* [[Don Powers]] (1996–2000)
+* [[Ellis Johnson (American football coach)|Ellis Johnson]] (2001–2003)
+* [[John Zernhelt]] (2004)
+* [[Kevin Higgins (American football)|Kevin Higgins]] (2005–2013)
+* [[Mike Houston (American football)|Mike Houston]] (2014–2015)
+* [[Brent Thompson (American football)|Brent Thompson]] (2016–2022)
+* [[Maurice Drayton]] (2023– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes|Citadel]]
+[[Category:The Citadel Bulldogs football navigational boxes|Coach]]
+</noinclude>

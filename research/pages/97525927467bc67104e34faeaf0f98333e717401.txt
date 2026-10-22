@@ -1,0 +1,33 @@
+{{Navbox
+| name = Newberry Wolves football coach navbox
+| title = [[Newberry Wolves football|{{white|Newberry Wolves head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Newberry Wolves|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Raymond Thomas (American football)|Raymond Thomas]] (1913)
+* [[Joe Parrish (American football)|Joe Parrish]] (1914)
+* [[William Shaw (American football)|William Shaw]] (1915)
+* [[James G. Driver]] (1916)
+* [[Robert Pfohl (coach)|Robert Pfohl]] (1917)
+* ''No team'' (1918)
+* [[Lawrence C. Sullivan]] (1919–1920)
+* [[Dutch McClean]] (1920–1937)
+* [[Billy Laval]] (1938–1949)
+* [[Ernest R. McConnell]] (1950–1951)
+* [[Harvey Kirklan]] (1952–1967)
+* [[Fred Herren]] (1968–1977)
+* [[Reed Charpia]] (1978–1981)
+* [[Clayton Johnson]] (1982–1984)
+* [[Gary Smallen]] (1988–1990)
+* [[Brad Senter]] (1991)
+* [[Mike Taylor (American football, born 1954)|Mike Taylor]] (1992–2002)
+* [[Zak Willis]] (2003–2008)
+* [[Todd Knight (Newberry coach)|Todd Knight]] (2009– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division II football coach navigational boxes]]
+</noinclude>

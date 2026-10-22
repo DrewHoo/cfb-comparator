@@ -1,0 +1,43 @@
+{{Navbox
+| name = Furman Paladins football coach navbox
+| title = [[List of Furman Paladins head football coaches|{{white|Furman Paladins head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Furman Paladins|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[William Beattie (American football)|William Beattie]] (1889)
+* [[H. C. Granger]] (1890)
+* [[H. P. Young]] (1891–1893)
+* ''No team'' (1894)
+* [[H. P. Young]] (1895)
+* [[Frank Sims (American football)|Frank Sims]] (1896)
+* ''No team'' (1897–1899)
+* [[Frank Spencer (American football)|Frank Spencer]] (1900)
+* [[Charles Roller]] (1901–1902)
+* ''No team'' (1903–1912)
+* [[W. C. "Cuppy" Farmer]] (1913)
+* [[W. B. Bible]] (1914–1915)
+* [[Billy Laval]] (1915–1927)
+* [[T. B. Amis]] (1928–1931)
+* [[Dizzy McLeod]] (1932–1942)
+* ''No team'' (1943–1945)
+* [[Bob Smith (coach)|Bob Smith]] (1946–1947)
+* [[Red Smith (coach)|Red Smith]] (1948–1949)
+* [[Bill Young (American football lineman)|Bill Young]] (1950–1954)
+* [[Homer Hobbs]] (1955–1957)
+* [[Bob King (American football coach)|Bob King]] (1958–1972)
+* [[Art Baker (American football coach)|Art Baker]] (1973–1977)
+* [[Dick Sheridan]] (1978–1985)
+* [[Jimmy Satterfield]] (1986–1993)
+* [[Bobby Johnson]] (1994–2001)
+* [[Bobby Lamb (American football)|Bobby Lamb]] (2002–2010)
+* [[Bruce Fowler (American football)|Bruce Fowler]] (2011–2016)
+* [[Clay Hendrix]] (2017– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Furman Paladins football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,43 @@
+{{Navbox
+| name = Amherst Mammoths football coach navbox
+| title = [[Amherst Mammoths football|{{white|Amherst Mammoths head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Amherst Mammoths|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''Unknown'' (1877–1893)
+* [[Parke H. Davis]] (1894)
+* [[George A. Gray]] (1895–1896)
+* [[Albert Tyler (athlete)|Albert Tyler]] (1897)
+* ''Unknown'' (1898)
+* [[Fred W. Murphy]] (1899)
+* ''Unknown'' (1900–1901)
+* [[Harry A. Smith]] (1902–1906)
+* [[Jack Hubbard (American football)|Jack Hubbard]] (1907)
+* [[Jack Hubbard (American football)|Jack Hubbard]] & [[Sidney R. Overall]] (1908)
+* [[Jack Hubbard (American football)|Jack Hubbard]] (1909)
+* [[Henry Hobbs (American football)|Henry Hobbs]] (1910–1913)
+* [[Thomas J. Riley]] (1914–1916)
+* [[Raymond G. Gettell]] (1917–1920)
+* [[Wesley Englehorn]] (1921)
+* [[Tuss McLaughry]] (1922–1925)
+* [[Harry F. White]] (1926–1928)
+* [[Alfred G. Wheeler]] (1929–1931)
+* [[Lloyd Jordan]] (1932–1942)
+* ''No team'' (1943–1944)
+* [[Lloyd Jordan]] (1945–1949)
+* [[John McLaughry]] (1950–1958)
+* [[Jim Ostendarp]] (1959–1991)
+* [[John McKechnie (coach)|John McKechnie]] (1992)
+* [[Jack Siedlecki]] (1993–1996)
+* [[E. J. Mills (American football)|E. J. Mills]] (1997–2019)
+* ''No team'' (2020)
+* [[E. J. Mills (American football)|E. J. Mills]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Amherst Mammoths football navigational boxes|Coaches]]
+</noinclude>

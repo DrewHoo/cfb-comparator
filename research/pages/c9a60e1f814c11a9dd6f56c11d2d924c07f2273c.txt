@@ -1,0 +1,49 @@
+{{Navbox
+| name = Michigan State Spartans football coach navbox
+| title = [[List of Michigan State Spartans head football coaches|{{white|Michigan State Spartans head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Michigan State Spartans|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Henry Keep (American football)|Henry Keep]] (1897–1898)
+* [[Charles Bemies]] (1899–1900)
+* [[George Denman (American football)|George Denman]] (1901–1902)
+* [[Chester Brewer]] (1903–1910)
+* [[John Macklin]] (1911–1915)
+* [[Dutch Sommer]] (1916)
+* [[Chester Brewer]] (1917)
+* [[George Gauthier (American football)|George Gauthier]] (1918)
+* [[Chester Brewer]] (1919)
+* [[George Clark (American football coach)|George Clark]] (1920)
+* [[Albert Barron]] (1921–1922)
+* [[Ralph H. Young]] (1923–1927)
+* [[Harry Kipke]] (1928)
+* [[Jim Crowley]] (1929–1932)
+* [[Charlie Bachman]] (1933–1942)
+* ''No team'' (1943)
+* [[Charlie Bachman]] (1944–1946)
+* [[Biggie Munn]] (1947–1953)
+* [[Duffy Daugherty]] (1954–1972)
+* [[Denny Stolz]] (1973–1975)
+* [[Darryl Rogers]] (1976–1979)
+* [[Muddy Waters (American football)|Muddy Waters]] (1980–1982)
+* [[George Perles]] (1983–1994)
+* [[Nick Saban]] (1995–1999)
+* [[Bobby Williams]] (1999–2002)
+* [[Morris Watts]] # (2002)
+* [[John L. Smith]] (2003–2006)
+* [[Mark Dantonio]] (2007–2019)
+* [[Mel Tucker]] (2020–2023)
+* [[Harlon Barnett]] # (2023)
+* [[Jonathan Smith (American football coach)|Jonathan Smith]] (2024–2025)
+* [[Pat Fitzgerald]] (2026– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Michigan State Spartans football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,57 @@
+{{Navbox
+| name = Oregon Ducks football coach navbox
+| title = [[List of Oregon Ducks head football coaches|{{white|Oregon Ducks head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Oregon Ducks|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Cal Young]] & [[J. A. Church]] (1894)
+* [[Percy Benson]] (1895)
+* [[J. F. Frick]] (1896)
+* [[Joe Smith (American football coach)|Joe Smith]] (1897)
+* [[Frank W. Simpson]] (1898–1899)
+* [[Lawrence Kaarsberg]] (1900)
+* [[Warren W. Smith]] (1901)
+* [[Marion Dolph]] (1902)
+* [[Warren W. Smith]] (1903)
+* [[Richard Shore Smith]] (1904)
+* [[Bruce Shorts]] (1905)
+* [[Hugo Bezdek]] (1906)
+* [[Gordon B. Frost]] (1907)
+* [[Robert Forbes (American football)|Robert Forbes]] (1908–1909)
+* [[Bill Warner (American football)|Bill Warner]] (1910–1911)
+* [[Louis Pinkham]] (1912)
+* [[Hugo Bezdek]] (1913–1917)
+* [[Charles A. Huntington]] (1918–1923)
+* [[Joe Maddock (coach)|Joe Maddock]] (1924)
+* [[Richard Shore Smith]] (1925)
+* [[John McEwan]] (1926–1929)
+* [[Clarence Spears]] (1930–1931)
+* [[Prink Callison]] (1932–1937)
+* [[Tex Oliver]] (1938–1941)
+* [[John A. Warren]] (1942)
+* ''No team'' (1943–1944)
+* [[Tex Oliver]] (1945–1946)
+* [[Jim Aiken]] (1947–1950)
+* [[Len Casanova]] (1951–1966)
+* [[Jerry Frei]] (1967–1971)
+* [[Dick Enright]] (1972–1973)
+* [[Don Read]] (1974–1976)
+* [[Rich Brooks]] (1977–1994)
+* [[Mike Bellotti]] (1995–2008)
+* [[Chip Kelly]] (2009–2012)
+* [[Mark Helfrich (American football)|Mark Helfrich]] (2013–2016)
+* [[Willie Taggart]] (2017)
+* [[Mario Cristobal]] (2017–2021)
+* [[Bryan McClendon]] # (2021)
+* [[Dan Lanning]] (2022– )
+
+''# denotes interim head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Oregon Ducks football navigational boxes|Coach]]
+</noinclude>

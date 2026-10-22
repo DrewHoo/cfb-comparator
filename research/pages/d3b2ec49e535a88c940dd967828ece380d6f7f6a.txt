@@ -1,0 +1,61 @@
+{{Navbox
+| name = Union Garnet Chargers football coach navbox
+| title = [[Union Garnet Chargers football|{{white|Union Garnet Chargers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Union Garnet Chargers}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1886–1887)
+* [[Charles W. Culver]] (1888)
+* ''No coach'' (1889)
+* [[William Hyland (American football)|William Hyland]] (1890)
+* [[John L. Van Valkenburg]] (1891)
+* [[Frank W. Allen (American football)|Frank W. Allen]] (1892–1893)
+* [[James McNaughton Thompson]] (1894)
+* [[Edgar M. Church]] (1895)
+* "Father" Brown (1896)
+* [[J. W. H. Pollard]] (1897–1899)
+* [[William J. Smith (American football)|William J. Smith]] (1900–1901)
+* [[George S. Whitney]] (1902)
+* [[William J. Smith (American football)|William J. Smith]] (1903–1904)
+* [[William W. Cronkite]] (1905)
+* ''No team'' (1906)
+* [[Harold Tenney]] (1907)
+* [[William H. Murray (American football)|William H. Murray]] (1908–1909)
+* [[Adrian Regnier]] (1910)
+* [[Oscar W. Kuolt]] (1911)
+* [[Fred Dawson]] (1912–1916)
+* [[Paul E. Murray]] (1917)
+* [[Shelby Shanklin]] (1918)
+* [[Sol Metzger]] (1919)
+* [[Perry E. Leary]] (1920–1930)
+* [[G. Elliott Hartfield]] (1931–1935)
+* [[Nelson Nitchman]] (1936–1940)
+* [[Arthur C. Lawrence]] (1941–1942)
+* ''No team'' (1943)
+* [[Mel Hein]] (1944)
+* ''No team'' (1945)
+* [[Mel Hein]] (1946)
+* [[John McLaughry]] (1947–1949)
+* [[Sammuel C. Hammerstrom]] (1950–1957)
+* [[Keith Doyle (American football)|Keith Doyle]] (1958–1959)
+* [[Joseph T. Maras]] (1960–1963)
+* [[George Flood (American football)|George Flood]] (1964–1970)
+* [[Gerald Everling]] (1971–1974)
+* [[Art Lawrence]] & [[Earl Rogers (American football)|Earl Rogers]] (1975)
+* [[Tom Cahill (American football)|Tom Cahill]] (1976–1979)
+* [[Joe Wirth]] (1980–1981)
+* [[Al Bagnoli]] (1982–1991)
+* [[John Audino]] (1992–2015)
+* [[Jeff Behrman]] (2016–2019)
+* ''No team'' (2020)
+* [[Jeff Behrman]] (2021–2022)
+* [[Jon Poppe]] (2023)
+* [[Jon Drach]] (2024– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+</noinclude>

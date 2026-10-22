@@ -1,0 +1,9 @@
+rows 447 columns 601
+roles {'HC': 447}
+first_season min/max 2004 2026 last_season min/max 2004 2026
+has any of wins/losses/ties/record column: []
+win-ish columns: ['wins_home', 'wins_away', 'wins_neutral_site', 'wins_vs_ranked', 'wins_after_bye', 'wins_opener', 'wins_one_score_game', 'def_wins_home', 'def_wins_away', 'def_wins_neutral_site', 'def_wins_vs_ranked', 'def_wins_after_bye']
+Nick Saban {'role': 'HC', 'teams': 'LSU Tigers, Alabama Crimson Tide', 'seasons': '18', 'first_season': '2004', 'last_season': '2023', 'games': '244', 'games_home': '122', 'wins_home': '114', 'games_away': '78', 'wins_away': '64', 'games_neutral_site': '44', 'wins_neutral_site': '36'}
+Kirby Smart {'role': 'HC', 'teams': 'Georgia Bulldogs', 'seasons': '11', 'first_season': '2016', 'last_season': '2026', 'games': '145', 'games_home': '66', 'wins_home': '60', 'games_away': '43', 'wins_away': '37', 'games_neutral_site': '36', 'wins_neutral_site': '26'}
+Urban Meyer {'role': 'HC', 'teams': 'Utah Utes, Florida Gators, Ohio State Buckeyes', 'seasons': '13', 'first_season': '2004', 'last_season': '2017', 'games': '172', 'games_home': '93', 'wins_home': '84', 'games_away': '58', 'wins_away': '49', 'games_neutral_site': '21', 'wins_neutral_site': '16'}
+Brian Kelly {'role': 'HC', 'teams': 'Central Michigan Chippewas, Cincinnati Bearcats, Notre Dame Fighting Irish, LSU Tigers', 'seasons': '21', 'first_season': '2004', 'last_season': '2024', 'games': '259', 'games_home': '126', 'wins_home': '104', 'games_away': '95', 'wins_away': '63', 'games_neutral_site': '38', 'wins_neutral_site': '23'}

@@ -1,0 +1,44 @@
+{{Navbox
+| name = Williams Ephs football coach navbox
+| title = [[Williams Ephs football|{{white|Williams Ephs head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Williams Ephs|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Josiah J. Hazen]] & [[Alfred H. Hine]] (1899)
+* [[Josiah J. Hazen]] (1901)
+* [[Alfred H. Thomas]] (1902)
+* [[Frank "Buck" O'Neill]] (1903)
+* [[Morris Ely]] (1904–1905)
+* [[Bob Hatch]] (1906)
+* [[Samuel B. Newton]] (1907)
+* [[William Wiles Elder]] (1908)
+* [[Samuel B. Newton]] (1909–1910)
+* [[Fred Daly (American football)|Fred Daly]] (1911–1915)
+* [[Joseph W. Brooks]] (1916)
+* [[Mysterious Walker]] (1917)
+* ''No team'' (1918)
+* [[Joseph W. Brooks]] (1919–1920)
+* [[Percy Wendell]] (1921–1924)
+* [[Douglas Lawson]] (1925–1927)
+* [[Charlie Caldwell]] (1928–1942)
+* ''No team'' (1943–1945)
+* [[A. Barr Snively]] (1946–1947)
+* [[Len Watters]] (1948–1962)
+* [[Frank Navarro]] (1963–1967)
+* [[Larry Catuzzi]] (1968–1970)
+* [[Bob Odell (American football)|Bob Odell]] (1971–1986)
+* [[Dick Farley]] (1987–2003)
+* [[Mike Whalen]] (2004–2009)
+* [[Aaron Kelton]] (2010–2015)
+* [[Mark Raymond]] (2016–2019)
+* ''No team'' (2020)
+* [[Mark Raymond]] (2021– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Williams Ephs football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,47 @@
+{{Navbox
+| name = Lehigh Mountain Hawks football coach navbox
+| title = [[Lehigh Mountain Hawks football|{{white|Lehigh Mountain Hawks head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Lehigh Mountain Hawks|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1884–1891)
+* [[John A. Hartwell]] (1892)
+* [[Harmon S. Graves]] (1893)
+* [[Pudge Heffelfinger]] (1894)
+* [[Laurie Bliss]] (1895)
+* [[L. N. Morris]] (1896)
+* [[Samuel M. Hammond]] (1897)
+* [[Samuel Huston Thompson]] (1898–1899)
+* [[Walter R. Okeson]] (1900)
+* [[J. W. H. Pollard]] (1901)
+* [[Samuel B. Newton]] (1902–1905)
+* [[Byron W. Dickson]] (1906–1909)
+* [[Howard R. Reiter]] (1910–1911)
+* [[Tom Keady]] (1912–1920)
+* [[Frank Glick]] (1921)
+* [[James A. Baldwin]] (1922–1924)
+* [[Percy Wendell]] (1925–1927)
+* [[A. Austin Tate]] (1928–1933)
+* [[Glen Harmeson]] (1934–1941)
+* [[George Hoban]] (1942)
+* [[Leo Prendergast]] (1943–1945)
+* [[Bill Leckonby]] (1946–1961)
+* [[Mike Cooley (American football)|Mike Cooley]] (1962–1964)
+* [[Frederick Dunlap (American football)|Frederick Dunlap]] (1965–1975)
+* [[John Whitehead (American football)|John Whitehead]] (1976–1985)
+* [[Hank Small]] (1986–1993)
+* [[Kevin Higgins (American football)|Kevin Higgins]] (1994–2000)
+* [[Pete Lembo]] (2001–2005)
+* [[Andy Coen]] (2006–2018)
+* [[Tom Gilmore (American football)|Tom Gilmore]] (2019–2022)
+* [[Kevin Cahill (American football)|Kevin Cahill]] (2023–2025)
+* [[Rich Nagy]] (2026– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Lehigh Mountain Hawks football navigational boxes|Coach]]
+</noinclude>

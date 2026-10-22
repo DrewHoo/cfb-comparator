@@ -1,0 +1,51 @@
+{{Navbox
+| name = Hampden–Sydney Tigers football coach navbox
+| title = [[Hampden–Sydney Tigers football|{{white|Hampden–Sydney Tigers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Hampden–Sydney Tigers|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[William Ford Bull]] (1892–1894)
+* [[W. J. King]] (1895)
+* [[George H. Denny]] (1896)
+* [[Eugene C. Caldwell]] (1897)
+* [[Alfred S. Caldwell]] (1898)
+* [[Harry L. Shaner]] (1899–1900)
+* [[Edwin S. Martin (coach)|Edwin S. Martin]] (1901)
+* [[Jason B. Parrish]] (1902)
+* [[George A. Jennings]] (1903)
+* ''No team'' (1904)
+* [[Russel James]] (1905)
+* [[Oliver Max Gardner]] (1906)
+* [[James A. Nutter]] (1907)
+* [[Lew Riess]] (1908–1909)
+* [[Kemper Yancey]] (1910)
+* [[B. R. Cecil]] (1911)
+* [[Charles A. Bernier]] (1912–1916)
+* [[Marvin C. Bowling]] (1917)
+* ''No coach'' (1918)
+* [[William L. Younger]] (1919)
+* [[Eddie Roundy]] (1920–1922)
+* [[Charles A. Bernier]] (1923–1938)
+* [[Red Smith (coach)|Red Smith]] (1939–1941)
+* [[Frank Summers (coach)|Frank Summers]] (1942)
+* ''No team'' (1943)
+* [[Frank Summers (coach)|Frank Summers]] (1944–1945)
+* [[Herman E. Smith]] (1946)
+* [[Morgan Tiller]] (1947–1950)
+* [[Jim Hickey (American football)|Jim Hickey]] (1951–1955)
+* [[Bob Thalman]] (1956–1959)
+* [[Stokeley Fulton]] (1960–1984)
+* [[Carmen Palladino]] (1985)
+* [[Joe Bush (American football)|Joe Bush]] (1986–1996)
+* [[Phil Culicerto]] (1997–1999)
+* [[Marty Favret]] (2000–2023)
+* [[Vince Luvara]] (2024– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Hampden–Sydney Tigers football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,31 @@
+{{Navbox
+| name = BYU Cougars football coach navbox
+| title = [[List of BYU Cougars head football coaches|{{white|BYU Cougars head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|BYU Cougars|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* [[Alvin Twitchell]] (1922–1924)
+* [[Charles J. Hart]] (1925–1927)
+* [[G. Ott Romney]] (1928–1936)
+* [[Eddie Kimball]] (1937–1941)
+* [[Floyd Millet]] (1942)
+* ''No team'' (1943–1945)
+* [[Eddie Kimball]] (1946–1948)
+* [[Chick Atkinson]] (1949–1955)
+* [[Hal Kopp]] (1956–1958)
+* [[Tally Stevens]] (1959–1960)
+* [[Hal Mitchell]] (1961–1963)
+* [[Tommy Hudspeth]] (1964–1971)
+* [[LaVell Edwards]] (1972–2000)
+* [[Gary Crowton]] (2001–2004)
+* [[Bronco Mendenhall]] (2005–2015)
+* [[Kalani Sitake]] (2016– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:BYU Cougars football navigational boxes|Coach]]
+</noinclude>

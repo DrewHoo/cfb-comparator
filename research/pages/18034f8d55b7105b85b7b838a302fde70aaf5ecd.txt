@@ -1,0 +1,52 @@
+{{Navbox
+| name = Harvard Crimson football coach navbox
+| title = [[Harvard Crimson football|{{white|Harvard Crimson head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Harvard Crimson|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1873–1880)
+* [[Lucius Littauer]] (1881)
+* ''No coach'' (1882–1884)
+* ''No team'' (1885)
+* [[Frank A. Mason]] (1886)
+* ''No coach'' (1887–1889)
+* [[George A. Stewart]] & [[George C. Adams]] (1890–1892)
+* [[George A. Stewart]] & [[Everett J. Lake]] (1893)
+* [[William A. Brooks]] (1894)
+* [[Robert Emmons]] (1895)
+* [[Lorin F. Deland]] (1895)
+* [[Bert Waters]] (1896)
+* [[William Cameron Forbes]] (1897–1898)
+* [[Benjamin Dibblee]] (1899–1900)
+* [[Bill Reid (American football coach)|Bill Reid]] (1901)
+* [[John Wells Farley]] (1902)
+* [[John Cranston (American football)|John Cranston]] (1903)
+* [[Edgar Wrightington]] (1904)
+* [[Bill Reid (American football coach)|Bill Reid]] (1905–1906)
+* [[Joshua Crane]] (1907)
+* [[Percy Haughton]] (1908–1916)
+* [[Wingate Rollins]] (1917)
+* [[Pooch Donovan]] (1918)
+* [[Bob Fisher (American football coach)|Bob Fisher]] (1919–1925)
+* [[Arnold Horween]] (1926–1930)
+* [[Eddie Casey]] (1931–1934)
+* [[Dick Harlow]] (1935–1942)
+* [[Henry Lamar (American football)|Henry Lamar]] (1943–1944)
+* [[Dick Harlow]] (1945–1947)
+* [[Arthur Valpey]] (1948–1949)
+* [[Lloyd Jordan]] (1950–1956)
+* [[John Yovicsin]] (1957–1970)
+* [[Joe Restic]] (1971–1993)
+* [[Tim Murphy (American football)|Tim Murphy]] (1994–2019)
+* ''No team'' (2020)
+* [[Tim Murphy (American football)|Tim Murphy]] (2021–2023)
+* [[Andrew Aurich]] (2024– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FCS coach navigational boxes]]
+[[Category:Harvard Crimson football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,31 @@
+{{Navbox
+| name = Spring Hill Badgers football coach navbox
+| title = [[Spring Hill Badgers football|{{white|Spring Hill Badgers head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Spring Hill Badgers}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1  = 
+* [[Emil G. Maxon]] (1907–1911)
+* [[Jere Austill]] (1912–1913) 
+* [[Red Harris]] (1915)
+* [[John O. Rush]] (1916)
+* [[William S. Hoffman]] (1917)
+* [[Moon Ducote]] (1919–1922)
+* [[Edward J. "Mickey" Connors]] (1923–1924)
+* [[William T. Daly]] (1925–1930)
+* [[Pat Browne (American football)|Pat Browne]] (1931–1932)
+* [[Moon Ducote]] (1933)
+* [[Mike Donahue]] (1934)
+* [[William T. Daly]]  (1935–1936)
+* [[Andrew Edington]] (1937)
+* [[Earle Smith]] (1938–1939)
+* [[Andrew Edington]] (1940)
+* [[Earle Smith]] (1941)
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Defunct college football program coach navigational boxes]]
+[[Category:Spring Hill Badgers football navigational boxes|Coach]]
+</noinclude>

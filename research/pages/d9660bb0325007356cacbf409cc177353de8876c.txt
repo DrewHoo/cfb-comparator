@@ -1,0 +1,29 @@
+{{Navbox
+| name = Southwestern Pirates football coach navbox
+| title = [[Southwestern Pirates football|{{white|Southwestern Pirates head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Southwestern Pirates|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1903–1907)
+* [[Philip Arbuckle]] (1908–1911)
+* [[James C. Snipes]] (1912–1913)
+* [[J. Burton Rix]] (1914–1916)
+* [[Lionel Moise]] (1917–1918)
+* [[Lombe Honaker]] (1919–1920)
+* [[William Jennings Gardner]] (1921–1924)
+* [[Charles M. Edens]] (1925–1938)
+* [[Randolph M. Medley]] (1939–1947)
+* [[Spot Collins]] (1948–1949)
+* [[Randolph M. Medley]] (1950)
+* ''No team'' (1951–2012)
+* [[Joe Austin]] (2013–2023)
+* [[Bill Kriesel]] (2024– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Southwestern Pirates football navigational boxes|Coach]]
+</noinclude>

@@ -1,0 +1,60 @@
+{{Navbox
+| name = Maryland Terrapins football coach navbox
+| title = [[Maryland Terrapins football|{{white|Maryland Terrapins head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Maryland Terrapins|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 =
+* [[William W. Skinner]] (1892)
+* [[Samuel Harding (American football)|Samuel Harding]] (1893)
+* [[J. G. Bannon]] (1894)
+* ''No team'' (1895)
+* [[Grenville Lewis]] (1896)
+* [[John Lillibridge]] (1897)
+* [[Frank Kenly]] (1898)
+* [[S. S. Cooke]] (1899)
+* [[F. H. Peters]] (1900)
+* [[Emmons Dunbar]] (1901)
+* [[D. John Markey]] (1902–1904)
+* [[Fred K. Nielsen]] (1905–1906)
+* [[Charles W. Melick]] (1907)
+* [[William Lang (American football)|William Lang]] (1908)
+* [[William Lang (American football)|William Lang]] & [[Edward Larkin (American football)|Edward Larkin]] (1909)
+* [[Royal Alston]] (1910)
+* [[Charley Donnelly]] (1911)
+* [[Curley Byrd]] (1911–1934)
+* [[Jack Faber]] (1935)
+* [[Frank Dobson (American football)|Frank Dobson]] (1936–1939)
+* [[Jack Faber]] (1940–1941)
+* [[Clark Shaughnessy]] (1942)
+* [[Clarence Spears]] (1943–1944)
+* [[Bear Bryant]] (1945)
+* [[Clark Shaughnessy]] (1946)
+* [[Jim Tatum]] (1947–1955)
+* [[Tommy Mont]] (1956–1958)
+* [[Tom Nugent]] (1959–1965)
+* [[Lou Saban]] (1966)
+* [[Bob Ward (American football, born 1927)|Bob Ward]] (1967–1968)
+* [[Roy Lester]] (1969–1971)
+* [[Jerry Claiborne]] (1972–1981)
+* [[Bobby Ross]] (1982–1986)
+* [[Joe Krivak]] (1987–1991)
+* [[Mark Duffner]] (1992–1996)
+* [[Ron Vanderlinden]] (1997–2000)
+* [[Ralph Friedgen]] (2001–2010)
+* [[Randy Edsall]] (2011–2015)
+* [[Mike Locksley]] # (2015)
+* [[D. J. Durkin]] (2016–2017)
+* [[Matt Canada]] # (2018)
+* [[Mike Locksley]] (2019–2026)
+* [[Aazaar Abdul-Rahim]] # (2026–)
+
+''# denotes interim/acting head coach''
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division I FBS coach navigational boxes]]
+[[Category:Maryland Terrapins football navigational boxes|Coach]]
+</noinclude>

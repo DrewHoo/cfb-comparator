@@ -1,0 +1,44 @@
+{{Navbox
+| name = Lake Forest Foresters football coach navbox
+| title = [[Lake Forest Foresters football|{{white|Lake Forest Foresters head football coaches}}]]
+| basestyle = {{CollegePrimaryStyle|Lake Forest Foresters|color=white}}
+| state = {{{state<includeonly>|collapsed</includeonly>}}}
+| listclass = hlist
+| nowrapitems = yes
+
+| list1 = 
+* ''No coach'' (1882)
+* ''No team'' (1883–1887)
+* ''No coach'' (1888–1898)
+* [[David H. Jackson]] (1899–1901)
+* [[Clarence Herschberger]] (1902–1904)
+* [[James A. Vaughan]] (1905–1906)
+* [[Rolland E. Brumbaugh]] (1907)
+* [[Burt E. Kennedy]] (1908–1913)
+* [[Ira T. Carrithers]] (1914)
+* [[Ralph Thacker]] (1915)
+* [[E. J. Mather]] (1916–1918)
+* [[Sylvester Derby]] (1919–1920)
+* [[Ralph Glaze]] (1921–1923)
+* [[Floyd L. Brown]] (1924–1928)
+* [[Ira MacIntosh]] (1929–1932)
+* [[Ralph Jones]] (1933–1942)
+* ''No team'' (1943–1945)
+* [[Ralph Jones]] (1946–1948)
+* [[John W. Breen]] (1949–1951)
+* [[Wally Lemm]] (1952–1953)
+* [[Alvin Hanks]] (1954–1956)
+* [[Wally Lemm]] (1957)
+* [[Nick Wasylik]] (1958–1965)
+* [[Mike Dau]] (1966–1991)
+* [[Maury Waugh]] (1992–1994)
+* [[Randy Moore (American football)|Randy Moore]] (1995–1999)
+* [[Chad Eisele]] (2000–2004)
+* [[Brent Becker]] (2005–2008)
+* [[Jim Catanzaro]] (2009– )
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:NCAA Division III football coach navigational boxes]]
+[[Category:Lake Forest Foresters football navigational boxes|Coach]]
+</noinclude>

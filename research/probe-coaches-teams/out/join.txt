@@ -1,0 +1,130 @@
+payload: major-team game sides with no coach of record, per decade
+  1930s 907 of 4641 (centenary, grinnell, mercer, citadel, erskine, virginia-military-institute, wofford, san-francisco, ...)
+  1940s 959 of 10419 (virginia-military-institute, gonzaga, washburn, washington-and-lee, northern-arizona, furman, centenary, idaho, ...)
+  1950s 192 of 10989 (furman, citadel, northern-arizona, bradley, dayton)
+  1960s 185 of 11749 (dayton, lehigh, quantico-marines, tampa, long-beach-state, los-angeles-state)
+  1970s 685 of 14640 (dayton, long-beach-state, los-angeles-state, tampa, tennessee-chattanooga, texas-arlington, southern-illinois, lamar, ...)
+  1980s 176 of 12948 (lamar, mcneese-state, illinois-state, texas-arlington, western-carolina, east-tennessee-state)
+  1990s 0 of 12516 ()
+  2000s 6 of 14485 (florida-am)
+  2010s 0 of 16079 ()
+  2020s 0 of 9594 ()
+pre-1936 team-game rows by navbox coach kind, per decade (one = one coach named, co = co-coaches, multi = 2+ entries that season, unresolved)
+  1860s {"one":0,"co":0,"multi":0,"noCoach":4,"hole":0,"noNavbox":0}
+  1870s {"one":39,"co":0,"multi":3,"noCoach":151,"hole":0,"noNavbox":0}
+  1880s {"one":294,"co":0,"multi":0,"noCoach":613,"hole":35,"noNavbox":31}
+  1890s {"one":2048,"co":109,"multi":41,"noCoach":450,"hole":107,"noNavbox":46}
+  1900s {"one":5823,"co":42,"multi":46,"noCoach":11,"hole":23,"noNavbox":6}
+  1910s {"one":6398,"co":28,"multi":53,"noCoach":0,"hole":0,"noNavbox":19}
+  1920s {"one":8769,"co":72,"multi":52,"noCoach":0,"hole":0,"noNavbox":47}
+  1930s {"one":6458,"co":15,"multi":18,"noCoach":0,"hole":0,"noNavbox":9}
+
+Wikipedia sample: per coach
+  Amos Alonzo Stagg: infobox 314-99-35 | table season sum 295-200-36 | computed (major seasons) 282-123-29 | seasons match 30, mismatch 13, off-spine 14 (58-78-7), unparsed 0
+  Bear Bryant: infobox 323-85-17 | table season sum 323-85-17 | computed (major seasons) 323-85-17 | seasons match 38, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Bobby Bowden: infobox 377-129-4 | table season sum 389-129-4 | computed (major seasons) 357-124-4 | seasons match 39, mismatch 1, off-spine 4 (31-6-0), unparsed 0
+  Brian Kelly (American football coach): infobox 297-109-2 | table season sum 297-110-2 | computed (major seasons) 200-76-0 | seasons match 21, mismatch 2, off-spine 13 (118-35-2), unparsed 0
+  Bud Wilkinson: infobox 145-29-4 | table season sum 145-29-4 | computed (major seasons) 145-29-4 | seasons match 17, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Fielding H. Yost: infobox 198-35-12 | table season sum 198-35-12 | computed (major seasons) 165-29-10 | seasons match 25, mismatch 0, off-spine 5 (33-6-2), unparsed 0
+  Frank Leahy: infobox 107-13-9 | table season sum 107-13-9 | computed (major seasons) 107-13-9 | seasons match 13, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Fritz Crisler: infobox 116-32-9 | table season sum 116-32-9 | computed (major seasons) 116-32-9 | seasons match 18, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Gil Dobie: infobox 182-45-15 | table season sum 182-45-15 | computed (major seasons) 116-44-11 | seasons match 22, mismatch 0, off-spine 11 (66-1-4), unparsed 0
+  Jim Tressel: infobox 229-79-2 | table season sum 241-79-2 | computed (major seasons) 106-22-0 | seasons match 10, mismatch 0, off-spine 15 (135-57-2), unparsed 0
+  Jock Sutherland: infobox null | table season sum 144-28-14 | computed (major seasons) 144-28-14 | seasons match 20, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Joe Paterno: infobox 409-136-3 | table season sum 409-136-3 | computed (major seasons) 409-136-3 | seasons match 46, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  John Heisman: infobox 186-70-18 | table season sum 186-70-18 | computed (major seasons) 148-60-14 | seasons match 26, mismatch 0, off-spine 11 (38-10-4), unparsed 0
+  Kirby Smart: infobox 124-23-0 | table season sum 123-22-0 | computed (major seasons) 123-22-0 | seasons match 11, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Knute Rockne: infobox 105-12-5 | table season sum 105-12-5 | computed (major seasons) 105-12-5 | seasons match 13, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Nick Saban: infobox 292-71-1 | table season sum 292-71-1 | computed (major seasons) 297-71-1 | seasons match 27, mismatch 1, off-spine 0 (0-0-0), unparsed 0
+  Pop Warner: infobox 319-106-32 | table season sum 319-106-32 | computed (major seasons) 319-111-33 | seasons match 40, mismatch 2, off-spine 2 (7-4-0), unparsed 0
+  Robert Neyland: infobox 173-31-12 | table season sum 173-31-12 | computed (major seasons) 173-31-12 | seasons match 21, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Robert Zuppke: infobox 131-81-12 | table season sum 131-81-12 | computed (major seasons) 131-81-12 | seasons match 29, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Tom Osborne: infobox null | table season sum 255-49-3 | computed (major seasons) 255-49-3 | seasons match 25, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Urban Meyer: infobox 187-32-0 | table season sum 187-32-0 | computed (major seasons) 187-32-0 | seasons match 17, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Wallace Wade: infobox 171-49-10 | table season sum 171-49-10 | computed (major seasons) 171-49-10 | seasons match 24, mismatch 0, off-spine 0 (0-0-0), unparsed 0
+  Walter Camp: infobox 79-5-3 | table season sum 66-5-3 | computed (major seasons) 68-2-0 | seasons match 4, mismatch 0, off-spine 3 (11-3-3), unparsed 1
+  Woody Hayes: infobox 238-72-10 | table season sum 238-72-10 | computed (major seasons) 205-61-10 | seasons match 28, mismatch 0, off-spine 5 (33-11-0), unparsed 0
+
+Wikipedia sample: every mismatched season
+  Amos Alonzo Stagg 1892 Chicago Maroons: wiki 1-4-2 computed 8-4-1 
+  Amos Alonzo Stagg 1894 Chicago Maroons: wiki 11-7-1 computed 14-7-1 
+  Amos Alonzo Stagg 1895 Chicago Maroons: wiki 7-3-0 computed 10-3-0 
+  Amos Alonzo Stagg 1896 Chicago Maroons: wiki 11-2-1 computed 15-2-1 
+  Amos Alonzo Stagg 1897 Chicago Maroons: wiki 8-1-0 computed 11-1-0 
+  Amos Alonzo Stagg 1898 Chicago Maroons: wiki 9-2-1 computed 14-2-1 
+  Amos Alonzo Stagg 1899 Chicago Maroons: wiki 12-0-2 computed 16-0-2 
+  Amos Alonzo Stagg 1900 Chicago Maroons: wiki 7-5-1 computed 9-5-1 
+  Amos Alonzo Stagg 1901 Chicago Maroons: wiki 5-5-2 computed 8-6-2 
+  Amos Alonzo Stagg 1902 Chicago Maroons: wiki 11-1-0 computed 14-1-0 
+  Amos Alonzo Stagg 1903 Chicago Maroons: wiki 10-2-1 computed 12-2-1 
+  Amos Alonzo Stagg 1904 Chicago Maroons: wiki 8-1-1 computed 10-1-1 
+  Amos Alonzo Stagg 1918 Chicago Maroons: wiki 0-6-0 computed 4-6-1 
+  Bobby Bowden 1983 Florida State Seminoles: wiki 8-4-0 computed 7-5-0 
+  Brian Kelly (American football coach) 2012 Notre Dame Fighting Irish: wiki 0-0-0 computed 12-1-0 
+  Brian Kelly (American football coach) 2013 Notre Dame Fighting Irish: wiki 0-4-0 computed 9-4-0 
+  Nick Saban 2007 Alabama Crimson Tide: wiki 2-6-0 computed 7-6-0 
+  Pop Warner 1908 Carlisle Indians: wiki 11-2-1 computed 10-2-1 
+  Pop Warner 1914 Carlisle Indians: wiki 5-9-1 computed 5-10-1 
+
+Known-answer checks
+  Knute Rockne career: published 105-12-5 | computed 105-12-5 | Howell Notre Dame 1918-1930 (122 games) x navbox
+  Bud Wilkinson longest win streak: published 47 (1953-1957) | computed 47 (ended after 1957-11-09) | payload, Oklahoma, ties break a run
+  Bud Wilkinson career: published 145-29-4 | computed 145-29-4
+  Bear Bryant career wins: published 323 (all four schools, bowls included) | computed 323 (323-85-17) | payload: Maryland 1945, Kentucky, Texas A&M, Alabama
+  Bear Bryant at Alabama: published 232-46-9 | computed 232-46-9
+  Bear Bryant career excluding bowls: published - | computed 308-73-15 | scope check
+  Joe Paterno on-field wins: published 409 (restored 2015) | computed 409 (409-136-3)
+  Joe Paterno with 1998-2011 wins vacated (2012-2015 official): published 298 | computed 298 (vacating 111 wins 1998-2011)
+  Bobby Bowden major-college on-field: published - | computed 357-124-4 | payload: WVU 1970-75 42-26-0, FSU 1976-2009 315-98-4
+  Bobby Bowden all on-field (+ Howard/Samford from Wikipedia rows): published 389 | computed 388 (Samford 31-6-0)
+  Bobby Bowden official (12 FSU wins 2006-07 vacated): published 377 | computed 376 | the 12 vacated games are a researched list; the payload has no vacated flag
+  Nick Saban career on-field (through 2023, his last season): published 292-71-1 official | computed 297-71-1 | payload: Toledo 1990, Michigan State, LSU, Alabama
+  Nick Saban official (2007 Alabama: 5 wins vacated): published 292 | computed 292 | the 5 vacated 2007 wins are a ruling, not in the payload
+  Nick Saban at Alabama on-field / official: published 206-29 official (201? per vacated) | computed 206-29-0 on-field, 201 wins official
+  Kirby Smart first 100 games at Georgia: published - (CFBD/ESPN: n/a) | computed 85-15-0 (game 100 on 2023-09-23) | 145 Georgia games in the payload through 2026 to date, record 123-22-0
+  Urban Meyer first 24 games at Ohio State: published 24-0 | computed 24-0-0 | game 24 on 2013-11-30
+  Urban Meyer major career: published 187-32 | computed 187-32-0 | Bowling Green, Utah (2004 Fiesta credited to Meyer by coach-overrides), Florida, Ohio State
+  Fielding Yost Michigan 1901-05: published 55-1-1 | computed 55-1-1 | Howell Michigan x navbox
+  Fielding Yost career, major seasons only: published 198-35-12 | computed 165-29-10 | Ohio Wesleyan 1897 and Stanford 1900 (and San Jose Normal) are not on the spine
+  Tom Osborne career: published 255-49-3 | computed 255-49-3
+  Woody Hayes at Ohio State: published 205-61-10 | computed 205-61-10
+  Woody Hayes career major only: published 238-72-10 incl. Denison | computed 205-61-10 | Denison 1946-48 is off the spine; Miami (OH) 1949-50 is it major then?
+  Brian Kelly major career (payload): published - | computed 200-76-0 | + Grand Valley State 118-35-2 (Wikipedia rows) = 318 wins on-field; ND vacated 21 (2012-13)
+  Jim Tressel major career (payload): published - | computed 106-22-0 | + Youngstown State 135-57-2; Ohio State vacated the 2010 season (12 wins)
+
+Michigan 2023 as the payload credits it:
+  2023-09-02 W Jim Harbaugh
+  2023-09-09 W Jim Harbaugh
+  2023-09-16 W Jim Harbaugh
+  2023-09-23 W Jim Harbaugh
+  2023-09-30 W Jim Harbaugh
+  2023-10-07 W Jim Harbaugh
+  2023-10-14 W Jim Harbaugh
+  2023-10-21 W Jim Harbaugh
+  2023-11-04 W Jim Harbaugh
+  2023-11-11 W Jim Harbaugh
+  2023-11-18 W Jim Harbaugh
+  2023-11-25 W Jim Harbaugh
+  2023-12-02 W Jim Harbaugh
+  2024-01-01 W Jim Harbaugh
+  2024-01-08 W Jim Harbaugh
+Utah 2004 last games:
+  2004-11-20 W Urban Meyer
+  2005-01-01 W Urban Meyer
+
+vs AP top 10 (payload oppRank 1-10): Saban 47-25-0 in 72; Leahy games with no poll in effect (-1): 21
+(spans: 32 files take the payload's bridged spans)
+
+Team ledger under Streak King's latest-move-up rule: 113 teams lose pre-1936 games, 10349 of 31860 pre-1936 team-game rows fall before their team's latest move up
+  BostonCollege latest move-up 1937: 26 pre-1936 games fall outside
+  NorthCarolina latest move-up 1919: 129 pre-1936 games fall outside
+  NorthCarolinaState latest move-up 1908: 15 pre-1936 games fall outside
+  Syracuse latest move-up 1905: 36 pre-1936 games fall outside
+  Virginia latest move-up 1919: 133 pre-1936 games fall outside
+  Army latest move-up 1922: 224 pre-1936 games fall outside
+  Navy latest move-up 1896: 14 pre-1936 games fall outside
+  Temple latest move-up 1971: 56 pre-1936 games fall outside
+  Tulane latest move-up 1919: 104 pre-1936 games fall outside
+  Tulsa latest move-up 1933: 9 pre-1936 games fall outside
+  Baylor latest move-up 1907: 23 pre-1936 games fall outside
+  IowaState latest move-up 1899: 7 pre-1936 games fall outside

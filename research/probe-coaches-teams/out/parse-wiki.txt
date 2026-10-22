@@ -1,0 +1,25 @@
+Amos Alonzo Stagg                        infobox [314, 99, 35] tableEnd [314, 199, 35] seasonSum [295, 200, 36] rows 57 first 1890
+Bear Bryant                              infobox [323, 85, 17] tableEnd [323, 85, 17] seasonSum [323, 85, 17] rows 38 first 1945
+Bobby Bowden                             infobox [377, 129, 4] tableEnd [377, 129, 4] seasonSum [389, 129, 4] rows 44 first 1959
+Brian Kelly (American football coach)    infobox [297, 109, 2] tableEnd [297, 109, 2] seasonSum [297, 110, 2] rows 36 first 1991
+Bud Wilkinson                            infobox [145, 29, 4] tableEnd [145, 29, 4] seasonSum [145, 29, 4] rows 17 first 1947
+Fielding H. Yost                         infobox [198, 35, 12] tableEnd [198, 35, 12] seasonSum [198, 35, 12] rows 30 first 1897
+Frank Leahy                              infobox [107, 13, 9] tableEnd [107, 13, 9] seasonSum [107, 13, 9] rows 13 first 1939
+Fritz Crisler                            infobox [116, 32, 9] tableEnd [116, 32, 9] seasonSum [116, 32, 9] rows 18 first 1930
+Gil Dobie                                infobox [182, 45, 15] tableEnd [182, 45, 15] seasonSum [182, 45, 15] rows 33 first 1906
+Jim Tressel                              infobox [229, 79, 2] tableEnd [229, 79, 2] seasonSum [241, 79, 2] rows 25 first 1986
+Jock Sutherland                          infobox None tableEnd [144, 28, 14] seasonSum [144, 28, 14] rows 20 first 1919
+Joe Paterno                              infobox [409, 136, 3] tableEnd [409, 136, 3] seasonSum [409, 136, 3] rows 46 first 1966
+John Heisman                             infobox [186, 70, 18] tableEnd [186, 70, 18] seasonSum [186, 70, 18] rows 37 first 1892
+Kirby Smart                              infobox [124, 23, 0] tableEnd [123, 22, 0] seasonSum [123, 22, 0] rows 11 first 2016
+Knute Rockne                             infobox [105, 12, 5] tableEnd [105, 12, 5] seasonSum [105, 12, 5] rows 13 first 1918
+Nick Saban                               infobox [292, 71, 1] tableEnd [292, 71, 1] seasonSum [292, 71, 1] rows 28 first 1990
+Pop Warner                               infobox [319, 106, 32] tableEnd [319, 106, 32] seasonSum [319, 106, 32] rows 44 first 1895
+Robert Neyland                           infobox [173, 31, 12] tableEnd [173, 31, 12] seasonSum [173, 31, 12] rows 21 first 1926
+Robert Zuppke                            infobox [131, 81, 12] tableEnd [131, 81, 12] seasonSum [131, 81, 12] rows 29 first 1913
+Tom Osborne                              infobox None tableEnd [255, 49, 3] seasonSum [255, 49, 3] rows 25 first 1973
+Urban Meyer                              infobox [187, 32, 0] tableEnd [187, 32, 0] seasonSum [187, 32, 0] rows 17 first 2001
+Wallace Wade                             infobox [171, 49, 10] tableEnd [171, 49, 10] seasonSum [171, 49, 10] rows 24 first 1923
+Walter Camp                              infobox [79, 5, 3] tableEnd [79, 5, 3] seasonSum [66, 5, 3] rows 8 first 1888
+Woody Hayes                              infobox [238, 72, 10] tableEnd [238, 72, 10] seasonSum [238, 72, 10] rows 33 first 1946
+schools: ['Akron Zips football', 'Alabama Crimson Tide football', 'Auburn Tigers football', 'Boston College Eagles football', 'Bowling Green Falcons football', 'Carlisle Indians football', 'Central Michigan Chippewas', 'Chicago Maroons football', 'Cincinnati Bearcats football', 'Clemson Tigers football', 'Cornell Big Red football', 'Denison Big Red football', 'Duke Blue Devils football', 'Florida Gators football', 'Florida State Seminoles football', 'Georgia Bulldogs football', 'Georgia Tech Yellow Jackets football', 'Grand Valley State Lakers football', 'Illinois Fighting Illini football', 'Kansas Jayhawks football', 'Kentucky Wildcats football', 'LSU Tigers football', 'Lafayette Leopards football', 'Maryland Terrapins football', 'Miami RedHawks football', 'Michigan State Spartans football', 'Michigan Wolverines football', 'Minnesota Golden Gophers football', 'Navy Midshipmen football', 'Nebraska Cornhuskers football', 'North Dakota State Bison football', 'Notre Dame Fighting Irish football', 'Oberlin Yeomen football', 'Ohio State Buckeyes football', 'Oklahoma Sooners football', 'Pacific Tigers football', 'Penn Quakers football', 'Penn State Nittany Lions football', 'Pittsburgh Panthers football', 'Princeton Tigers football', 'Rice Owls football', 'Samford Bulldogs football', 'San Jose State Spartans football', 'Springfield Pride football', 'Stanford Cardinal football', 'Temple Owls football', 'Tennessee Volunteers football', 'Texas A&M Aggies football', 'Toledo Rockets football', 'Utah Utes football', 'Washington & Jefferson Presidents football', 'Washington Huskies football', 'Wesleyan Battling Bishops football', 'West Virginia Mountaineers football', 'Yale Bulldogs football', 'Youngstown State Penguins football']
