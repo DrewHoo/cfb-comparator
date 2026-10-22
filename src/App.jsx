@@ -124,7 +124,8 @@ function BoardApp({ ledgers: initialLedgers, fetchLedger, initial }) {
     document.title = l && !row ? landingTitle(l, bound, SITE) : toUrl({ query, open: row?.key ?? null, vs }) ? shareTitle(query, row, peer, bound) : rootTitle.current
   }, [query, row, peer, vs, bound])
 
-  const change = (q) => {
+  // `track: false` changes the query without the analytics event: the number box uses it per keystroke and tracks once on blur
+  const change = (q, { track: tracked = true } = {}) => {
     // a kind switch starts from that kind's own default board
     const next = normalize(q.kind !== query.kind ? { ...q, ...DEFAULT_BY_KIND[q.kind], tests: [] } : q)
     // a change that drops the open row out of the field closes it
@@ -132,7 +133,7 @@ function BoardApp({ ledgers: initialLedgers, fetchLedger, initial }) {
     setQuery(next)
     if (drops) { setOpen(null); setVs(null) }
     writeUrl(hrefOf({ query: next, open: drops ? null : open, vs: drops ? null : vs }), 'replace')
-    track('query', { words: queryWords(next), kind: next.kind })
+    if (tracked) track('query', { words: queryWords(next), kind: next.kind })
   }
   const openRow = (key) => {
     const next = open === key ? null : key
