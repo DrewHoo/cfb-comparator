@@ -6,6 +6,7 @@ import { describe, expect, it } from 'vitest'
 import { loadLedger } from '../../scripts/lib/ledger-node.mjs'
 import type { Ledger } from './ledger.ts'
 import { evaluate, DEFAULT_QUERY, type Board, type Query } from './query.ts'
+import { rowWords } from './words.ts'
 
 const C: Ledger = loadLedger('coach'), T: Ledger = loadLedger('team'), P: Ledger = loadLedger('player')
 const q = (L: Ledger, patch: Partial<Query>) => evaluate(L, { ...DEFAULT_QUERY, kind: L.kind, ...patch })
@@ -63,6 +64,19 @@ describe('head coaches (the NCAA coaching record book, on-field results, bowls i
     expect(b.ranked[0].entity.name).toBe('Joe Paterno')
     expect(row(b, 'Kirby Smart')?.complete).toBe(false)
   })
+  it('a fewest board ranks the whole window only: a finished career shorter than it sits out', () => {
+    // Brad Cornelsen's one game led "fewest losses through 50" with 0 until the fewest boards required the window
+    const b = q(C, { stat: 'loss', n: 50, dir: 'fewest' })
+    expect(row(b, 'Brad Cornelsen')).toBeUndefined()
+    expect(b.ranked.every((r) => r.reached === 50)).toBe(true)
+    expect(b.short).toBeGreaterThan(0)
+    expect(b.ranked[0].entity.name).toBe('Fielding H. Yost')
+    expect(b.ranked[0].value).toBe(0)
+    // a most board still fills a short finished career whole, and says it in English
+    const one = row(q(C, { n: 50 }), 'Brad Cornelsen')!
+    expect(one.complete).toBe(true)
+    expect(rowWords(one, { ...DEFAULT_QUERY, n: 50 })).toBe('1 win through his only game, bowls included')
+  })
 })
 
 describe('teams', () => {
@@ -81,6 +95,13 @@ describe('teams', () => {
     const b = q(T, { stat: 'wint10', seq: 'teamGames', n: 16 })
     expect(b.since).toBe(1936)
     expect(b.ranked.every((r) => (r.season ?? 0) >= 1936)).toBe(true)
+  })
+  it('a fewest season board ranks the whole window only: a 9-game season sits out a 10-game one', () => {
+    const b = q(T, { stat: 'pa', seq: 'teamGames', n: 10, dir: 'fewest' })
+    expect(row(b, 'Auburn', 1914)).toBeUndefined()
+    expect(b.ranked.every((r) => r.reached === 10)).toBe(true)
+    expect(row(b, 'Chicago', 1896)?.value).toBe(0)
+    expect(row(b, 'Chicago', 1896)?.rank).toBe(1)
   })
 })
 

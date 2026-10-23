@@ -85,11 +85,11 @@ export function rowWords(r: Row, q: Query, kind: Kind = q.kind): string {
   const scope = scopeWords(q)
   const p = his(kind)
   const win = r.season != null
-    ? (r.complete && r.reached < q.n ? `all ${r.reached} of ${r.team}'s games of ${seasonWords(r.season)}` : `${r.team}'s first ${q.n} games of ${seasonWords(r.season)}`)
+    ? (r.complete && r.reached < q.n ? (r.reached === 1 ? `${r.team}'s only game of ${seasonWords(r.season)}` : `all ${r.reached} of ${r.team}'s games of ${seasonWords(r.season)}`) : `${r.team}'s first ${q.n} games of ${seasonWords(r.season)}`)
     : r.stint != null
-      ? (r.complete && r.reached < q.n ? `all ${fmt(r.reached)} of ${p} games at ${r.team}` : `${r.complete ? `${p} first` : p} ${fmt(r.reached)} ${r.reached === 1 ? 'game' : 'games'} at ${r.team}`)
+      ? (r.complete && r.reached < q.n ? (r.reached === 1 ? `${p} only game at ${r.team}` : `all ${fmt(r.reached)} of ${p} games at ${r.team}`) : `${r.complete ? `${p} first` : p} ${fmt(r.reached)} ${r.reached === 1 ? 'game' : 'games'} at ${r.team}`)
       : r.complete && r.reached < q.n
-        ? `all ${fmt(r.reached)} of ${p} ${seqWords(q.seq, r.reached, kind)}`
+        ? (r.reached === 1 ? `${p} only ${seqWords(q.seq, 1, kind)}` : `all ${fmt(r.reached)} of ${p} ${seqWords(q.seq, r.reached, kind)}`)
         : `${r.complete ? `${p} first` : p} ${fmt(r.reached)} ${seqWords(q.seq, r.reached, kind)}`
   if (r.value == null) return `${fmt(r.reached)} ${seqWords(q.seq, r.reached, kind)} and still short of ${countWords(q.n, stat)}`
   if (q.how === 'sum') return `${countWords(r.value, stat)} through ${win}${scope}`

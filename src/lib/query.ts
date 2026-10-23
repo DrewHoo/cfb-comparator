@@ -96,6 +96,8 @@ export interface Board {
   early: number
   /** entities with a game inside the window where the stat wasn't recorded, and sit out */
   partial: number
+  /** finished entities shorter than the window on a fewest board, and sit out: playing less would lead it */
+  short: number
   /** the first season of the ledger */
   first: number
   /** the era the data forces on this query: the ledger's first season, or the season its stat is recorded from */
@@ -236,7 +238,9 @@ export function evaluate(L: Ledger, raw: Query): Board {
   const since = Math.max(L.firstSeason, querySince(q, L))
   const ranked: Row[] = []
   const onTheWay: Row[] = []
-  let censored = 0, early = 0, partial = 0
+  let censored = 0, early = 0, partial = 0, short = 0
+  // a fewest board ranks the whole window only: a finished career, stint or season shorter than it would lead by playing less
+  const wholeOnly = q.dir === 'fewest' && q.how !== 'reach'
   const push = (r: Row) => { r.age = r.games.length ? ageAt(r.entity.born, L.date[r.games[r.games.length - 1]]) : null; (r.complete && r.value != null ? ranked : onTheWay).push(r) }
   const blank = { rank: 0, tied: false, age: null }
   const unknownIn = (gs: number[]) => gs.some((g) => (q.how === 'sum' || q.how === 'reach' ? stat.read(L, g) === UNKNOWN : !known(L, g, q.tests)))
@@ -258,8 +262,10 @@ export function evaluate(L: Ledger, raw: Query): Board {
         const own = gs.filter((g) => L.team[g] === teamIdx && L.tgn[g] <= q.n)
         if (unknownIn(own)) { partial++; continue }
         const playedN = L.teamGames[teamId]?.[season]?.[q.scope === 'reg' ? 0 : 1] ?? 0
-        // a season that is over is whole: a 9-game 1936 fills a 12-game window (the words say "all 9 games")
-        const complete = playedN >= q.n || (playedN > 0 && season < L.currentSeason)
+        // a season that is over is whole: a 9-game 1936 fills a 12-game window (the words say "all 9 games"), except on a fewest board
+        const over = playedN > 0 && season < L.currentSeason
+        if (wholeOnly && over && playedN < q.n) { short++; continue }
+        const complete = playedN >= q.n || over
         const reachedN = Math.min(playedN, q.n)
         if (q.how === 'reach') {
           let cum = 0, at: number | null = null
@@ -290,6 +296,7 @@ export function evaluate(L: Ledger, raw: Query): Board {
         if (seqItems.length === 0) continue
         // a stint that is over fills a longer window whole (the words say "all 113 of his games at Alabama")
         const over = k < runs.length - 1 || !isActive(L, p)
+        if (wholeOnly && over && seqItems.length < q.n) { short++; continue }
         const m = measure(L, seqItems, q, stat, seqItems.length >= q.n || over)
         if (m.partial) { partial++; continue }
         const gs = m.games
@@ -303,14 +310,15 @@ export function evaluate(L: Ledger, raw: Query): Board {
     if (p.debut < since) { early++; continue }
     const seqItems = items(L, p, q)
     if (seqItems.length === 0) continue
-    // a career that is over fills a longer window whole: a 548-game career ranks on a 1,000-game board as "all 548 of his games"
+    // a career that is over fills a longer window whole: a 548-game career ranks on a 1,000-game board as "all 548 of his games"; not on a fewest board
+    if (wholeOnly && !isActive(L, p) && seqItems.length < q.n) { short++; continue }
     const m = measure(L, seqItems, q, stat, seqItems.length >= q.n || !isActive(L, p))
     if (m.partial) { partial++; continue }
     const gs = m.games
     push({ key: p.id, entity: p, season: null, stint: null, ...m, from: gs.length ? L.season[gs[0]] : p.debut, to: gs.length ? L.season[gs[gs.length - 1]] : p.debut, team: null, teamIdx: null, ...blank })
   }
   // every: the count is the value, so the entities that held in every game lead the ranking
-  return { ranked: rankRows(ranked, q.dir), onTheWay: rankRows(onTheWay, q.dir), censored, early, partial, first: L.firstSeason, since }
+  return { ranked: rankRows(ranked, q.dir), onTheWay: rankRows(onTheWay, q.dir), censored, early, partial, short, first: L.firstSeason, since }
 }
 
 /** the games a row's curve runs over: the career, the stint, or (for a season row) its season */

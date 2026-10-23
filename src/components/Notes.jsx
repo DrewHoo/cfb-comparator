@@ -128,7 +128,9 @@ export function Notes({ ledgers = {} }) {
             sequence; a tie is neither. "First N games at one school" is one tenure: a coach who left and came back
             has two. "Team games of a season" count the team's schedule, so a player who sat one has a gap the window
             still counts; a season that is over fills a longer window whole, so a 9-game 1936 ranks on a 12-game board
-            as "all 9 games", and a career that is over fills a longer window the same way. Bowls and the playoff are
+            as "all 9 games", and a career that is over fills a longer window the same way. A fewest board is the
+            exception: playing less would lead it, so it counts only the seasons and careers that reached the window.
+            Bowls and the playoff are
             in by default, the way coaches' records and (since 2002) the NCAA's season totals count them; the word
             beside the window switches to the regular season only. Conference championship games are regular-season
             games.

@@ -560,8 +560,9 @@ export function mineShape(L: Ledger, shape: Shape, k = RECORDS): RecordRow[] {
     dateAt = (e, m) => ctx.date[start[e] + ra[e * M + m]]
   } else {
     steps = ctx.grid
-    // the field at a step, less the entities the stat can't see there (POISON)
-    const seen = ctx.field.map((f, s) => { let n = 0; const out = new Int32Array(f.length); for (let i = 0; i < f.length; i++) if (V[start[f[i]] + Math.min(ctx.grid[s], len[f[i]]) - 1] !== POISON) out[n++] = f[i]; return out.subarray(0, n) })
+    // the field at a step, less the entities the stat can't see there (POISON), and on a fewest shape the ones shorter than the step (playing less would lead it)
+    const fewest = shape.dir === 'fewest'
+    const seen = ctx.field.map((f, s) => { let n = 0; const out = new Int32Array(f.length); for (let i = 0; i < f.length; i++) if ((!fewest || len[f[i]] >= ctx.grid[s]) && V[start[f[i]] + Math.min(ctx.grid[s], len[f[i]]) - 1] !== POISON) out[n++] = f[i]; return out.subarray(0, n) })
     fieldAt = (s) => seen[s]
     valueAt = (e, s) => V[start[e] + Math.min(steps[s], len[e]) - 1]
     dateAt = (e, s) => ctx.date[start[e] + Math.min(steps[s], len[e]) - 1]

@@ -31,7 +31,7 @@ The idiosyncrasies the first build found, for whoever changes a ledger builder o
 ## The logic
 
 - Four sequences: a career's games, its tenures (contiguous stints at one team, `stints()`), its seasons, and a team's games of a season (the team's schedule on the spine, so a missed or missing game is a gap the window still counts; a mid-season change reads on the first team's schedule). A tenure row's key is `<id>:t<k>`, a season row's `<id>:<season>`.
-- A finished season, career or stint fills a longer window whole (the words say "all 548 of his games"); an active one is still inside it. Without this no finished career could rank on a "most X in a career" board.
+- A finished season, career or stint fills a longer window whole (the words say "all 548 of his games"); an active one is still inside it. Without this no finished career could rank on a "most X in a career" board. A fewest board (not a reach) is the exception: a finished entity shorter than the window sits out (`Board.short`), or a one-game coach leads "fewest losses through 50".
 - The program mine takes season windows and milestones only (`shapesFor('team')`): "through its first 1,360 games" is a claim nobody makes.
 - `reach` reuses `n` as the target and `every` ranks by the count; competition ranks with ties; crossings are entries into a tie or a lead; `toMatch` is arithmetic.
 - `queryCols(q)` names the columns a query reads; `evaluate` throws if one is missing, and the page loads them first (`ensureCols`), keeping the previous board on screen meanwhile. A kind switch loads that kind's ledger the same way.
