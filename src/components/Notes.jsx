@@ -16,6 +16,9 @@ export function Footer({ from = 'footer' }) {
   )
 }
 
+/** Putting Up Numbers (puttingupnumbers.com), where the comparators live now: one link a sport */
+const PUN_SPORTS = [['College Football', 'cfb'], ['NFL', 'nfl'], ['NBA', 'nba'], ['WNBA', 'wnba'], ['NHL', 'nhl'], ['Soccer', 'soccer']].map(([name, id]) => ({ name, url: `https://puttingupnumbers.com/${id}/` }))
+
 export function Notes({ ledgers = {} }) {
   const built = Object.values(ledgers)[0]?.builtAt ?? ''
   return (
@@ -23,20 +26,8 @@ export function Notes({ ledgers = {} }) {
       <h2 className="notes-h">What to read next</h2>
       <div className="notes">
         <p>
-          <a href="https://drewhoover.com/nfl-comparator/">NFL Comparator</a> — the same comparator over every NFL
-          career since 1999, with a page for every player and what he leads.
-        </p>
-        <p>
-          <a href="https://drewhoover.com/nba-comparator/">NBA Comparator</a> — the same comparator over every NBA
-          career since 1946-47, Wilt and Jordan included, with a page for every player and what he leads.
-        </p>
-        <p>
-          <a href="https://drewhoover.com/wnba-comparator/">WNBA Comparator</a> — the same comparator over every WNBA
-          career since 1997.
-        </p>
-        <p>
-          <a href="https://drewhoover.com/nhl-comparator/">NHL Comparator</a> — the same comparator over every NHL
-          career since 1917-18, Gretzky and Howe included.
+          <a href="https://puttingupnumbers.com/">Putting Up Numbers</a>: compare players, coaches, and teams on wins.
+          {PUN_SPORTS.map((l, i) => <span key={l.url}>{i ? ' | ' : ' '}<a href={l.url}>{l.name}</a></span>)}
         </p>
         <p>
           <a href="https://drewhoover.com/cfb-streak-king/">College Football Streak King</a> — the longest active and

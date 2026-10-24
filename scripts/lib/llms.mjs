@@ -4,12 +4,11 @@
 import { PLAYERS_FIRST_SEASON } from './window.mjs'
 
 const REPO = 'https://github.com/DrewHoo/cfb-comparator'
-// the other sports sites, in the order every one of them lists them (Notes.jsx says the same)
+/** Putting Up Numbers (puttingupnumbers.com), where the comparators live now: one link a sport */
+const PUN_SPORTS = [['College Football', 'cfb'], ['NFL', 'nfl'], ['NBA', 'nba'], ['WNBA', 'wnba'], ['NHL', 'nhl'], ['Soccer', 'soccer']].map(([name, id]) => ({ name, url: `https://puttingupnumbers.com/${id}/` }))
+// the other sports sites, in the order every one of them lists them (Notes.jsx says the same); Putting Up Numbers has a link for each sport
 const SIBLINGS = [
-  ['NFL Comparator', 'https://drewhoover.com/nfl-comparator/', 'the same comparator over every NFL career since 1999, with a page for every player and what he leads.'],
-  ['NBA Comparator', 'https://drewhoover.com/nba-comparator/', 'the same comparator over every NBA career since 1946-47, Wilt and Jordan included, with a page for every player and what he leads.'],
-  ['WNBA Comparator', 'https://drewhoover.com/wnba-comparator/', 'the same comparator over every WNBA career since 1997.'],
-  ['NHL Comparator', 'https://drewhoover.com/nhl-comparator/', 'the same comparator over every NHL career since 1917-18, Gretzky and Howe included.'],
+  ['Putting Up Numbers', 'https://puttingupnumbers.com/', 'compare players, coaches, and teams on wins.', PUN_SPORTS],
   ['College Football Streak King', 'https://drewhoover.com/cfb-streak-king/', 'the longest active and all-time winning and losing streaks in college football, under any definition, every FBS game since 1936.'],
   ['Hostile Territory', 'https://drewhoover.com/hostile-territory/', "every head coach's true road record against AP top-10 teams since 1936."],
   ['How Many Rings?', 'https://drewhoover.com/how-many-rings/', 'every person on a national-championship staff since 1990, ranked by the number of rings they can claim.'],
@@ -51,7 +50,7 @@ ${groups.map((g) => line({ text: g.h1, url: g.url, lead: g.lead })).join('\n')}
 
 ## What to read next
 
-${SIBLINGS.map(([name, url, words]) => `- [${name}](${url}) — ${words}`).join('\n')}
+${SIBLINGS.map(([name, url, words, links]) => `- [${name}](${url})${links ? ':' : ' —'} ${words}${links ? ' ' + links.map((l) => `[${l.name}](${l.url})`).join(' | ') : ''}`).join('\n')}
 
 ## Citing
 
