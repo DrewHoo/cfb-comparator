@@ -4,14 +4,8 @@ on:
   push:
     branches: ['main']
   workflow_dispatch:
-  # Sunday and Tuesday at noon UTC in season (Saturday's games, then the
-  # bowls and the Tuesday poll): the scheduled build refetches the ESPN files
-  # and Streak King's payload and rebuilds the ledgers before building (a
-  # manual run does too), so the weekend's games reach the site without a
-  # commit. A push builds from the committed ledgers, so a code change never
-  # waits on a download.
-  schedule:
-    - cron: '0 12 * * 0,2'
+  # No schedule since 2026-11-20. Every page here 301s to puttingupnumbers.com, which refreshes
+  # its own data, so the scheduled refetch fed nothing. A manual run still refetches before it builds.
 
 permissions:
   contents: read
